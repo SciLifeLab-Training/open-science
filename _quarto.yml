@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: "2505"
+
+website:
+  title: "Open science"
+  sidebar:
+    style: "floating"
+    background: "#F4F6F6"
+    fontsize: 30px
+    search: true
+    contents: 
+      - index.qmd 
+      - schedule.qmd
+      - module1.qmd
+      - module2.qmd
+      - module3.qmd
+      - module4.qmd
+  navbar:
+    background: "#A7C947"
+    logo: "img/SciLifeLab_Logotype_NEG.png"
+  favicon: "img/SciLifeLab_Logotype_NEG.png"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+

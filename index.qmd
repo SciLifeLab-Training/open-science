@@ -1,0 +1,30 @@
+---
+title: "Course announcement"
+author: "John Doe"
+date: today
+---
+
+Course information
+
+## Learning Objectives and Learning Outcomes
+#### Learning Objectives
+
+- LO 1
+- LO 2
+
+#### Learning Outcomes
+
+By the end of this course, learners will be able to:
+
+- LO 1
+- LO 2
+
+#### Target Audience
+
+This course is directed towards anyone ...
+
+## Prerequisites
+#### Entry requirements
+
+
+Due to limited space the course can accommodate a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria: Priority will be given to applicants from SciLifeLab infrastructures, institutes and organizations across the Nordic research community, and to participants from Nordic ELIXIR nodes.
