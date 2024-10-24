@@ -1,2 +1,2 @@
-# open-science
-The course Open Science delivered by SciLifeLab Training Hub
+# Open Science in the Swedish context
+The course '_Open Science in the Swedish context_' delivered by SciLifeLab Training Hub
