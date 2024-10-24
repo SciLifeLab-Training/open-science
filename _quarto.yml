@@ -7,15 +7,21 @@ website:
   sidebar:
     style: "floating"
     background: "#F4F6F6"
-    fontsize: 30px
+    fontsize: 35px
     search: true
     contents: 
       - index.qmd 
       - schedule.qmd
-      - module1.qmd
-      - module2.qmd
-      - module3.qmd
-      - module4.qmd
+      - Session1.qmd
+      - Session2.qmd
+      - Session3.qmd
+      - Session4.qmd
+      - Session5.qmd
+      - Session6.qmd
+      - Session7.qmd
+      - Session8.qmd
+      - Session9.qmd
+
   navbar:
     background: "#A7C947"
     logo: "img/SciLifeLab_Logotype_NEG.png"
