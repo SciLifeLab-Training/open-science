@@ -76,5 +76,6 @@ Active participation in all sessions and group assignments. A 3min final present
 
 ## Additional notes
 - The course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.   
-- Participants need to bring a laptop.  
-- Due to limited space the course can accommodate a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria: Priority will be given to applicants from SciLifeLab infrastructures, institutes and organizations across the Nordic research community, and to participants from Nordic ELIXIR nodes.  
+- Participants need to bring a laptop.    
+- Due to limited space the course can accommodate a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria, including (but not limited to) correct entry requirements, motivation to attend the course, as well as geographical balance.   
+
