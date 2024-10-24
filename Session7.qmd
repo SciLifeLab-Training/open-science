@@ -1,1 +1,22 @@
+---
+title: "Session 7 "
+author: "Ineke Luijten"
+date: today
+---
 
+::: {.callout-tip}
+### Learning Objectives
+
+By the end of this session, learners will be able to:
+
+- LO 1
+- LO 2
+
+:::
+
+
+
+
+## Contributors
+
+- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
