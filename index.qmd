@@ -4,7 +4,20 @@ author: "Ineke Luijten"
 date: today
 ---
 
-Course information
+Organizers: 					SciLifeLab Training Hub, NBIS Training, SND training
+First in-person teaching instance:		May 5-9, 2025
+Location:					SciLifeLab Solna, Air&Fire
+Suggested number of credits: 		3hp
+Enrollment opens:				November 25, 2024
+Enrollment closes:				February 28, 2025
+		
+Course leaders: 		
+Ineke Luijten (SciLifeLab Training Hub)  0000-0001-5768-275X 
+Elin Kronander (NBIS) 0000-0003-0280-6318
+David Rayner (SND) 0000-0003-0545-3634
+
+Course contact: ineke.luijten@scilifelab.se
+
 
 ## Target audience and course prerequisites
 
