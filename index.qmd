@@ -24,10 +24,8 @@ Upon completion of this course, participants will be able to:
 
 - Explain what Open Science is, and discuss the benefits and challenges that come with its 
 implementation, specifically in the Swedish context
-
 - Describe the most common Open Science practices throughout every step of the research 
 project lifecycle
-
 - Implement Open Science practices into their own workflow
 
 
@@ -37,6 +35,7 @@ In accordance with the international EUA Agenda for Open Science 2025, Sweden ha
 Completing this training will position participants as future leaders in the global shift towards more open and collaborative research practices, and will support Sweden’s commitment to innovation and public engagement, fostering a research environment where knowledge is freely exchanged and built upon.
 
 Topics covered will include:
+
 - Open Science: what’s in it for you?
 - The state of Open Science in Sweden
 - Eliminating publication bias: how to publish a registered report
@@ -46,6 +45,7 @@ Topics covered will include:
 - Getting credit for all your research outputs: DOIs and licensing 
 - Advances in researcher evaluation: funder and institutional perspectives
 - Science communication and citizen science
+
 
 Note: 
 The course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course. 
