@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-author: "John Doe"
+author: "Ineke Luijten"
 date: today
 ---
 
