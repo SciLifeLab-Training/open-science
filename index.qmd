@@ -22,6 +22,24 @@ Course leaders:
 Course contact: ineke.luijten@scilifelab.se
 
 
+## Course content
+
+In accordance with the international EUA Agenda for Open Science 2025, Sweden has now committed itself to implement Open Science into its higher education by 2026, with clear paths mapped by SUHFs ‘Färdplan för öppen vetenskap’ (2021), and KBs ‘Nationella riktlinjer för öppen vetenskap’ (2024). The 3hp training ‘Open Science in the Swedish context’ is designed to not only raise awareness around the state of Open Science in Sweden, but also to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation. 
+Completing this training will position participants as future leaders in the global shift towards more open and collaborative research practices, and will support Sweden’s commitment to innovation and public engagement, fostering a research environment where knowledge is freely exchanged and built upon.
+
+Topics covered will include:
+
+- Open Science: what’s in it for you?
+- The state of Open Science in Sweden
+- Eliminating publication bias: how to publish a registered report
+- Data reuse with the help of data repositories
+- Good research practice in Sweden
+- New ways of academic publishing: Open Access and beyond
+- Getting credit for all your research outputs: DOIs and licensing 
+- Advances in researcher evaluation: funder and institutional perspectives
+- Science communication and citizen science
+
+
 ## Target audience and course prerequisites
 
 This is a nationally offered course open to PhD students, postdocs, researchers, PIs and other employees at all Swedish universities who would like to implement Open Science practices into every step of their research projects.
@@ -45,27 +63,18 @@ project lifecycle
 - Implement Open Science practices into their own workflow
 
 
-## Course content
+## Forms of instruction
 
-In accordance with the international EUA Agenda for Open Science 2025, Sweden has now committed itself to implement Open Science into its higher education by 2026, with clear paths mapped by SUHFs ‘Färdplan för öppen vetenskap’ (2021), and KBs ‘Nationella riktlinjer för öppen vetenskap’ (2024). The 3hp training ‘Open Science in the Swedish context’ is designed to not only raise awareness around the state of Open Science in Sweden, but also to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation. 
-Completing this training will position participants as future leaders in the global shift towards more open and collaborative research practices, and will support Sweden’s commitment to innovation and public engagement, fostering a research environment where knowledge is freely exchanged and built upon.
-
-Topics covered will include:
-
-- Open Science: what’s in it for you?
-- The state of Open Science in Sweden
-- Eliminating publication bias: how to publish a registered report
-- Data reuse with the help of data repositories
-- Good research practice in Sweden
-- New ways of academic publishing: Open Access and beyond
-- Getting credit for all your research outputs: DOIs and licensing 
-- Advances in researcher evaluation: funder and institutional perspectives
-- Science communication and citizen science
+Teaching will take place in-person, and will consist of self-studies (incl. independent work), group activities, lectures, and discussion seminars. The final session will take place online. 
+The course is taught in English.
 
 
-Note: 
-The course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course. 
-Participants need to bring a laptop.
+## Forms of examination
+
+Active participation in all sessions and group assignments. A 3min final presentation summarizing the (future) implementation of Open Science principles in the participants’ own workflow.  
 
 
-Due to limited space the course can accommodate a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria: Priority will be given to applicants from SciLifeLab infrastructures, institutes and organizations across the Nordic research community, and to participants from Nordic ELIXIR nodes.
+## Additional notes
+- The course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.   
+- Participants need to bring a laptop.  
+- Due to limited space the course can accommodate a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria: Priority will be given to applicants from SciLifeLab infrastructures, institutes and organizations across the Nordic research community, and to participants from Nordic ELIXIR nodes.  
