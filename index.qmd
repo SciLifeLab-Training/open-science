@@ -1,6 +1,6 @@
 ---
-title: "Course announcement"
-author: "John Doe"
+title: "Course syllabus"
+author: "Ineke Luijten"
 date: today
 ---
 
