@@ -41,6 +41,9 @@ according to the FAIR principles
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 
-## Reuse  
+## Reuse    
+All materials from this session are available for re-use under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/)  
 
+Please cite material as:  
+1. Ineke Luijten, Author 2, Author 3 (2024) *Open Science in the Swedish context - session 1: Open Science in Sweden*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html   
 
