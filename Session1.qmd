@@ -1,5 +1,5 @@
 ---
-title: "Session 1 "
+title: "1. Open Science in Sweden "
 author: "Ineke Luijten"
 date: today
 ---
@@ -9,19 +9,23 @@ date: today
 
 By the end of this session, learners will be able to:
 
-- LO 1
-- LO 2
+- Explain what Open Science is, and discuss the benefits and challenges that come with its 
+implementation  
+
+- Summarize the national roadmap for Open Science in Sweden and how it will be 
+Implemented over the coming years  
 
 :::
 
-## Lecture
+## Schedule  
+
+
+## Materials
 
 <iframe src="https://drive.google.com/file/d/1I53JW5DEjmlq1O1dgQ7gdJlcexpfy6Hg/preview" width="640" height="360" allow="autoplay"></iframe>
 
 [The full transcript can be downloaded here](https://drive.google.com/file/d/1aGUzPDoVaBMmAvAoWVic9K-bCdMzBPXI/view?usp=share_link).
 
-
-## Materials
 
 **Course introduction and housekeeping**
 
@@ -36,4 +40,8 @@ By the end of this session, learners will be able to:
 ## Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
+
+## Reuse  
+
 
