@@ -13,7 +13,7 @@ By the end of this session, learners will be able to:
 implementation  
 
 - Summarize the national roadmap for Open Science in Sweden and how it will be 
-Implemented over the coming years  
+implemented over the coming years  
 
 :::
 
