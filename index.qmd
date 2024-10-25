@@ -13,11 +13,7 @@ date: today
 **Location:**					SciLifeLab Solna, Air&Fire  
 **Suggested number of credits:** 		3hp  
 **Enrollment opens:**				November 25, 2024  
-**Enrollment closes:**				February 28, 2025  
-
-:::
-
-
+**Enrollment closes:**				February 28, 2025    
 		
 Course leaders: 
 
@@ -28,6 +24,7 @@ Course leaders:
 
 Course contact: ineke.luijten@scilifelab.se
 
+:::
 
 ## Course content
 
