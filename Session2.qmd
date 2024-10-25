@@ -1,5 +1,5 @@
 ---
-title: "Session 2 "
+title: "2. Open Science in the project lifecycle - plan & design "
 author: "Ineke Luijten"
 date: today
 ---
@@ -9,15 +9,38 @@ date: today
 
 By the end of this session, learners will be able to:
 
-- LO 1
-- LO 2
-
+- Locate relevant study registries  
+- Publish a registered report  
+- Describe the importance of having a Data Management Plan (DMP) and working with data
+according to the FAIR principles  
+    
 :::
 
+## Schedule  
 
+
+## Materials
+
+<iframe src="https://drive.google.com/file/d/1I53JW5DEjmlq1O1dgQ7gdJlcexpfy6Hg/preview" width="640" height="360" allow="autoplay"></iframe>
+
+[The full transcript can be downloaded here](https://drive.google.com/file/d/1aGUzPDoVaBMmAvAoWVic9K-bCdMzBPXI/view?usp=share_link).
+
+
+**Course introduction and housekeeping**
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
+
+<br>
 
 
 ## Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
+
+## Reuse  
+
 
