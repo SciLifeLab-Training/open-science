@@ -62,14 +62,14 @@ project lifecycle
 
 ## Target audience and course prerequisites
 
-This is a nationally offered course open to PhD students, postdocs, researchers, PIs and other employees at all Swedish universities who would like to implement Open Science practices into every step of their research projects.  
-**Course prerequisites:** none
+**Target audience:** This is a nationally offered course open to PhD students, postdocs, researchers, PIs and other employees at all Swedish universities who would like to implement Open Science practices into every step of their research projects.  
+**Course prerequisites:** none  
 **Level:** beginner/intermediate
 
 
 ## Forms of instruction and examination
 
-**Instruction:** In-person (sessions 1-8), Zoom (session 9)  
+**Forms of instruction:** In-person (sessions 1-8), Zoom (session 9)  
 **Forms of study:** self-study (incl. independent work), group activities, lectures, discussion seminars   
 **Language:** English  
 **Examination:** Active participation and a 3min final presentation  
