@@ -7,7 +7,7 @@ date: today
 ::: {.callout-tip}
 ### Learning Objectives
 
-By the end of this session, learners will be able to:
+By the end of this session, participants will be able to:
 
 - Explain what Open Science is, and discuss the benefits and challenges that come with its 
 implementation  
