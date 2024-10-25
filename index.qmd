@@ -4,12 +4,19 @@ author: "Ineke Luijten"
 date: today
 ---
 
+::: {.callout-warning icon=false}
+
+## About
+
 **Organizers:** 				SciLifeLab Training Hub, NBIS Training, SND training  
 **First in-person teaching instance:**		May 5-9, & May 27, 2025  
 **Location:**					SciLifeLab Solna, Air&Fire  
 **Suggested number of credits:** 		3hp  
 **Enrollment opens:**				November 25, 2024  
 **Enrollment closes:**				February 28, 2025  
+
+:::
+
 
 		
 Course leaders: 
