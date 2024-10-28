@@ -5,16 +5,56 @@ date: today
 ---
 
 
-##### Day 1:  
-- Introductions
-- Principles of Teaching and Learning
+::: {.callout-note}
+Schedule is not set yet and may be subject to change
+:::
+ 
 
-##### Day 2:   
-- Designing and Planning Sessions
+<br/>
 
-##### Day 3:   
-- Enhancing Learner Participation and Engagement
+##### March 5, 2025  
 
-##### Day 4: 
-- Assessment and Feedback in Teaching and Learning
-- Please note the date change, May 1 is a holiday in Sweden
+| Time | Session |
+|------|------|
+| 09:00 - 12:00 | 1. Open Science in Sweden |
+| 13:00 - 16:00 | 2. Open Science in the project lifecycle - plan & design |
+: {tbl-colwidths="[30,70]"}  
+
+<br/>
+     
+##### March 6, 2025    
+
+| Time | Session |
+|------|------|
+| 09:00 - 12:00 | 3. Open Science in the project lifecycle - collect & analyze |
+| 13:00 - 16:00 | 4. Open Science in the project lifecycle - share & disseminate |
+: {tbl-colwidths="[30,70]"}
+
+<br/>
+
+##### March 7, 2025   
+
+| Time | Session |
+|------|------|
+| 09:00 - 12:00 | 8. The Swedish national roadmap for Open Science
+: {tbl-colwidths="[30,70]"}
+
+<br/>
+
+##### March 8, 2025   
+
+| Time | Session |
+|------|------|
+| 09:00 - 12:00 | 5. Open Science in the project lifecycle - access & reuse |
+| 13:00 - 16:00 | 6. Open Science in the project lifecycle - evaluation |
+: {tbl-colwidths="[30,70]"}
+
+<br/>
+
+##### March 9, 2025   
+
+| Time | Session |
+|------|------|
+| 09:00 - 12:00 | 7. Science communication & citizen science |
+: {tbl-colwidths="[30,70]"}
+
