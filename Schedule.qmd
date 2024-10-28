@@ -6,7 +6,7 @@ date: today
 
 
 ::: {.callout-note}
-Schedule is not set yet and may be subject to change
+Schedule is not yet set and may be subject to change
 :::
  
 
