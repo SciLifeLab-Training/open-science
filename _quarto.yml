@@ -3,15 +3,16 @@ project:
   output-dir: "2505"
 
 website:
-  title: "Open Science"
+  title: "Open Science in the Swedish context"
   sidebar:
     style: "floating"
     background: "#F4F6F6"
     fontsize: 35px
     search: true
     contents: 
-      - index.qmd 
-      - schedule.qmd
+      - Syllabus.qmd 
+      - Schedule.qmd
+      - Instructors.qmd
       - Session1.qmd
       - Session2.qmd
       - Session3.qmd

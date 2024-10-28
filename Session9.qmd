@@ -1,5 +1,5 @@
 ---
-title: "Session 9 "
+title: "9. The future of Open Science "
 author: "Ineke Luijten"
 date: today
 ---
@@ -9,14 +9,53 @@ date: today
 
 By the end of this session, learners will be able to:
 
-- LO 1
-- LO 2
+- Provide an overview of the implementation of Open Science principles into their own workflow
+- Discuss future benefits and challenges that come with the implementation of Open Science principles in Sweden
 
 :::
 
 
 
+## Schedule  
+
+Coming soon   
+
+## Materials
+
+**Lecture videos**
+
+<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
+
+[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
+
+
+**Lecture slides**  
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
+
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
+
+
+**Practical assignments**  
+
+Coming soon  
+  
+ 
+<br>
+
 
 ## Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
+
+## Reuse  
+
+All materials from this session are available for re-use under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/)
+
+Please cite material as:  
+1. Ineke Luijten, Author 2, Author 3 (2024) *Open Science in the Swedish context - session 9: The future of Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html   
+
+
+

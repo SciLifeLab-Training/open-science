@@ -13,7 +13,8 @@ date: today
 **Location:**					SciLifeLab Solna, Air&Fire  
 **Suggested number of credits:** 		3hp  
 **Enrollment opens:**				November 25, 2024  
-**Enrollment closes:**				February 28, 2025    
+**Enrollment closes:**				February 28, 2025     
+**Course fee:**				        none   
 		
 Course leaders: 
 
@@ -28,8 +29,11 @@ Course contact: ineke.luijten@scilifelab.se
 
 ## Course content
 
-In accordance with the international EUA Agenda for Open Science 2025, Sweden has now committed itself to implement Open Science into its higher education by 2026, with clear paths mapped by SUHFs ‘Färdplan för öppen vetenskap’ (2021), and KBs ‘Nationella riktlinjer för öppen vetenskap’ (2024). The 3hp training ‘Open Science in the Swedish context’ is designed to not only raise awareness around the state of Open Science in Sweden, but also to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation. 
-Completing this training will position participants as future leaders in the global shift towards more open and collaborative research practices, and will support Sweden’s commitment to innovation and public engagement, fostering a research environment where knowledge is freely exchanged and built upon.
+In accordance with the international EUA Agenda for Open Science 2025, Sweden has now committed itself to implement Open Science into its higher education by 2026, with clear paths mapped by SUHFs ‘Färdplan för öppen vetenskap’ (2021), and KBs ‘Nationella riktlinjer för öppen vetenskap’ (2024).  
+   
+The training ‘Open Science in the Swedish context’ is designed to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation.   
+  
+Completing this training will position participants as future leaders in the global shift towards more open and collaborative research practices, fostering a research environment where knowledge is freely exchanged and built upon.  
 
 Topics covered include:
 
@@ -46,8 +50,10 @@ Topics covered include:
 ## Learning Objectives and Learning Outcomes
 #### Learning Objectives
 
-- LO 1
-- LO 2
+This course is designed for participants to:  
+
+- Get acquainted with Open Science principles and how they will be implemented into Swedish academia within the coming years  
+- Be able to execute every step of a research project according to Open Science principles   
 
 #### Learning Outcomes
 
@@ -79,5 +85,5 @@ project lifecycle
 ## Additional notes
 - The course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.   
 - Participants need to bring a laptop.    
-- Due to limited space the course can accommodate a maximum of 25 participants. If we receive more applications, participants will be selected based on selection criteria, including (but not limited to) correct entry requirements, motivation to attend the course, as well as geographical balance.   
+
 
