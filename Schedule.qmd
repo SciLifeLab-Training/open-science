@@ -6,13 +6,13 @@ date: today
 
 
 ::: {.callout-note}
-Schedule is not yet set and may be subject to change
+Schedule is under development and may be subject to change
 :::
  
 
 <br/>
 
-##### March 5, 2025  
+##### March 6, 2025  
 
 | Time | Session |
 |------|------|
@@ -22,7 +22,7 @@ Schedule is not yet set and may be subject to change
 
 <br/>
      
-##### March 6, 2025    
+##### March 7, 2025    
 
 | Time | Session |
 |------|------|
@@ -32,21 +32,12 @@ Schedule is not yet set and may be subject to change
 
 <br/>
 
-##### March 7, 2025   
-
-| Time | Session |
-|------|------|
-| 09:00 - 12:00 | 8. The Swedish national roadmap for Open Science
-: {tbl-colwidths="[30,70]"}
-
-<br/>
-
 ##### March 8, 2025   
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 5. Open Science in the project lifecycle - access & reuse |
-| 13:00 - 16:00 | 6. Open Science in the project lifecycle - evaluation |
+| 09:00 - 12:00 | 8. The Swedish national roadmap for Open Science  |
+| 13:00 - 16:00 | 5. Open Science in the project lifecycle - access & reuse |
 : {tbl-colwidths="[30,70]"}
 
 <br/>
@@ -55,6 +46,10 @@ Schedule is not yet set and may be subject to change
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 7. Science communication & citizen science |
+| 09:00 - 12:00 | 6. Open Science in the project lifecycle - evaluation |
+| 13:00 - 16:00 | 7. Science communication & citizen science |
 : {tbl-colwidths="[30,70]"}
+
+<br/>
+
 
