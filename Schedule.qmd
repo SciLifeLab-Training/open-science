@@ -12,12 +12,21 @@ Schedule is under development and may be subject to change
 
 <br/>
 
+##### March 5, 2025  
+
+| Time | Session |
+|------|------|
+| 13:00 - 16:00 | 1. Open Science in Sweden |
+: {tbl-colwidths="[30,70]"}  
+
+<br/>
+
 ##### March 6, 2025  
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 1. Open Science in Sweden |
-| 13:00 - 16:00 | 2. Open Science in the project lifecycle - plan & design |
+| 09:00 - 12:00 | 2. Open Science in the project lifecycle - plan & design |
+| 13:00 - 16:30 | 3. Open Science in the project lifecycle - collect & analyze |
 : {tbl-colwidths="[30,70]"}  
 
 <br/>
@@ -26,8 +35,8 @@ Schedule is under development and may be subject to change
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 3. Open Science in the project lifecycle - collect & analyze |
-| 13:00 - 16:00 | 4. Open Science in the project lifecycle - share & disseminate |
+| 09:00 - 12:00 | 4. Open Science in the project lifecycle - share & disseminate |
+| 13:00 - 16:30 | 5. Open Science in the project lifecycle - access & reuse |
 : {tbl-colwidths="[30,70]"}
 
 <br/>
@@ -37,7 +46,7 @@ Schedule is under development and may be subject to change
 | Time | Session |
 |------|------|
 | 09:00 - 12:00 | 8. The Swedish national roadmap for Open Science  |
-| 13:00 - 16:00 | 5. Open Science in the project lifecycle - access & reuse |
+| 13:00 - 16:30 | 6. Open Science in the project lifecycle - evaluation |
 : {tbl-colwidths="[30,70]"}
 
 <br/>
@@ -46,8 +55,7 @@ Schedule is under development and may be subject to change
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 6. Open Science in the project lifecycle - evaluation |
-| 13:00 - 16:00 | 7. Science communication & citizen science |
+| 09:00 - 12:00 | 7. Science communication & citizen science |
 : {tbl-colwidths="[30,70]"}
 
 <br/>
