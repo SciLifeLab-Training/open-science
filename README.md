@@ -4,7 +4,7 @@ The course '_Open Science in the Swedish context_' delivered by SciLifeLab Train
 ## Description  
 
 |  |  |
-|:------|:------|
+|------|------|
 | Title | Open Science in the Swedish context |
 | Abstract | In accordance with the international EUA Agenda for Open Science 2025, Sweden has now committed itself to implement Open Science into its higher education by 2026, with clear paths mapped by SUHFs ‘Färdplan för öppen vetenskap’ (2021), and KBs ‘Nationella riktlinjer för öppen vetenskap’ (2024). The training ‘Open Science in the Swedish context’ is designed to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation. Completing this training will position participants as future leaders in the global shift towards more open and collaborative research practices, fostering a research environment where knowledge is freely exchanged and built upon. |
 | Type | Slides, recorded webinar, etc |
