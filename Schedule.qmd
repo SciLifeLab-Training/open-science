@@ -16,7 +16,7 @@ Schedule is under development and may be subject to change
 
 | Time | Session |
 |------|------|
-| 13:00 - 16:00 | 1. Open Science in Sweden |
+| 13:00 - 16:30 | [1. Open Science in Sweden](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
 : {tbl-colwidths="[30,70]"}  
 
 <br/>
@@ -25,8 +25,8 @@ Schedule is under development and may be subject to change
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 2. Open Science in the project lifecycle - plan & design |
-| 13:00 - 16:30 | 3. Open Science in the project lifecycle - collect & analyze |
+| 09:00 - 12:00 | [2. Open Science in the project lifecycle - plan & design](https://scilifelab-training.github.io/open-science/2505/Session2.html) |
+| 13:00 - 16:30 | [3. Open Science in the project lifecycle - collect & analyze](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
 : {tbl-colwidths="[30,70]"}  
 
 <br/>
@@ -35,8 +35,8 @@ Schedule is under development and may be subject to change
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 4. Open Science in the project lifecycle - share & disseminate |
-| 13:00 - 16:30 | 5. Open Science in the project lifecycle - access & reuse |
+| 09:00 - 12:00 | [4. Open Science in the project lifecycle - share & disseminate](https://scilifelab-training.github.io/open-science/2505/Session4.html) |
+| 13:00 - 16:30 | [5. Open Science in the project lifecycle - access & reuse](https://scilifelab-training.github.io/open-science/2505/Session5.html)  |
 : {tbl-colwidths="[30,70]"}
 
 <br/>
@@ -45,8 +45,8 @@ Schedule is under development and may be subject to change
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 8. The Swedish national roadmap for Open Science  |
-| 13:00 - 16:30 | 6. Open Science in the project lifecycle - evaluation |
+| 09:00 - 12:00 | [8. The Swedish national roadmap for Open Science](https://scilifelab-training.github.io/open-science/2505/Session8.html)   |
+| 13:00 - 16:30 | [6. Open Science in the project lifecycle - evaluation](https://scilifelab-training.github.io/open-science/2505/Session6.html)  |
 : {tbl-colwidths="[30,70]"}
 
 <br/>
@@ -55,7 +55,7 @@ Schedule is under development and may be subject to change
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | 7. Science communication & citizen science |
+| 09:00 - 12:00 | [7. Science communication & citizen science](https://scilifelab-training.github.io/open-science/2505/Session7.html)  |
 : {tbl-colwidths="[30,70]"}
 
 <br/>

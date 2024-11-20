@@ -5,4 +5,45 @@ date: today
 ---
 
 
-### Coming soon
+<br/>
+
+
+#### Ineke Luijten, PhD  <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+##### Scientific Training Officer, SciLifeLab Training Hub  
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/InekeLuijten.png" alt="Ineke Luijten" width="80"></td>
+    <td style="width: 80%;">Ineke develops and delivers cross-disciplinary training modules on Open Science and FAIR principles. She is a member of the Open Science community and a strong advocate for Open Science and FAIR. </td>
+</tr>
+</table>
+  
+    
+<br/>
+
+
+#### Elin Kronander, PhD  <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+##### Head of Training and Data Steward, NBIS  
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/ElinKronander.png" alt="Elin Kronander" width="80"></td>
+    <td style="width: 80%;"> coming soon </td>
+</tr>
+</table>
+
+<br/>
+
+
+#### David Rayner, PhD  <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
+##### Training Coordinator, SND   
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/David Rayner.jpg" alt="David Rayner" width="80"></td>
+    <td style="width: 80%;"> coming soon </td>
+</tr>
+</table>
+  
+    
+<br/>
