@@ -1,6 +1,5 @@
 ---
 title: "Instructors"
-author: "Ineke Luijten"
 date: today
 ---
 
