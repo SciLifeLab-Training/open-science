@@ -28,7 +28,7 @@ date: today
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/ElinKronander.png" alt="Elin Kronander" width="80"></td>
-    <td style="width: 80%;"> coming soon </td>
+    <td style="width: 80%;">    </td>
 </tr>
 </table>
 
@@ -40,10 +40,71 @@ date: today
 
 <table>
 <tr>
-    <td style="width: 20%;"><img src="img/David Rayner.jpg" alt="David Rayner" width="80"></td>
-    <td style="width: 80%;"> coming soon </td>
+    <td style="width: 20%;"><img src="img/DavidRayner.jpg" alt="David Rayner" width="80"></td>
+    <td style="width: 80%;">    </td>
 </tr>
 </table>
   
     
 <br/>
+
+#### Sabina Anderberg <a href="https://orcid.org/0000-0002-3344-8130" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sabina-anderberg-0a393960/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> 
+##### Senior Advisor, SUHF & Stockholm University   
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/SabinaAnderberg.jpg" alt="Sabina Anderberg" width="80"></td>
+    <td style="width: 80%;">   </td>
+</tr>
+</table>
+  
+    
+<br/>
+
+#### Till Brückner <a href="https://orcid.org/0000-0001-9346-3319" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/tillbruckner/?originalSubdomain=uk" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/TillBruckner" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+##### Postdoctoral fellow - clinical trial reporting, Karolinska Institute   
+
+
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/TillBruckner.png" alt="Till Bruckner" width="80"></td>
+    <td style="width: 80%;">   </td>
+</tr>
+</table>
+  
+    
+<br/>
+
+#### Jonas Åkerman <a href="https://www.linkedin.com/in/jonas-åkerman-a30a7b190/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+##### Coordinator for research ethics, Stockholm University  
+
+
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/JonasAkerman.jpg" alt="Jonas Akerman" width="80"></td>
+    <td style="width: 80%;">   </td>
+</tr>
+</table>
+  
+    
+<br/>
+
+#### Abeni Wickham <a href="https://orcid.org/0000-0002-2106-0665" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><a href="https://www.linkedin.com/in/abeni-wickham-phd-a8220620/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+##### Founder/CEO, SciFree 
+
+
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/AbeniWickham.jpeg" alt="Abeni Wickham" width="80"></td>
+    <td style="width: 80%;">   </td>
+</tr>
+</table>
+  
+    
+<br/>
+
+
+

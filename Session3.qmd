@@ -1,6 +1,5 @@
 ---
 title: "3. Open Science in the project lifecycle - collect & analyze "
-author: "Ineke Luijten"
 date: today
 ---
 
@@ -16,10 +15,19 @@ By the end of this session, participants will be able to:
 
 ## Schedule  
 
-Coming soon   
+| Time | Topic | Instructor |
+|------|------|------|
+| 13:00 | Open Science in data collection & analysis | Ineke Luijten |
+| 13:15 | Good research practice | Jonas Åkerman |
+| 14:15 | Coffee break  |    |
+| 14:45 | Data reuse  | David Rayner |
+| 16:30 | End of day  |  |  
 
-## Materials
-
+## Materials  
+  
+Coming soon
+  
+<!-- 
 **Lecture videos**
 
 <iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -41,18 +49,22 @@ Coming soon
   
  
 <br>
+-->
 
 
 ## Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Jonas Åkerman 
+- David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 
 ## Reuse  
 
-All materials from this session are available for re-use under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/)
+All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite material as:  
-1. Ineke Luijten, Author 2, Author 3 (2024) *Open Science in the Swedish context - session 3: Open Science in the project lifecycle - collect & analyze*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html   
+
+>Ineke Luijten, Jonas Åkerman, David Rayner (2024) *Open Science in the Swedish context - Session 3: Open Science in the project lifecycle - collect & analyze*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session3.html     
 
 

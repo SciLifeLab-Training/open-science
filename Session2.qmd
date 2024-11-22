@@ -1,6 +1,5 @@
 ---
 title: "2. Open Science in the project lifecycle - plan & design "
-author: "Ineke Luijten"
 date: today
 ---
 
@@ -18,10 +17,20 @@ according to the FAIR principles
 
 ## Schedule  
 
-Coming soon   
+| Time | Topic | Instructor |
+|------|------|------|
+| 9:00 | What is the research project lifecycle? | Ineke Luijten |
+| 9:15 | Preregistration and registered reports| Till Brückner |
+| 10:15 | Coffee break  |    |
+| 10:45 | Data management plans  | Elin Kronander |
+| 12:00 | Lunch  |  |
 
-## Materials
 
+## Materials  
+  
+Coming soon
+  
+<!-- 
 **Lecture videos**
 
 <iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -43,18 +52,22 @@ Coming soon
   
  
 <br>
-
+-->
 
 ## Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Till Brückner <a href="https://orcid.org/0000-0001-9346-3319" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 
 ## Reuse  
 
-All materials from this session are available for re-use under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/)
+All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite material as:  
-1. Ineke Luijten, Author 2, Author 3 (2024) *Open Science in the Swedish context - session 2: Open Science in the project lifecycle - plan & design*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html   
+
+>Ineke Luijten, Till Brückner, Elin Kronander (2024) *Open Science in the Swedish context - session 2: Open Science in the project lifecycle - plan & design*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session2.html     
+
 
 

@@ -1,6 +1,5 @@
 ---
 title: "1. Open Science in Sweden "
-author: "Ineke Luijten"
 date: today
 ---
 
@@ -12,17 +11,29 @@ By the end of this session, participants will be able to:
 - Explain what Open Science is, and discuss the benefits and challenges that come with its 
 implementation  
 
-- Summarize the national roadmap for Open Science in Sweden and how it will be 
-implemented over the coming years  
+- Summarize the National Roadmap for Open Science and how it will be 
+implemented in Sweden over the coming years  
 
 :::
 
 ## Schedule  
+  
+| Time | Topic | Instructor |
+|------|------|------|
+| 13:00 | Welcome & Introduction to Open Science | Ineke Luijten |
+| 13:15 | The benefits of Open Science | Ineke Luijten |
+| 14:15 | Coffee break  |    |
+| 14:45 | The state of Open Science in Sweden  | Sabina Anderberg |
+| 16:00 | End of day  |  |
 
-Coming soon  
+   
 
-## Materials
+## Materials  
+  
+Coming soon
+  
 
+<!-- 
 **Lecture videos**
 
 <iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -44,18 +55,21 @@ Coming soon
   
  
 <br>
-
+-->
 
 ## Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Sabina Anderberg <a href="https://orcid.org/0000-0002-3344-8130" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 
 ## Reuse  
 
-All materials from this session are available for re-use under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/)
+All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
-Please cite material as:  
-1. Ineke Luijten, Author 2, Author 3 (2024) *Open Science in the Swedish context - session 1: Open Science in Sweden*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html   
+
+Please cite material as:   
+   
+> Ineke Luijten, Sabina Anderberg (2024) *Open Science in the Swedish context - session 1: Open Science in Sweden*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html   
 
 

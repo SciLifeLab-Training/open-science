@@ -1,5 +1,5 @@
 ---
-title: "8. The Swedish national roadmap for Open Science "
+title: "8. The National Guidelines for Open Science "
 author: "Ineke Luijten"
 date: today
 ---
