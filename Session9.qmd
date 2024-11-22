@@ -1,6 +1,5 @@
 ---
 title: "9. The future of Open Science "
-author: "Ineke Luijten"
 date: today
 ---
 

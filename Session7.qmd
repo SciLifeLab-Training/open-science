@@ -1,6 +1,5 @@
 ---
 title: "7. Science communication & citizen science "
-author: "Ineke Luijten"
 date: today
 ---
 

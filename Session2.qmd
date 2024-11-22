@@ -67,7 +67,7 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:  
 
->Ineke Luijten, Till Brückner, Elin Kronander (2024) *Open Science in the Swedish context - session 2: Open Science in the project lifecycle - plan & design*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session2.html     
+>Ineke Luijten, Till Brückner, Elin Kronander (2024) *Open Science in the Swedish context - Session 2: Open Science in the project lifecycle - plan & design*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session2.html     
 
 
 

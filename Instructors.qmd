@@ -90,7 +90,7 @@ date: today
     
 <br/>
 
-#### Abeni Wickham <a href="https://orcid.org/0000-0002-2106-0665" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><a href="https://www.linkedin.com/in/abeni-wickham-phd-a8220620/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+#### Abeni Wickham <a href="https://orcid.org/0000-0002-2106-0665" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/abeni-wickham-phd-a8220620/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ##### Founder/CEO, SciFree 
 
 
@@ -105,5 +105,17 @@ date: today
     
 <br/>
 
+#### Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sanna-isabel-ulfsparre/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+##### Analyst, Vetenskapsrådet 
+
+
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/SannaIsabelUlfsparre.jpg" alt="Sanna Isabel Ulfsparre" width="80"></td>
+    <td style="width: 80%;">   </td>
+</tr>
+</table>
+  
 
 
