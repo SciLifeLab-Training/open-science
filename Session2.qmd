@@ -9,22 +9,55 @@ date: today
 By the end of this session, participants will be able to:
 
 - Locate relevant study registries  
-- Publish a registered report  
+- Discuss the benefits of publish in registered report format 
 - Describe the importance of having a Data Management Plan (DMP) and working with data
 according to the FAIR principles    
       
 :::
 
 ## Schedule  
+<style>
+  tr:hover {
+    background-color: #F6F8F9;
+  }
+</style>
 
-| Time | Topic | Instructor |
-|------|------|------|
-| 9:00 | What is the research project lifecycle? | Ineke Luijten |
-| 9:15 | Preregistration and registered reports| Till Brückner |
-| 10:15 | Coffee break  |    |
-| 10:45 | Data management plans  | Elin Kronander |
-| 12:00 | Lunch  |  |
-
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border-bottom: 0.5px solid #808080;">
+    <th style="width: 15%;">Time</th>
+    <th style="width: 60%;">Topic</th>
+    <th style="width: 25%;">Instructor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 0.4px solid #D3D3D3;">
+      <td style="padding: 10px 0;">09:00</td>  
+      <td style="padding: 10px 0;">What is the research project lifecycle? </td>
+      <td style="padding: 10px 0;">Ineke Luijten</td>
+    </tr>
+    <tr style="border-bottom: 0.4px solid #D3D3D3;">
+      <td style="padding: 10px 0;">09:15</td>
+      <td style="padding: 10px 0;">Preregistration and registered reports</td>
+      <td style="padding: 10px 0;">Till Brückner</td>
+    </tr>
+    <tr style="border-bottom: 0.4px solid #D3D3D3;">
+      <td style="padding: 10px 0;">10:15</td>
+      <td style="padding: 10px 0;">Coffee break</td>
+      <td style="padding: 10px 0;"></td>
+    </tr>
+    <tr style="border-bottom: 0.4px solid #D3D3D3;">
+      <td style="padding: 10px 0;">10:45</td>
+      <td style="padding: 10px 0;">Data management plans</td>
+      <td style="padding: 10px 0;">Elin Kronander</td>
+    </tr>
+    <tr style="border-bottom: 0.5px solid #808080;">
+      <td style="padding: 10px 0;">12:00</td>
+      <td style="padding: 10px 0;">Lunch</td>
+      <td style="padding: 10px 0;"></td>
+    </tr>
+  </tbody>
+</table>
+  
 
 ## Materials  
   

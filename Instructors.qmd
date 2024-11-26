@@ -7,7 +7,7 @@ date: today
 <br/>
 
 
-#### Ineke Luijten, PhD  <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+#### Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
 ##### Scientific Training Officer, SciLifeLab Training Hub  
 
 <table>
@@ -21,7 +21,7 @@ date: today
 <br/>
 
 
-#### Elin Kronander, PhD  <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+#### Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
 ##### Head of Training and Data Steward, NBIS  
 
 <table>
@@ -34,7 +34,7 @@ date: today
 <br/>
 
 
-#### David Rayner, PhD  <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
+#### David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
 ##### Training Coordinator, SND   
 
 <table>
@@ -46,6 +46,21 @@ date: today
   
     
 <br/>
+
+
+#### Jessica Lindvall, PhD  <a href="https://orcid.org/0000-0002-5042-8481" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://se.linkedin.com/in/jessica-lindvall-310a8132" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
+##### Head of Training, SciLifeLab Training Hub   
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/JessicaLindvall.jpg" alt="Jessica Lindvall" width="80"></td>
+    <td style="width: 80%;">Jessica heads the Training Hub at SciLifeLab, a national Research Infrastructure within the life science domain. She is a strong Open Science and FAIR advocate involved in various national and international Open Science and FAIR capacity building and upskilling work. </td>
+</tr>
+</table>
+  
+    
+<br/>
+
 
 #### Sabina Anderberg <a href="https://orcid.org/0000-0002-3344-8130" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sabina-anderberg-0a393960/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> 
 ##### Senior Advisor, SUHF & Stockholm University   
@@ -116,6 +131,52 @@ date: today
     <td style="width: 80%;">   </td>
 </tr>
 </table>
+
+
+<br/>
+
+#### Erik Stattin <a href="https://orcid.org/0000-0002-1520-2022" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/erik-stattin-351b361/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+##### Unit manager *Research Collaboration*, Kungliga Biblioteket 
+
+
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/ErikStattin.jpg" alt="Erik Stattin" width="80"></td>
+    <td style="width: 80%;">   </td>
+</tr>
+</table>
+
+
+<br/>
+
+#### Angeliki Adamaki <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/angeliki-adamaki/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+##### Project manager, Lund University 
+
+
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/AngelikiAdamaki.png" alt="Angeliki Adamaki" width="80"></td>
+    <td style="width: 80%;">   </td>
+</tr>
+</table>
+
+
+<br/>
+
+#### Sabina Leonelli <a href="https://orcid.org/0000-0002-7815-6609" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sabina-leonelli-a878673b/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+##### Professor of Philosophy and History of Science, Technical University of Munich 
+
+
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/SabinaLeonelli.jpg" alt="Sabina Leonelli" width="80"></td>
+    <td style="width: 80%;">   </td>
+</tr>
+</table>
   
+
 
 
