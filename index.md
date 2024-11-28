@@ -1,5 +1,5 @@
 The current and all previous instances of this workshop are listed below.
 <hr>
 <div class='workshop-list'>
-<h3><a href='https://SciLifeLab-Training.github.io/open-science/2503/'>2025 March</a></h3></div>
+<h3><a href='https://SciLifeLab-Training.github.io/open-science/2503/'>2025 March</a></h3>
 <h3><a href='https://SciLifeLab-Training.github.io/open-science/2505/'>2025 May</a></h3></div>
