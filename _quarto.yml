@@ -17,11 +17,7 @@ website:
       - Session2.qmd
       - Session3.qmd
       - Session4.qmd
-      - Session5.qmd
-      - Session6.qmd
-      - Session7.qmd
-      - Session8.qmd
-      - Session9.qmd
+     
 
   navbar:
     background: "#A7C947"
