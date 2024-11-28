@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: "2505"
+  output-dir: "2503"
 
 website:
   title: "Open Science in the Swedish context"
