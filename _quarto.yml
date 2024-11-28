@@ -10,7 +10,7 @@ website:
     fontsize: 35px
     search: true
     contents: 
-      - Syllabus.qmd 
+      - Index.qmd 
       - Schedule.qmd
       - Instructors.qmd
       - Session1.qmd
