@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-22.04
     permissions:
       contents: write
+    concurrency:
+      group: deploy-gh-pages
+      cancel-in-progress: true
+  
     steps:
       - name: Set time zone  
         uses: szenius/set-timezone@v1.0
@@ -19,15 +23,15 @@ jobs:
           timezoneMacos: "Europe/Stockholm"
           timezoneWindows: "W. Europe Standard Time"
 
-      - name: Install yq
-        run: |
-          sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/local/bin/yq
-          sudo chmod +x /usr/local/bin/yq
-
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+
+      - name: Install yq
+        run: |
+          sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/local/bin/yq
+          sudo chmod +x /usr/local/bin/yq
 
       - name: Parse branch configurations
         id: parse-config
@@ -48,8 +52,13 @@ jobs:
         with:
           version: 1.3.340
 
-      - name: Process branches
+      - name: Render and deploy for each branch
         run: |
+          # Add git info
+          git config --global user.email "do_not_email@example.com"
+          git config --global user.name "gh_action"
+          git config --global url."https://${{ secrets.TOKEN }}@github.com/".insteadOf "https://github.com/"
+
           for ((i=0; i<${{ env.BRANCHES_COUNT }}; i++))
           do
             BRANCH=$(printenv BRANCH_$i)
@@ -66,110 +75,39 @@ jobs:
             quarto render
 
             # Clone gh-pages branch and deploy
-            echo "Deploying to gh-pages branch..."
+            echo "Cloning gh-pages branch into tmprepo..."
             git clone --depth 1 --single-branch --branch gh-pages "https://${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" tmprepo
 
             cd tmprepo
             if [ -d $OUTPUT_DIR ]; then
               echo "Directory $OUTPUT_DIR already exists. Removing it."
               git rm -r $OUTPUT_DIR
+              git commit -m "Remove old directory $OUTPUT_DIR"
             fi
 
-            cp -r ../$OUTPUT_DIR ./
+            # Copy rendered content from _site to the specified directory
+            mkdir -p $OUTPUT_DIR
+            cp -r ../_site/* $OUTPUT_DIR/
+
+            # Create or update index file
+            echo "Updating index file..."
+            printf "The current and all previous instances of this workshop are listed below.\n" > index.md
+            printf "<hr>\n" >> index.md
+            printf "<div class='workshop-list'>\n" >> index.md
+            dirs=$(ls -d [0-9]*[0-9]/ | sed 's/\///' | tac)
+            
+            for dir in ${dirs[@]}
+            do
+              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY}/${dir}/'>$dir</a></h3>" >> index.md
+            done
+            printf "</div>\n" >> index.md
+
+            # Push changes back to gh-pages
+            echo "Pushing changes to gh-pages..."
             git add .
-            git commit -m "Update site for $BRANCH to $OUTPUT_DIR on $(date +%Y%m%d-%H%M%S)"
+            git commit -m "Update site for $BRANCH to $OUTPUT_DIR at $(date +%Y%m%d-%H%M%S)"
             git push origin gh-pages
 
             cd ..
             rm -rf tmprepo
           done
-
-
-
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Define variables
-        run: |
-          echo "PATH_REPO=$(pwd)" >> $GITHUB_ENV
-          echo "PATH_EXPORT=$(grep -E 'output-dir' _quarto.yml | xargs | sed 's/output-dir://' | xargs)" >> $GITHUB_ENV
-          echo "REPO=$(basename ${GITHUB_REPOSITORY})" >> $GITHUB_ENV
-      - name: Check variables
-        run: |
-          echo "GITHUB_ACTOR: ${GITHUB_ACTOR}"
-          echo "GITHUB_REPOSITORY: ${GITHUB_REPOSITORY}"
-          echo "REPO: ${REPO}"
-          echo "env.PATH_REPO: ${{ env.PATH_REPO }}"
-          echo "PATH_EXPORT: ${PATH_EXPORT}"
-          echo "GITHUB_REPOSITORY_OWNER: ${GITHUB_REPOSITORY_OWNER}"
-          echo "---------------------------------------------------------------------------------------------"
-          echo "Folder contents at $(pwd):"
-          ls -lh
-          echo "---------------------------------------------------------------------------------------------"
-          printenv
-          sed --version
-
-      
-
-      - name: Render site, pull repo, copy folder, create index, push repo
-        run: |
-          # Add git info
-          git config --global user.email "do_not_email@example.com"
-          git config --global user.name "gh_action"
-          git config --global url."https://${{ secrets.TOKEN }}@github.com/".insteadOf "https://github.com/"
-
-          # Render website
-          echo "Rendering qmd files ..."
-          echo "PWD: ${PWD}"
-          ls -l .
-          quarto render
-
-          # List folder contents
-          echo "Folder contents at $(pwd):"
-          ls -lh
-          echo "Folder contents at ${PATH_REPO}/${PATH_EXPORT}:"
-          ls -lh ${PATH_REPO}/${PATH_EXPORT}
-
-          # Clone gh-pages branch and remove old directories with same name
-          echo "Clone into tmprepo"
-          git clone --depth 1 --single-branch --branch gh-pages "https://${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" tmprepo
-
-          cd tmprepo
-          if [ -d ${PATH_EXPORT} ]; then
-            echo "Directory ${PATH_EXPORT} already exists. Removing the directory."
-            git rm -r ${PATH_EXPORT}
-            git commit -m "Old directory ${PATH_EXPORT} deleted."
-          fi
-
-          cd ${PATH_REPO}
-          cp -r ${PATH_EXPORT} tmprepo/
-          cd tmprepo
-          echo "Folder contents at $(pwd):"
-          ls -lh
-
-          # create index file
-           echo "Create index file"
-          printf "The current and all previous instances of this workshop are listed below.\n" > index.md
-          printf "<hr>\n" >> index.md
-          printf "<div class='workshop-list'>\n" >> index.md
-          dirs=$(ls -d [0-9]*[0-9]/ | sed 's/\///' | tac)
-          for i in ${dirs[@]}
-          do
-          	if [ ${i:2:2} -lt 1 ] || [ ${i:2:2} -gt 12 ]
-          		then echo "Month: ${i:2:2}. Last 2 values in output_dir must be a month between 01 and 12."
-          	fi
-          	# This code works for year 2000 and later
-          	printf -v thedate '2000-01-01 +%s years +%s months -1 day' "${i:0:2}" "${i:2}"
-          	dt=$(date -d "$thedate" +'%Y %b')
-          	echo $dt
-            printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO}/${i}/'>$dt</a></h3>" >> index.md
-          done
-          printf "</div>\n" >> index.md
-
-          echo "Folder contents at $(pwd):"
-          ls -lh
-
-          # Push changes back
-          echo "Push changes, github repo: ${{secrets.TOKEN}}"
-          git add .
-          git commit -m "Updated contents at $(date +%Y%m%d-%H%M%S)"
-          git push origin
