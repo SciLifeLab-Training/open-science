@@ -50,6 +50,11 @@ jobs:
 
       - name: Render and deploy for each branch
         run: |
+          # Add git info
+          git config --global user.email "do_not_email@example.com"
+          git config --global user.name "gh_action"
+          git config --global url."https://${{ secrets.TOKEN }}@github.com/".insteadOf "https://github.com/"
+
           for ((i=0; i<${{ env.BRANCHES_COUNT }}; i++))
           do
             BRANCH=$(printenv BRANCH_$i)
