@@ -1,6 +1,11 @@
 project:
   type: website
-  output-dir: "2503"
+
+branches:
+  - branch: "release-2503"
+    output-dir: "2503"
+  - branch: "release-2505"
+    output-dir: "2505"
 
 website:
   title: "Open Science in the Swedish context"

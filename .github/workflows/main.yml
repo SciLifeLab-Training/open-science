@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - main
+      - release-*
 
 jobs:
   quarto-render-job:
@@ -17,6 +18,74 @@ jobs:
           timezoneLinux: "Europe/Stockholm"
           timezoneMacos: "Europe/Stockholm"
           timezoneWindows: "W. Europe Standard Time"
+
+      - name: Install yq
+        run: |
+          sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/local/bin/yq
+          sudo chmod +x /usr/local/bin/yq
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Parse branch configurations
+        id: parse-config
+        run: |
+          BRANCHES=$(yq eval '.branches | length' _quarto.yml)
+          echo "Found $BRANCHES branch mappings in _quarto.yml"
+          echo "BRANCHES_COUNT=$BRANCHES" >> $GITHUB_ENV
+          for ((i=0; i<$BRANCHES; i++))
+          do
+            BRANCH=$(yq eval ".branches[$i].branch" _quarto.yml)
+            OUTPUT_DIR=$(yq eval ".branches[$i].output-dir" _quarto.yml)
+            echo "BRANCH_$i=$BRANCH" >> $GITHUB_ENV
+            echo "OUTPUT_DIR_$i=$OUTPUT_DIR" >> $GITHUB_ENV
+          done
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.3.340
+
+      - name: Process branches
+        run: |
+          for ((i=0; i<${{ env.BRANCHES_COUNT }}; i++))
+          do
+            BRANCH=$(printenv BRANCH_$i)
+            OUTPUT_DIR=$(printenv OUTPUT_DIR_$i)
+
+            echo "Processing branch: $BRANCH -> Output directory: $OUTPUT_DIR"
+
+            # Checkout the specific branch
+            git fetch origin $BRANCH
+            git checkout $BRANCH
+
+            # Render site
+            echo "Rendering site for branch $BRANCH..."
+            quarto render
+
+            # Clone gh-pages branch and deploy
+            echo "Deploying to gh-pages branch..."
+            git clone --depth 1 --single-branch --branch gh-pages "https://${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" tmprepo
+
+            cd tmprepo
+            if [ -d $OUTPUT_DIR ]; then
+              echo "Directory $OUTPUT_DIR already exists. Removing it."
+              git rm -r $OUTPUT_DIR
+            fi
+
+            cp -r ../$OUTPUT_DIR ./
+            git add .
+            git commit -m "Update site for $BRANCH to $OUTPUT_DIR on $(date +%Y%m%d-%H%M%S)"
+            git push origin gh-pages
+
+            cd ..
+            rm -rf tmprepo
+          done
+
+
+
       - name: Checkout
         uses: actions/checkout@v3
       - name: Define variables
@@ -38,10 +107,9 @@ jobs:
           echo "---------------------------------------------------------------------------------------------"
           printenv
           sed --version
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          version: 1.3.340
+
+      
+
       - name: Render site, pull repo, copy folder, create index, push repo
         run: |
           # Add git info
