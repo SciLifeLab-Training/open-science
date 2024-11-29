@@ -98,7 +98,7 @@ jobs:
             
             for dir in ${dirs[@]}
             do
-              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY}/${dir}/'>$dir</a></h3>" >> index.md
+              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${dir}/'>$dir</a></h3>" >> index.md
             done
             printf "</div>\n" >> index.md
 
