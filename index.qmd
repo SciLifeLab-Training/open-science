@@ -16,7 +16,6 @@ date: today
 **Enrollment closes:**				February 28, 2025     
 **Course fee:**				        none   
 		
-
 Course leaders: 
 
 - Ineke Luijten (SciLifeLab Training Hub) <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
