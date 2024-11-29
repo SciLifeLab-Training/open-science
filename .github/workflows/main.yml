@@ -100,11 +100,19 @@ jobs:
             printf "The current and all previous instances of this workshop are listed below.\n" > index.md
             printf "<hr>\n" >> index.md
             printf "<div class='workshop-list'>\n" >> index.md
-            dirs=$(ls -d [0-9]*[0-9]/ | sed 's/\///' | tac)
+            dirs=$(ls -d [0-9]*[0-9]/ | sed 's/\///' | tac | sort -n)
             
             for dir in ${dirs[@]}
             do
-              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO}/${dir}/'>$dir</a></h3>" >> index.md
+              if [ ${dir:2:2} -lt 1 ] || [ ${dir:2:2} -gt 12 ]
+                then echo "Month: ${dir:2:2}. Last 2 values in output_dir must be a month between 01 and 12."
+              fi
+              # This code works for year 2000 and later
+              printf -v thedate '2000-01-01 +%s years +%s months -1 day' "${dir:0:2}" "${dir:2}"
+              dt=$(date -d "$thedate" +'%Y %b')
+              echo $dt
+
+              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO}/${dir}/'>$dt</a></h3>" >> index.md
             done
             printf "</div>\n" >> index.md
 
