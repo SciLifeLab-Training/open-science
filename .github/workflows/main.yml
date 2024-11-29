@@ -28,6 +28,12 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Define variables
+        run: |
+          echo "PATH_REPO=$(pwd)" >> $GITHUB_ENV
+          echo "PATH_EXPORT=$(grep -E 'output-dir' _quarto.yml | xargs | sed 's/output-dir://' | xargs)" >> $GITHUB_ENV
+          echo "REPO=$(basename ${GITHUB_REPOSITORY})" >> $GITHUB_ENV
+
       - name: Install yq
         run: |
           sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/local/bin/yq
@@ -98,8 +104,7 @@ jobs:
             
             for dir in ${dirs[@]}
             do
-              printf "<h3><a href='/$dir/'>$dir</a></h3>" >> index.md
-          #    printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY}/${dir}/'>$dir</a></h3>" >> index.md
+              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO}/${dir}/'>$dir</a></h3>" >> index.md
             done
             printf "</div>\n" >> index.md
 
