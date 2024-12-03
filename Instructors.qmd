@@ -35,12 +35,12 @@ date: today
 
 
 #### David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
-##### Training Coordinator, SND   
+##### Training Coordinator, SND   <a href="https://snd.se/en"><img src="img/SND_logotyp_eng.png" alt="" width="20" height="20"></a>
 
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/DavidRayner.jpg" alt="David Rayner" width="80"></td>
-    <td style="width: 80%;">    </td>
+    <td style="width: 80%;"> David coordinates education ventures for the Swedish National Data service. He liaises with researchers and domain specialists to identify new functionality and training needs.   </td>
 </tr>
 </table>
   
