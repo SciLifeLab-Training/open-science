@@ -47,6 +47,12 @@ h4 {
     color: #491f53;     
 }
 
+h6 {
+    font-size: 16px; /* Adjust the size for h3 */
+    font-weight: 300;
+    color: #000;     
+}
+
 /* Additional Customization (Optional) */
 a {
     color: #007acc; /* Customize link color */
