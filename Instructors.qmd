@@ -91,12 +91,10 @@ date: today
 #### Jonas Åkerman <a href="https://www.linkedin.com/in/jonas-åkerman-a30a7b190/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ##### Coordinator for research ethics, Stockholm University  
 
-
-
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/JonasAkerman.jpg" alt="Jonas Akerman" width="80"></td>
-    <td style="width: 80%;">   </td>
+    <td style="width: 80%;"> Jonas is an expert on research ethics. He is a member of SUHFs expert group for ethical issues, and has written the first (2017) and second (2024) edition of “God forskningssed” / “Good research practices”, in collaboration with the Swedish Research council (VR). </td>
 </tr>
 </table>
   
@@ -106,12 +104,10 @@ date: today
 #### Abeni Wickham <a href="https://orcid.org/0000-0002-2106-0665" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/abeni-wickham-phd-a8220620/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ##### Founder/CEO, SciFree 
 
-
-
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/AbeniWickham.jpeg" alt="Abeni Wickham" width="80"></td>
-    <td style="width: 80%;">   </td>
+    <td style="width: 80%;"> After having completed a PhD in Molecular Physics, Abeni founded SciFree, where she develops software infrastructure tools to streamline the Open Access publishing workflow. SciFree is now serving over 60 universities worldwide. </td>
 </tr>
 </table>
   
@@ -120,8 +116,6 @@ date: today
 
 #### Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sanna-isabel-ulfsparre/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ##### Analyst, Vetenskapsrådet 
-
-
 
 <table>
 <tr>
@@ -136,12 +130,10 @@ date: today
 #### Erik Stattin <a href="https://orcid.org/0000-0002-1520-2022" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/erik-stattin-351b361/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ##### Unit manager *Research Collaboration*, Kungliga Biblioteket 
 
-
-
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/ErikStattin.jpg" alt="Erik Stattin" width="80"></td>
-    <td style="width: 80%;">   </td>
+    <td style="width: 80%;"> As author of the “National guidelines for Open Science” (KB, 2024), Erik has extensive knowledge on the state of Open Science in Sweden. He works to make research more accessible to all and is a frequent contributor to Tidningen Curie. </td>
 </tr>
 </table>
 
@@ -151,12 +143,10 @@ date: today
 #### Angeliki Adamaki <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/angeliki-adamaki/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ##### Project manager, Lund University 
 
-
-
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/AngelikiAdamaki.png" alt="Angeliki Adamaki" width="80"></td>
-    <td style="width: 80%;">   </td>
+    <td style="width: 80%;"> As a member of the working group for Open Science at Lund university, Angelikki chairs the expert group Open Science champions, with which she promotes increased knowledge and awareness on open science. </td>
 </tr>
 </table>
 
@@ -166,12 +156,10 @@ date: today
 #### Sabina Leonelli <a href="https://orcid.org/0000-0002-7815-6609" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sabina-leonelli-a878673b/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ##### Professor of Philosophy and History of Science, Technical University of Munich 
 
-
-
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/SabinaLeonelli.jpg" alt="Sabina Leonelli" width="80"></td>
-    <td style="width: 80%;">   </td>
+    <td style="width: 80%;"> Sabina is well known for her work on scientific practices, data-centric science, and open science policies. In her most recent book “The philosophy of Open Science” (2023), she examines the role played by Open Science principles and practices within contemporary research and how this relates to the epistemology of science.  </td>
 </tr>
 </table>
   
