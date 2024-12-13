@@ -60,25 +60,48 @@ An open-access repository developed by CERN that enables researchers in all disc
 - **[Researchdata.se](https://snd.se/en/researchdatase)**  
 A new Swedish national portal for research data currently under development by SND (portal launch early 2025).  
 - **[Re3data](https://www.re3data.org/search)**  
-A global registry of research data repositories, helping researchers, funding organizations, and institutions find and identify suitable repositories for storing and accessing research data
-
-
-## Licensing
-- **[Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)**  
-Creative Commons licenses give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law.     
+A global registry of research data repositories, helping researchers, funding organizations, and institutions find and identify suitable repositories for storing and accessing research data    
 
 
 ## Tools
+
+<details>
+  <summary>Data managament</summary>
+
 - **[Swedish National Data Service (SND)](https://snd.se/en/)**  
 A Swedish national infrastructure for research data, supporting the accessibility, preservation, and reuse of research data and related materials. Tools include, but are not limited to: 
     - [Checklist for data management plan](https://zenodo.org/records/6424769)
     - [Persistent identifier services](https://snd.se/en/describe-and-share-data/pid-services-doi-epic)
-    - [Publishing sensitive data](https://snd.se/en/manage-data/plan/research-material-with-personal-data)  
+    - [Publishing sensitive data](https://snd.se/en/manage-data/plan/research-material-with-personal-data) 
+- **[National Bioinformatics Infrastructure Sweden (NBIS)](https://nbis.se)**  
+A Swedish national infrastructure that provides bioinformatics and data science support to the Swedish life science research community. Tools include, but are not limited to: 
+    - [Data management support and guidance](https://nbis.se/services/guidance-on-data-management)
+    - [Data sharing](https://nbis.se/services/data-sharing)
 - **[Data Stewardship Wizard](https://dsw.scilifelab.se). SciLifeLab**  
 A tool to aid in data management planning.
 - **[VR Data management plan template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan/data-management-plan-template.html). The Swedish Research Council (VR)**    
-A template with six central parts that a data management plan should cover (partially reworked version of Science Europe’s "Core Requirements for Data Management Plans").   
+A template with six central parts that a data management plan should cover (partially reworked version of Science Europe’s "Core Requirements for Data Management Plans").  
+
+</details>
+
+<details>
+  <summary>Creating Open Educational Resources</summary>
+
 - **[FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/). ELIXIR FAIR training focus group**  
 A handbook designed to provide guidance on how to FAIRify training material.
 
+</details>
+
+
+## Licensing
+- **[Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)**  
+Creative Commons licenses give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law.   
+
+
+
+## Further training
+- **[An introduction to intellectual property rights in an academic context](https://www.sses.se/course/an-introduction-to-intellectual-property-rights-in-an-academic-context/). The Stockholm School of Entrepreneurship (SSES)**    
+This course aims to enable the participants to get a broad overview of intellectual property rights and discuss how they can be used to support and impact academic research. 
+- **[Introduction to data management practices](https://nbis.se/training/6). National Bioinformatics Infrastructure Sweden (NBIS)**      
+This course introduces important aspects of Research Data Management for researchers that want to take the first steps towards a more systematic and reproducible approach to analysing and managing research data.  
 
