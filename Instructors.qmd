@@ -141,7 +141,7 @@ date: today
 <br/>
 
 #### Karin Westin Tikkanen <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/karin-westin-tikkanen/"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
-###### Journalist/Senior Advisor*, SND/Gothenburg University
+###### Journalist/Senior Advisor, SND/Gothenburg University
 
 <table>
 <tr>
