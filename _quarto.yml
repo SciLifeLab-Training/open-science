@@ -25,6 +25,7 @@ website:
       - Session7.qmd
       - Session8.qmd
       - Session9.qmd
+      - Resources.qmd
      
 
   navbar:
