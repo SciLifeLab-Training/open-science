@@ -145,7 +145,7 @@ date: today
 
 <table>
 <tr>
-    <td style="width: 20%;"></td>
+    <td style="width: 20%;"><img src="img/KarinWestinTikkanen.jpg" alt="Karin Westin Tikkanen" width="80"></td>
     <td style="width: 80%;"> Karin has long experience when it comes to writing and lecturing on popular science communication. Her background is in the Humanities sector (Classical languages and Comparative Philology), but she regularly writes popular science pieces also on scientific research. She is a board member of Minerva, the section for narrative non-fiction of the Swedish Writers’ Union. </td>
 </tr>
 </table>
