@@ -120,7 +120,7 @@ date: today
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/SannaIsabelUlfsparre.jpg" alt="Sanna Isabel Ulfsparre" width="80"></td>
-    <td style="width: 80%;">   </td>
+    <td style="width: 80%;"> With a background as a librarian (Umeå university) within the field of Open Science and data management, Sanna Isabel now supports the development of (inter)national structures & strategies for open and FAIR research data and the European Open Science Cloud (EOSC) at VR.  </td>
 </tr>
 </table>
 
@@ -140,13 +140,26 @@ date: today
 
 <br/>
 
+#### Karin Westin Tikkanen <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/karin-westin-tikkanen/"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+###### Journalist/Senior Advisor*, SND/Gothenburg University
+
+<table>
+<tr>
+    <td style="width: 20%;"></td>
+    <td style="width: 80%;"> Karin has long experience when it comes to writing and lecturing on popular science communication. Her background is in the Humanities sector (Classical languages and Comparative Philology), but she regularly writes popular science pieces also on scientific research. She is a board member of Minerva, the section for narrative non-fiction of the Swedish Writers’ Union. </td>
+</tr>
+</table>
+
+
+<br/>
+
 #### Angeliki Adamaki <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/angeliki-adamaki/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ###### Project manager, Lund University 
 
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/AngelikiAdamaki.png" alt="Angeliki Adamaki" width="80"></td>
-    <td style="width: 80%;"> As a member of the working group for Open Science at Lund university, Angelikki chairs the expert group Open Science champions, with which she promotes increased knowledge and awareness on open science. </td>
+    <td style="width: 80%;"> As a member of the working group for Open Science at Lund university, Angeliki chairs the expert group Open Science champions, with which she promotes increased knowledge and awareness on open science. </td>
 </tr>
 </table>
 
