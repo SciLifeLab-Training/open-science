@@ -6,7 +6,11 @@ date: today
 
 <br>
 
-## Articles/reports/books
+## Reports & documents/articles/books
+
+<details>
+  <summary>Reports & documents</summary>
+
 - **[National roadmap for Open Science](https://staging.suhf.se/app/uploads/2022/09/National-Roadmap-for-Open-Science-Recommendation-2021-1-Rev.-June-2022-Ref.-SU-850-0005-17.pdf). SUHF, 13/09/2022, Ref SU-850-005-17**  
 This roadmap clarifies the responsibilities of higher education institutions and the measures needed to accelerate work on open access to research data and research
 results.
@@ -18,10 +22,31 @@ Good Research Practice 2024 provides orientation in the ethical principles and r
 Agreement establishing a common direction for research assessment reform: the assessment of research, researchers and research organisations recognises the diverse outputs, practices and activities that maximise the quality and impact of research.       
 - **[San Fransisco Declaration on Research Assessment](https://sfdora.org/read/). DORA, 2021**  
 A declaration developed to improve the ways in which the outputs of scholarly research are evaluated. 
+
+</details>
+  
+<details>
+  <summary>Articles</summary>
+
 - **[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618). Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016) Sci Data 3, 160018**    
-The first formal publication of the FAIR Principles. Includes the rationale behind them, and some exemplar implementations in the community.
+The first formal publication of the FAIR Principles. Includes the rationale behind them, and some exemplar implementations in the community.    
 - **[Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854). Garcia L, Batut B, Burke ML, Kuzak M, Psomopoulos F, Arcila R, et al. (2020). PLoS Comput Biol 16(5):e1007854**   
 Action point for trainers to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
+
+</details>
+
+<details>
+  <summary>Books</summary>
+  
+- **[The philosophy of Open Science](https://www.cambridge.org/core/elements/philosophy-of-open-science/0D049ECF635F3B676C03C6868873E406). Sabina Leonelli (31/07/2023) ISBN 9781009416368**    
+This book examines the role played by OS principles and practices within contemporary research and how this relates to the epistemology of science.    
+- **[Open Science: the very idea](https://link.springer.com/book/10.1007/978-94-024-2115-6). Frank Miedema (2022). ISBN 978-94-024-2115-6**   
+This book provides a broad context for the understanding of current problems of science and of the different movements aiming to improve the societal impact of science and research. 
+- **[Radical solutions and Open Science](https://link.springer.com/book/10.1007/978-981-15-4276-3). Daniel Burgos (editor) (2020). ISBN 978-981-15-4276-3**   
+This book presents how Open Science is a powerful tool to boost Higher Education. It presents radical, transgenic solutions for recurrent and long-standing problems in Higher Education. 
+
+
+</details>
 
 
 ## Repositories
