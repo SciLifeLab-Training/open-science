@@ -77,3 +77,32 @@ a:hover {
     border-left: 5px solid #a6a6a6  !important; /* Change the left border color */
   }
   
+  
+  details {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  details summary {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: normal;
+  }
+  
+  details ul {
+    margin-left: 0px;
+    list-style: none;
+  }
+  
+  details ul li {
+    margin: 5px 0;
+  }
+
+  details ul li a {
+    text-decoration: none; /* Optional: Removes underline for links */
+    color: inherit; /* Optional: Keeps the default color of the link */
+}
+
+details ul li a:hover {
+    color: #0056b3; /* Changes link color to blue when hovered */
+}
