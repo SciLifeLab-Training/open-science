@@ -1,1 +1,34 @@
+---
+title: "Resources"
+author: "Ineke Luijten"
+date: today
+---
+
+<br>
+
+## Articles/reports/books
+- **[National roadmap for Open Science](https://staging.suhf.se/app/uploads/2022/09/National-Roadmap-for-Open-Science-Recommendation-2021-1-Rev.-June-2022-Ref.-SU-850-0005-17.pdf). SUHF, 13/09/2022, Ref SU-850-005-17**  
+This roadmap clarifies the responsibilities of higher education institutions and the measures needed to accelerate work on open access to research data and research
+results.
+- **[National guidelines for Open Science](https://urn.kb.se/resolve?urn=urn:nbn:se:kb:publ-738). The National Library of Sweden (KB), 15/01/2024, ISBN 978-91-7000-492-6**  
+Guidelines to provide support and guidance for different stakeholders in Sweden who have overarching responsibility in the transition to open science.  
+- **[Good Research Practice 2024](https://www.vr.se/analys/rapporter/vara-rapporter/2024-10-02-god-forskningssed-2024.html). The Swedish Research Council (VR), 2024, ISBN 978-91-89845-08-4**  
+Good Research Practice 2024 provides orientation in the ethical principles and regulations that are important for research, and clarifies the responsibility that different actors have (currently only available in Swedish).      
+- **[Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854). Garcia L, Batut B, Burke ML, Kuzak M, Psomopoulos F, Arcila R, et al. (2020). PLoS Comput Biol 16(5):e1007854.**   
+Action point for trainers to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
+
+
+## Repositories
+- **[SciLifeLab Figshare](https://figshare.scilifelab.se)**  
+The SciLifeLab Data Repository, powered by Figshare, is a repository for publishing any kind of research-related data, e.g. documents, figures, or presentations. See [here](https://www.scilifelab.se/data/repository/) for more information. 
+
+
+## Licensing
+- **[Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)**  
+Creative Commons licenses give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law.     
+
+
+## Tools
+- **[FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/). ELIXIR FAIR training focus group**  
+A handbook designed to provide guidance on how to FAIRify training material.
 
