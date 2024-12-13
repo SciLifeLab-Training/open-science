@@ -78,14 +78,14 @@ a:hover {
   }
   
   
-  details {
-    margin-top: 10px;
-    margin-bottom: 10px;
+ details {
+    margin-top: 8px;
+    margin-bottom: 8px;
   }
   
   details summary {
     cursor: pointer;
-    font-size: 16px;
+    font-size: 15.5px;
     font-weight: normal;
   }
   
@@ -95,7 +95,7 @@ a:hover {
   }
   
   details ul li {
-    margin: 5px 0;
+    margin: 6px;
   }
 
   details ul li a {
@@ -106,3 +106,5 @@ a:hover {
 details ul li a:hover {
     color: #0056b3; /* Changes link color to blue when hovered */
 }
+
+  
