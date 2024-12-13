@@ -5,14 +5,11 @@ date: today
 ---
 
 
-::: {.callout-note}
-Schedule is under development and may be subject to change
-:::
  
 
 <br/>
 
-##### May 5, 2025. SciLifeLab Solna 
+#### May 5, 2025. SciLifeLab Solna 
 
 | Time | Session |
 |------|------|
@@ -21,7 +18,7 @@ Schedule is under development and may be subject to change
 
 <br/>
 
-##### May 6, 2025. SciLifeLab Solna  
+#### May 6, 2025. SciLifeLab Solna  
 
 | Time | Session |
 |------|------|
@@ -31,7 +28,7 @@ Schedule is under development and may be subject to change
 
 <br/>
      
-##### May 7, 2025. SciLifeLab Solna    
+#### May 7, 2025. SciLifeLab Solna    
 
 | Time | Session |
 |------|------|
@@ -41,7 +38,7 @@ Schedule is under development and may be subject to change
 
 <br/>
 
-##### May 8, 2025. Kungliga Biblioteket & SciLifeLab Solna   
+#### May 8, 2025. Kungliga Biblioteket & SciLifeLab Solna   
 
 | Time | Session |
 |------|------|
@@ -51,7 +48,7 @@ Schedule is under development and may be subject to change
 
 <br/>
 
-##### May 9, 2025. SciLifeLab Solna   
+#### May 9, 2025. SciLifeLab Solna   
 
 | Time | Session |
 |------|------|
@@ -60,7 +57,7 @@ Schedule is under development and may be subject to change
 
 <br/>
 
-##### May 27, 2025. Online   
+#### May 27, 2025. Online   
 
 | Time | Session |
 |------|------|
