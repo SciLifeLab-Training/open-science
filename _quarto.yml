@@ -16,15 +16,19 @@ website:
       - index.qmd 
       - Schedule.qmd
       - Instructors.qmd
-      - Session1.qmd
-      - Session2.qmd
-      - Session3.qmd
-      - Session4.qmd
-      - Session5.qmd
-      - Session6.qmd
-      - Session7.qmd
-      - Session8.qmd
-      - Session9.qmd
+      - "<details><summary>Sessions</summary>
+          <ul>
+            <li><a href='Session1.qmd'>1. Open Science in Sweden</a></li>
+            <li><a href='Session2.qmd'>2. Open Science in the project lifecycle - plan & design</a></li>
+            <li><a href='Session3.qmd'>3. Open Science in the project lifecycle - collect & analyze</a></li>
+            <li><a href='Session4.qmd'>4. Open Science in the project lifecycle - share & disseminate</a></li>
+            <li><a href='Session5.qmd'>5. Open Science in the project lifecycle - access & reuse</a></li>
+            <li><a href='Session6.qmd'>6. Open Science in the project lifecycle - evaluation</a></li>
+            <li><a href='Session7.qmd'>7. Science communication & citizen science</a></li>
+            <li><a href='Session8.qmd'>8. The National Guidelines for Open Science</a></li>
+            <li><a href='Session9.qmd'>9. The future of Open Science</a></li>
+          </ul>
+        </details>"
       - Resources.qmd
      
 
