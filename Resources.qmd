@@ -13,14 +13,29 @@ results.
 - **[National guidelines for Open Science](https://urn.kb.se/resolve?urn=urn:nbn:se:kb:publ-738). The National Library of Sweden (KB), 15/01/2024, ISBN 978-91-7000-492-6**  
 Guidelines to provide support and guidance for different stakeholders in Sweden who have overarching responsibility in the transition to open science.  
 - **[Good Research Practice 2024](https://www.vr.se/analys/rapporter/vara-rapporter/2024-10-02-god-forskningssed-2024.html). The Swedish Research Council (VR), 2024, ISBN 978-91-89845-08-4**  
-Good Research Practice 2024 provides orientation in the ethical principles and regulations that are important for research, and clarifies the responsibility that different actors have (currently only available in Swedish).      
-- **[Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854). Garcia L, Batut B, Burke ML, Kuzak M, Psomopoulos F, Arcila R, et al. (2020). PLoS Comput Biol 16(5):e1007854.**   
+Good Research Practice 2024 provides orientation in the ethical principles and regulations that are important for research, and clarifies the responsibility that different actors have (currently only available in Swedish).
+- **[Agreement on Reforming Research Assessment](https://coara.eu/app/uploads/2022/09/2022_07_19_rra_agreement_final.pdf). CoARA, 20/07/2022**  
+Agreement establishing a common direction for research assessment reform: the assessment of research, researchers and research organisations recognises the diverse outputs, practices and activities that maximise the quality and impact of research.       
+- **[San Fransisco Declaration on Research Assessment](https://sfdora.org/read/). DORA, 2021**  
+A declaration developed to improve the ways in which the outputs of scholarly research are evaluated. 
+- **[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618). Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016) Sci Data 3, 160018**    
+The first formal publication of the FAIR Principles. Includes the rationale behind them, and some exemplar implementations in the community.
+- **[Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854). Garcia L, Batut B, Burke ML, Kuzak M, Psomopoulos F, Arcila R, et al. (2020). PLoS Comput Biol 16(5):e1007854**   
 Action point for trainers to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
 
 ## Repositories
-- **[SciLifeLab Figshare](https://figshare.scilifelab.se)**  
-The SciLifeLab Data Repository, powered by Figshare, is a repository for publishing any kind of research-related data, e.g. documents, figures, or presentations. See [here](https://www.scilifelab.se/data/repository/) for more information. 
+- **[Figshare](https://figshare.com)**  
+A provider of open research repository infrastructure, helping organizations and researchers with sharing, showcasing and managing their research outputs in a discoverable, citable, reportable and transparent way.
+    - [SciLifeLab Figshare](https://figshare.scilifelab.se) See [here](https://www.scilifelab.se/data/repository/) for more information. 
+    - [Stockholm University Figshare](https://su.figshare.come)  
+- **[Zenodo](https://figshare.com)**   
+An open-access repository developed by CERN that enables researchers in all disciplines to share, publish, and preserve research outputs, including datasets, software, papers, and presentations.  
+    - [Stockholm University Library](https://zenodo.org/communities/stockholmuniversitylibrary/records?q=&l=list&p=1&s=10&sort=newest)
+- **[Researchdata.se](https://snd.se/en/researchdatase)**  
+A new Swedish national portal for research data currently under development by SND (portal launch early 2025).  
+- **[Re3data](https://www.re3data.org/search)**  
+A global registry of research data repositories, helping researchers, funding organizations, and institutions find and identify suitable repositories for storing and accessing research data
 
 
 ## Licensing
@@ -29,6 +44,16 @@ Creative Commons licenses give everyone from individual creators to large instit
 
 
 ## Tools
+- **[Swedish National Data Service (SND)](https://snd.se/en/)**  
+A Swedish national infrastructure for research data, supporting the accessibility, preservation, and reuse of research data and related materials. Tools include, but are not limited to: 
+    - [Checklist for data management plan](https://zenodo.org/records/6424769)
+    - [Persistent identifier services](https://snd.se/en/describe-and-share-data/pid-services-doi-epic)
+    - [Publishing sensitive data](https://snd.se/en/manage-data/plan/research-material-with-personal-data)  
+- **[Data Stewardship Wizard](https://dsw.scilifelab.se). SciLifeLab**  
+A tool to aid in data management planning.
+- **[VR Data management plan template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan/data-management-plan-template.html). The Swedish Research Council (VR)**    
+A template with six central parts that a data management plan should cover (partially reworked version of Science Europe’s "Core Requirements for Data Management Plans").   
 - **[FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/). ELIXIR FAIR training focus group**  
 A handbook designed to provide guidance on how to FAIRify training material.
+
 
