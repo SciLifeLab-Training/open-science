@@ -23,6 +23,7 @@ Agreement establishing a common direction for research assessment reform: the as
 - **[San Fransisco Declaration on Research Assessment](https://sfdora.org/read/). DORA, 2021**  
 A declaration developed to improve the ways in which the outputs of scholarly research are evaluated. 
 
+
 </details>
   
 <details>
@@ -30,8 +31,10 @@ A declaration developed to improve the ways in which the outputs of scholarly re
 
 - **[The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618). Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. (2016) Sci Data 3, 160018**    
 The first formal publication of the FAIR Principles. Includes the rationale behind them, and some exemplar implementations in the community.    
+- **[Bibliometrics: The Leiden Manifesto for research metrics](https://www.nature.com/articles/520429a). Hicks, D., Wouters, P., Waltman, L. et al. (2015) Nature 520, 429–431** 
+A distillation of best practice in metrics-based research assessment so that researchers can hold evaluators to account, and evaluators can hold their indicators to account.
 - **[Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854). Garcia L, Batut B, Burke ML, Kuzak M, Psomopoulos F, Arcila R, et al. (2020). PLoS Comput Biol 16(5):e1007854**   
-Action point for trainers to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
+Action points for trainers to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
 
 </details>
 
@@ -89,6 +92,8 @@ A template with six central parts that a data management plan should cover (part
 
 - **[FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/). ELIXIR FAIR training focus group**  
 A handbook designed to provide guidance on how to FAIRify training material.
+- **[FAIR-by-design microlearning](https://www.skills4eosc.eu/resources/fair-by-design-methodology). Skills4EOSC**
+A guide through the main stages of the FAIR-by-Design Methodology that will help with creating FAIR learning materials.
 
 </details>
 
