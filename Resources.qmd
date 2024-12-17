@@ -22,7 +22,7 @@ Good Research Practice 2024 provides orientation in the ethical principles and r
 Agreement establishing a common direction for research assessment reform: the assessment of research, researchers and research organisations recognises the diverse outputs, practices and activities that maximise the quality and impact of research.       
 - **[San Fransisco Declaration on Research Assessment](https://sfdora.org/read/). DORA, 2021**  
 A declaration developed to improve the ways in which the outputs of scholarly research are evaluated. 
-- **[Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/)**  
+- **[Amsterdam Declaration on Funding Research Software Sustainability](https://adore.software/declaration/). Research Software Alliance, 09/09/2024**  
 A declaration to raise awareness of the role of funding practice in the sustainability of research software, and to improve that practice.   
 
 </details>
@@ -36,7 +36,7 @@ The first formal publication of the FAIR Principles. Includes the rationale behi
 A distillation of best practice in metrics-based research assessment so that researchers can hold evaluators to account, and evaluators can hold their indicators to account.
 - **[Ten simple rules for making training materials FAIR](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854). Garcia L, Batut B, Burke ML, Kuzak M, Psomopoulos F, Arcila R, et al. (2020). PLoS Comput Biol 16(5):e1007854**   
 Action points for trainers to help make their training materials FAIR, enabling others to find, (re)use, and adapt them.
-- **[Ten simple rules for funding scientific open source software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010627).Strasser C, Hertweck K, Greenberg J, Taraborelli D, Vu E (2022). PLoS Comput Biol 18(11): e1010627.**   
+- **[Ten simple rules for funding scientific open source software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010627). Strasser C, Hertweck K, Greenberg J, Taraborelli D, Vu E (2022). PLoS Comput Biol 18(11): e1010627.**   
 Action points for funders on how to invest in scientific open source software and the teams who build and maintain it.
 
 </details>
@@ -110,7 +110,7 @@ A platform for high-quality journal-independent peer review in the life sciences
 
 - **[FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/). ELIXIR FAIR training focus group**  
 A handbook designed to provide guidance on how to FAIRify training material.
-- **[FAIR-by-design microlearning](https://www.skills4eosc.eu/resources/fair-by-design-methodology). Skills4EOSC**
+- **[FAIR-by-design microlearning](https://www.skills4eosc.eu/resources/fair-by-design-methodology). Skills4EOSC**   
 A guide through the main stages of the FAIR-by-Design Methodology that will help with creating FAIR learning materials.
 
 </details>
