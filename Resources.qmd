@@ -88,7 +88,20 @@ A template with six central parts that a data management plan should cover (part
 </details>
 
 <details>
-  <summary>Creating Open Educational Resources</summary>
+  <summary>Publishing</summary>  
+
+- **[Swepub](https://swepub.kb.se)**    
+A national database of research publications that contains metadata from publications at higher education institutions, research authorities, and other research institutes in Sweden.
+- **[Publicera](https://publicera.kb.se)**    
+A platform for Swedish scholarly open access journals.  
+- **[SciFree](https://scifree.se)**  
+Providing digital infrastructure for 100% Open Access and Open Science, ensuring the work of researchers and libraries retains its value and reach.
+
+</details>
+
+
+<details>
+  <summary>Open Educational Resources</summary>
 
 - **[FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/). ELIXIR FAIR training focus group**  
 A handbook designed to provide guidance on how to FAIRify training material.
@@ -109,6 +122,6 @@ Creative Commons licenses give everyone from individual creators to large instit
 This course aims to enable the participants to get a broad overview of intellectual property rights and discuss how they can be used to support and impact academic research. 
 - **[Introduction to data management practices](https://nbis.se/training/6). National Bioinformatics Infrastructure Sweden (NBIS)**      
 This course introduces important aspects of Research Data Management for researchers that want to take the first steps towards a more systematic and reproducible approach to analysing and managing research data.  
-- **[Training material made FAIR *by design*](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/). ELIXIR**
+- **[Training material made FAIR *by design*](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/). ELIXIR**   
 A 2 days course based on the FAIR training handbook and "10 simple rules to make material FAIR", aiming to introduce participants with a theoretical & hands-on approach to designing FAIR training material.
 
