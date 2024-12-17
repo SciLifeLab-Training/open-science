@@ -96,6 +96,8 @@ A national database of research publications that contains metadata from publica
 A platform for Swedish scholarly open access journals.  
 - **[SciFree](https://scifree.se)**  
 Providing digital infrastructure for 100% Open Access and Open Science, ensuring the work of researchers and libraries retains its value and reach.
+- **[Review Commons](https://www.reviewcommons.org)**    
+A platform for high-quality journal-independent peer review in the life sciences.  
 
 </details>
 
