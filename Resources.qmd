@@ -109,4 +109,6 @@ Creative Commons licenses give everyone from individual creators to large instit
 This course aims to enable the participants to get a broad overview of intellectual property rights and discuss how they can be used to support and impact academic research. 
 - **[Introduction to data management practices](https://nbis.se/training/6). National Bioinformatics Infrastructure Sweden (NBIS)**      
 This course introduces important aspects of Research Data Management for researchers that want to take the first steps towards a more systematic and reproducible approach to analysing and managing research data.  
+- **[Training material made FAIR *by design*](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/). ELIXIR**
+A 2 days course based on the FAIR training handbook and "10 simple rules to make material FAIR", aiming to introduce participants with a theoretical & hands-on approach to designing FAIR training material.
 
