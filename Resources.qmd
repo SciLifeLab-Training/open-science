@@ -105,16 +105,6 @@ A platform for high-quality journal-independent peer review in the life sciences
 </details>
 
 
-<details>
-  <summary>Open Educational Resources</summary>
-
-- **[FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/). ELIXIR FAIR training focus group**  
-A handbook designed to provide guidance on how to FAIRify training material.
-- **[FAIR-by-design microlearning](https://www.skills4eosc.eu/resources/fair-by-design-methodology). Skills4EOSC**   
-A guide through the main stages of the FAIR-by-Design Methodology that will help with creating FAIR learning materials.
-
-</details>
-
 
 ## Licensing
 - **[Creative Commons](https://creativecommons.org/share-your-work/cclicenses/)**  
@@ -122,11 +112,30 @@ Creative Commons licenses give everyone from individual creators to large instit
 
 
 
-## Further training
+## Further training  
+
+
+<details>
+  <summary>In-person</summary>  
+
 - **[An introduction to intellectual property rights in an academic context](https://www.sses.se/course/an-introduction-to-intellectual-property-rights-in-an-academic-context/). The Stockholm School of Entrepreneurship (SSES)**    
 This course aims to enable the participants to get a broad overview of intellectual property rights and discuss how they can be used to support and impact academic research. 
 - **[Introduction to data management practices](https://nbis.se/training/6). National Bioinformatics Infrastructure Sweden (NBIS)**      
 This course introduces important aspects of Research Data Management for researchers that want to take the first steps towards a more systematic and reproducible approach to analysing and managing research data.  
 - **[Training material made FAIR *by design*](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-Material-By-Design/). ELIXIR**   
 A 2 days course based on the FAIR training handbook and "10 simple rules to make material FAIR", aiming to introduce participants with a theoretical & hands-on approach to designing FAIR training material.
+
+</details>  
+
+<details>
+  <summary>Self-paced</summary>  
+- **[The Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book). Open Science EU - FOSTER**   
+The handbook aims at supporting educators of Open Science, intended as a helpful guide on how to forward knowledge on Open Science principles to networks, institutions, colleagues, and students.
+- **[FAIR training handbook](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/). ELIXIR FAIR training focus group**  
+A handbook designed to provide guidance on how to FAIRify training material.
+- **[FAIR-by-design microlearning](https://www.skills4eosc.eu/resources/fair-by-design-methodology). Skills4EOSC**   
+A guide through the main stages of the FAIR-by-Design Methodology that will help with creating FAIR learning materials.
+
+
+
 
