@@ -25,9 +25,9 @@ website:
             <li><a href='Session5.qmd'>5. Open Science in the project lifecycle - access & reuse</a></li>
             <li><a href='Session6.qmd'>6. Open Science in the project lifecycle - evaluate</a></li>
             <li><a href='Session7.qmd'>7. Open Science in the project lifecycle - communicate & citizen science</a></li>
-            <li><a href='Session8.qmd'>8. The National Guidelines for Open Science</a></li>
-            <li><a href='Session9.qmd'>8. Open Science and intellectual property rights</a></li>
-            <li><a href='Session10.qmd'>9. The future of Open Science</a></li>
+            <li><a href='Session8.qmd'>The National Guidelines for Open Science</a></li>
+            <li><a href='Session9.qmd'>Open Science and intellectual property rights</a></li>
+            <li><a href='Session10.qmd'>The future of Open Science</a></li>
           </ul>
         </details>"
       - Resources.qmd
