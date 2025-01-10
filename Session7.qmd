@@ -85,6 +85,8 @@ Coming soon
 
 ## Contributors
 
+- Karin Westin Tikkanen <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
+- Lotta Waesterberg Tomasson <a href="https://orcid.org/0000-0001-9106-5843" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 
