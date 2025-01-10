@@ -9,8 +9,8 @@ date: today
 ## About
 
 **Organizers:** 				SciLifeLab Training Hub, NBIS Training, SND training  
-**First in-person teaching instance:**		May 5-9, & May 27, 2025  
-**Location:**					SciLifeLab Solna, Air&Fire  
+**First teaching instance:**			May 5-9 (in-person) & May 27 (online), 2025  
+**Location:**					SciLifeLab Solna, room Air&Fire  
 **Suggested number of credits:** 		3hp  
 **Enrollment opens:**				November 25, 2024  
 **Enrollment closes:**				February 28, 2025     
