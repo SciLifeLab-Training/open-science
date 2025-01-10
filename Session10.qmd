@@ -1,5 +1,5 @@
 ---
-title: "9. The future of Open Science "
+title: "The future of Open Science "
 date: today
 ---
 
