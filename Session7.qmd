@@ -1,5 +1,5 @@
 ---
-title: "7. Science communication & citizen science "
+title: "7. Open Science in the project lifecycle - communicate & citizen science "
 date: today
 ---
 
