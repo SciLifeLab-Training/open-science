@@ -153,6 +153,34 @@ date: today
 
 <br/>
 
+
+#### Lotta Waesterberg Tomasson <a href="https://orcid.org/0000-0001-9106-5843" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/lottawtomasson/"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+###### Head of Communications, Vetenskap & Allmänhet
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/LottaWaesterbergTomasson.jpeg" alt="Lotta Waesterberg Tomasson" width="80"></td>
+    <td style="width: 80%;"> Lotta is dedicated to promoting dialogue between science and the public. She is involved in several projects related to open science and citizen science for example VAs 'Mass experiments'. She is also the citizen science ambassador for the European Citizen Science project (ECS) in Sweden.</td>
+</tr>
+</table>
+
+
+<br/>
+
+
+#### Andreas Lundquist <a href="https://www.linkedin.com/in/andreas-lundquist/"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+###### Business Coach, Karolinska Institutet Innovations/Stockholm School of Entrepreneurship 
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/AndreasLundquist.jpeg" alt="Andreas Lundquist" width="80"></td>
+    <td style="width: 80%;"> Andreas has a background in engineering, business development, and design methodology with a focus on the early stages of product development. He has extensive experience with delivering trainings on the topic of intellectual property rights and how they can be used to support and impact academic research.</td>
+</tr>
+</table>
+
+<br/>  
+
+
 #### Angeliki Adamaki <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/angeliki-adamaki/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ###### Project manager, Lund University 
 
