@@ -1,5 +1,5 @@
 ---
-title: "8. The National Guidelines for Open Science "
+title: "The National Guidelines for Open Science "
 date: today
 ---
 
