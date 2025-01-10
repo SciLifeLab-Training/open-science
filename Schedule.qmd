@@ -42,8 +42,8 @@ date: today
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | [8. The National Guidelines for Open Science](https://scilifelab-training.github.io/open-science/2505/Session8.html)   |
-| 13:00 - 16:30 | [6. Open Science in the project lifecycle - evaluation](https://scilifelab-training.github.io/open-science/2505/Session6.html)  |
+| 09:00 - 12:00 | [The National Guidelines for Open Science](https://scilifelab-training.github.io/open-science/2505/Session8.html)   |
+| 13:00 - 16:30 | [6. Open Science in the project lifecycle - evaluate](https://scilifelab-training.github.io/open-science/2505/Session6.html)  |
 : {tbl-colwidths="[25,75]"}
 
 <br/>
@@ -52,7 +52,8 @@ date: today
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:15 | [7. Science communication & citizen science](https://scilifelab-training.github.io/open-science/2505/Session7.html)  |
+| 09:00 - 12:00 | [7. Open Science in the project lifecycle - communicate & citizen science](https://scilifelab-training.github.io/open-science/2505/Session7.html)  |
+| 13:00 - 16:00 | [Open Science and intellectual property rights](https://scilifelab-training.github.io/open-science/2505/Session9.html)  |
 : {tbl-colwidths="[25,75]"}
 
 <br/>
@@ -61,7 +62,7 @@ date: today
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | [9. The Future of Open Science](https://scilifelab-training.github.io/open-science/2505/Session9.html)  |
+| 09:00 - 12:00 | [The Future of Open Science](https://scilifelab-training.github.io/open-science/2505/Session10.html)  |
 : {tbl-colwidths="[25,75]"}
 
 <br/>
