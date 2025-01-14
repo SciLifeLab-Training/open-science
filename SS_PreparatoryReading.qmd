@@ -1,5 +1,5 @@
 ---
-title: "2. Open Science in the project lifecycle - plan & design "
+title: "Preparatory reading"
 date: today
 ---
 
