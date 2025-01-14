@@ -10,14 +10,12 @@ date: today
 
 **Organizers:** 				SciLifeLab Training Hub  
 **In-person teaching instance:**		March 20th, 2025  
-**Location:**					Djurönäset, [Annual DDLS Research school retreat](https://www.scilifelab.se/data-driven/ddls-research-school/) 
+**Location:**					Djurönäset, [Annual DDLS Research school retreat](https://www.scilifelab.se/data-driven/ddls-research-school/)   
 **Suggested number of credits:** 		1hp  
 
 		
 
-Course leaders: 
-
-- Ineke Luijten (SciLifeLab Training Hub) <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+Course lead: Ineke Luijten (SciLifeLab Training Hub) <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 Course contact: ineke.luijten@scilifelab.se
 
@@ -48,10 +46,10 @@ Upon completion of this course, participants will be able to:
 
 - Explain what Open Science is, and discuss the benefits and challenges that come with its 
 implementation, specifically in the Swedish context  
--Describe the process for and benefits of publishing a registered report  
--Define the different types of Open Access publishing options and their benefits and 
+- Describe the process for and benefits of publishing a registered report  
+- Define the different types of Open Access publishing options and their benefits and 
 limitations  
--Identify new researcher evaluation criteria and demonstrate an understanding of which  
+- Identify new researcher evaluation criteria and demonstrate an understanding of which  
 research outputs can be published and credited  
 - Explain what citizen science is, and write a popular scientific summary of a scientific project  
 
@@ -59,17 +57,17 @@ research outputs can be published and credited
 
 ## Target audience and course prerequisites
 
-**Target audience:** This course is offered to all researchers in the DDLS program. 
-**Course prerequisites:** none  
-**Level:** beginner/intermediate
+**Target audience:** This course is offered to all researchers in the DDLS program.    
+**Course prerequisites:** none 
+**Level:** beginner/intermediate  
 
 
 ## Forms of instruction and examination  
 
-**Forms of instruction:** In-person, digital communications
-**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars. 
-**Language:** English  
-**Examination:** Active participation in all sessions and group assignments. A written popular scientific communication about a citizen science project of interest. 
+**Forms of instruction:** In-person, digital communications  
+**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars  
+**Language:** English    
+**Examination:** Active participation in all sessions and group assignments. A written popular scientific communication about a citizen science project of interest   
 
 
 
