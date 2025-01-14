@@ -42,7 +42,7 @@ Schedule is under development and may be subject to change
 
 | Time | Topic |
 |------|------|
-| N/A | [Citizen science & science communication]() |
+| N/A | [Citizen science & science communication](https://scilifelab-training.github.io/open-science/2503/SS_CitizenScienceAndScienceCommunication.html) |
 : {tbl-colwidths="[25,75]"} 
 
 <br/>
