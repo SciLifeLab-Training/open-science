@@ -8,48 +8,30 @@ date: today
 
 ## About
 
-**Organizers:** 				SciLifeLab Training Hub, NBIS Training, SND training  
-**First in-person teaching instance:**		May 5-9, & May 27, 2025  
-**Location:**					SciLifeLab Solna, Air&Fire  
-**Suggested number of credits:** 		3hp  
-**Enrollment opens:**				November 25, 2024  
-**Enrollment closes:**				February 28, 2025     
-**Course fee:**				        none   
+**Organizers:** 				SciLifeLab Training Hub  
+**In-person teaching instance:**		March 20th, 2025  
+**Location:**					Djurönäset, [Annual DDLS Research school retreat](https://www.scilifelab.se/data-driven/ddls-research-school/) 
+**Suggested number of credits:** 		1hp  
+
 		
 
 Course leaders: 
 
 - Ineke Luijten (SciLifeLab Training Hub) <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Elin Kronander (NBIS) <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- David Rayner (SND) <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-
 
 Course contact: ineke.luijten@scilifelab.se
 
+<!-- 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8qNaaBrPsM6BIHKiPCMNGeWQXzyjAp8mfC7sRk9oltbFJig/viewform" rel="orcid"><img src="img/Registration button.png" alt="" height="50"/></a>
-
+<br>
+-->
   
 :::
 
 ## Course content
 
-In accordance with the international EUA Agenda for Open Science 2025, Sweden has now committed itself to implement Open Science into its higher education by 2026, with clear paths mapped by SUHFs ‘Färdplan för öppen vetenskap’ (2021), and KBs ‘Nationella riktlinjer för öppen vetenskap’ (2024).  
-   
-The training ‘Open Science in the Swedish context’ is designed to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation.   
-  
-Completing this training will position participants as future leaders in the global shift towards more open and collaborative research practices, fostering a research environment where knowledge is freely exchanged and built upon.  
+The 1hp training ‘Open Science in the Swedish context’ is designed to equip scientists within the DDLS research school with a range of tools needed to perform research in accordance with Swedish Open Science standards, in addition to raising awareness around the Open Science and FAIR principles and how to implement these in a researcher's daily life. The training covers how to implement Open Science across several stages of the research project lifecycle, including experimental planning & design, sharing & disseminating output, researcher evaluation, and science communication. Through interactive lectures, discussions with guest speakers, and practical assignments, participants will gain first-hand experience with implementing and navigating pre-registration, the Open Access publishing landscape, new researcher evaluation criteria, and citizen science. Completing this training will position scientists within the DDLS research school as future leaders in the global shift towards more open and collaborative research practices, and will  support Sweden’s commitment to innovation and public engagement, fostering a research environment where knowledge is freely exchanged and built upon.  
 
-Topics covered include:
-
-- Open Science: what’s in it for you?
-- The state of Open Science in Sweden
-- Eliminating publication bias: how to publish a registered report
-- Data reuse with the help of data repositories
-- Good research practice in Sweden
-- New ways of academic publishing: Open Access and beyond
-- Getting credit for all your research outputs: DOIs and licensing 
-- Advances in researcher evaluation: funder and institutional perspectives
-- Science communication and citizen science
 
 ## Learning Objectives and Learning Outcomes
 #### Learning Objectives
@@ -57,36 +39,42 @@ Topics covered include:
 This course is designed for participants to:  
 
 - Get acquainted with Open Science principles and how they will be implemented into Swedish academia within the coming years  
-- Be able to execute every step of a research project according to Open Science principles   
+- Gain insight in to how to execute every step of a research project according to Open Science principles   
+
 
 #### Learning Outcomes
 
 Upon completion of this course, participants will be able to:
 
 - Explain what Open Science is, and discuss the benefits and challenges that come with its 
-implementation, specifically in the Swedish context
-- Describe the most common Open Science practices throughout every step of the research 
-project lifecycle
-- Implement Open Science practices into their own workflow  
+implementation, specifically in the Swedish context  
+-Describe the process for and benefits of publishing a registered report  
+-Define the different types of Open Access publishing options and their benefits and 
+limitations  
+-Identify new researcher evaluation criteria and demonstrate an understanding of which  
+research outputs can be published and credited  
+- Explain what citizen science is, and write a popular scientific summary of a scientific project  
+
 
 
 ## Target audience and course prerequisites
 
-**Target audience:** This is a nationally offered course open to PhD students, postdocs, researchers, PIs and other employees at all Swedish universities who would like to implement Open Science practices into every step of their research projects.  
+**Target audience:** This course is offered to all researchers in the DDLS program. 
 **Course prerequisites:** none  
 **Level:** beginner/intermediate
 
 
-## Forms of instruction and examination
+## Forms of instruction and examination  
 
-**Forms of instruction:** In-person (sessions 1-8), Online (session 9)  
-**Forms of study:** Interactive lectures, practical assignments, group activities, discussion seminars   
+**Forms of instruction:** In-person, digital communications
+**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars. 
 **Language:** English  
-**Examination:** Active participation and a 3 min final presentation  
+**Examination:** Active participation in all sessions and group assignments. A written popular scientific communication about a citizen science project of interest. 
 
 
 
-## Additional notes
+## Additional notes  
+
 - This course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.   
 - Participants need to bring a laptop.    
 
