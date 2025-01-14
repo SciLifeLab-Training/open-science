@@ -58,7 +58,7 @@ research outputs can be published and credited
 ## Target audience and course prerequisites
 
 **Target audience:** This course is offered to all researchers in the DDLS program.    
-**Course prerequisites:** none 
+**Course prerequisites:** none   
 **Level:** beginner/intermediate  
 
 
