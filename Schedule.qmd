@@ -16,8 +16,8 @@ Schedule is under development and may be subject to change
 
 | Time | Topic |
 |------|------|
-|  | [Good Research Practice](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
-|  | [Preparatory reading](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
+| N/A | [Good Research Practice](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
+| N/A | [Preparatory reading](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
 : {tbl-colwidths="[25,75]"}  
 
 <br/>
@@ -42,7 +42,7 @@ Schedule is under development and may be subject to change
 
 | Time | Topic |
 |------|------|
-|  | [Citizen science & science communication](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
+| N/A | [Citizen science & science communication](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
 : {tbl-colwidths="[25,75]"} 
 
 <br/>
