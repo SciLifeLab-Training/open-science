@@ -12,59 +12,38 @@ Schedule is under development and may be subject to change
 
 <br/>
 
-##### May 5, 2025. SciLifeLab Solna 
+##### February 17 - March 20, 2025. Self-study 
 
-| Time | Session |
+| Time | Topic |
 |------|------|
-| 13:00 - 16:30 | [1. Open Science in Sweden](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
+|  | [Good Research Practice](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
+|  | [Preparatory reading](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
 : {tbl-colwidths="[25,75]"}  
 
 <br/>
 
-##### May 6, 2025. SciLifeLab Solna  
+##### March 20, 2025. Djurönäset, DDLS annual retreat
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | [2. Open Science in the project lifecycle - plan & design](https://scilifelab-training.github.io/open-science/2505/Session2.html) |
-| 13:00 - 16:30 | [3. Open Science in the project lifecycle - collect & analyze](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
+| 09:00 - 10:15 | [1. Open Science in Sweden](https://scilifelab-training.github.io/open-science/2505/Session2.html) |
+| 10:15 - 10:45 | Coffee break |
+| 10:45 - 12:00 | [2. Open Science in project planning & design](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
+| 12:00 - 13:00 | Lunch |
+| 13:00 - 14:30 | [3. Open Science in project sharing & publishing](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
+| 14:30 - 15:00 | Coffee break |
+| 15:00 - 17:00 | [4. Open Science in researcher evaluation](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
+| 17:00 - 17:15 | [Wrap up and handout post-course assignment](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
 : {tbl-colwidths="[25,75]"}  
 
 <br/>
      
-##### May 7, 2025. SciLifeLab Solna    
+##### March 20 - April 15, 2025. Self-study    
 
-| Time | Session |
+| Time | Topic |
 |------|------|
-| 09:00 - 12:00 | [4. Open Science in the project lifecycle - share & disseminate](https://scilifelab-training.github.io/open-science/2505/Session4.html) |
-| 13:00 - 16:30 | [5. Open Science in the project lifecycle - access & reuse](https://scilifelab-training.github.io/open-science/2505/Session5.html)  |
-: {tbl-colwidths="[25,75]"}
+|  | [Citizen science & science communication](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
+: {tbl-colwidths="[25,75]"} 
 
 <br/>
 
-##### May 8, 2025. Kungliga Biblioteket & SciLifeLab Solna   
-
-| Time | Session |
-|------|------|
-| 09:00 - 12:00 | [8. The National Guidelines for Open Science](https://scilifelab-training.github.io/open-science/2505/Session8.html)   |
-| 13:00 - 16:30 | [6. Open Science in the project lifecycle - evaluation](https://scilifelab-training.github.io/open-science/2505/Session6.html)  |
-: {tbl-colwidths="[25,75]"}
-
-<br/>
-
-##### May 9, 2025. SciLifeLab Solna   
-
-| Time | Session |
-|------|------|
-| 09:00 - 12:15 | [7. Science communication & citizen science](https://scilifelab-training.github.io/open-science/2505/Session7.html)  |
-: {tbl-colwidths="[25,75]"}
-
-<br/>
-
-##### May 27, 2025. Online   
-
-| Time | Session |
-|------|------|
-| 09:00 - 12:00 | [9. The Future of Open Science](https://scilifelab-training.github.io/open-science/2505/Session9.html)  |
-: {tbl-colwidths="[25,75]"}
-
-<br/>
