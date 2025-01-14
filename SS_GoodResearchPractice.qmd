@@ -1,5 +1,5 @@
 ---
-title: "1. Open Science in Sweden "
+title: "Good Research Practice"
 date: today
 ---
 
