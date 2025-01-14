@@ -19,8 +19,12 @@ website:
       - Instructors.qmd
       - SS_GoodResearchPractice.qmd
       - SS_PreparatoryReading.qmd
-      - Session3.qmd
-      - Session4.qmd
+      - 1_OpenScienceInSweden.qmd
+      - 2_ProjectPlanningAndDesign.qmd
+      - 3_ProjectSharingAndPublishing.qmd
+      - 4_ResearcherEvaluation.qmd
+      - SS_CitizenScienceAndScienceCommunication
+
      
 
   navbar:
