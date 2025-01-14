@@ -7,6 +7,8 @@ branches:
 
 website:
   title: "Open Science in the Swedish context"
+  favicon: "img/favicon-32x32.png"
+
   sidebar:
     style: "floating"
     background: "#F4F6F6"
@@ -36,8 +38,6 @@ website:
   navbar:
     background: "#A7C947"
     logo: "img/SciLifeLab_Logotype_NEG.png"
-  favicon: "img/SciLifeLab_Logotype_NEG.png"
-
 
 format:
   html:
