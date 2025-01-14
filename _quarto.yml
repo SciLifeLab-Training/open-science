@@ -17,8 +17,8 @@ website:
       - index.qmd 
       - Schedule.qmd
       - Instructors.qmd
-      - Session1.qmd
-      - Session2.qmd
+      - SS_GoodResearchPractice.qmd
+      - SS_PreparatoryReading.qmd
       - Session3.qmd
       - Session4.qmd
      
