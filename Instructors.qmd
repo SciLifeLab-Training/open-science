@@ -20,7 +20,7 @@ date: today
     
 <br/>
 
-
+<!-- 
 #### Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
 ##### Head of Training and Data Steward, NBIS  
 
@@ -177,6 +177,7 @@ date: today
 </tr>
 </table>
   
-
+<br>
+-->
 
 
