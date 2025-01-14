@@ -28,11 +28,11 @@ Schedule is under development and may be subject to change
 |------|------|
 | 09:00 - 10:15 | [1. Open Science in Sweden](https://scilifelab-training.github.io/open-science/2503/1_OpenScienceInSweden.html) |
 | 10:15 - 10:45 | Coffee break |
-| 10:45 - 12:00 | [2. Open Science in project planning & design](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
+| 10:45 - 12:00 | [2. Open Science in project planning & design](https://scilifelab-training.github.io/open-science/2503/2_ProjectPlanningAndDesign.html) |
 | 12:00 - 13:00 | Lunch |
-| 13:00 - 14:30 | [3. Open Science in project sharing & publishing](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
+| 13:00 - 14:30 | [3. Open Science in project sharing & publishing](https://scilifelab-training.github.io/open-science/2503/3_ProjectSharingAndPublishing.html) |
 | 14:30 - 15:00 | Coffee break |
-| 15:00 - 17:00 | [4. Open Science in researcher evaluation](https://scilifelab-training.github.io/open-science/2505/Session3.html) |
+| 15:00 - 17:00 | [4. Open Science in researcher evaluation](https://scilifelab-training.github.io/open-science/2503/4_ResearcherEvaluation.html) |
 | 17:00 - 17:15 | Wrap up and handout post-course assignment |
 : {tbl-colwidths="[25,75]"}  
 
@@ -42,7 +42,7 @@ Schedule is under development and may be subject to change
 
 | Time | Topic |
 |------|------|
-| N/A | [Citizen science & science communication](https://scilifelab-training.github.io/open-science/2505/Session1.html) |
+| N/A | [Citizen science & science communication]() |
 : {tbl-colwidths="[25,75]"} 
 
 <br/>
