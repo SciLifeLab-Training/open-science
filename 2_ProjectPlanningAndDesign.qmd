@@ -3,6 +3,11 @@ title: "2. Open Science in project planning & design"
 date: today
 ---
 
+::: {.callout-note}
+Coming soon
+:::
+
+<!-- 
 ::: {.callout-tip}
 ### Learning Objectives
 
@@ -70,8 +75,6 @@ and describe available options to publish sensitive data
 
 Coming soon
   
-<!-- 
-
 **Lecture videos**
 
 <iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -91,9 +94,7 @@ Coming soon
 
 Coming soon  
   
- 
-<br>
--->
+
 
 ## Contributors
 
@@ -109,5 +110,8 @@ Please cite material as:
 
 >Ineke Luijten, David Rayner, Abeni Wickham (2024) *Open Science in the Swedish context - Session 4: Open Science in the project lifecycle - share and disseminate*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session4.html     
 
+ 
+<br>
+-->
 
 
