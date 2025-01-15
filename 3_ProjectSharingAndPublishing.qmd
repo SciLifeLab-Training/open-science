@@ -2,3 +2,8 @@
 title: "3. Open Science in project sharing & publishing"
 date: today
 ---
+
+::: {.callout-note}
+Coming soon
+:::
+
