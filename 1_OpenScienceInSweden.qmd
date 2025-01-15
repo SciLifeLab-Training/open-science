@@ -5,7 +5,7 @@ date: today
 
 
 ::: {.callout-note}
-Schedule is under development and may be subject to change
+Coming soon
 :::
 
 <!-- 
