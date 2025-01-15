@@ -3,6 +3,14 @@ title: "Preparatory reading"
 date: today
 ---
 
+
+::: {.callout-note}
+Coming soon
+:::
+
+
+
+<!-- 
 ::: {.callout-tip}
 ### Learning Objectives
 
@@ -83,9 +91,7 @@ Coming soon
 
 Coming soon  
   
- 
-<br>
--->
+
 
 ## Contributors
 
@@ -102,5 +108,7 @@ Please cite material as:
 
 >Ineke Luijten, Till Brückner, Elin Kronander (2024) *Open Science in the Swedish context - Session 2: Open Science in the project lifecycle - plan & design*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session2.html     
 
-
+ 
+<br>
+-->
 
