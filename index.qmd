@@ -10,7 +10,7 @@ date: today
 
 **Organizers:** 				SciLifeLab Training Hub  
 **In-person teaching instance:**		March 20th, 2025  
-**Location:**					Djurönäset, [Annual DDLS Research school retreat](https://www.scilifelab.se/data-driven/ddls-research-school/)   
+**Location:**					Djurönäset, [Annual DDLS Research school retreat](https://www.scilifelab.se/event/ddls-research-school-annual-meeting/)   
 **Suggested number of credits:** 		1hp  
 
 		
