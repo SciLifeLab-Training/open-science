@@ -26,7 +26,7 @@ date: today
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/KristenSchroeder.jpeg" alt="Kristen Schroeder" width="80"></td>
-    <td style="width: 80%;">    </td>
+    <td style="width: 80%;"> A career microbiologist and science communication explorer, Kristen connects people with skills, experiences, and stories about research. Because science should be open to everyone who has an interest in it! </td>
 </tr>
 </table>
 
