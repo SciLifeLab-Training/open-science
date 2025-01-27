@@ -39,7 +39,7 @@ date: today
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/JoannaSendecka.jpeg" alt="Joanna Sendecka" width="80"></td>
-    <td style="width: 80%;">    </td>
+    <td style="width: 80%;"> Joanna is a former researcher who now works across research communities, promoting and providing expertise in Research Data Management and Open Science practices. She is also an active member of the CoARA working group at Uppsala University and national leve  </td>
 </tr>
 </table>
   
