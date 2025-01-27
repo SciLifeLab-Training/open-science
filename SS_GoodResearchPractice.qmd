@@ -3,97 +3,151 @@ title: "Good Research Practice"
 date: today
 ---
 
+::: {.callout-note icon=false}
+
+## Assignment details
+
+This module is designed to familiarize researchers in the SciLifeLab DDLS program with the most important aspects of Good Research Practice, specifically in the Swedish context. The module is self-paced, and based primarily on the report [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) ('God forskningssed', VR, 2024) and the [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)  (ALLEA, 2023). The information provided in this module is not exhaustive, but rather meant as an introduction to the topic. **Students are encouraged to further examine references to laws and documents relevant to their specific research projects**.  
+
+Please work through the sections below and answer the questions in the Google form to test your knowledge. 
+:::  
+
+---  
+  
+<details>
+<summary><span style="font-size: 20px; font-weight: bold; color: black;">1.	Introduction to Good Research Practice</span></summary>
+<br>
+Good research practice (GRP) is defined as “**the collective ethical criteria on how good research should be conducted**” [(VR, 2017)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), and encompasses a range of ethical standards and guidelines that govern the conduct of research across disciplines. Adhering to GRP while conducting research is crucial, as it ensures the credibility and reliability of research findings, fosters the public’s trust in science, upholds the ethical treatment of research subjects, and respects the broader societal impact of scholarly work. Thus, conducting high quality research requires adherence to GRP [(VR, 2017)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).
 
 
-::: {.callout-note}
+In Sweden, the responsibility of researchers to follow GRP is enshrined in **national legislation**, such as:  
+
+- [Law 2019:504. the Act on Responsibility for Good Research Practice and the Examination of Research Misconduct ('lagen om ansvar för god forskningssed och prövning av oredlighet i forskning')](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)  
+
+Swedish researchers are further expected to adhere to a set of **well-established, non-legally-binding research integrity and ethics guidelines**, most notably:  
+
+- [Good Research Practice ('God Forskningssed')](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html)  
+- [The European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)  
+
+and also **documents** such as:  
+
+- [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/)  
+- [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml)
+
+Finally, many research institutions have formulated **codes of conducts** they expect all employees to adhere to, for example:  
+
+- [SciLifeLabs code of conduct](https://www.scilifelab.se/code-of-conduct/)   
+
+**Adhering to GRP as a researcher means not only refraining from violating these laws and guidelines, but also practicing research with a keen awareness of applicable regulations, as well as relying on personal moral judgement.**   
+
+The responsibility for upholding GRP is shared by all actors in research performing organizations. On a higher level, it is up to the research performing organization to create a good research environment, for example by ([SUHF, 2023](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf)): 
+
+-	Training and mentoring in GRP 
+-	Supporting functions (e.g. guidelines)
+-	Infrastructure and (technical) support (e.g. clear procedures)
+-	Incentive structures  
+
+It is also the responsibility of the research performing organization to ensure academic freedom for individual researchers, a protection that is enshrined in Swedish law ([Law 1992:1434. The higher education act ('Högskolelag')](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)). However, this academic freedom comes with the responsibility for individual researchers to uphold research integrity ([Section 4 of Law 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)). GRP is not uniform across all fields; ethical considerations and legal requirements may vary depending on the subject area. **It is thus the researchers own responsibility to ensure familiarity with regulations and guidelines, continuously update knowledge when changes occur, and understand how these principles are applied in specific research areas.**   
+
+You as a researcher much have:   
+  
+-	good knowledge of the framework and starting points for GRP  
+-	the ability to apply principles and rules in practice and with regard to various legitimate interests and demands   
+-	good professional judgment   
+-	good research habits   
+-	the ability to resist temptations and undue influence   
+-	the ability to handle ethical challenges  
+
+  
+*The following chapters will outline how to follow GRP throughout a scholarly investigation, from acquiring funding, to the experimental phase, to collaborating (inter)nationally, to publishing and reviewing. Also contain an overview research misconduct and the procedure for those accused.* 
+</details>
+  
+---    
+  
+<details>
+<summary><span style="font-size: 20px; font-weight: bold; color: black;">2. GRP in acquiring funding</span></summary>  
+<br>  
+GRP extends to the **responsible and ethical use of research funding and resources**. Researchers must strive to:  
+
+- maximize the value of research while minimizing waste of time and resources      
+- avoid unnecessary harm, risk, or suffering  
+
+Funding applications should clearly demonstrate how the proposed research has the potential to generate valuable knowledge and/or societal benefit. Conducting research with no such potential is inconsistent with GRP.  
+    
+When applying for grants, such as those offered by e.g. [the Swedish Research Council (Vetenskapsrådet)](https://www.vr.se), [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en), and [the ERC](https://erc.europa.eu/apply-grant), researchers must reflect on ethical aspects early in the planning phase of their projects. Applications must address both **legal requirements** and **broader ethical considerations**. This includes:  
+
+- identifying potential ethical challenges
+- describing how ethical issues will be managed
+- describing how compliance with relevant regulations will be ensured
+- justifying why the research should be conducted   
+
+See e.g. [VR](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html), [Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf), and [ERC](https://erc.europa.eu/manage-your-project/ethics-guidance) for requirements surrounding ethical reflections in grant proposals.   
+ 
+**Adhering to ethical standards in funding applications is thus essential for fostering trust and accountability in research. By addressing ethical issues transparently and comprehensively, researchers contribute to the responsible use of funding and uphold the integrity of the research process.** 
+    
+</details>  
+  
+---
+<details>
+<summary><span style="font-size: 20px; font-weight: bold; color: black;">3. GRP in experimental research </span></summary>  
+<br>  
 Coming soon
-:::
+</br>
+</details> 
+---  
 
+<details>
+<summary><span style="font-size: 20px; font-weight: bold; color: black;">4. GRP in (inter)national collaboration </span></summary>  
+<br>    
 
+#### Collaboration with non-academic actors in society   
+Researchers in a wide variety of fields collaborate with non-academic societal actors to address complex societal challenges, co-create knowledge, develop innovative solutions, and ensure that research outcomes have practical applications and tangible benefits for communities, industries, and policymakers. These collaborations with societal actors require special attention to ensure:
+•	A clear division of responsibilities
+•	Monitoring how research affects operations of the involved organizations beyond the primary research object
+•	Sensitivity to power imbalances or conflicts that could affect the research or stakeholders.
 
+#### International collaboration  
+In addition to collaborating with societal actors, many researchers collaborate internationally to exchange knowledge and/or material. Research conducted across borders requires adherence to regulations of all involved countries, as well as a nuanced understanding of cultural, political, and economic differences. In order to ensure “responsible internationalization”, researchers and research performing organizations must: CHECK REFERENCES
+https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf
+https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf TRUST Code (2023). Global Code of Conduct for Research in Resource-Poor Settings. SUHF Checklist (2023). Global Responsible Engagement REC.
+
+1.	Identify and apply relevant ethical principles and regulations for each collaboration, ensuring proper planning in accordance with these standards.
+2.	Avoid so called “ethical dumping”, ensuring research outside Sweden respects Swedish ethical guidelines even when local regulations are more permissive (TRUST Code, 2023), thereby protecting humans, animals, and the environment.
+3.	Clearly define issues of ownership and responsibility for material (including data), and how participants' intellectual property rights will be protected 
+4.	Establish mechanisms to address conflicts and deviations from good research practice
+When using genetic resources or traditional knowledge from abroad, compliance with the Nagoya Protocol, EU ABS Regulation (EU Access and Benefit Sharing Regulation 511/2014), and national laws is mandatory. Researchers must document and verify access under the supplier country's rules, using tools like the EU DECLARE platform for due diligence.
+These practices foster responsible research that respects global ethical standards and promotes trust across borders.
+
+</details> 
+---   
+
+<details>
+<summary><span style="font-size: 20px; font-weight: bold; color: black;">References</span></summary>
+
+#### Laws  
+- [Law 2019:504. the Act on Responsibility for Good Research Practice and the Examination of Research Misconduct](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/) 'lagen 2019:504 om ansvar för god forskningssed och prövning av oredlighet i forskning', Utbildningsdepartement, 2019   
+- [Law 1992:1434. The higher education act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)'Högskolelag',Utbildningsdepartement, 1992   
+
+#### Reports    
+- [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) 'God forskningssed', VR, 2024 
+- [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) ALLEA, 2023    
+- [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/) World Medical Association, 2024   
+- [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml) Convention on Biological Diversity, 2010   
+- [SciLifeLabs code of conduct](https://www.scilifelab.se/code-of-conduct/) SciLifeLab Operations Office, 2023    
+- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf) 'Vägledning för lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed' SUHF, 2023    
 <!-- 
-::: {.callout-tip}
-### Learning Objectives
+### Website
 
-By the end of this session, participants will be able to:
+<details>
+<summary>View Websites</summary>
+<br>
 
-- Explain what Open Science is, and discuss the benefits and challenges that come with its 
-implementation  
+</details>
 
-- Summarize the National Roadmap for Open Science and how it will be 
-implemented in Sweden over the coming years  
+</details>
 
-:::
+---
 
-## Schedule  
-<style>
-  tr:hover {
-    background-color: #F6F8F9;
-  }
-</style>
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="border-bottom: 0.5px solid #808080;">
-    <th style="width: 15%;">Time</th>
-    <th style="width: 60%;">Topic</th>
-    <th style="width: 25%;">Instructor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">13:00</td>  
-      <td style="padding: 10px 0;">Welcome & Introduction to Open Science</td>
-      <td style="padding: 10px 0;">Ineke Luijten</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">13:15</td>
-      <td style="padding: 10px 0;">The benefits of Open Science </td>
-      <td style="padding: 10px 0;">Ineke Luijten</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">14:30</td>
-      <td style="padding: 10px 0;">Coffee break</td>
-      <td style="padding: 10px 0;"></td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">15:00</td>
-      <td style="padding: 10px 0;">The state of Open Science in Sweden</td>
-      <td style="padding: 10px 0;">Sabina Anderberg</td>
-    </tr>
-    <tr style="border-bottom: 0.5px solid #808080;">
-      <td style="padding: 10px 0;">16:30</td>
-      <td style="padding: 10px 0;">End of day</td>
-      <td style="padding: 10px 0;"></td>
-    </tr>
-  </tbody>
-</table>
-   
-
-## Materials  
-  
-Coming soon
-  
-
-<!-- 
-**Lecture videos**
-
-<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
-
-[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
-
-
-**Lecture slides**  
-
-<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
-
-
-<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
-
-
-**Practical assignments**  
-
-Coming soon  
-  
 
 ## Contributors
 
@@ -112,3 +166,4 @@ Please cite material as:
 
 <br>
 -->
+
