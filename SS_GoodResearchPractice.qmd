@@ -3,6 +3,7 @@ title: "Good Research Practice"
 date: today
 ---
 
+
 ::: {.callout-note icon=false}
 
 ## Assignment details
@@ -18,7 +19,6 @@ Please work through the sections below and answer the questions in the Google fo
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">1.	Introduction to Good Research Practice</span></summary>
 <br>
 Good research practice (GRP) is defined as “**the collective ethical criteria on how good research should be conducted**” [(VR, 2017)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), and encompasses a range of ethical standards and guidelines that govern the conduct of research across disciplines. Adhering to GRP while conducting research is crucial, as it ensures the credibility and reliability of research findings, fosters the public’s trust in science, upholds the ethical treatment of research subjects, and respects the broader societal impact of scholarly work. Thus, conducting high quality research requires adherence to GRP [(VR, 2017)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).
-
 
 In Sweden, the responsibility of researchers to follow GRP is enshrined in **national legislation**, such as:  
 
@@ -87,14 +87,16 @@ See e.g. [VR](https://www.vr.se/english/applying-for-funding/requirements-terms-
     
 </details>  
   
----
+---  
+
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">3. GRP in experimental research </span></summary>  
 <br>  
 Coming soon
 </br>
-</details> 
----  
+</details>   
+
+---    
 
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">4. GRP in (inter)national collaboration </span></summary>  
@@ -118,7 +120,8 @@ https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement
 When using genetic resources or traditional knowledge from abroad, compliance with the Nagoya Protocol, EU ABS Regulation (EU Access and Benefit Sharing Regulation 511/2014), and national laws is mandatory. Researchers must document and verify access under the supplier country's rules, using tools like the EU DECLARE platform for due diligence.
 These practices foster responsible research that respects global ethical standards and promotes trust across borders.
 
-</details> 
+</details>   
+
 ---   
 
 <details>
@@ -135,6 +138,7 @@ These practices foster responsible research that respects global ethical standar
 - [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml) Convention on Biological Diversity, 2010   
 - [SciLifeLabs code of conduct](https://www.scilifelab.se/code-of-conduct/) SciLifeLab Operations Office, 2023    
 - [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf) 'Vägledning för lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed' SUHF, 2023    
+
 <!-- 
 ### Website
 
@@ -142,12 +146,30 @@ These practices foster responsible research that respects global ethical standar
 <summary>View Websites</summary>
 <br>
 
+#### a
+- [allencompassingtrip.com](https://www.allencompassingtrip.com/)
+- [alonetone](https://alonetone.com/)
+- [askubuntu](https://askubuntu.com/)
+- [audiotrails.io](https://audiotrails.io/)
+
+#### b
+- [basecamp](https://basecamp.com/)
+- [bookshop.org](https://bookshop.org/)
+- [boxdrop.io](https://www.boxdrop.io/)
+
+#### c
+- [chaosmage.app](https://chaosmage.app/)
+- [cookpad](https://cookpad.com/us)
+- [coinbase](https://www.coinbase.com/)
+- [CoinGecko](https://www.coingecko.com/en)
+- [covidnearme](https://covidnearme.org/)
+- [CrowdWorks.jp](https://crowdworks.jp/)
+
 </details>
 
 </details>
 
 ---
-
 
 ## Contributors
 
@@ -166,4 +188,3 @@ Please cite material as:
 
 <br>
 -->
-
