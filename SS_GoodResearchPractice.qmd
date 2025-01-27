@@ -3,7 +3,9 @@ title: "Good Research Practice"
 date: today
 ---
 
+Coming soon
 
+<!-- 
 ::: {.callout-note icon=false}
 
 ## Module details
@@ -201,7 +203,7 @@ Researchers must also counteract publication bias by ensuring valuable findings 
     
 ---   
     
-<!-- 
+
 ### Website
 
 <details>
