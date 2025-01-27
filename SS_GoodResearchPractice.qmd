@@ -119,7 +119,7 @@ Researchers in a wide variety of fields collaborate with non-academic societal a
 
 #### International collaboration  
 In addition to collaborating with societal actors, many researchers collaborate internationally to exchange knowledge and/or material. Research conducted across borders requires adherence to regulations of **all involved countries**, as well as a nuanced understanding of cultural, political, and economic differences. In order to ensure **“responsible internationalization”**, researchers and research performing organizations must: <!--https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf TRUST Code (2023). Global Code of Conduct for Research in Resource-Poor Settings. SUHF Checklist (2023). Global Responsible Engagement REC.-->  
-
+<!-- 
 1.	Identify and apply relevant ethical principles and regulations for each collaboration, ensuring proper planning in accordance with these standards.  
 
 2.	Avoid so called “ethical dumping”, ensuring research outside Sweden respects Swedish ethical guidelines even when local regulations are more permissive (TRUST Code, 2023), thereby protecting humans, animals, and the environment.  
