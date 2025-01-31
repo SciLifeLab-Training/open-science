@@ -3,20 +3,19 @@ title: "Good Research Practice"
 date: today
 ---
 
-Coming soon
 
-<!-- 
 ::: {.callout-note icon=false}
 
-## Module details
+## About
 
-**Learning outcomes** Familiarize researchers in the SciLifeLab DDLS program with the most important aspects of Good Research Practice, specifically in the Swedish context   
+This module is primarily based on [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) ('God forskningssed', VR, 2024) and the [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) (ALLEA, 2023). The information provided in this module is not exhaustive, but rather meant as an introduction to the topic. **Students are encouraged to further examine references to relevant laws and documents**. 
+
+**Upon completion of this module, students will be able to**   
+- Demonstrate an understanding of ethical principles and legal frameworks governing research in Sweden  
+- Execute every facet of an academic project according to Good Research Practice     
 **Mode of study:** self-paced  
-**Licensing:** This module is heavily based on [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) ('God forskningssed', VR, 2024) and the [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)  (ALLEA, 2023)  
-  
-The information provided in this module is not exhaustive, but rather meant as an introduction to the topic. **Students are encouraged to further examine references to laws and documents relevant to their specific research projects**.  
 
-Please work through the sections below and answer the questions in the Google form to test your knowledge. 
+*Please work through the sections below and answer the questions in the Google form to test your knowledge.* 
 :::  
 
 ---  
@@ -24,9 +23,9 @@ Please work through the sections below and answer the questions in the Google fo
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">1.	Introduction to Good Research Practice</span></summary>
 <br> 
-<span style="color: #A7C947;">**Reading time: 10 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test questions: 2** </span>
+<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 1, 2** </span>
 
-Good research practice (GRP) is defined as “**the collective ethical criteria on how good research should be conducted**” [(VR, 2017)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), and encompasses a range of ethical standards and guidelines that govern the conduct of research across disciplines. Adhering to GRP while conducting research is crucial, as it ensures the credibility and reliability of research findings, fosters the public’s trust in science, upholds the ethical treatment of research subjects, and respects the broader societal impact of scholarly work. Thus, conducting high quality research requires adherence to GRP [(VR, 2017)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).
+Good research practice (GRP) is defined as “**the collective ethical criteria on how good research should be conducted**” [(VR, 2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), and encompasses a range of ethical standards and guidelines that govern the conduct of research across disciplines. Adhering to GRP while conducting research is crucial, as it ensures the credibility and reliability of research findings, fosters the public’s trust in science, upholds the ethical treatment of research subjects, and respects the broader societal impact of scholarly work. Thus, conducting high quality research requires adherence to GRP [(VR, 2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).
 
 In Sweden, the responsibility of researchers to follow GRP is enshrined in **national legislation**, such as:  
 
@@ -51,9 +50,9 @@ Finally, many research institutions have formulated **codes of conducts** they e
 The responsibility for upholding GRP is shared by all actors in research performing organizations. On a higher level, it is up to the research performing organization to create a good research environment, for example by ([SUHF, 2023](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf)): 
 
 -	Training and mentoring in GRP 
--	Supporting functions (e.g. guidelines)
--	Infrastructure and (technical) support (e.g. clear procedures)
--	Incentive structures  
+-	Supporting functions (e.g. by producing guidelines)
+-	Infrastructure and (technical) support (e.g. by setting up clear procedures)
+-	Incentive structures (e.g. by rewarding adherence to GRP) 
 
 It is also the responsibility of the research performing organization to ensure academic freedom for individual researchers, a protection that is enshrined in Swedish law ([Law 1992:1434. The higher education act ('Högskolelag')](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)). However, this academic freedom comes with the responsibility for individual researchers to uphold research integrity ([Section 4 of Law 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)). GRP is not uniform across all fields; ethical considerations and legal requirements may vary depending on the subject area. **It is thus the researchers own responsibility to ensure familiarity with regulations and guidelines, continuously update knowledge when changes occur, and understand how these principles are applied in specific research areas.**   
 
@@ -67,7 +66,7 @@ You as a researcher much have:
 -	the ability to handle ethical challenges  
 
   
-*The following chapters will outline how to follow GRP throughout a scholarly investigation, from acquiring funding, to the experimental phase, to collaborating (inter)nationally, to publishing and reviewing. Also contain an overview research misconduct and the procedure for those accused.* 
+*The following chapters will outline how to follow GRP throughout an academic project, from acquiring funding, to the experimental phase, to collaborating (inter)nationally, to publishing and reviewing. The final chapter covers research misconduct and outlines the procedure following a misconduct accusation.* 
 </details>
   
 ---    
@@ -75,7 +74,7 @@ You as a researcher much have:
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">2. GRP in acquiring funding</span></summary>
 <br> 
-<span style="color: #A7C947;">**Reading time: 3 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test questions: 1** </span>  
+<span style="color: #A7C947;">**Reading time: 2 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 3** </span>  
   
 GRP extends to the **responsible and ethical use of research funding and resources**. Researchers must strive to:  
 
@@ -91,9 +90,9 @@ When applying for grants, such as those offered by e.g. [the Swedish Research Co
 - describing how compliance with relevant regulations will be ensured
 - justifying why the research should be conducted   
 
-See e.g. [VR](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html), [Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf), and [ERC](https://erc.europa.eu/manage-your-project/ethics-guidance) for requirements surrounding ethical reflections in grant proposals.   
+See e.g. [VR 'Conducting ethical research'](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html), [Horizon Europe 'Ethics self-assessment guide'](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf), and [ERC 'Ethics guidance'](https://erc.europa.eu/manage-your-project/ethics-guidance) for requirements surrounding ethical reflections in grant proposals.   
  
-**Adhering to ethical standards in funding applications is thus essential for fostering trust and accountability in research. By addressing ethical issues transparently and comprehensively, researchers contribute to the responsible use of funding and uphold the integrity of the research process.** 
+**In summary: adherence to ethical standards in funding applications is essential for fostering trust and accountability in research. By addressing ethical issues transparently and comprehensively, researchers contribute to the responsible use of funding and uphold the integrity of the research process.** 
     
 </details>  
   
@@ -110,68 +109,93 @@ Coming soon
 
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">4. GRP in (inter)national collaboration </span></summary>  
+<br> 
+<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 4, 5** </span> 
+<br>  
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Collaboration with non-academic actors in society</span></summary>   
+     
+Researchers in a wide variety of fields collaborate with non-academic societal actors to:
+   
+  - address complex societal challenges    
+  - co-create knowledge    
+  - develop innovative solutions  
+  - ensure that research outcomes have practical applications and tangible benefits for communities, industries, and policymakers  
 
-#### Collaboration with non-academic actors in society   
-Researchers in a wide variety of fields collaborate with non-academic societal actors to address complex societal challenges, co-create knowledge, develop innovative solutions, and ensure that research outcomes have practical applications and tangible benefits for communities, industries, and policymakers. **These collaborations with societal actors require special attention to ensure**:  
--	A clear division of responsibilities  
--	Monitoring how research affects operations of the involved organizations beyond the primary research object  
--	Sensitivity to power imbalances or conflicts that could affect the research or stakeholders  
+**These collaborations with societal actors require special attention to ensure**:  
 
-#### International collaboration  
-In addition to collaborating with societal actors, many researchers collaborate internationally to exchange knowledge and/or material. Research conducted across borders requires adherence to regulations of **all involved countries**, as well as a nuanced understanding of cultural, political, and economic differences. In order to ensure **“responsible internationalization”**, researchers and research performing organizations must: <!--https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf TRUST Code (2023). Global Code of Conduct for Research in Resource-Poor Settings. SUHF Checklist (2023). Global Responsible Engagement REC.-->  
-<!-- 
+  -	A clear division of responsibilities  
+  -	Monitoring how research affects operations of the involved organizations beyond the primary research object  
+  -	Sensitivity to power imbalances or conflicts that could affect the research or stakeholders 
+</details>     
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">International collaboration</span></summary>    
+  
+In addition to collaborating with societal actors, many researchers collaborate internationally to exchange knowledge and/or material. Research conducted across borders requires adherence to regulations of **all involved countries**, as well as a nuanced understanding of cultural, political, and economic differences. In order to ensure **“responsible internationalization”** (see [STINT](https://www.stint.se/wp-content/uploads/2022/09/STINT_Ansvarsfull-internation_web.pdf) for more information), researchers and research performing organizations must: 
+
 1.	Identify and apply relevant ethical principles and regulations for each collaboration, ensuring proper planning in accordance with these standards.  
 
-2.	Avoid so called “ethical dumping”, ensuring research outside Sweden respects Swedish ethical guidelines even when local regulations are more permissive (TRUST Code, 2023), thereby protecting humans, animals, and the environment.  
+2.	Avoid so called “ethical dumping”, ensuring research outside Sweden respects Swedish ethical guidelines even when local regulations are more permissive, thereby protecting humans, animals, and the environment.  
 
 3.	Clearly define issues of ownership and responsibility for material (including data), and how participants' intellectual property rights will be protected.  
 
 4.	Establish mechanisms to address conflicts and deviations from good research practice.  
 
-When using genetic resources or traditional knowledge from abroad, compliance with the Nagoya Protocol, EU ABS Regulation (EU Access and Benefit Sharing Regulation 511/2014), and national laws is mandatory. Researchers must document and verify access under the supplier country's rules, using tools like the EU DECLARE platform for due diligence.
-These practices foster responsible research that respects global ethical standards and promotes trust across borders.
+For guidance on ethical issues in international collaborations, the Association of Swedish Higher Education Institutions (SUHF) has developed a [checklist](https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf), and researchers are further encouraged to apply the [TRUST code](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf) to ensure equitable global research partnerships. 
 
-</br>
+When using genetic resources or traditional knowledge from abroad, compliance with [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml), [EU Access and Benefit Sharing Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0511), and national laws is mandatory. Researchers must document and verify access under the supplier country's rules, using tools like the [EU DECLARE](https://www.naturvardsverket.se/4ac4da/contentassets/09859c1d752d445ab59f06c0544fe6e0/question-and-answer-users.pdf) platform for due diligence. For more information, see [Naturvårdsverket](https://www.naturvardsverket.se/vagledning-och-stod/arter-och-artskydd/genetiska-resurser-nagoyaprotokollet/).   
+
+**All together, these practices foster responsible research that respects global ethical standards and promotes trust across borders.**
+</details>  
+
 </details>   
 
 ---    
 
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">5. GRP in publishing and reviewing </span></summary> 
-<br>
+<br> 
+<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 6, 7** </span> 
+<br>  
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Writing</span></summary>
 The scientific publication is often the primary form in which research results are communicated. Ensuring transparency, honesty, and responsibility in publishing and other forms of scientific communication is thus pivotal.
-According to VR (2017), GRP in scientific publishing entails: 
--	Presenting data, methods, results and interpretations in an open, honest, transparent and correct manner, while meeting the interest in protection and legitimate demands for confidentiality
--	clearly reporting study robustness, assumptions and values, sources of error and remaining uncertainties and knowledge gaps 
--	referring and citing clearly and correctly, in accordance with the standard that applies to the research area 
--	openly reporting any conflicts of interest, financial support and dependencies 
--	preventing the dissemination and use of incorrect results or misleading information.
+According to [VR (2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), GRP in scientific publishing entails:   
+
+-	Presenting data, methods, results and interpretations in an **open, honest, transparent and correct** manner, while meeting the interest in protection and legitimate demands for confidentiality  
+-	clearly reporting **study robustness**, assumptions and values, **sources of error** and remaining uncertainties and knowledge gaps   
+-	referring and **citing clearly and correctly**, in accordance with the standard that applies to the research area   
+-	openly reporting any **conflicts of interest**, financial support and dependencies   
+-	preventing the dissemination and use of **incorrect results** or **misleading information**  
 </details>  
 
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Authorship</span></summary>
-During manuscript writing, questions surrounding authorship often cause friction. The Vancouver Rules (https://www.icmje.org/icmje-recommendations.pdf) provide a framework of criteria on what constitutes a contribution sufficient to warrant co-authorship. The ALLEA code also provides authorship criteria, namely:
-1. significant contribution to the design of the research, relevant data collection, analysis and/or interpretation of the results 
-2. writing and/or critical review of the publication 
-3. approval of the final publication 
-4. accepting responsibility for the content of the publication, unless otherwise stated in the publication
-If AI tools are used to generate text or content, this must always be disclosed, and researchers must ensure the reliability of such contributions.  
+During manuscript writing, questions surrounding authorship often cause friction. The [Vancouver recommendations](https://www.icmje.org/icmje-recommendations.pdf) provide a framework of criteria on what constitutes a contribution sufficient to warrant co-authorship, namely:
+
+1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND   
+2. Drafting the work or reviewing it critically for important intellectual content; AND  
+3. Final approval of the version to be published; AND  
+4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved    
+  
+If AI tools are used to generate text or content, this **must always be disclosed**, and researchers must ensure the reliability of such contributions.  
 </details>   
   
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Journal selection</span></summary>
-When approaching journals, researchers should only engage with those that adhere to rigorous, established peer-review standards, avoiding those that violate these requirements. Researchers shall also ensure that their work is made accessible to peers and the public promptly, however respecting legitimate delays (e.g., patents).  
+When approaching journals, researchers should only engage with those that adhere to **rigorous, established peer-review standards**, avoiding those that violate these requirements. Researchers shall also ensure that their work is made accessible to peers and the public **promptly**, however respecting legitimate delays (e.g., patents).  
 </details>  
 
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Peer review</span></summary>
-When reviewing manuscripts from peers, researchers must commit to ethical practices as outlined in the Committee on Publication Ethics (COPE) ethical guidelines (https://publicationethics.org/guidance/guideline/ethical-guidelines-peer-reviewers), and must primarily ensure that (VR):
--	their review is honest
--	their assessment is well-founded
--	they report any conflicts of interest
--	they refrain from participating in both the process and decisions when there is a risk of undue influence.
+When reviewing manuscripts from peers, researchers must commit to ethical practices as outlined in the Committee on Publication Ethics (COPE) [ethical guidelines](https://web.sciedu.ca/images/COPE/Ethical_Guidelines_For_Peer_Reviewers_2.pdf), and must primarily ensure that:   
+
+-	their review is honest  
+-	their assessment is well-founded  
+-	they report any conflicts of interest  
+-	they refrain from participating in both the process and decisions when there is a risk of undue influence  
+  
 Researchers must also counteract publication bias by ensuring valuable findings are published, regardless of whether results indicate confirmation or rejection of the initial hypothesis.  
 </details>  
 
@@ -181,17 +205,166 @@ Researchers must also counteract publication bias by ensuring valuable findings 
 
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">6. Scientific misconduct </span></summary>  
+<br> 
+<span style="color: #A7C947;">**Reading time: 15 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 6, 7** </span> 
 <br>  
+<details> 
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Causes of misconduct</span></summary>
+Adhering to GRP is vital for **producing credible research, maintaining public trust, ensuring ethical integrity, and practicing societal responsibility**, yet various factors can lead researchers to deviate from the laws, guidelines and principles outlined in chapters 1-5 of this module. Within the scientific community, several elements increase the likelihood that researchers deviate from GRP. An example is the element of **competition** in research, which can pressure researchers to compromise on GRP. In addition, **evaluation systems** that rely heavily on quantitative indicators (e.g., number of publications, citation counts) can incentivize shortcuts. **Understanding these factors contributing to deviations from GRP, and how to mitigate them, is pivotal.** 
+
+In some instances, causes for deviations from GRP can be reasonably unintentional and benign, such as: 
+
+-	Ignorance: Lack of awareness of ethical research practices  
+-	Negligence: Carelessness in methodology or reporting  
+-	Stress and Pressure: High expectations, deadlines, or resource limitations  
+-	Poor Research Habits: Developing methods or attitudes inconsistent with ethical guidelines  
+
+In other more severe cases, researchers might deliberately bypass ethical practices to manipulate outcomes.
+
+The following subchapters will explore various types of GRP breaches and the procedures for addressing suspected misconduct in Sweden.
+
+</details>   
+
+<details> 
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Types of misconduct</span></summary>
+In section 2 of [Act 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/), research misconduct is defined as:  
+  
+“*a serious deviation from good research practice in the form of fabrication, falsification or plagiarism committed intentionally or through gross negligence in the planning, implementation or reporting of research*”  
+
+The core types of research misconduct (fabrication, falsification, and plagiarism (FFP)) are defined as follows:
+
+1.	Fabrication: Creating false data or results and presenting them as real.
+2.	Falsification: Manipulating materials, equipment, processes, or data to misrepresent the research. Includes changing, omitting or suppressing data without justification.
+3.	Plagiarism: Using another person's ideas, processes, results, or words without proper attribution, thus violating intellectual property rights.
+  
+While fabrication and falsification always (in principle) constitute serious breaches of GRP and are thus classified as **misconduct**, a minor occurrence of plagiarism might not be considered a serious breach if done unintentional or not through gross negligence. 
+
+In addition to FFP, there are a wide variety of scenarios that constitute smaller breaches of GRP. Below are examples of some (but not all) of these scenarios:   
+  
+-	Failing to verify sources or data adequately  
+-	Conducting insufficient experiments to ensure reliability  
+-	Misattributing authorship in publications  
+-	Conducting research without the necessary permits or ethical safeguards  
+-	Reusing one’s own prior work without proper acknowledgment  
+-	Presenting results inaccurately or incompletely  
+-	Concealing AI use in content creation  
+-	Refusing to share results without valid reasons  
+-	Misrepresenting statistical significance  
+-	Hindering the research efforts of peers  
+  
+</details>   
+   
+<details> 
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Procedures for handling suspicions of misconduct</span></summary>
+
+As per [Act 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/), suspected misconduct fitting the legal definition (FFP) is handled by the [National Board for the Assessment of Research Misconduct (Npof)](https://npof.se/en/) (Nämnden för prövning av oredlighet i forskning). Cases outside Npof’s jurisdiction (i.e., deviations from GRP that don’t fit the definition of research misconduct) are managed by the researcher’s institution, such as a university, following the [Higher Education Ordinance (1993:100)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskoleforordning-1993100_sfs-1993-100/) (högskoleförordningen). Institutions are required to establish clear guidelines for such examinations according to [recommendations from SUHF](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf).   
+  
+There are three ways in which a report of suspicion of misconduct can be initiated at Npof:
+
+-	Through a submission from a research performing organization
+-	Through a direct notification from an individual 
+-	on Npofs initiative based on its own observations
+
+The [Act (2021:890) on whistleblower protection](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2021890-om-skydd-for-personer-som_sfs-2021-890/) ensures safeguards for those reporting suspected misconduct. Further guidance is available in the [Whistleblower Protection Handbook](https://zenodo.org/records/8192478).
+
+After a case has been investigated according to [procedure](https://npof.se/en/research-misconduct/provningsprocess-en/) at Npof or a higher education institution, a decision on a deviation from GRP can have various consequences for the researcher, such as: 
+
+- Employment measures:   
+  - warnings, salary deductions or dismissal   
+- Academic sanctions:   
+  - correction or withdrawal of published articles  
+  - suspension of grant payments  
+  - reclamation of previously received research funding   
+  - limitation to the ability of researchers to apply for or receive new grants   
+- Legal liability:   
+  - reprimands, warnings, injunctions, prohibitions, fines, administrative sanctions
+  - imprisonment or fines for criminal offenses (e.g., conducting research without required permits)
+
+
+In addition, some wider impacts on science and society may be seen, for example: 
+
+- Reduced trust in the research community and public perception of science
+- Dissemination of incorrect results and waste of resources
+- Harm to people, animals, or the environment due to flawed research outcomes
+
+**All types of research misconduct undermine scientific integrity and trust. Researchers must therefore adhere to ethical standards, avoid intentional or negligent deviations, and maintain transparency and accountability in all aspects of their work.**
+
+</details> 
 </details>   
     
+---     
+  
+<details>
+<summary><span style="font-size: 20px; font-weight: bold; color: black;">7. GRP and Open Science </span></summary>  
+<br> 
+<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 6, 7** </span> 
+<br>  
+<details> 
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Why Open Science</span></summary>
+Openness in science, specifically referring to the practice of **openly sharing methods, protocols, data, results, publications, and educational materials**, can help promote various aspects of GRP by:
+
+- enhancing research quality by encouraging peer review and reducing errors  
+- building public trust and accountability in scientific work  
+- minimizing publication bias and unnecessary repetition of studies  
+- facilitating more effective collaborations and resource utilization  
+  
+For these reasons, GRP encourages researchers to provide other researchers and the public with as much insight into their work as possible. To ensure respect for and protection of individuals, this approach adheres to the principle of *"as open as possible, as closed as necessary"*.
+</details> 
+
+<details> 
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">"Allmän handling"</span></summary>
+In Sweden, the principle of academic openness is enshrined in [law 1949:105](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/) (the Freedom of the Press Ordinance (‘tryckfrihetsförordning’)), which dictates **the public’s (‘allmänhetens’) right to transparency**. In practice this means that **everyone** has the right to access public documents (‘allmänna handlingar’) which are not classified as confidential. ‘Public documents’ are all documents that are received by or prepared at a public authority (e.g. a university, college, or other governmental agency) and stored there.  
+  
+Anyone who requests access to a public document has the right to remain **anonymous** and does not usually have to state **what the document or information will be used for**. If access to a public document is denied by a public authority, individuals can demand a written decision from the authority and appeal it to the Court of Appeal (‘Hovrätt’). The right to access public documents can only be limited by the [Public Access and Secrecy Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400/) (2009:400 ‘offentlighets- och sekretesslag’).
+Under the [Archives Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arkivlag-1990782_sfs-1990-782/) (1990:782 'arkivlag'), research materials classified as public documents must be preserved, organized, and maintained to support public insight, judicial processes, and further research.
+</details> 
+
+<details> 
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Data sharing</span></summary>
+Data sharing is integral to open science, with the aim of making research data as accessible and reusable as possible. In Sweden, a recent law ([Act 2022:818 on the public sector's access to data](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) ('om den offentliga sektorns tillgängliggörande av data')) encourages the public sector to make research data openly available. 
+
+When sharing data, researchers should follow the FAIR principles:   
+    **F**indable  
+    **A**ccessible  
+    **I**nteroperable  
+    **R**eusable  
+      
+The Swedish Research council has developed [guidelines](https://www.vr.se/english/mandates/open-science/open-access-to-research-data/support-and-tools-/making-research-data-accessible-and-fair.html) for FAIR data management, as well as a [template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan.html) for the creation of data management plans. 
+
+When sharing data, researchers must be mindful that **openness must always be balanced against the need for protection**, especially regarding sensitive data. Law [2009:400](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400) limits how universities and other authorities can share information to ensure confidentiality, which means, among other things, that researchers must manage research information to **minimize risks** and **comply with applicable rules**, and carefully weigh the value of making the information available (the interest in transparency) against the risks (the interest in protection).
+
+When full openness is not possible, GRP describes alternative approaches:  
+
+- Sharing only the data’s metadata 
+- Sharing partial data sets
+- Sharing only the data’s public information, omitting the confidential part
+
+Information that is deemed confidential should be stored securely for release upon request, after confidentiality review if required.  
+  
+Other data that do not fall under law [2002:818](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) include data covered by sole rights, for example according to patent legislation ([1967:837 Patent law](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/patentlag-1967837_sfs-1967-837/)), or that a third party has rights over according to copyright legislation ([1960:729 on Copyright in Literary and Artistic Works](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/)). 
+
+**By embracing openness within the framework of good research practice, researchers can foster trust, ensure ethical responsibility, and contribute to scientific progress while safeguarding sensitive information.**
+
+</details> 
+</details> 
+
 ---   
   
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">References</span></summary>
 
 #### Laws  
-- [Law 2019:504. the Act on Responsibility for Good Research Practice and the Examination of Research Misconduct](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/) 'lagen 2019:504 om ansvar för god forskningssed och prövning av oredlighet i forskning', Utbildningsdepartement, 2019   
-- [Law 1992:1434. The higher education act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)'Högskolelag',Utbildningsdepartement, 1992   
+- [2019:504. the Act on Responsibility for Good Research Practice and the Examination of Research Misconduct](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/) 'lagen 2019:504 om ansvar för god forskningssed och prövning av oredlighet i forskning', Utbildningsdepartement, 2019   
+- [1992:1434. The Higher Education Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)'Högskolelag',Utbildningsdepartement, 1992   
+- [EU 511/2014 Access and Benefit Sharing Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0511) European Union, 2014
+- [1993:100. Higher Education Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskoleforordning-1993100_sfs-1993-100/) 'högskoleförordning', Utbildningsdepartement, 1993   
+- [2021:890. On whistleblower protection](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2021890-om-skydd-for-personer-som_sfs-2021-890/) 'Lag om skydd för personer som rapporterar om missförhållanden', Arbetsmarknadsdepartementet ARM, 2021
+- [1949:105. The Freedom of the Press Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/)‘tryckfrihetsförordning’, Justitiedepartementet, 1949
+- [2009:400 Public Access and Secrecy Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400/) ‘offentlighets- och sekretesslag’, Justitiedepartementet, 2009
+- [1990:782 Archives Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arkivlag-1990782_sfs-1990-782/) 'arkivlag', Kulturdepartementet, 1990
+- [2022:818 On the Public Sector's Access to Data ](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) 'om den offentliga sektorns tillgängliggörande av data', Finansdepartementet, 2022
+- [1967:837 Patent law](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/patentlag-1967837_sfs-1967-837/), 'Patentlag', Justitiedepartementet, 1967
+- [1960:729 on Copyright in Literary and Artistic Works](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/), 'om upphovsrätt till litterära och konstnärliga verk', Justitiedepartementet, 1960
 
 #### Reports    
 - [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) 'God forskningssed', VR, 2024 
@@ -199,41 +372,23 @@ Researchers must also counteract publication bias by ensuring valuable findings 
 - [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/) World Medical Association, 2024   
 - [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml) Convention on Biological Diversity, 2010   
 - [SciLifeLabs code of conduct](https://www.scilifelab.se/code-of-conduct/) SciLifeLab Operations Office, 2023    
-- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf) 'Vägledning för lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed' SUHF, 2023    
+- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf) 'Vägledning för lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed' SUHF, 2023  
+- [Recommendations to higher education institutions on how to work with responsible internationalisation](https://www.stint.se/wp-content/uploads/2022/09/STINT_Ansvarsfull-internation_web.pdf) The Swedish Foundation for International Cooperation in Research and Higher Education ('Stiftelsen för internationalisering av högre utbilndning och forskning'), 2022  
+- [Global responsible engagement: checklist](https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf) the Association of Swedish Higher Education Institutions (SUHF), 2023
+- [The TRUST code, a global code of conduct of equitable research partnerships](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf) TRUST, 2018
+- [User Guide - DECLARE NAGOYA IT system](https://www.naturvardsverket.se/4ac4da/contentassets/09859c1d752d445ab59f06c0544fe6e0/question-and-answer-users.pdf)  
+- [The Vancouver recommendations](https://www.icmje.org/icmje-recommendations.pdf) International Committee of Medical Journal Editors (ICMJE), 2025
+- [COPE Ethical Guidelines for Peer Reviewers](https://web.sciedu.ca/images/COPE/Ethical_Guidelines_For_Peer_Reviewers_2.pdf) COPE Council, 2017
+- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf) 'Vägledning för
+lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed' SUHF, 2023
+- [Handbook on Whistleblower protection in research](https://zenodo.org/records/8192478) European Network for Research Integrity Offices (ENRIO), 2023
+
+-Npof
+-Naturvårdsverket
     
 ---   
     
-
-### Website
-
-<details>
-<summary>View Websites</summary>
-<br>
-
-#### a
-- [allencompassingtrip.com](https://www.allencompassingtrip.com/)
-- [alonetone](https://alonetone.com/)
-- [askubuntu](https://askubuntu.com/)
-- [audiotrails.io](https://audiotrails.io/)
-
-#### b
-- [basecamp](https://basecamp.com/)
-- [bookshop.org](https://bookshop.org/)
-- [boxdrop.io](https://www.boxdrop.io/)
-
-#### c
-- [chaosmage.app](https://chaosmage.app/)
-- [cookpad](https://cookpad.com/us)
-- [coinbase](https://www.coinbase.com/)
-- [CoinGecko](https://www.coingecko.com/en)
-- [covidnearme](https://covidnearme.org/)
-- [CrowdWorks.jp](https://crowdworks.jp/)
-
-</details>
-
-</details>
-
----
+<!-- 
 
 
 ## Contributors
@@ -253,5 +408,3 @@ Please cite material as:
 
 <br>
 -->
-
-
