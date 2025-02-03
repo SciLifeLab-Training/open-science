@@ -3,6 +3,11 @@ title: "3. Open Science in project sharing & publishing"
 date: today
 ---
 
+::: {.callout-note}
+Coming soon
+:::
+
+<!-- 
 ::: {.callout-tip}
 Complete the assignment in this module prior to March 20th. We will collect the answers to these questions during the workshop!
 :::
@@ -55,3 +60,4 @@ To find articles, compare a society journal and an Elsevier or Nature journal in
 
 ### Part 2
 What access type was the most recent paper you (or someone in your research group) were an author on?
+-->
