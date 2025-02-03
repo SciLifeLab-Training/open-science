@@ -91,7 +91,9 @@ GRP extends to the **responsible and ethical use of research funding and resourc
 - avoid unnecessary harm, risk, or suffering  
 
 Funding applications should clearly demonstrate how the proposed research has the potential to generate valuable knowledge and/or societal benefit. Conducting research with no such potential is inconsistent with GRP.  
-    
+  
+<img src="img/GRPQ3.png" alt="Q1" height="70">    
+      
 When applying for grants, such as those offered by e.g. [the Swedish Research Council (Vetenskapsrådet)](https://www.vr.se), [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en), and [the ERC](https://erc.europa.eu/apply-grant), researchers must reflect on ethical aspects early in the planning phase of their projects. Applications must address both **legal requirements** and **broader ethical considerations**. This includes:  
 
 - identifying potential ethical challenges
@@ -101,8 +103,6 @@ When applying for grants, such as those offered by e.g. [the Swedish Research Co
 
 See e.g. [VR 'Conducting ethical research'](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html), [Horizon Europe 'Ethics self-assessment guide'](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf), and [ERC 'Ethics guidance'](https://erc.europa.eu/manage-your-project/ethics-guidance) for requirements surrounding ethical reflections in grant proposals.     
   
-<img src="img/GRPQ3.png" alt="Q1" height="70">    
-   
 **In summary: adherence to ethical standards in funding applications is essential for fostering trust and accountability in research. By addressing ethical issues transparently and comprehensively, researchers contribute to the responsible use of funding and uphold the integrity of the research process.** 
     
 </details>  
@@ -231,10 +231,13 @@ In addition to the fundamental principles outlined in Article 5 of the GDPR, spe
 <br> 
 <span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 6, 7** </span> 
 <br>  
+In academia, collaborations with both fellow researchers and external actors are essential for generating ideas, fostering creativity, and driving innovation. Adhering to GRP during these collaborations is crucial to ensure transparency, ethical conduct, and professionalism, while also ensuring compliance with relevant laws and guidelines. This commitment helps maintain trust among all parties involved and ensures the collaboration remains productive and responsible.
+
+*The subchapters below offers guidance on how to adhere to GRP in collaborative research efforts.*
+
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Collaboration with non-academic actors in society</span></summary>   
-     
-Researchers in a wide variety of fields collaborate with non-academic societal actors to:
+ Researchers in a wide variety of fields collaborate with non-academic societal actors, such as governments, businesses, and NGO, to:
    
   - address complex societal challenges    
   - co-create knowledge    
