@@ -15,7 +15,11 @@ This module is primarily based on [Good Research Practice](https://www.vr.se/upp
 - Execute every facet of an academic project according to Good Research Practice     
 **Mode of study:** self-paced  
 
-*Please work through the chapters below and answer the reflection questions in the Google form to test your knowledge.* 
+*Please work through the chapters below and answer the reflection questions in the Google form.* 
+  
+<span style="color: #A7C947;">**Total reading time: ~ 1h  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Total reflection question time: ~ 1h ** </span>
+
+
 :::  
 
 ---  
@@ -79,7 +83,7 @@ You as a researcher much have:
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">2. GRP in acquiring funding</span></summary>
 <br> 
-<span style="color: #A7C947;">**Reading time: 2 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 3** </span>  
+<span style="color: #A7C947;">**Reading time: 2 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 3** </span>  
   
 GRP extends to the **responsible and ethical use of research funding and resources**. Researchers must strive to:  
 
@@ -108,7 +112,7 @@ See e.g. [VR 'Conducting ethical research'](https://www.vr.se/english/applying-f
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">3. GRP in experimental research </span></summary>
 <br>
-<span style="color: #A7C947;">**Reading time: 15 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 4, 5** </span> 
+<span style="color: #A7C947;">**Reading time: 15 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 4, 5** </span> 
 <br>  
 
 Conducting experiments ethically and responsibly is a cornerstone of GRP. The [ALLEA Code](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) specifies **four fundamental principles** as the basis for how all research -regardless of discipline- should be conducted: 
@@ -118,6 +122,8 @@ Conducting experiments ethically and responsibly is a cornerstone of GRP. The [A
 - **Respect** for colleagues, research participants, research subjects, society, ecosystems, cultural heritage, and the environment  
 - **Accountability** for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts  
   
+<img src="img/GRPQ4.png" alt="Q1" height="70">  
+   
 When conducting research according to these fundamental principles, researchers must always balance various **legitimate interests** ([VR, 2024](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html)):   
   
 -	the pursuit of valuable knowledge  
@@ -127,6 +133,9 @@ When conducting research according to these fundamental principles, researchers 
   
 Among these, the protection interest - safeguarding the health, safety, and well-being of not only research participants, but everyone who is affected by research in various ways - **ALWAYS** take precedence over all other considerations.   
 Direct risks associate with research include physical interventions (e.g., surgical procedures, drug administration), methods causing psychological distress, and improper handling of sensitive materials or information. **All researchers must be aware of these risks and mitigate them in any way possible.** 
+  
+<img src="img/GRPQ5.png" alt="Q1" height="70">  
+  
 
 *Apart from these general foundations of GPR in conducting research, there are several special areas of ethical interest, that will be discussed in the following subchapters.* 
 
@@ -220,7 +229,7 @@ In addition to the fundamental principles outlined in Article 5 of the GDPR, spe
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">4. GRP in (inter)national collaboration </span></summary>  
 <br> 
-<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 6, 7** </span> 
+<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 6, 7** </span> 
 <br>  
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Collaboration with non-academic actors in society</span></summary>   
@@ -237,6 +246,9 @@ Researchers in a wide variety of fields collaborate with non-academic societal a
   -	A clear division of responsibilities  
   -	Monitoring how research affects operations of the involved organizations beyond the primary research object  
   -	Sensitivity to power imbalances or conflicts that could affect the research or stakeholders 
+
+<img src="img/GRPQ6.png" alt="Q1" height="70">   
+  
 </details>     
 
 <details>
@@ -253,7 +265,9 @@ In addition to collaborating with societal actors, many researchers collaborate 
 4.	Establish mechanisms to address conflicts and deviations from good research practice.  
 
 For guidance on ethical issues in international collaborations, the Association of Swedish Higher Education Institutions (SUHF) has developed a [checklist](https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf), and researchers are further encouraged to apply the [TRUST code](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf) to ensure equitable global research partnerships. 
-
+  
+<img src="img/GRPQ7.png" alt="Q1" height="70">    
+  
 When using genetic resources or traditional knowledge from abroad, compliance with [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml), [EU Access and Benefit Sharing Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0511), and national laws is mandatory. Researchers must document and verify access under the supplier country's rules, using tools like the [EU DECLARE](https://www.naturvardsverket.se/4ac4da/contentassets/09859c1d752d445ab59f06c0544fe6e0/question-and-answer-users.pdf) platform for due diligence. For more information, see [Naturvårdsverket](https://www.naturvardsverket.se/vagledning-och-stod/arter-och-artskydd/genetiska-resurser-nagoyaprotokollet/).   
 
 **All together, these practices foster responsible research that respects global ethical standards and promotes trust across borders.**
@@ -266,7 +280,7 @@ When using genetic resources or traditional knowledge from abroad, compliance wi
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">5. GRP in publishing and reviewing </span></summary> 
 <br> 
-<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 8, 9** </span> 
+<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 8, 9** </span> 
 <br>  
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Writing</span></summary>
@@ -287,8 +301,10 @@ During manuscript writing, questions surrounding authorship often cause friction
 1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND   
 2. Drafting the work or reviewing it critically for important intellectual content; AND  
 3. Final approval of the version to be published; AND  
-4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved    
+4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved   
   
+<img src="img/GRPQ8.png" alt="Q1" height="70">    
+   
 If AI tools are used to generate text or content, this **must always be disclosed**, and researchers must ensure the reliability of such contributions.  
 </details>   
   
@@ -306,6 +322,8 @@ When reviewing manuscripts from peers, researchers must commit to ethical practi
 -	they report any conflicts of interest  
 -	they refrain from participating in both the process and decisions when there is a risk of undue influence  
   
+<img src="img/GRPQ9.png" alt="Q1" height="70">    
+   
 Researchers must also counteract publication bias by ensuring valuable findings are published, regardless of whether results indicate confirmation or rejection of the initial hypothesis.  
 </details>  
 
@@ -316,12 +334,14 @@ Researchers must also counteract publication bias by ensuring valuable findings 
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">6. Scientific misconduct </span></summary>  
 <br> 
-<span style="color: #A7C947;">**Reading time: 10 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 10, 11** </span> 
+<span style="color: #A7C947;">**Reading time: 10 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 10, 11** </span> 
 <br>  
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Causes of misconduct</span></summary>
 Adhering to GRP is vital for **producing credible research, maintaining public trust, ensuring ethical integrity, and practicing societal responsibility**, yet various factors can lead researchers to deviate from the laws, guidelines and principles outlined in chapters 1-5 of this module. Within the scientific community, several elements increase the likelihood that researchers deviate from GRP. An example is the element of **competition** in research, which can pressure researchers to compromise on GRP. In addition, **evaluation systems** that rely heavily on quantitative indicators (e.g., number of publications, citation counts) can incentivize shortcuts. **Understanding these factors contributing to deviations from GRP, and how to mitigate them, is pivotal.** 
-
+  
+<img src="img/GRPQ10.png" alt="Q1" height="70">    
+   
 In some instances, causes for deviations from GRP can be reasonably unintentional and benign, such as: 
 
 -	Ignorance: Lack of awareness of ethical research practices  
@@ -362,6 +382,8 @@ In addition to FFP, there are a wide variety of scenarios that constitute smalle
 -	Misrepresenting statistical significance  
 -	Hindering the research efforts of peers  
   
+<img src="img/GRPQ11.png" alt="Q1" height="70">    
+   
 </details>   
    
 <details> 
@@ -407,7 +429,7 @@ In addition, some wider impacts on science and society may be seen, for example:
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">7. GRP and Open Science </span></summary>  
 <br> 
-<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 12,13** </span> 
+<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 12,13** </span> 
 <br>  
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Why Open Science</span></summary>
@@ -419,6 +441,9 @@ Openness in science, specifically referring to the practice of **openly sharing 
 - facilitating more effective collaborations and resource utilization  
   
 For these reasons, GRP encourages researchers to provide other researchers and the public with as much insight into their work as possible. To ensure respect for and protection of individuals, this approach adheres to the principle of *"as open as possible, as closed as necessary"*.
+  
+<img src="img/GRPQ12.png" alt="Q1" height="70">    
+   
 </details> 
 
 <details> 
@@ -440,7 +465,9 @@ When sharing data, researchers should follow the FAIR principles:
     **R**eusable  
       
 The Swedish Research council has developed [guidelines](https://www.vr.se/english/mandates/open-science/open-access-to-research-data/support-and-tools-/making-research-data-accessible-and-fair.html) for FAIR data management, as well as a [template](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/producing-a-data-management-plan.html) for the creation of data management plans. 
-
+  
+<img src="img/GRPQ13.png" alt="Q1" height="70">    
+   
 When sharing data, researchers must be mindful that **openness must always be balanced against the need for protection**, especially regarding sensitive data. Law [2009:400](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400) limits how universities and other authorities can share information to ensure confidentiality, which means, among other things, that researchers must manage research information to **minimize risks** and **comply with applicable rules**, and carefully weigh the value of making the information available (the interest in transparency) against the risks (the interest in protection).
 
 When full openness is not possible, GRP describes alternative approaches:  
@@ -553,3 +580,4 @@ Please cite material as:
 
 <br>
 -->
+
