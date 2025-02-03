@@ -10,12 +10,12 @@ date: today
 
 This module is primarily based on [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) ('God forskningssed', VR, 2024) and the [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) (ALLEA, 2023). The information provided in this module is not exhaustive, but rather meant as an introduction to the topic. **Students are encouraged to further examine references to relevant laws and documents**. 
 
-**Upon completion of this module, students will be able to**   
+**Upon completion of this module, students will be able to:**   
 - Demonstrate an understanding of ethical principles and legal frameworks governing research in Sweden  
 - Execute every facet of an academic project according to Good Research Practice     
 **Mode of study:** self-paced  
 
-*Please work through the sections below and answer the questions in the Google form to test your knowledge.* 
+*Please work through the chapters below and answer the reflection questions in the Google form to test your knowledge.* 
 :::  
 
 ---  
@@ -23,7 +23,7 @@ This module is primarily based on [Good Research Practice](https://www.vr.se/upp
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">1.	Introduction to Good Research Practice</span></summary>
 <br> 
-<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 1, 2** </span>
+<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 1, 2** </span>
 
 Good research practice (GRP) is defined as “**the collective ethical criteria on how good research should be conducted**” [(VR, 2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), and encompasses a range of ethical standards and guidelines that govern the conduct of research across disciplines. Adhering to GRP while conducting research is crucial, as it ensures the credibility and reliability of research findings, fosters the public’s trust in science, upholds the ethical treatment of research subjects, and respects the broader societal impact of scholarly work. Thus, conducting high quality research requires adherence to GRP [(VR, 2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).
 
@@ -47,6 +47,9 @@ Finally, many research institutions have formulated **codes of conducts** they e
 
 **Adhering to GRP as a researcher means not only refraining from violating these laws and guidelines, but also practicing research with a keen awareness of applicable regulations, as well as relying on personal moral judgement.**   
 
+<img src="img/GRPQ1.png" alt="Q1" height="70">  
+
+
 The responsibility for upholding GRP is shared by all actors in research performing organizations. On a higher level, it is up to the research performing organization to create a good research environment, for example by ([SUHF, 2023](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf)): 
 
 -	Training and mentoring in GRP 
@@ -55,18 +58,20 @@ The responsibility for upholding GRP is shared by all actors in research perform
 -	Incentive structures (e.g. by rewarding adherence to GRP) 
 
 It is also the responsibility of the research performing organization to ensure academic freedom for individual researchers, a protection that is enshrined in Swedish law ([Law 1992:1434. The higher education act ('Högskolelag')](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)). However, this academic freedom comes with the responsibility for individual researchers to uphold research integrity ([Section 4 of Law 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)). GRP is not uniform across all fields; ethical considerations and legal requirements may vary depending on the subject area. **It is thus the researchers own responsibility to ensure familiarity with regulations and guidelines, continuously update knowledge when changes occur, and understand how these principles are applied in specific research areas.**   
-
+   
+<img src="img/GRPQ2.png" alt="Q1" height="70">    
+  
 You as a researcher much have:   
   
 -	good knowledge of the framework and starting points for GRP  
 -	the ability to apply principles and rules in practice and with regard to various legitimate interests and demands   
--	good professional judgment   
+-	good professional judgement   
 -	good research habits   
 -	the ability to resist temptations and undue influence   
 -	the ability to handle ethical challenges  
 
   
-*The following chapters will outline how to follow GRP throughout an academic project, from acquiring funding, to the experimental phase, to collaborating (inter)nationally, to publishing and reviewing. The final chapter covers research misconduct and outlines the procedure following a misconduct accusation.* 
+*The following chapters will outline how to follow GRP throughout an academic project, from acquiring funding, to the experimental phase, to collaborating (inter)nationally, to publishing and reviewing. Chapter 6 covers research misconduct and outlines the procedure following a misconduct accusation, and final Chapter 7 delves in to how GRP relates to Open Science principles* 
 </details>
   
 ---    
@@ -90,8 +95,10 @@ When applying for grants, such as those offered by e.g. [the Swedish Research Co
 - describing how compliance with relevant regulations will be ensured
 - justifying why the research should be conducted   
 
-See e.g. [VR 'Conducting ethical research'](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html), [Horizon Europe 'Ethics self-assessment guide'](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf), and [ERC 'Ethics guidance'](https://erc.europa.eu/manage-your-project/ethics-guidance) for requirements surrounding ethical reflections in grant proposals.   
- 
+See e.g. [VR 'Conducting ethical research'](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html), [Horizon Europe 'Ethics self-assessment guide'](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf), and [ERC 'Ethics guidance'](https://erc.europa.eu/manage-your-project/ethics-guidance) for requirements surrounding ethical reflections in grant proposals.     
+  
+<img src="img/GRPQ3.png" alt="Q1" height="70">    
+   
 **In summary: adherence to ethical standards in funding applications is essential for fostering trust and accountability in research. By addressing ethical issues transparently and comprehensively, researchers contribute to the responsible use of funding and uphold the integrity of the research process.** 
     
 </details>  
@@ -101,16 +108,119 @@ See e.g. [VR 'Conducting ethical research'](https://www.vr.se/english/applying-f
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">3. GRP in experimental research </span></summary>
 <br>
-Coming soon
-</br>
-</details>   
+<span style="color: #A7C947;">**Reading time: 15 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 4, 5** </span> 
+<br>  
 
+Conducting experiments ethically and responsibly is a cornerstone of GRP. The [ALLEA Code](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) specifies **four fundamental principles** as the basis for how all research -regardless of discipline- should be conducted: 
+
+- **Reliability** in ensuring the quality of research, reflected in the design, methodology, analysis, and use of resources  
+- **Honesty** in developing, undertaking, reviewing, reporting, and communicating research in a transparent, fair, full, and unbiased way  
+- **Respect** for colleagues, research participants, research subjects, society, ecosystems, cultural heritage, and the environment  
+- **Accountability** for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts  
+  
+When conducting research according to these fundamental principles, researchers must always balance various **legitimate interests** ([VR, 2024](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html)):   
+  
+-	the pursuit of valuable knowledge  
+-	the protection of those affected by research  
+-	the promotion of openness and transparency  
+-	the maintenance of trust in the research process   
+  
+Among these, the protection interest - safeguarding the health, safety, and well-being of not only research participants, but everyone who is affected by research in various ways - **ALWAYS** take precedence over all other considerations.   
+Direct risks associate with research include physical interventions (e.g., surgical procedures, drug administration), methods causing psychological distress, and improper handling of sensitive materials or information. **All researchers must be aware of these risks and mitigate them in any way possible.** 
+
+*Apart from these general foundations of GPR in conducting research, there are several special areas of ethical interest, that will be discussed in the following subchapters.* 
+
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Research involving humans</span></summary>   
+     
+Research involving humans can take various forms, such as interviews, observations, interventions, experiments, or the collection and processing of data (e.g. personal data). Regardless of its nature, **all such research must strictly adhere to ethical principles and undergo some form of ethical review**. 
+
+A fundamental framework for ethical considerations in research involving humans is based on the **four principles of medical ethics**:  
+
+
+1. To do good  
+2. To do no harm   
+3. To respect self-determination (autonomy, informed consent)  
+4. To uphold justice
+
+  
+Further essential guidelines for conducting ethical human research are provided in [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/) and the [Swedish Ethical Review Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460/) (2003:460 'om etikprövning av forskning som avser människor'). 
+
+Clinical studies in Sweden are regulated under [EU Regulation 536/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0536-20221205). Clinical studies funded by certain agencies (such as VR) must be registered in public study registries or databases, such as [ClinicalTrials.gov](https://clinicaltrials.gov) or [Researchweb](https://www.researchweb.org/is). Additionally, clinical research projects that involve exposing participants to ionizing radiation require approval from a local radiation protection committee, in accordance with the Swedish Radiation Safety Authority’s regulations (‘Strålsäkerhetsmyndigheten’, [SSMFS 2018:1](https://www.stralsakerhetsmyndigheten.se/publikationer/foreskrifter/ssmfs-2018/ssmfs-20181/)). 
+
+For other studies involving humans, researchers must seek ethical approval from the [Swedish Ethical Review Authority](https://etikprovningsmyndigheten.se) ('Etikprövningsmyndigheten'). The Ethical Review Authority has provided [guidelines](https://etikprovningsmyndigheten.se/wp-content/uploads/2023/12/Vagledning-om-etikprovning-EPM.pdf) on how ethical principles are applied in reviews and what this entails when planning and conducting research involving humans. If The Ethical Review Authority issues an unfavorable decision, it can be appealed to the [Ethics Review Appeals Board](https://www.onep.se/en/) ('Överklagandenämnden för etikprövning'). 
+
+To gain access to human samples for research, not only an approved ethics application is required, but also a [biobank application](https://biobanksverige.se) in accordance with the [Biobank Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/biobankslag-202338_sfs-2023-38/) (2023:38, 'biobankslag').
+ 
+</details>  
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Research involving animals</span></summary>    
+  
+Research involving laboratory animals is regulated by multiple guidelines that researchers must adhere to, including:  
+- [the Animal Welfare Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddslag-20181192_sfs-2018-1192/) (2018:1192 ‘djurskyddslag’)  
+- [the Animal Welfare Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddsforordning-201966_sfs-2019-66/) (2019:66, ‘djurskyddsförordning’)  
+- [regulations from the Swedish Board of Agriculture](https://lagen.nu/sjvfs/2019:9) (SJVFS 2019:9)  
+Only animals specifically bred for research purposes (destination breeding) are permitted for use.  
+   
+Before conducting animal experiments, researchers are required to obtain **ethical approval** from a regional **animal experimentation ethics committee**, via submitting an application at an [e-service](https://jordbruksverket.se/e-tjanster-databaser-och-appar/e-tjanster-och-databaser-djur/etiskt-godkannande-av-djurforsok) provided by the Swedish Board of Agriculture (Jordbruksverket). Upon obtainment of a license, experiments may only be executed by staff/researchers that have the **necessary formal training** in Laboratory Animal Science (LAS).  
+  
+As outlined by the [Swedish 3R center](https://jordbruksverket.se/djur/ovriga-djur/forsoksdjur-och-djurforsok/sveriges-3r-center), experiments involving animals must comply with the 3Rs principle:  
+  
+-	Replace animal use where possible  
+-	Reduce the number of animals used  
+-	Refine methods to minimize suffering  
+  
+Furthermore, Researchers must design experiments to ensure animal welfare and follow international guidelines, such as [PREPARE](https://norecopa.no/PREPARE) and [ARRIVE](https://arriveguidelines.org).  
+
+</details>  
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Genetic engineering</span></summary>   
+For research involving genetic engineering, adherence to stringent safety, ethical, and environmental standards is needed. Relevant Swedish laws include:  
+
+-	[2006:351 on Genetic Integrity etc. ](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2006351-om-genetisk-integritet-m.m_sfs-2006-351/) 'om genetisk integritet m.m.'  
+-	[2002:1086 on the Release of Genetically Modified Organisms into the Environment](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20021086-om-utsattning-av-genetiskt_sfs-2002-1086/) 'om utsättning av genetiskt modifierade organismer i miljön'   
+-	[2000:271 on the Contained Use of Genetically Modified Organisms](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-2000271-om-innesluten-anvandning-av_sfs-2000-271/) 'om innesluten användning av genetiskt modifierade organismer'
+-	[DS2000:61 the Environmental Code](https://www.government.se/legal-documents/2000/08/ds-200061/) 
+  
+See the [Swedish Board of Agriculture](https://jordbruksverket.se/languages/english/swedish-board-of-agriculture) ('Jordbruksverket'), the [Medical Products Agency](https://www.lakemedelsverket.se/en) ('Läkemedelsverket'), [the Swedish Work Environment Authority](https://www.av.se/om-oss/) ('Arbetsmiljöverket'), the [Gene Technology Advisory Board](https://www.genteknik.se) ('Gentekniknämnden') and the [National Council on Medical Ethics](https://smer.se/en/english-start/) ('Statens medicinsk-etiska råd') for more information. 
+
+</details> 
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Development/use of certain type of technology</span></summary>     
+The development and application of certain technologies come with specific risks and ethical challenges. A common issue with emerging technologies is that their **rapid advancement and dissemination can sometimes overshadow important ethical discussions**. Therefore, researchers involved in developing new technologies should carefully consider additional ethical questions, as outlined in [VR, 2024](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).
+
+</details> 
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Dual-use items</span></summary>     
+Products, technology and information that can have both **civilian and military** uses are called dual-use items, or ‘produkter med dubbla användningsområden’ (PDA). To prevent **misuse** of these items, compliance with European ([EU 2021/821](https://eur-lex.europa.eu/eli/reg/2021/821/oj/eng), [EU 2021/1700](https://eur-lex.europa.eu/eli/reco/2021/1700/oj/eng)) and Swedish ([Act 2000:1064](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20001064-om-kontroll-av-produkter-med_sfs-2000-1064/)) research and export rules is crucial, outlined further by the [Inspectorate for Strategic Products](https://isp.se/eng) 'inspektionen för strategiska produkter'.
+</details> 
+
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Artificial intelligence</span></summary>  
+When using AI tools, researchers must consider privacy, confidentiality, and intellectual property rights, particularly when handling sensitive or personal data. Within the EU, AI usage is regulated by specific [legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689), and the European Commission has issued [guidelines](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en) on AI ethics and responsible use in research. 
+To ensure ethical compliance, researchers should follow data protection laws and adhere to established guidelines when integrating AI into their work.
+
+</details>  
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Processing of personal data (GDPR)</span></summary>  
+The processing of personal data in research is governed by [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng) (2016/679 EU Data Protection Regulation) and related [national regulations](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018218-med-kompletterande-bestammelser_sfs-2018-218/) (2018:218 Supplementary provisions to the EU General Data Protection Regulation, ‘kompletterande bestämmelser till EU:s dataskyddsförordning’).  
+Researchers are required to register projects in which personal data are processed with the university’s data protection officer (‘dataskyddsombud’). **Personal data includes any information that can be traced back to a living individual, even if identification requires additional data such as a code key, text material, or an audio recording**.    
+In addition to the fundamental principles outlined in Article 5 of the GDPR, specific requirements govern how personal data may be processed in research to protect the rights and freedoms of individuals, as stated in Article 89.1. If the research involves sensitive personal data or data related to legal violations, special rules apply, and researchers must obtain approval under the [Swedish Ethical Review Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460/) before starting their work.
+
+</details>  
+</details>  
 ---    
 
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">4. GRP in (inter)national collaboration </span></summary>  
 <br> 
-<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 4, 5** </span> 
+<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 6, 7** </span> 
 <br>  
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Collaboration with non-academic actors in society</span></summary>   
@@ -156,7 +266,7 @@ When using genetic resources or traditional knowledge from abroad, compliance wi
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">5. GRP in publishing and reviewing </span></summary> 
 <br> 
-<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 6, 7** </span> 
+<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 8, 9** </span> 
 <br>  
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Writing</span></summary>
@@ -206,7 +316,7 @@ Researchers must also counteract publication bias by ensuring valuable findings 
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">6. Scientific misconduct </span></summary>  
 <br> 
-<span style="color: #A7C947;">**Reading time: 15 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 6, 7** </span> 
+<span style="color: #A7C947;">**Reading time: 10 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 10, 11** </span> 
 <br>  
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Causes of misconduct</span></summary>
@@ -221,7 +331,7 @@ In some instances, causes for deviations from GRP can be reasonably unintentiona
 
 In other more severe cases, researchers might deliberately bypass ethical practices to manipulate outcomes.
 
-The following subchapters will explore various types of GRP breaches and the procedures for addressing suspected misconduct in Sweden.
+*The following subchapters will explore various types of GRP breaches and the procedures for addressing suspected misconduct in Sweden.*
 
 </details>   
 
@@ -297,7 +407,7 @@ In addition, some wider impacts on science and society may be seen, for example:
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">7. GRP and Open Science </span></summary>  
 <br> 
-<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 6, 7** </span> 
+<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Self-test question #: 12,13** </span> 
 <br>  
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Why Open Science</span></summary>
@@ -353,39 +463,74 @@ Other data that do not fall under law [2002:818](https://www.riksdagen.se/sv/dok
 <details>
 <summary><span style="font-size: 20px; font-weight: bold; color: black;">References</span></summary>
 
-#### Laws  
-- [2019:504. the Act on Responsibility for Good Research Practice and the Examination of Research Misconduct](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/) 'lagen 2019:504 om ansvar för god forskningssed och prövning av oredlighet i forskning', Utbildningsdepartement, 2019   
-- [1992:1434. The Higher Education Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)'Högskolelag',Utbildningsdepartement, 1992   
+#### Laws and regulations
+- [1949:105. The Freedom of the Press Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/)‘tryckfrihetsförordning’, Justitiedepartementet, 1949  
+- [1960:729 on Copyright in Literary and Artistic Works](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/), 'om upphovsrätt till litterära och konstnärliga verk', Justitiedepartementet, 1960  
+- [1967:837 Patent law](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/patentlag-1967837_sfs-1967-837/), 'Patentlag', Justitiedepartementet, 1967  
+- [1990:782 Archives Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arkivlag-1990782_sfs-1990-782/) 'arkivlag', Kulturdepartementet, 1990    
+- [1992:1434. The Higher Education Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)'Högskolelag',Utbildningsdepartement, 1992     
+- [1993:100. Higher Education Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskoleforordning-1993100_sfs-1993-100/) 'högskoleförordning', Utbildningsdepartement, 1993     
+-	[2000:271 on the Contained Use of Genetically Modified Organisms](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-2000271-om-innesluten-anvandning-av_sfs-2000-271/) 'om innesluten användning av genetiskt modifierade organismer', Klimat- och näringslivsdepartementet, 2000   
+- [2000:1064 on the control of dual-use items and technical assistance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20001064-om-kontroll-av-produkter-med_sfs-2000-1064/)) 'om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd', Utrikesdepartementet, 2000  
+-	[2002:1086 on the Release of Genetically Modified Organisms into the Environment](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20021086-om-utsattning-av-genetiskt_sfs-2002-1086/) 'om utsättning av genetiskt modifierade organismer i miljön' Klimat- och näringslivsdepartementet, 2002    
+- [2003:460 Swedish Ethical Review Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460/) 'om etikprövning av forskning som avser människor', Utbildningsdepartement, 2003  
+- [2006:351 on Genetic Integrity etc.](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2006351-om-genetisk-integritet-m.m_sfs-2006-351/) 'om genetisk integritet m.m.' Socialdepartementet, 2006  
+- [2009:400 Public Access and Secrecy Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400/) ‘offentlighets- och sekretesslag’, Justitiedepartementet, 2009  
+- [2018:218 Supplementary provisions to the EU General Data Protection Regulation](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018218-med-kompletterande-bestammelser_sfs-2018-218/), ‘kompletterande bestämmelser till EU:s dataskyddsförordning’, Justitiedepartementet, 2018  
+- [2018:1192 the Animal Welfare Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddslag-20181192_sfs-2018-1192/) ‘djurskyddslag’, Landsbygds- och infrastrukturdepartementet RSL, 2018    
+- [2019:66 the Animal Welfare Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddsforordning-201966_sfs-2019-66/) ‘djurskyddsförordning’, Landsbygds- och infrastrukturdepartementet RSL, 2019  
+- [2019:504. the Act on Responsibility for Good Research Practice and the Examination of Research Misconduct](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/) 'lagen 2019:504 om ansvar för god forskningssed och prövning av oredlighet i forskning', Utbildningsdepartement, 2019     
+- [2021:890. On whistleblower protection](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2021890-om-skydd-for-personer-som_sfs-2021-890/) 'Lag om skydd för personer som rapporterar om missförhållanden', Arbetsmarknadsdepartementet ARM, 2021    
+- [2022:818 On the Public Sector's Access to Data ](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) 'om den offentliga sektorns tillgängliggörande av data', Finansdepartementet, 2022  
+- [2023:38 Biobank Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/biobankslag-202338_sfs-2023-38/), 'biobankslag', Socialdepartementet, 2023  
+- [2024:1689 laying down harmonised rules on artificial intelligence](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689), European Union, 2024   
+    
 - [EU 511/2014 Access and Benefit Sharing Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0511) European Union, 2014
-- [1993:100. Higher Education Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskoleforordning-1993100_sfs-1993-100/) 'högskoleförordning', Utbildningsdepartement, 1993   
-- [2021:890. On whistleblower protection](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2021890-om-skydd-for-personer-som_sfs-2021-890/) 'Lag om skydd för personer som rapporterar om missförhållanden', Arbetsmarknadsdepartementet ARM, 2021
-- [1949:105. The Freedom of the Press Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/)‘tryckfrihetsförordning’, Justitiedepartementet, 1949
-- [2009:400 Public Access and Secrecy Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400/) ‘offentlighets- och sekretesslag’, Justitiedepartementet, 2009
-- [1990:782 Archives Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arkivlag-1990782_sfs-1990-782/) 'arkivlag', Kulturdepartementet, 1990
-- [2022:818 On the Public Sector's Access to Data ](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) 'om den offentliga sektorns tillgängliggörande av data', Finansdepartementet, 2022
-- [1967:837 Patent law](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/patentlag-1967837_sfs-1967-837/), 'Patentlag', Justitiedepartementet, 1967
-- [1960:729 on Copyright in Literary and Artistic Works](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/), 'om upphovsrätt till litterära och konstnärliga verk', Justitiedepartementet, 1960
-
-#### Reports    
-- [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) 'God forskningssed', VR, 2024 
-- [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) ALLEA, 2023    
+- [EU 536/2014 Clinical trial regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0536-20221205), European Union, 2014 
+- [EU 2016/679 Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng), European Union, 2016
+- [EU 2021/821 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items](https://eur-lex.europa.eu/eli/reg/2021/821/oj/eng), European Union, 2021
+- [EU 2021/1700 on internal compliance programmes for controls of research involving dual-use items](https://eur-lex.europa.eu/eli/reco/2021/1700/oj/eng), European Union, 2021   
+      
+- [SSMFS 2018:1](https://www.stralsakerhetsmyndigheten.se/publikationer/foreskrifter/ssmfs-2018/ssmfs-20181/), ‘Strålsäkerhetsmyndigheten’, 2018  
+- [2019:9 SJVFS regulations and general advice on laboratory animals](https://lagen.nu/sjvfs/2019:9) föreskrifter och allmänna råd om försöksdjur, Jordbruksverket, 2019
+- [DS2000:61 the Environmental Code](https://www.government.se/legal-documents/2000/08/ds-200061/) Klimat- och näringslivsdepartementet, 2015  
+  
+  
+#### Guidelines    
+- [The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research](https://arriveguidelines.org/arrive-guidelines)Percie du Sert N, Hurst V, Ahluwalia A, Alam S, Avey MT, Baker M, et al. (2020) *PLOS Biology* 18(7) 
+- [COPE Ethical Guidelines for Peer Reviewers](https://web.sciedu.ca/images/COPE/Ethical_Guidelines_For_Peer_Reviewers_2.pdf) COPE Council, 2017
 - [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/) World Medical Association, 2024   
-- [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml) Convention on Biological Diversity, 2010   
-- [SciLifeLabs code of conduct](https://www.scilifelab.se/code-of-conduct/) SciLifeLab Operations Office, 2023    
-- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf) 'Vägledning för lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed' SUHF, 2023  
-- [Recommendations to higher education institutions on how to work with responsible internationalisation](https://www.stint.se/wp-content/uploads/2022/09/STINT_Ansvarsfull-internation_web.pdf) The Swedish Foundation for International Cooperation in Research and Higher Education ('Stiftelsen för internationalisering av högre utbilndning och forskning'), 2022  
+- [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) ALLEA, 2023   
 - [Global responsible engagement: checklist](https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf) the Association of Swedish Higher Education Institutions (SUHF), 2023
+- [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html) 'God forskningssed', VR, 2024 
+- [Guidelines on the responsible use of generative AI in research developed by the European Research Area Forum](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en), European Commission, 2024
+- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf) 'Vägledning för lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed' SUHF, 2023  
+- [Handbook on Whistleblower protection in research](https://zenodo.org/records/8192478) European Network for Research Integrity Offices (ENRIO), 2023 
+- [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml) Convention on Biological Diversity, 2010   
+- [PREPARE: Guidelines for planning animal research and testing)](https://norecopa.no/PREPARE) Smith, AJ, Clutton, RE, Lilley, E, Hansen KEA, Brattelid, T. (2018) *Laboratory Animals* 52(2):135-141 
+- [Recommendations to higher education institutions on how to work with responsible internationalisation](https://www.stint.se/wp-content/uploads/2022/09/STINT_Ansvarsfull-internation_web.pdf) The Swedish Foundation for International Cooperation in Research and Higher Education ('Stiftelsen för internationalisering av högre utbilndning och forskning'), 2022 
+- [SciLifeLabs code of conduct](https://www.scilifelab.se/code-of-conduct/) SciLifeLab Operations Office, 2023    
 - [The TRUST code, a global code of conduct of equitable research partnerships](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf) TRUST, 2018
 - [User Guide - DECLARE NAGOYA IT system](https://www.naturvardsverket.se/4ac4da/contentassets/09859c1d752d445ab59f06c0544fe6e0/question-and-answer-users.pdf)  
 - [The Vancouver recommendations](https://www.icmje.org/icmje-recommendations.pdf) International Committee of Medical Journal Editors (ICMJE), 2025
-- [COPE Ethical Guidelines for Peer Reviewers](https://web.sciedu.ca/images/COPE/Ethical_Guidelines_For_Peer_Reviewers_2.pdf) COPE Council, 2017
-- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf) 'Vägledning för
-lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed' SUHF, 2023
-- [Handbook on Whistleblower protection in research](https://zenodo.org/records/8192478) European Network for Research Integrity Offices (ENRIO), 2023
 
--Npof
--Naturvårdsverket
-    
+
+#### Relevant organizations  
+- [Biobank Sverige](https://biobanksverige.se)
+- [Etikprövningsmyndigheten](https://etikprovningsmyndigheten.se)
+- [Gentekniknämnden](https://www.genteknik.se)
+- [Jordbruksverket](https://jordbruksverket.se)
+- [Läkemedelsverket](https://www.lakemedelsverket.se/sv)
+- [Naturvårdsverket](https://www.naturvardsverket.se)
+- [Npof: Nämnden för prövning av oredlighet i forskning](https://npof.se)
+- [Onep: Överklagandenämnden för etikprövning](https://www.onep.se/en/)
+- [Statens medicinsk-etiska råd](https://smer.se)
+- [STINT: Stiftelsen för internationalisering av högre utbilndning och forskning](https://www.stint.se)
+- [Strålsäkerhetsmyndigheten](https://www.stralsakerhetsmyndigheten.se)
+- [SUHF: Sveriges universitets- & högskoleförbund](https://suhf.se)
+- [Vetenskapsrådet](https://www.vr.se)
+
+
 ---   
     
 <!-- 
