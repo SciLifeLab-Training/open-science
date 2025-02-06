@@ -14,7 +14,7 @@ The course '_Open Science in the Swedish context_' delivered by SciLifeLab Train
 | Author contact details | ineke.luijten@scilifelab.se, elin.kronander@scilifelab.se, david.rayner@gu.se |
 | Content Provider | [SciLifeLab Training Hub](https://training.scilifelab.se) |
 | Contributors | Sanna Isabel Ulfsparre, VR <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Erik Stattin, KB <a href="https://orcid.org/0000-0002-1520-2022" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Angeliki Adamaki, LU, <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Sabina Anderberg, SUHF <a href="https://orcid.org/0000-0002-3344-8130" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Jonas Åkerman, SU. |
-| Date created | October 2025 |
+| Date created | October 2024 |
 | Date published | xxx |  
 
 
