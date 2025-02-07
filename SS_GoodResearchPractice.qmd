@@ -35,7 +35,7 @@ In Sweden, the responsibility of researchers to follow GRP is enshrined in **nat
 
 - [Law 2019:504. the Act on Responsibility for Good Research Practice and the Examination of Research Misconduct ('lagen om ansvar för god forskningssed och prövning av oredlighet i forskning')](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)  
 
-Swedish researchers are further expected to adhere to a set of **well-established, non-legally-binding research integrity and ethics guidelines**, most notably:  
+Swedish researchers must also comply with a set of **well-established research integrity and ethics guidelines**, most notably:  
 
 - [Good Research Practice ('God Forskningssed')](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html)  
 - [The European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)  
