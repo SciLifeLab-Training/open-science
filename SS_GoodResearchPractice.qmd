@@ -132,7 +132,7 @@ When conducting research according to these fundamental principles, researchers 
 -	the maintenance of trust in the research process   
   
 Among these, the protection interest - safeguarding the health, safety, and well-being of not only research participants, but everyone who is affected by research in various ways - **ALWAYS** take precedence over all other considerations.   
-Direct risks associate with research include physical interventions (e.g., surgical procedures, drug administration), methods causing psychological distress, and improper handling of sensitive materials or information. **All researchers must be aware of these risks and mitigate them in any way possible.** 
+Direct risks associated with research include physical interventions (e.g., surgical procedures, drug administration), methods causing psychological distress, and improper handling of sensitive materials or information. **All researchers must be aware of these risks and mitigate them in any way possible.** 
   
 <img src="img/GRPQ5.png" alt="Q1" height="70">  
   
@@ -154,13 +154,13 @@ A fundamental framework for ethical considerations in research involving humans 
 4. To uphold justice
 
   
-Further essential guidelines for conducting ethical human research are provided in [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/) and the [Swedish Ethical Review Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460/) (2003:460 'om etikprövning av forskning som avser människor'). 
+Further essential guidelines for conducting ethical human research are provided in [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/) and the [Swedish Ethical Review Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460/) (2003:460 'Om etikprövning av forskning som avser människor'). 
 
-Clinical studies in Sweden are regulated under [EU Regulation 536/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0536-20221205). Clinical studies funded by certain agencies (such as VR) must be registered in public study registries or databases, such as [ClinicalTrials.gov](https://clinicaltrials.gov) or [Researchweb](https://www.researchweb.org/is). Additionally, clinical research projects that involve exposing participants to ionizing radiation require approval from a local radiation protection committee, in accordance with the Swedish Radiation Safety Authority’s regulations (‘Strålsäkerhetsmyndigheten’, [SSMFS 2018:1](https://www.stralsakerhetsmyndigheten.se/publikationer/foreskrifter/ssmfs-2018/ssmfs-20181/)). 
+Clinical studies in Sweden are regulated under [EU Regulation 536/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0536-20221205). Clinical studies funded by certain agencies (e.g. VR) must be registered in public study registries or databases, such as [ClinicalTrials.gov](https://clinicaltrials.gov) or [Researchweb](https://www.researchweb.org/is). Additionally, clinical research projects that involve exposing participants to ionizing radiation require approval from a local radiation protection committee, in accordance with the Swedish Radiation Safety Authority’s regulations (‘Strålsäkerhetsmyndigheten’, [SSMFS 2018:1](https://www.stralsakerhetsmyndigheten.se/publikationer/foreskrifter/ssmfs-2018/ssmfs-20181/)). 
 
 For other studies involving humans, researchers must seek ethical approval from the [Swedish Ethical Review Authority](https://etikprovningsmyndigheten.se) ('Etikprövningsmyndigheten'). The Ethical Review Authority has provided [an overview](https://etikprovningsmyndigheten.se/wp-content/uploads/2023/12/Vagledning-om-etikprovning-EPM.pdf) of relevant legislation, how it should be applied when planning and conducting research involving humans, and for what kind of research ethical permission needs to be sought. If The Ethical Review Authority issues an unfavorable decision, it can be appealed to the [Ethics Review Appeals Board](https://www.onep.se/en/) ('Överklagandenämnden för etikprövning'). 
 
-To gain access to human samples for research, not only an approved ethics application is required, but also a [biobank application](https://biobanksverige.se) in accordance with the [Biobank Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/biobankslag-202338_sfs-2023-38/) (2023:38, 'biobankslag').
+To gain access to human samples for research, not only an approved ethics application is required, but also a [biobank application](https://biobanksverige.se) in accordance with the [Biobank Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/biobankslag-202338_sfs-2023-38/) (2023:38, 'Biobankslag').
  
 </details>  
 
@@ -168,8 +168,8 @@ To gain access to human samples for research, not only an approved ethics applic
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Research involving animals</span></summary>    
   
 Research involving laboratory animals is regulated by multiple guidelines that researchers must adhere to, including:  
-- [the Animal Welfare Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddslag-20181192_sfs-2018-1192/) (2018:1192 ‘djurskyddslag’)  
-- [the Animal Welfare Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddsforordning-201966_sfs-2019-66/) (2019:66, ‘djurskyddsförordning’)  
+- [the Animal Welfare Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddslag-20181192_sfs-2018-1192/) (2018:1192 ‘Djurskyddslag’)  
+- [the Animal Welfare Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddsforordning-201966_sfs-2019-66/) (2019:66, ‘Djurskyddsförordning’)  
 - [regulations from the Swedish Board of Agriculture](https://lagen.nu/sjvfs/2019:9) (SJVFS 2019:9)  
 Only animals specifically bred for research purposes (destination breeding) are permitted for use.  
    
@@ -177,11 +177,11 @@ Before conducting animal experiments, researchers are required to obtain **ethic
   
 As outlined by the [Swedish 3R center](https://jordbruksverket.se/djur/ovriga-djur/forsoksdjur-och-djurforsok/sveriges-3r-center), experiments involving animals must comply with the 3Rs principle:  
   
--	Replace animal use where possible  
--	Reduce the number of animals used  
--	Refine methods to minimize suffering  
+-	**Replace** animal use where possible  
+-	**Reduce** the number of animals used  
+-	**Refine** methods to minimize suffering  
   
-Furthermore, Researchers must design experiments to ensure animal welfare and follow international guidelines, such as [PREPARE](https://norecopa.no/PREPARE) and [ARRIVE](https://arriveguidelines.org).  
+Researchers must design experiments to ensure animal welfare. The international [PREPARE](https://norecopa.no/PREPARE) and [ARRIVE](https://arriveguidelines.org) guidelines are useful resources for planning, designing, and conducting animal experiments according to GRP.   
 
 </details>  
 
@@ -189,23 +189,23 @@ Furthermore, Researchers must design experiments to ensure animal welfare and fo
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Genetic engineering</span></summary>   
 For research involving genetic engineering, adherence to stringent safety, ethical, and environmental standards is needed. Relevant Swedish laws include:  
 
--	[2006:351 on Genetic Integrity etc. ](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2006351-om-genetisk-integritet-m.m_sfs-2006-351/) 'om genetisk integritet m.m.'  
--	[2002:1086 on the Release of Genetically Modified Organisms into the Environment](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20021086-om-utsattning-av-genetiskt_sfs-2002-1086/) 'om utsättning av genetiskt modifierade organismer i miljön'   
--	[2000:271 on the Contained Use of Genetically Modified Organisms](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-2000271-om-innesluten-anvandning-av_sfs-2000-271/) 'om innesluten användning av genetiskt modifierade organismer'
--	[DS2000:61 the Environmental Code](https://www.government.se/legal-documents/2000/08/ds-200061/) 
+-	[2006:351 on Genetic Integrity etc. ](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2006351-om-genetisk-integritet-m.m_sfs-2006-351/) 'Om genetisk integritet m.m.'  
+-	[2002:1086 on the Release of Genetically Modified Organisms into the Environment](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20021086-om-utsattning-av-genetiskt_sfs-2002-1086/) 'Om utsättning av genetiskt modifierade organismer i miljön'   
+-	[2000:271 on the Contained Use of Genetically Modified Organisms](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-2000271-om-innesluten-anvandning-av_sfs-2000-271/) 'Om innesluten användning av genetiskt modifierade organismer'
+-	[DS2000:61 the Swedish Environmental Code](https://www.government.se/legal-documents/2000/08/ds-200061/) 
   
 See the [Swedish Board of Agriculture](https://jordbruksverket.se/languages/english/swedish-board-of-agriculture) ('Jordbruksverket'), the [Medical Products Agency](https://www.lakemedelsverket.se/en) ('Läkemedelsverket'), [the Swedish Work Environment Authority](https://www.av.se/om-oss/) ('Arbetsmiljöverket'), the [Gene Technology Advisory Board](https://www.genteknik.se) ('Gentekniknämnden') and the [National Council on Medical Ethics](https://smer.se/en/english-start/) ('Statens medicinsk-etiska råd') for more information. 
 
 </details> 
 <details>
-<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Development/use of certain type of technology</span></summary>     
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Development/use of certain types of technology</span></summary>     
 The development and application of certain technologies come with specific risks and ethical challenges. A common issue with emerging technologies is that their **rapid advancement and dissemination can sometimes overshadow important ethical discussions**. Therefore, researchers involved in developing new technologies should carefully consider additional ethical questions, as outlined in [VR, 2024](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).
 
 </details> 
 
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Dual-use items</span></summary>     
-Products, technology and information that can have both **civilian and military** uses are called dual-use items, or ‘produkter med dubbla användningsområden’ (PDA). To prevent **misuse** of these items, compliance with European ([EU 2021/821](https://eur-lex.europa.eu/eli/reg/2021/821/oj/eng), [EU 2021/1700](https://eur-lex.europa.eu/eli/reco/2021/1700/oj/eng)) and Swedish ([Act 2000:1064](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20001064-om-kontroll-av-produkter-med_sfs-2000-1064/)) research and export rules is crucial, outlined further by the [Inspectorate for Strategic Products](https://isp.se/eng) 'inspektionen för strategiska produkter'.
+Products, technology and information that can have both **civilian and military** uses are called dual-use items, or ‘produkter med dubbla användningsområden’ (PDA). To prevent **misuse** of these items, compliance with European ([EU 2021/821](https://eur-lex.europa.eu/eli/reg/2021/821/oj/eng), [EU 2021/1700](https://eur-lex.europa.eu/eli/reco/2021/1700/oj/eng)) and Swedish ([Act 2000:1064](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20001064-om-kontroll-av-produkter-med_sfs-2000-1064/)) research and export rules is crucial, outlined further by the [Inspectorate for Strategic Products](https://isp.se/eng) (Inspektionen för strategiska produkter).
 </details> 
 
 
@@ -218,7 +218,7 @@ To ensure ethical compliance, researchers should follow data protection laws and
 
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Processing of personal data (GDPR)</span></summary>  
-The processing of personal data in research is governed by [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng) (2016/679 EU Data Protection Regulation) and related [national regulations](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018218-med-kompletterande-bestammelser_sfs-2018-218/) (2018:218 Supplementary provisions to the EU General Data Protection Regulation, ‘kompletterande bestämmelser till EU:s dataskyddsförordning’).  
+The processing of personal data in research is governed by [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng) (2016/679 EU Data Protection Regulation) and related [national regulations](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018218-med-kompletterande-bestammelser_sfs-2018-218/) (2018:218 Supplementary provisions to the EU General Data Protection Regulation, ‘Kompletterande bestämmelser till EU:s dataskyddsförordning’).  
 Researchers are required to register projects in which personal data are processed with the university’s data protection officer (‘dataskyddsombud’). **Personal data includes any information that can be traced back to a living individual, even if identification requires additional data such as a code key, text material, or an audio recording**.    
 In addition to the fundamental principles outlined in Article 5 of the GDPR, specific requirements govern how personal data may be processed in research to protect the rights and freedoms of individuals, as stated in Article 89.1. If the research involves sensitive personal data or data related to legal violations, special rules apply, and researchers must obtain approval under the [Swedish Ethical Review Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460/) before starting their work.
 
@@ -231,13 +231,13 @@ In addition to the fundamental principles outlined in Article 5 of the GDPR, spe
 <br> 
 <span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 6, 7** </span> 
 <br>  
-In academia, collaborations with both fellow researchers and external actors are essential for generating ideas, fostering creativity, and driving innovation. Adhering to GRP during these collaborations is crucial to ensure transparency, ethical conduct, and professionalism, while also ensuring compliance with relevant laws and guidelines. This commitment helps maintain trust among all parties involved and ensures the collaboration remains productive and responsible.
-
+In academia, collaborations with both fellow researchers and external actors are essential for generating ideas, fostering creativity, and driving innovation. Adhering to GRP in a collaborative environment is crucial to ensure transparency, ethical conduct, professionalism, and compliance with relevant laws and guidelines.
+  
 *The subchapters below offers guidance on how to adhere to GRP in collaborative research efforts.*
 
 <details>
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Collaboration with non-academic actors in society</span></summary>   
- Researchers in a wide variety of fields collaborate with non-academic societal actors, such as governments, businesses, and NGO, to:
+ Researchers in a wide variety of fields collaborate with non-academic societal actors, such as governments, businesses, and NGOs, to:
    
   - address complex societal challenges    
   - co-create knowledge    
@@ -265,7 +265,7 @@ In addition to collaborating with societal actors, many researchers collaborate 
 
 3.	Clearly define issues of ownership and responsibility for material (including data), and how participants' intellectual property rights will be protected.  
 
-4.	Establish mechanisms to address conflicts and deviations from good research practice.  
+4.	Establish mechanisms to address conflicts and deviations from GRP.  
 
 For guidance on ethical issues in international collaborations, the Association of Swedish Higher Education Institutions (SUHF) has developed a [checklist](https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf), and researchers are further encouraged to apply the [TRUST code](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf) to ensure equitable global research partnerships. 
   
@@ -374,7 +374,6 @@ In addition to FFP, there are a wide variety of scenarios that constitute smalle
 -	Failing to verify sources or data adequately  
 -	Conducting insufficient experiments to ensure reliability  
 -	Misattributing authorship in publications  
--	Conducting research without the necessary permits or ethical safeguards  
 -	Reusing one’s own prior work without proper acknowledgment  
 -	Presenting results inaccurately or incompletely  
 -	Concealing AI use in content creation  
@@ -389,7 +388,7 @@ In addition to FFP, there are a wide variety of scenarios that constitute smalle
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Procedures for handling suspicions of misconduct</span></summary>
 
-As per [Act 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/), suspected misconduct fitting the legal definition (FFP) is handled by the [National Board for the Assessment of Research Misconduct (Npof)](https://npof.se/en/) (Nämnden för prövning av oredlighet i forskning). Cases outside Npof’s jurisdiction (i.e., deviations from GRP that don’t fit the definition of research misconduct) are managed by the researcher’s institution, such as a university, following the [Higher Education Ordinance (1993:100)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskoleforordning-1993100_sfs-1993-100/) (högskoleförordningen). Institutions are required to establish clear guidelines for such examinations according to [recommendations from SUHF](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf).   
+As per [Act 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/), suspected misconduct fitting the legal definition (FFP) is handled by the [National Board for the Assessment of Research Misconduct (Npof)](https://npof.se/en/) (Nämnden för prövning av oredlighet i forskning). Cases outside Npof’s jurisdiction (i.e., deviations from GRP that don’t fit the definition of research misconduct) are managed by the researcher’s institution, such as a university, following the [Higher Education Ordinance (1993:100)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskoleforordning-1993100_sfs-1993-100/) (Högskoleförordningen). Institutions are required to establish clear guidelines for such examinations according to [recommendations from SUHF](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf).   
   
 There are three ways in which a report of suspicion of misconduct can be initiated at Npof:
 
@@ -397,7 +396,7 @@ There are three ways in which a report of suspicion of misconduct can be initiat
 -	Through a direct notification from an individual 
 -	On Npofs initiative based on its own observations
 
-The [Act (2021:890) on whistleblower protection](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2021890-om-skydd-for-personer-som_sfs-2021-890/) ensures safeguards for those reporting suspected misconduct. Further guidance is available in the [Whistleblower Protection Handbook](https://zenodo.org/records/8192478).
+[Act 2021:890](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2021890-om-skydd-for-personer-som_sfs-2021-890/) on whistleblower protection ensures safeguards for those reporting suspected misconduct. Further guidance is available in the [Whistleblower Protection Handbook](https://zenodo.org/records/8192478).
 
 After a case has been investigated according to [procedure](https://npof.se/en/research-misconduct/provningsprocess-en/) at Npof or a higher education institution, a decision on a deviation from GRP can have various consequences for the researcher, such as: 
 
@@ -448,15 +447,15 @@ For these reasons, GRP encourages researchers to provide other researchers and t
 
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">"Allmän handling"</span></summary>
-In Sweden, the principle of academic openness is enshrined in [law 1949:105](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/) (the Freedom of the Press Ordinance (‘tryckfrihetsförordning’)), which dictates **the public’s (‘allmänhetens’) right to transparency**. In practice this means that **everyone** has the right to access public documents (‘allmänna handlingar’) which are not classified as confidential. ‘Public documents’ are all documents that are received by or prepared at a public authority (e.g. a university, college, or other governmental agency) and stored there.  
+In Sweden, the principle of academic openness is enshrined in [law 1949:105](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/tryckfrihetsforordning-1949105_sfs-1949-105/) (the Freedom of the Press Ordinance (‘Tryckfrihetsförordning’)), which dictates **the public’s (‘allmänhetens’) right to transparency**. In practice this means that **everyone** has the right to access public documents (‘allmänna handlingar’) which are not classified as confidential. ‘Public documents’ are all documents that are received by or prepared at a public authority (e.g. a university, college, or other governmental agency) and stored there, and can include everything from meeting minutes, to databases, to email correspondence, to protocols.   
   
-Anyone who requests access to a public document has the right to remain **anonymous** and does not usually have to state **what the document or information will be used for**. If access to a public document is denied by a public authority, individuals can demand a written decision from the authority and appeal it to the Court of Appeal (‘Hovrätt’). The right to access public documents can only be limited by the [Public Access and Secrecy Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400/) (2009:400 ‘offentlighets- och sekretesslag’).
-Under the [Archives Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arkivlag-1990782_sfs-1990-782/) (1990:782 'arkivlag'), research materials classified as public documents must be preserved, organized, and maintained to support public insight, judicial processes, and further research.
+Anyone who requests access to a public document has the right to remain **anonymous** and does not usually have to state **what the document or information will be used for**. If access to a public document is denied by a public authority, individuals can demand a written decision from the authority and appeal it to the Court of Appeal (‘Hovrätt’). The right to access public documents can only be limited by the [Public Access and Secrecy Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400/) (2009:400 ‘Offentlighets- och sekretesslag’).
+Under the [Archives Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arkivlag-1990782_sfs-1990-782/) (1990:782 'Arkivlag'), research materials classified as public documents must be preserved, organized, and maintained to support public insight, judicial processes, and further research.
 </details> 
 
 <details> 
 <summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Data sharing</span></summary>
-Data sharing is integral to open science, with the aim of making research data as accessible and reusable as possible. In Sweden, a recent law ([Act 2022:818 on the public sector's access to data](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) ('om den offentliga sektorns tillgängliggörande av data')) encourages the public sector to make research data openly available. 
+Data sharing is integral to Open Science, with the aim of making research data as accessible and reusable as possible. In Sweden, a recent law ([Act 2022:818 on the public sector's access to data](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) ('Om den offentliga sektorns tillgängliggörande av data')) encourages the public sector to make research data openly available. 
 
 When sharing data, researchers should follow the FAIR principles:   
     **F**indable  
@@ -480,7 +479,7 @@ Information that is deemed confidential should be stored securely for release up
   
 Other data that do not fall under law [2002:818](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) include data covered by sole rights, for example according to patent legislation ([1967:837 Patent law](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/patentlag-1967837_sfs-1967-837/)), or that a third party has rights over according to copyright legislation ([1960:729 on Copyright in Literary and Artistic Works](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/)). 
 
-**By embracing openness within the framework of good research practice, researchers can foster trust, ensure ethical responsibility, and contribute to scientific progress while safeguarding sensitive information.**
+**By embracing openness within the framework of GRP, researchers can foster trust, ensure ethical responsibility, and contribute to scientific progress while safeguarding sensitive information.**
 
 </details> 
 </details> 
@@ -520,7 +519,7 @@ Other data that do not fall under law [2002:818](https://www.riksdagen.se/sv/dok
       
 - [SSMFS 2018:1](https://www.stralsakerhetsmyndigheten.se/publikationer/foreskrifter/ssmfs-2018/ssmfs-20181/), 'Om grundläggande bestämmelser för tillståndspliktig verksamhet med joniserande strålning', Strålsäkerhetsmyndigheten, 2018  
 - [2019:9 SJVFS regulations and general advice around laboratory animals](https://lagen.nu/sjvfs/2019:9), 'Föreskrifter och allmänna råd om försöksdjur', Jordbruksverket, 2019
-- [DS2000:61 the Environmental Code](https://www.government.se/legal-documents/2000/08/ds-200061/), Klimat- och näringslivsdepartementet, 2015  
+- [DS2000:61 the Swedish Environmental Code](https://www.government.se/legal-documents/2000/08/ds-200061/), Klimat- och näringslivsdepartementet, 2015  
   
   
 #### Guidelines    
