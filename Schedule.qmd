@@ -21,14 +21,14 @@ date: today
 
 | Time | Session |
 |------|------|
-| 09:00 - 10:15 | [1. Open Science in Sweden](https://scilifelab-training.github.io/open-science/2503/1_OpenScienceInSweden.html) |
-| 10:15 - 10:45 | Coffee break |
-| 10:45 - 12:00 | [2. Open Science in project planning & design](https://scilifelab-training.github.io/open-science/2503/2_ProjectPlanningAndDesign.html) |
-| 12:00 - 13:00 | Lunch |
-| 13:00 - 14:45 | [3. Open Science in project sharing & publishing](https://scilifelab-training.github.io/open-science/2503/3_ProjectSharingAndPublishing.html) |
-| 14:45 - 15:15 | Coffee break |
-| 15:15 - 17:00 | [4. Open Science in researcher evaluation](https://scilifelab-training.github.io/open-science/2503/4_ResearcherEvaluation.html) |
-| 17:00 - 17:15 | Wrap up and handout post-course assignment |
+| 08:30 - 9:45 | [1. Open Science in Sweden](https://scilifelab-training.github.io/open-science/2503/1_OpenScienceInSweden.html) |
+| 9:45 - 10:15 | Coffee break |
+| 10:15 - 11:30 | [2. Open Science in project planning & design](https://scilifelab-training.github.io/open-science/2503/2_ProjectPlanningAndDesign.html) |
+| 11:30 - 12:30 | Lunch |
+| 12:30 - 14:15 | [3. Open Science in project sharing & publishing](https://scilifelab-training.github.io/open-science/2503/3_ProjectSharingAndPublishing.html) |
+| 14:15 - 14:45 | Coffee break |
+| 14:45 - 16:30 | [4. Open Science in researcher evaluation](https://scilifelab-training.github.io/open-science/2503/4_ResearcherEvaluation.html) |
+| 16:30 - 16:45 | Wrap up and handout post-course assignment |
 : {tbl-colwidths="[25,75]"}  
 
 <br/>
