@@ -1,5 +1,5 @@
 ---
-title: "Pre-course assignments"
+title: "Self-study. Pre-course assignments"
 date: today
 ---
 
