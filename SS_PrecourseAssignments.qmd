@@ -73,7 +73,7 @@ This pre-course assignment is related to module 3 of the 'Open Science in the Sw
 - Analyze different types of Open Access publishing  
 **Mode of study:** self-paced  
 
-*Please read through the introduction below, listen to the podcast, and complete the assignment. We will collect the answers during the in-person workshop on March 20th.* 
+*Please read through the introduction below, listen to the podcast, and complete the assignment. We will share answers during the in-person workshop on March 20th.* 
   
 <span style="color: #A7C947;">**Total assignment time: ~ 2h** </span>  
 
@@ -93,7 +93,11 @@ There are six different types of OA publishing currently recognized. Below is an
   
 To prepare for the in-person workshop, listen to the following discussion between researchers, journal editors, and EMBO Open Science professionals on publishing, the move to more Open Access, and the future of journal articles:
 
-> [The EMBO Podcast - A stepping stone to an Open Science Future](https://www.embo.org/podcasts/a-steppingstone-to-an-open-science-future-embo-press-moves-to-full-open-access/)
+> [The EMBO Podcast - A stepping stone to an Open Science Future](https://www.embo.org/podcasts/a-steppingstone-to-an-open-science-future-embo-press-moves-to-full-open-access/) Runtime: 50 minutes.
+
+For data from a Swedish University on Open Access publishing across disciplines (including SciLifelab!) watch this recorded presentation by Maria Almbro at Stockholm University:
+
+> [Navigating the Research Data Landscape: Publication Practices at a Swedish University](https://www.youtube.com/watch?v=VJ5AzujeN_I). Runtime: 30 minutes.
 
 If you would like more in-depth information on Open Access publishing, check out the following article:
 
@@ -160,13 +164,13 @@ To find articles, compare a society journal and an Elsevier or Nature journal in
       <td>7. Who paid for publishing of these two articles?</td>
     </tr>
     <tr>
-      <td>8. What is the main difference between these two publishing types?</td>
+      <td>8. Can you access the data used to build these articles?</td>
     </tr>
     <tr>
-      <td>9. How could a trapeze artist in Borås access these articles?</td>
+      <td>9. Could a retired plumber in Borås access these articles?</td>
     </tr>
     <tr style="border-bottom: 0.5px solid #808080;">
-      <td>10. How could a student at your host university access these articles?</td>
+      <td>10. Could a student at your host university access these articles?</td>
     </tr>
   </tbody>
 </table>
