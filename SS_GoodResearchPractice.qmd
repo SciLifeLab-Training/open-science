@@ -1,5 +1,5 @@
 ---
-title: "Good Research Practice"
+title: "Self-study. Good Research Practice"
 date: today
 ---
 
