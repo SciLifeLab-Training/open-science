@@ -1,5 +1,5 @@
 ---
-title: "Citizen science & science communication"
+title: "Self-study. Citizen science & science communication"
 date: today
 ---
   
