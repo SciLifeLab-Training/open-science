@@ -28,36 +28,33 @@ Course contact: ineke.luijten@scilifelab.se
 
 ## Course content
 
-The 1hp training ‘Open Science in the Swedish context’ is designed to equip scientists within the DDLS research school with a range of tools needed to perform research in accordance with Swedish Open Science standards, in addition to raising awareness around the Open Science and FAIR principles and how to implement these in a researcher's daily life. The training covers how to implement Open Science across several stages of the research project lifecycle, including experimental planning & design, sharing & disseminating output, researcher evaluation, and science communication. Through interactive lectures, discussions with guest speakers, and practical assignments, participants will gain first-hand experience with implementing and navigating pre-registration, the Open Access publishing landscape, new researcher evaluation criteria, and citizen science. Completing this training will position scientists within the DDLS research school as future leaders in the global shift towards more open and collaborative research practices, and will  support Sweden’s commitment to innovation and public engagement, fostering a research environment where knowledge is freely exchanged and built upon.  
+The 1hp training ‘Open Science in the Swedish context’ is designed to equip scientists within the DDLS research school with a range of tools needed to perform research in accordance with Swedish Open Science standards, in addition to raising awareness around the Open Science and FAIR principles and how to implement these in a researcher's daily life. The training covers how to implement Open Science across several stages of the research project lifecycle, including experimental planning & design, sharing & disseminating output, researcher evaluation, and science communication. Through interactive lectures, discussions with guest speakers, and practical assignments, participants will gain first-hand experience with implementing and navigating pre-registration, the Open Access publishing landscape, new researcher evaluation criteria, and citizen science. Completing this training will position scientists within the DDLS research school as future leaders in the global shift towards more open and collaborative research practices.  
 
 
 ## Learning Objectives and Learning Outcomes
-#### Learning Objectives
 
 This course is designed for participants to:  
 
 - Get acquainted with Open Science principles and how they will be implemented into Swedish academia within the coming years  
-- Gain insight in to how to execute every step of a research project according to Open Science principles   
-
-
-#### Learning Outcomes
+- Develop a foundational understanding of how to apply Open Science principles at key stages of a research project     
 
 Upon completion of this course, participants will be able to:
 
+- Demonstrate an understanding of ethical principles and legal frameworks governing research in Sweden
 - Explain what Open Science is, and discuss the benefits and challenges that come with its 
 implementation, specifically in the Swedish context  
-- Describe the process for and benefits of publishing a registered report  
-- Define the different types of Open Access publishing options and their benefits and 
+- Define what a registered report is, explain the steps involved in publishing one, and describe its benefits  
+- Distinguish the different types of Open Access publishing options and debate their benefits and 
 limitations  
-- Identify new researcher evaluation criteria and demonstrate an understanding of which  
+- Identify up-and-coming researcher evaluation criteria and demonstrate an understanding of which  
 research outputs can be published and credited  
-- Explain what citizen science is, and write a popular scientific summary of a scientific project  
-
+- Explain the key principles of Citizen Science and describe how researchers can effectively engage the public in scientific projects
+- Write a popular scientific summary of a citizen science project  
 
 
 ## Target audience and course prerequisites
 
-**Target audience:** This course is offered to all researchers in the DDLS program.    
+**Target audience:** This course is offered to all researchers in the DDLS program    
 **Course prerequisites:** none   
 **Level:** beginner/intermediate  
 
@@ -70,10 +67,10 @@ research outputs can be published and credited
 **Examination:** Active participation in all sessions and group assignments. A written popular scientific communication about a citizen science project of interest   
 
 
-
-## Additional notes  
+## Participant notes  
 
 - This course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.   
 - Participants need to bring a laptop.    
+
 
 
