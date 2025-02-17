@@ -22,11 +22,17 @@ This pre-course assignment is related to module 1 of the 'Open Science in the Sw
 
 :::  
 ## Introduction   
-Open science is a [global movement](https://www.unesco.org/en/open-science/about?hub=686) that seeks to make scientific research, data, and knowledge openly accessible to everyone. It promotes **transparency, collaboration, and the free exchange of ideas**, thereby not only allowing researchers to build on each other’s work more efficiently and accelerating innovation, but also improving the reproducibility and integrity of research.   
-    
-In Sweden, the development of Open Science practices has been a key focus for the government, research institutions, and research funders in recent years. In 2017, Sweden's goverment mandated The Royal Library (Kungliga Biblioteket, KB) to coordinate efforts in bringing about open access to research publications. The Swedish Research Council (Vetenskapsrådet, VR) received a corresponding mandate for open access to research data. These initiatives have set the foundation for further implementation of Open Science practices into Swedish higher education.
+Open Science is all about making scientific research, data, and knowledge available to everyone. It's a [global movement](https://www.unesco.org/en/open-science/about?hub=686) that encourages **transparency, collaboration, and sharing ideas freely**. This makes it easier for researchers to build on each other's work, speed up innovation, and improve the trustworthiness and accuracy of research results.
 
-Currently, the transition to Open Science is still very much ongoing in Sweden. To provide support and guidance in this process, KB has developed the [National Guidelines for Open Science](https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-08-27-national-guidelines-for-open-science---now-in-english.html), in which areas within Open Science that are prioritised and crucial to develop fully in Sweden are highlighted. These areas are:  
+<img src="img/UnescoOpenScience.png" alt="UnescoOpenScience" style="height: 450px"/>
+<figcaption>The 4 key pillars Open Science is built on, and the areas within Open Science they refer to. Unesco (2022) Understanding Open Science, https://doi.org/10.54677/UTCD9302, [CC BY-SA 3.0 IGO](https://creativecommons.org/licenses/by-sa/3.0/igo/)</figcaption>
+</figure>  
+<br>
+    
+
+In Sweden, Open Science has become a big priority for the government, universities, and funding bodies in recent years. In 2017, the Swedish government tasked The Royal Library (Kungliga Biblioteket, KB) with leading the charge to make research publications freely accessible. The Swedish Research Council (Vetenskapsrådet, VR) has been tasked with making research data publicly available. These efforts have laid the groundwork for bringing Open Science practices into Swedish higher education.
+
+Right now, Sweden is still in the process of fully transitioning to Open Science. To help guide this change, KB created the [National Guidelines for Open Science](https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-08-27-national-guidelines-for-open-science---now-in-english.html), in which areas within Open Science that are prioritised and crucial to develop fully in Sweden are highlighted. These areas are:
   
 - Open access to scholarly publications  
 - Open access to research data  
@@ -35,20 +41,18 @@ Currently, the transition to Open Science is still very much ongoing in Sweden. 
 - Public engagement in science  
 - Infrastructures supporting open science  
   
-
-During the in-person workshop on March 20th, Module 1 will focus on the state of Open Science in Sweden, and in particular on the National Guidelines for Open Science. This pre-course assignment is developed to familiarize students with the guidelines ahead of the workshop. 
-  
+During the in-person workshop on March 20th, [Module 1](1_OpenScienceInSweden.qmd) will explore the state of Open Science in Sweden, especially focusing on the National Guidelines. This pre-course assignment is designed to help you get familiar with the guidelines before the workshop kicks off.
   
     
 ## Assignment  
   
 ### Step 1: 
-Please open the document made available to you via a link you've received per email and add your name to the topic you are most interested in. There are 2 groups for each topic and every group can consist of a maximum of 5 people. Topics are available on a first come, first serve basis.  
+Please open the document made available to you via a link you've received per email and add your name to the area you are most interested in. There are 2 groups for each area and every group can consist of a maximum of 5 people. Areas are available on a first come, first serve basis.  
  
 ### Step 2:  
-Read the sections of the *National Guidelines for Open Science* relevant to your chosen group. The Guidelines can be accessed [here](https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-08-27-national-guidelines-for-open-science---now-in-english.html) by clicking 'Read the national guidelines for open science'.   
+Read the sections of the *National Guidelines for Open Science* relevant to your chosen area. The Guidelines can be accessed [here](https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-08-27-national-guidelines-for-open-science---now-in-english.html) by clicking 'Read the national guidelines for open science'.   
 
-Sections to read per group are as follows:   
+Pages to read per group are as follows:   
 - Groups 1.1 & 2.1: pages 8-10, the heading 'Open Access to scholarly publications'  
 - Groups 1.2 & 2.2: pages 10-11, the heading 'Open Access to research data'  
 - Groups 1.3 & 2.3: pages 11-12, the heading 'Open research methods'  
@@ -57,6 +61,7 @@ Sections to read per group are as follows:
 - Groups 1.6 & 2.6: pages 15-16, the heading 'Infrastructures supporting Open Science' 
    
 </details>
+
 
 <br> 
 <details>
