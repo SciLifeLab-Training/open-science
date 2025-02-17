@@ -6,7 +6,7 @@ title: "5. GRP in publishing and reviewing"
 
 ### **Writing** 
 As a researcher, your scientific publications are a primary way to share your findings with the world. Upholding GRP in publishing ensures that your work is transparent, honest, and responsible—building trust within the research community and beyond.  
-According to [VR (2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), responsible scientific publishing means::   
+According to [VR (2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), responsible scientific publishing means:   
 
 -	Presenting data, methods, results and interpretations in an **open, honest, transparent and correct** manner, while meeting the interest in protection and legitimate demands for confidentiality  
 -	clearly reporting **study robustness**, assumptions and values, **sources of error** and remaining uncertainties and knowledge gaps   
