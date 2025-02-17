@@ -1,0 +1,148 @@
+---
+title: "3. GRP in experimental research"
+---
+
+<span style="color: #A7C947;">**Reading time: 15 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 4, 5** </span> 
+
+As a researcher, you play a key role in upholding ethical standards when conducting experiments. Ethical research isn’t just a requirement—it’s the foundation of trust, integrity, and scientific progress. The [ALLEA Code](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf) outlines four fundamental principles that apply to all research, regardless of discipline:
+
+- **Reliability** in ensuring the quality of research, reflected in the design, methodology, analysis, and use of resources  
+- **Honesty** in developing, undertaking, reviewing, reporting, and communicating research in a transparent, fair, full, and unbiased way  
+- **Respect** for colleagues, research participants, research subjects, society, ecosystems, cultural heritage, and the environment  
+- **Accountability** for the research from idea to publication, for its management and organisation, for training, supervision, and mentoring, and for its wider societal impacts  
+  
+<img src="img/GRPQ4.png" alt="Q1" height="70">  
+   
+When you conduct research, it’s essential to carefully balance several **legitimate interests** ([VR, 2024](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html)):   
+  
+-	the pursuit of valuable knowledge  
+-	the protection of those affected by research  
+-	the promotion of openness and transparency  
+-	the maintenance of trust in the research process   
+  
+Among these, the protection interest **always** comes first. This means prioritizing the health, safety, and well-being of everyone involved, whether they are research participants or others impacted by your work. Their protection is paramount and must take precedence over all other considerations.    
+Research often carries direct risks. These might include physical interventions, such as surgeries or administering drugs; psychological distress caused by the research process; or the mishandling of sensitive materials or data. As a researcher, it’s your responsibility to be fully aware of these risks and to take every possible step to mitigate them.  
+  
+<img src="img/GRPQ5.png" alt="Q1" height="70">  
+  
+In addition to these general foundations of GPR in conducting research, there are various specific areas of research ethics that we’ll explore further in the following sections:
+
+
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Research involving humans</span></summary>   
+     
+When your research involves humans—whether through interviews, observations, interventions, experiments, or data collection (such as personal data)—you must follow strict ethical guidelines and ensure your study undergoes an ethical review. Ethical oversight is not optional; it is a fundamental requirement for responsible research.
+
+A strong ethical foundation for human research is built on the **four principles of medical ethics**:  
+
+1. To do good – Your research should aim to benefit individuals or society  
+2. To do no harm – You must minimize risks and avoid unnecessary harm    
+3. To respect self-determination -  Participants must provide informed consent and have autonomy over their involvement    
+4. To uphold justice - The benefits and burdens of research should be distributed fairly    
+  
+Further essential guidelines for conducting ethical human research are provided in [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/) and the [Swedish Ethical Review Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460/) (2003:460 'Om etikprövning av forskning som avser människor').   
+  
+### **Conducting Clinical Studies in Sweden**   
+If your research involves clinical studies, you must comply with [EU Regulation 536/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0536-20221205). Additionally, if your study is funded by certain agencies (such as the Swedish Research Council, VR), it must be registered in public databases like [ClinicalTrials.gov](https://clinicaltrials.gov) or [Researchweb](https://www.researchweb.org/is).  
+For clinical research involving ionizing radiation, you must also seek approval from a local radiation protection committee in accordance with the Swedish Radiation Safety Authority’s regulations(‘Strålsäkerhetsmyndigheten’, [SSMFS 2018:1](https://www.stralsakerhetsmyndigheten.se/publikationer/foreskrifter/ssmfs-2018/ssmfs-20181/)).   
+  
+### **Ethical Approval for Other Human Studies**      
+If your research involves humans but is not classified as a clinical study, you must apply for ethical approval through the [Swedish Ethical Review Authority](https://etikprovningsmyndigheten.se) ('Etikprövningsmyndigheten'). They provide a [detailed guideline](https://etikprovningsmyndigheten.se/wp-content/uploads/2023/12/Vagledning-om-etikprovning-EPM.pdf) outlining:  
+- The relevant laws governing research ethics  
+- How to determine whether your study requires ethical review  
+- The process for applying for approval  
+If your application is denied, you have the right to appeal to the  [Ethics Review Appeals Board](https://www.onep.se/en/) ('Överklagandenämnden för etikprövning'). 
+  
+### **Accessing Human Samples for Research**  
+If your study requires human biological samples, you need both ethical approval and a biobank application. The [Biobank Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/biobankslag-202338_sfs-2023-38/) (2023:38, 'Biobankslag') outlines the legal framework for accessing and storing human biological material. You can apply for biobank access through [Biobank Sweden](https://biobanksverige.se).
+  
+By following these ethical requirements, you ensure that your research is conducted responsibly, transparently, and with respect for the individuals involved.  
+   
+</details>  
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Research involving animals</span></summary>    
+  
+If your research involves laboratory animals, you must follow strict ethical and legal guidelines to ensure responsible and humane treatment. In Sweden, animal research is governed by:  
+- [the Animal Welfare Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddslag-20181192_sfs-2018-1192/) (2018:1192 ‘Djurskyddslag’)  
+- [the Animal Welfare Ordinance](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/djurskyddsforordning-201966_sfs-2019-66/) (2019:66, ‘Djurskyddsförordning’)  
+- [regulations from the Swedish Board of Agriculture](https://lagen.nu/sjvfs/2019:9) (SJVFS 2019:9)  
+Only animals specifically bred for research purposes (destination breeding) are permitted for use in experiments.  
+
+### **Obtaining Ethical Approval**    
+Before you begin any animal experiments, you must secure ethical approval from a regional animal experimentation ethics committee. This requires submitting an application through an [e-service](https://jordbruksverket.se/e-tjanster-databaser-och-appar/e-tjanster-och-databaser-djur/etiskt-godkannande-av-djurforsok) provided by the Swedish Board of Agriculture (Jordbruksverket). Once approved, experiments can only be conducted by researchers or staff with formal training in Laboratory Animal Science (LAS).
+  
+### **Following the 3R Principles**    
+As outlined by the [Swedish 3R center](https://jordbruksverket.se/djur/ovriga-djur/forsoksdjur-och-djurforsok/sveriges-3r-center), all animal research must follow the 3Rs principle to promote ethical practices::  
+  
+-	**Replace** animal use where possible  
+-	**Reduce** the number of animals used  
+-	**Refine** methods to minimize suffering  
+  
+You are responsible for designing your experiments in a way that prioritizes animal welfare while maintaining scientific integrity. To ensure best practices, refer to internationally recognized guidelines such as [PREPARE](https://norecopa.no/PREPARE) and [ARRIVE](https://arriveguidelines.org).   
+
+</details>  
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Genetic engineering</span></summary>   
+If your research involves genetic engineering, you must adhere to strict safety, ethical, and environmental regulations. In Sweden, genetic research is governed by several key laws, ensuring responsible scientific practice  
+
+-	[2006:351 on Genetic Integrity etc. ](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2006351-om-genetisk-integritet-m.m_sfs-2006-351/) 'Om genetisk integritet m.m.'  
+-	[2002:1086 on the Release of Genetically Modified Organisms into the Environment](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20021086-om-utsattning-av-genetiskt_sfs-2002-1086/) 'Om utsättning av genetiskt modifierade organismer i miljön'   
+-	[2000:271 on the Contained Use of Genetically Modified Organisms](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-2000271-om-innesluten-anvandning-av_sfs-2000-271/) 'Om innesluten användning av genetiskt modifierade organismer'
+-	[DS2000:61 the Swedish Environmental Code](https://www.government.se/legal-documents/2000/08/ds-200061/) 
+
+### **Navigating Regulations and Ethical Considerations**  
+As a researcher, you are responsible for ensuring compliance with these legal frameworks and ethical standards. Different authorities provide guidance and oversight, depending on your area of study:  
+  
+- [Swedish Board of Agriculture](https://jordbruksverket.se/languages/english/swedish-board-of-agriculture) ('Jordbruksverket') - Regulations on genetic modification (GMOs) in agriculture  
+- [Medical Products Agency](https://www.lakemedelsverket.se/en) ('Läkemedelsverket') – Oversight of gene therapies and medical applications  
+- [the Swedish Work Environment Authority](https://www.av.se/om-oss/) ('Arbetsmiljöverket') - Responsible for the Environmental Code when it comes to issues of genetic engineering  
+- [the Gene Technology Advisory Board](https://www.genteknik.se) ('Gentekniknämnden') - Provides expert guidance on ethically justifiable and safe use of gene technology  
+- [the National Council on Medical Ethics](https://smer.se/en/english-start/) ('Statens medicinsk-etiska råd') – Addresses ethical dilemmas in genetic research  
+
+</details> 
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Development/use of certain types of technology</span></summary>     
+If your research involves working with emerging, cutting-edge technologies, you play a crucial role in navigating the ethical challenges that come with innovation. The rapid advancement and widespread adoption of new technologies can sometimes outpace critical ethical discussions, raising important questions about their responsible use.
+
+To ensure that your research aligns with ethical best practices, you should proactively reflect on the broader implications of your work. Consider the potential risks, unintended consequences, and societal impact of the technologies you develop. What safeguards should be in place? Who might be affected by your research, and how?
+
+For further guidance, explore the ethical considerations outlined in [VR, 2024](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html). By addressing these challenges early, you contribute to the responsible and sustainable development of technology.
+
+</details> 
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Dual-use items</span></summary>     
+As a researcher, you may work with products, technologies, or information that have both civilian and military applications—these are known as dual-use items (produkter med dubbla användningsområden, PDA). Because of their potential for misuse, strict regulations govern their development, handling, and export.   
+
+To ensure compliance and prevent unintended consequences, you must follow both European ([EU 2021/821](https://eur-lex.europa.eu/eli/reg/2021/821/oj/eng), [EU 2021/1700](https://eur-lex.europa.eu/eli/reco/2021/1700/oj/eng)) and Swedish ([Act 2000:1064](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20001064-om-kontroll-av-produkter-med_sfs-2000-1064/)) regulations.  
+To navigate these rules effectively, refer to the [Inspectorate for Strategic Products](https://isp.se/eng) (Inspektionen för strategiska produkter) which provides further guidance on research and export controls. By staying informed and compliant, you help ensure that your research is used responsibly and ethically.  
+</details> 
+
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Artificial intelligence</span></summary>  
+When incorporating AI tools into your research, you must carefully navigate issues of privacy, confidentiality, and intellectual property rights—especially when working with sensitive or personal data. Within the EU, AI usage is governed by [specific legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689), nd the European Commission has provided [guidelines](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en) on AI ethics and responsible use in research.   
+To ensure that your research remains ethical and compliant, it is essential to follow data protection laws and adhere to established guidelines when integrating AI into your work. By doing so, you help safeguard trust, integrity, and accountability in research involving AI.  
+
+</details>  
+
+<details>
+<summary><span style="font-size: 18px; font-weight: bold; color: #491F53;">Processing of personal data (GDPR)</span></summary>  
+When working with personal data in research, you must navigate strict legal and ethical requirements to protect individuals' rights and privacy. The EU General Data Protection Regulation [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng) (2016/679 EU Data Protection Regulation) along with Sweden’s [national regulations](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018218-med-kompletterande-bestammelser_sfs-2018-218/) (2018:218 Supplementary provisions to the EU General Data Protection Regulation, ‘Kompletterande bestämmelser till EU:s dataskyddsförordning’) set the framework for handling personal data in research.  
+If your research involves processing personal data, you are required to register your project with your university’s data protection officer ('dataskyddsombud'). **Personal data includes any information that can be traced back to a living individual**—even if additional data (such as a code key, text material, or an audio recording) is needed for identification.   
+  
+Beyond the core GDPR principles outlined in Article 5 of the GDPR, Article 89.1 establishes specific rules for processing personal data in research to safeguard individuals' rights and freedoms. If your study involves sensitive personal data or data related to legal violations, additional legal safeguards apply. In these cases, you must obtain ethical approval under the [Swedish Ethical Review Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460/) before beginning your research.
+
+By staying informed and compliant, you help ensure that your research respects privacy, maintains trust, and upholds the highest ethical standards.
+
+
+</details>  
+
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="SS_GRP2.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="SS_GRP4.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>
