@@ -41,7 +41,7 @@ Chapter overview:
 ### **Module creation** 
 This educational module was created by compiling content from the sources referenced throughout. The material was then summarized with the assistance of ChatGPT (OpenAI, 2025), to distill key insights. Following this, the summary was reviewed and rewritten, and subsequently refined by three independent reviewers.
 
-**Creator:**   
+**Creator**   
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
 **Contributors**  
 - Kristen Schroeder <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/kristen-schroeder-7b418470/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/kristen-schroeder" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
