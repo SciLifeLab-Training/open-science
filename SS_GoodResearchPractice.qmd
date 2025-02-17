@@ -27,7 +27,7 @@ Chapter overview:
 [5. GRP in publishing and reviewing](SS_GRP5.qmd)  
 [6. Scientific misconduct](SS_GRP6.qmd)  
 [7. GRP and Open Science](SS_GRP7.qmd)  
-
+[8. References](SS_GRP8.qmd) 
 
   
 <span style="color: #A7C947;">**Total reading time: ~ 1h  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Total reflection question time: ~ 1h ** </span>
@@ -37,4 +37,14 @@ Chapter overview:
 [Next →](SS_GRP1.qmd){.btn .btn-primary}
   
 ---  
+
+### **Module creation** 
+This educational module was created by compiling content from the sources referenced throughout. The material was then summarized with the assistance of ChatGPT (OpenAI, 2025), to distill key insights. Following this, the summary was reviewed and rewritten, and subsequently refined by three independent reviewers.
+
+**Creator:**   
+- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+**Contributors**  
+- Kristen Schroeder <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/kristen-schroeder-7b418470/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/kristen-schroeder" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+- Yvonne Kallberg <a href="https://orcid.org/0000-0002-3977-9600" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.https://www.linkedin.com/in/yvonne-kallberg-53969417/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/yvonnekallberg" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+- Markus Englund <a href="https://orcid.org/0000-0003-1688-7112" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/markusenglund/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/jmenglund" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
 
