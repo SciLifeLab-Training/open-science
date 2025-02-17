@@ -17,7 +17,7 @@ This module is primarily based on [Good Research Practice](https://www.vr.se/upp
 ---   
   
 ### **Assignment**      
-Please work through chapters 1-7 and answer the reflection questions in the Google form.
+**Please work through chapters 1-7 and answer the reflection questions in the [Google form](https://forms.gle/yt1JWgwG3HuRU6KM7)**
 
 Chapter overview:   
 [1. Introduction to Good Research Practice](SS_GRP1.qmd)  
