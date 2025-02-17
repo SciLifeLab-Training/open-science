@@ -1,0 +1,95 @@
+---
+title: "6. Scientific misconduct"
+---
+
+
+<span style="color: #A7C947;">**Reading time: 10 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 10, 11** </span> 
+  
+As a researcher, upholding GRP is essential—not just for producing credible results, but also for maintaining public trust, ensuring ethical integrity, and fulfilling your societal responsibility. Yet, various pressures can lead to deviations from the laws, guidelines, and principles outlined in chapters 1-5. 
+
+Within the scientific community, several elements increase the likelihood that researchers might deviate from GRP. One major challenge is the competitive nature of research, which can create pressure to cut corners. Additionally, evaluation systems that focus on quantitative indicators —such as publication counts and citation metrics— may incentivize questionable shortcuts. Recognizing these risks and understanding how to mitigate them is crucial to maintaining research integrity.
+  
+<img src="img/GRPQ10.png" alt="Q1" height="70">    
+   
+In some cases, deviations from GRP may be unintentional, resulting from:  
+
+-	Ignorance: Lack of awareness of ethical research practices  
+-	Negligence: Carelessness in methodology or reporting  
+-	Stress and Pressure: High expectations, deadlines, or resource limitations  
+-	Poor Research Habits: Developing methods or attitudes inconsistent with ethical guidelines  
+
+However, in more serious instances, some researchers may intentionally bypass ethical practices to manipulate outcomes.    
+  
+### **Understanding Research Misconduct**   
+Under [Act 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/), research misconduct is defined as:  
+  
+“*a serious deviation from good research practice in the form of fabrication, falsification or plagiarism committed intentionally or through gross negligence in the planning, implementation or reporting of research*”  
+
+These core types of misconduct—often referred to as FFP (Fabrication, Falsification, and Plagiarism)—include:
+
+1.	Fabrication: Creating false data or results and presenting them as real.
+2.	Falsification: Manipulating materials, equipment, processes, or data to misrepresent the research. Includes changing, omitting or suppressing data without justification.
+3.	Plagiarism: Using another person's ideas, processes, results, or words without proper attribution, thus violating intellectual property rights.
+  
+While fabrication and falsification almost always constitute research misconduct, plagiarism may not be considered a serious breach if it occurs unintentionally or without gross negligence.
+
+Beyond FFP, there are other questionable research practices that violate GRP, such as:
+  
+-	Failing to verify sources or data adequately  
+-	Conducting insufficient experiments to ensure reliability  
+-	Misattributing authorship in publications  
+-	Reusing one’s own prior work without proper acknowledgment  
+-	Presenting results inaccurately or incompletely  
+-	Concealing AI use in content creation  
+-	Refusing to share results without valid reasons  
+-	Misrepresenting statistical significance  
+-	Hindering the research efforts of peers  
+  
+<img src="img/GRPQ11.png" alt="Q1" height="70">    
+    
+   
+### **What Happens When Research Misconduct is Suspected?**    
+If misconduct is suspected, the case is handled according to [Act 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/). The process depends on the severity of the case:  
+  
+- For serious cases (FFP), the [National Board for the Assessment of Research Misconduct (Npof)](https://npof.se/en/) (Nämnden för prövning av oredlighet i forskning) investigates the case.  
+- For other deviations from GRP, The case is handled by your research institution (such as a university) under the [Higher Education Ordinance (1993:100)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskoleforordning-1993100_sfs-1993-100/) (Högskoleförordningen). Institutions are required to establish clear guidelines for such examinations according to [recommendations from SUHF](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf).   
+  
+There are three ways in which a report of suspicion of misconduct can be initiated at Npof:
+
+-	Through a submission from a research performing organization
+-	Through a direct notification from an individual (i.e. a whistleblower)
+-	On Npofs initiative based on its own observations
+
+[Act 2021:890](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2021890-om-skydd-for-personer-som_sfs-2021-890/) on whistleblower protection ensures safeguards for those reporting suspected misconduct. Further guidance is available in the [Whistleblower Protection Handbook](https://zenodo.org/records/8192478).
+ 
+### **What Are the Consequences of Research Misconduct?**     
+After a case has been investigated according to [procedure](https://npof.se/en/research-misconduct/provningsprocess-en/) at Npof or a higher education institution, a decision on a deviation from GRP can have various consequences, such as: 
+
+- Employment sanctions:   
+  - warnings  
+  - salary deductions   
+  - dismissal from position     
+- Academic sanctions:   
+  - correction or withdrawal of published articles  
+  - suspension or withdrawal of grant funding    
+  - limitation to the ability of researchers to apply for or receive new grants   
+- Legal consequences:   
+  - reprimands, warnings, injunctions, prohibitions, fines, administrative sanctions
+  - in severe cases: imprisonment (e.g., for conducting research without necessary permits)
+
+
+But beyond individual consequences, research misconduct has wider implications: 
+
+- Erosion of public trust in science  
+- Wasted resources on unreliable studies  
+- Potential harm to people, animals, or the environment  
+
+
+### **Your Role in Upholding Research Integrity** 
+As a researcher, your responsibility goes beyond simply avoiding misconduct—you must actively promote transparency, accountability, and high ethical standards in your work. By staying informed and committed to Good Research Practice, you contribute to the integrity of science and the trust society places in it.  
+  
+   
+<div style="display: flex; justify-content: space-between;">
+  <a href="SS_GRP5.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="SS_GRP7.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

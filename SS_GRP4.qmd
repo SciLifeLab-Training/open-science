@@ -1,0 +1,62 @@
+---
+title: "4. GRP in (inter)national collaboration"
+---
+
+<span style="color: #A7C947;">**Reading time: 7 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 6, 7** </span> 
+
+As a researcher, collaboration is key to innovation—whether you're working with fellow academics, industry partners, or international teams. Engaging in responsible collaboration ensures that research remains transparent, ethical, and legally compliant, while fostering creativity and meaningful impact.
+
+The following sections provide practical guidance on how to uphold GRP in collaborative research settings.
+
+### **Collaboration with non-academic actors in society** 
+
+Research often extends beyond academia, involving partnerships with government agencies, businesses, NGOs, and other societal actors. These collaborations allow you to:  
+  
+- address complex societal challenges    
+- co-create knowledge    
+- develop innovative solutions  
+- ensure research has real-world applications and benefits     
+
+However, working with external actors requires careful attention to:
+
+- Clearly defining responsibilities to maintain transparency and accountability  
+- Monitoring research impact beyond the primary study focus, especially regarding the operations of partner organizations  
+- Recognizing and mitigating power imbalances that could influence the research process or affect stakeholders  
+
+By proactively addressing these aspects, you can ensure ethical and impactful collaboration that benefits both research and society.  
+
+<img src="img/GRPQ6.png" alt="Q1" height="70">   
+       
+
+### **International collaboration**     
+  
+Exchanging knowledge and/or material across borders enriches research but also introduces ethical, legal, and cultural complexities. To engage in "responsible internationalization" (see [STINT](https://www.stint.se/wp-content/uploads/2022/09/STINT_Ansvarsfull-internation_web.pdf) for more information), you and your institution should:
+
+1.	Identify and adhere to relevant ethical regulations in **all involved countries**, ensuring research planning aligns with these standards.  
+
+2.	Avoid so called “ethical dumping”, upholding Swedish ethical standards even when local regulations are more permissive, to protect people, animals, and the environment.  
+
+3.	Clearly define ownership and intellectual property rights, ensuring fair handling of data, materials, and research findings.  
+  
+4.	Establish conflict-resolution mechanisms to address ethical breaches or deviations from GRP.   
+
+For structured guidance, the Association of Swedish Higher Education Institutions (SUHF) provides a [checklist](https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf) to help navigate ethical concerns, while the [TRUST code](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf) promotes equitable global research partnerships.
+  
+<img src="img/GRPQ7.png" alt="Q1" height="70">    
+  
+If your research involves genetic resources or traditional knowledge from another country, compliance with:  
+  
+- [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml)  
+- [EU Access and Benefit Sharing Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0511)   
+- National laws of the supplier country  
+is mandatory. 
+  
+When dealing with indigenous data, applying the [CARE principles](https://www.gida-global.org/care) ensures ethical and respectful governance. You must document compliance with relevant regulations in the supplier's country, using tools like [EU DECLARE](https://www.naturvardsverket.se/4ac4da/contentassets/09859c1d752d445ab59f06c0544fe6e0/question-and-answer-users.pdf). For further support, visit [Naturvårdsverket](https://www.naturvardsverket.se/vagledning-och-stod/arter-och-artskydd/genetiska-resurser-nagoyaprotokollet/).   
+
+By integrating these practices into your collaborative efforts, you contribute to ethical, globally responsible research that fosters trust, innovation, and positive impact.
+
+  
+<div style="display: flex; justify-content: space-between;">
+  <a href="SS_GRP3.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="SS_GRP5.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>

@@ -1,0 +1,33 @@
+---
+title: "2. GRP in acquiring funding"
+---
+
+<span style="color: #A7C947;">**Reading time: 3 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 3** </span>   
+
+As a researcher, you have a responsibility to use research funding and resources both ethically and efficiently. This means striving to:
+
+- Maximize the value of your research while minimizing wasted time and resources.
+- Avoid unnecessary harm, risk, or suffering to people, animals, or the environment.  
+  
+When applying for funding, your proposal should clearly demonstrate how your research has the potential to generate valuable knowledge and/or societal benefits. Conducting research without such potential goes against the principles of GRP. 
+  
+<img src="img/GRPQ3.png" alt="Q1" height="70">    
+
+### **Ethical Considerations in Grant Applications**  
+When applying for grants—such as those from the [the Swedish Research Council (Vetenskapsrådet)](https://www.vr.se), [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en), and [the ERC](https://erc.europa.eu/apply-grant), you must reflect on ethical aspects from the very beginning of your project. Grant applications require you to address both legal requirements and broader ethical concerns, including:  
+
+- Identifying potential ethical challenges in your research.  
+- Describing how these ethical issues will be managed throughout the project.  
+- Ensuring compliance with relevant laws and regulations.  
+- Justifying why your research should be conducted and its expected impact.    
+  
+For guidance on integrating ethical considerations into your grant proposals, refer to resources such as: [VR 'Conducting ethical research'](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/conducting-ethical-research.html), [Horizon Europe 'Ethics self-assessment guide'](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf), and [ERC 'Ethics guidance'](https://erc.europa.eu/manage-your-project/ethics-guidance). 
+
+### **Why This Matters** 
+By addressing ethical issues transparently and comprehensively in your funding applications, you help foster trust, accountability, and responsible resource use in research. Ethical integrity in grant proposals not only strengthens your application but also reinforces the credibility of scientific work as a whole.
+ 
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="SS_GRP1.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="SS_GRP3.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>
