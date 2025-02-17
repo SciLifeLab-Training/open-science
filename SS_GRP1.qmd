@@ -1,0 +1,68 @@
+---
+title: "1. Introduction to Good Research Practice"
+---
+
+<span style="color: #A7C947;">**Reading time: 5 min  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Reflection question #: 1, 2** </span>  
+  
+As a researcher, you are responsible for conducting your work with integrity, ensuring that your methods and findings are ethical, reliable, and credible. Good Research Practice (GRP) is defined as **“the collective ethical criteria on how good research should be conducted”** [(VR, 2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html), and includes a set of ethical standards and guidelines that shape research practices across various disciplines. It provides the ethical and professional foundation for research across all disciplines, thereby ensuring the credibility and reliability of your research findings, safeguarding public trust in science, upholding the well-being of research subjects, and respecting the broader societal impact of discoveries you make. Simply put, producing high-quality research is impossible without a strong commitment to GRP [(VR, 2024)](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html).
+
+### **Your legal and ethical responsibilities**
+
+In Sweden, following GRP is not just an ethical obligation—it is a legal requirement. As a researcher, you **must** comply with national legislation, including:  
+  
+- [Law 2019:504. the Act on Responsibility for Good Research Practice and the Examination of Research Misconduct ('lagen om ansvar för god forskningssed och prövning av oredlighet i forskning')](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)  
+
+In addition to legal frameworks, you must adhere to well-established integrity and ethics guidelines, such as:
+
+- [Good Research Practice ('God Forskningssed')](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html)  
+- [The European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf)  
+
+and you also must follow broader ethical agreements that shape research integrity, including:
+
+- [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/)  
+- [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml)
+
+Beyond these formal guidelines, your institution may have its own code of conduct, such as the [SciLifeLab code of conduct](https://www.scilifelab.se/code-of-conduct/).   
+
+<img src="img/GRPQ1.png" alt="Q1" height="70">   
+  
+
+### **What GRP Means for You in Practice**
+Upholding GRP is not just about avoiding misconduct—it is about actively engaging with ethical principles in every aspect of your research. This means:
+
+- Being aware of and following all relevant regulations that apply to your field.
+- Maintaining good research habits and making ethical decisions at every stage of your work.
+- Exercising sound professional judgment and resisting undue influence.
+- Continuously updating your knowledge to keep pace with evolving ethical and legal standards.  
+
+### **The Role of Your Institution**
+You are not solely responsible for maintaining GRP standards in your research project. Research-performing organizations play a crucial role in fostering an ethical research environment by ([SUHF, 2023](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf)): 
+
+-	Providing training and mentorship to help you navigate GRP principles.
+- Offering support structures, such as clear ethical guidelines.
+- Ensuring infrastructure and technical support is in place, including well-defined procedures.
+- Creating incentives that reward adherence to GRP. 
+
+At the same time, Swedish law ([Law 1992:1434. The higher education act ('Högskolelag')](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/)) dictates that your research performing organization has to guarantee you academic freedom. This freedom also means that part of the responsibility to uphold research integrity lies on you ([Section 4 of Law 2019:504](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2019504-om-ansvar-for-god-forskningssed-och_sfs-2019-504/)). Ethical considerations and legal requirements may vary across disciplines, so it is your duty to stay informed and apply GRP principles appropriately within your field.
+   
+<img src="img/GRPQ2.png" alt="Q1" height="70">    
+
+### **What you need to succeed**  
+  
+To be a responsible researcher, you must develop key competencies, including:
+  
+- A strong understanding of GRP principles and frameworks.
+- The ability to apply ethical guidelines in real-world research scenarios.
+- Good professional judgment and research habits.
+- The ability to resist pressures that could compromise integrity.
+- The skills to navigate ethical dilemmas with confidence. 
+
+### **What's next?**  
+  
+The following chapters will guide you through how to apply GRP throughout an academic project—from securing funding to conducting experiments, collaborating nationally and internationally, publishing, and reviewing. Chapter 6 will cover research misconduct, including what happens if an accusation is made, and final Chapter 7 delves in to how GRP relates to Open Science principles.   
+  
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="SS_GoodResearchPractice.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="SS_GRP2.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>
