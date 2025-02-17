@@ -35,7 +35,7 @@ The right to access public documents can only be limited by the [Public Access a
 
 
 ### **Data Sharing: The Heart of Open Science**   
-Data is the foundation of research, but without access, its potential remains untapped. That’s why data sharing is a core principle of Open Science. In Sweden, Act 2022:818 ([On the public sector's access to data](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) ('Om den offentliga sektorns tillgängliggörande av data')) encourages the public sector —including universities— to make research data as openly available as possible. To maximize the impact of your data, you should follow the FAIR principles:   
+Data is the foundation of research, but without access, its potential remains untapped. That’s why data sharing is a core principle of Open Science. In Sweden, [Act 2022:818](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2022818-om-den-offentliga-sektorns_sfs-2022-818/) (On the public sector's access to data ('Om den offentliga sektorns tillgängliggörande av data')) encourages the public sector —including universities— to make research data as openly available as possible. To maximize the impact of your data, you should follow the FAIR principles:   
   
 - **F**indable – Clearly documented and easy to locate  
 - **A**ccessible – Available through standardized protocols  
