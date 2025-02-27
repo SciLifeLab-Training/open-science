@@ -36,7 +36,7 @@ By the end of this session, participants will be able to:
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
       <td style="padding: 10px 0;">13:15</td>
       <td style="padding: 10px 0;">Good research practice</td>
-      <td style="padding: 10px 0;">Jonas Åkerman</td>
+      <td style="padding: 10px 0;">Jonas Åkerman & Sara Belfrage</td>
     </tr>
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
       <td style="padding: 10px 0;">14:15</td>
