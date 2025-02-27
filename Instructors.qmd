@@ -132,7 +132,7 @@ date: today
 
 <table>
 <tr>
-    <td style="width: 20%;"><img src="img/AmandaKlein.jpg" alt="Amanda Klein" width="80"></td>
+    <td style="width: 20%;"><img src="img/AmandaKlein.jpeg" alt="Amanda Klein" width="80"></td>
     <td style="width: 80%;"> At VR, Amanda specializes in managing grant applications and the peer review process. With over a decade of experience in experimental obesity and diabetes research, as well as expertise in clinical research funding, eCRF design, and science communication, she is passionate about improving research structure and funding systems. </td>
 </tr>
 </table>
