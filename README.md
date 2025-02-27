@@ -6,7 +6,7 @@ The 1ECTS shortened course '_Open Science in the Swedish context_' delivered by 
 |  |  |
 |------|------|
 | Title | Open Science in the Swedish context |
-| Abstract | The 1hp course ‘Open Science in the Swedish Context’ is designed to teach DDLS research school scientists how to apply Swedish Open Science standards in their daily research. The course covers key stages of the research lifecycle, from planning a research project, to sharing results, to science communication and researcher evaluation. Through interactive lectures, guest speakers, and practical assignments, participants will explore pre-registration, Open Access publishing, up-and-coming researcher evaluation criteria, and citizen science. Completing this training will prepare DDLS students to lead the global shift toward open and collaborative research |
+| Abstract | The 1hp course ‘Open Science in the Swedish Context’ is designed to teach Data-Driven Life Science (DDLS) research school scientists how to apply Swedish Open Science standards in their daily research. The course covers key stages of the research lifecycle, from planning a research project, to sharing results, to science communication and researcher evaluation. Through interactive lectures, guest speakers, and practical assignments, participants will explore pre-registration, Open Access publishing, up-and-coming researcher evaluation criteria, and citizen science. Completing this training will prepare DDLS students to lead the global shift toward open and collaborative research |
 | Type | Slides, recorded webinar, etc |
 | Language | English |
 | Keywords | Open Science, data reuse, open access, citizen science |
@@ -33,7 +33,7 @@ The 1ECTS shortened course '_Open Science in the Swedish context_' delivered by 
 |:------|:------|
 | Learning outcomes | Demonstrate an understanding of ethical principles and legal frameworks governing research in Sweden. * Explain what Open Science is, and discuss the benefits and challenges that come with its implementation, specifically in the Swedish context. * Define what a registered report is, explain the steps involved in publishing one, and describe its benefits.* Distinguish the different types of Open Access publishing options and debate their benefits and limitations. * Identify up-and-coming researcher evaluation criteria and demonstrate an understanding of which research outputs can be published and credited. * Explain the key principles of Citizen Science and describe how researchers can effectively engage the public in scientific projects. * Write a popular scientific summary of a citizen science project. |
 | Structure and duration | Each session is developed to be taught in person over 3h. Session 8 is a 3h excursion to Kungliga Biblioteket in Stockholm, Sweden. Session 9 is a 2h online discussion with a panel of Open Science experts  |
-| Target audience | This is a nationally offered course open to PhD students, postdocs, researchers, PIs and other employees at all Swedish universities who would like to implement Open Science practices into every step of their research projects. |
+| Target audience | This course is offered to all researchers in the SciLifeLab (Sweden) Data-Driven Life Science (DDLS) program |
 | Expertise (skill) level |  beginner/intermediate |
 | Prerequisite - knowledge | none |
 | Prerequisite - technical  |  basic computer knowledge |
