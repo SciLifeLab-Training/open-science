@@ -7,7 +7,7 @@ The 1ECTS shortened course '_Open Science in the Swedish context_' delivered by 
 |------|------|
 | Title | Open Science in the Swedish context |
 | Abstract | The 1hp course ‘Open Science in the Swedish Context’ is designed to teach Data-Driven Life Science (DDLS) research school scientists how to apply Swedish Open Science standards in their daily research. The course covers key stages of the research lifecycle, from planning a research project, to sharing results, to science communication and researcher evaluation. Through interactive lectures, guest speakers, and practical assignments, participants will explore pre-registration, Open Access publishing, up-and-coming researcher evaluation criteria, and citizen science. Completing this training will prepare DDLS students to lead the global shift toward open and collaborative research |
-| Type | Slides, recorded webinar, etc |
+| Type | Self-study modules, pre-workshop assignments, workshop modules (lectures, practical group assignments)|
 | Language | English |
 | Keywords | Open Science, data reuse, open access, citizen science |
 | Authors | Ineke Luijten, SciLifeLab Training Hub <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Kristen Schroeder, SciLifeLab Training Hub <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>.  Joanna Sendecka, SciLifeLab Data Centre <a href="https://orcid.org/0009-0002-6665-2856" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>|
@@ -46,9 +46,9 @@ The 1ECTS shortened course '_Open Science in the Swedish context_' delivered by 
 |  |  |
 |:------|:------|
 | Licensing and reuse details | Unless stated otherwise, all materials from this course are available for re-use under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/) |
-| Preferred citation | *Session author 1, Session author 2, etc* (2024) Open Science in the Swedish context - session *x*: *session title*. Retrieved from https://scilifelab-training.github.io/open-science/2505  |
+| Preferred citation | *Session author 1, Session author 2, etc* (2024) Open Science in the Swedish context - session *x*: *session title*. Retrieved from https://scilifelab-training.github.io/open-science/2503  |
 | Status | under development |
-| Version |  1 |
+| Version | 1 |
 | Date of last revision | NA |
 | Modification contact person |  NA |
 
