@@ -13,8 +13,8 @@ The course '_Open Science in the Swedish context_' delivered by SciLifeLab Train
 | Authors | Ineke Luijten, SciLifeLab Training Hub <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Elin Kronander, NBIS <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>.  David Rayner, SND <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>|
 | Author contact details | ineke.luijten@scilifelab.se, elin.kronander@scilifelab.se, david.rayner@gu.se |
 | Content Provider | [SciLifeLab Training Hub](https://training.scilifelab.se) |
-| Contributors | Sanna Isabel Ulfsparre, VR <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Erik Stattin, KB <a href="https://orcid.org/0000-0002-1520-2022" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Angeliki Adamaki, LU, <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Sabina Anderberg, SUHF <a href="https://orcid.org/0000-0002-3344-8130" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Jonas Åkerman, SU. |
-| Date created | October 2025 |
+| Contributors | Sanna Isabel Ulfsparre, VR <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Erik Stattin, KB <a href="https://orcid.org/0000-0002-1520-2022" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Angeliki Adamaki, LU, <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Sabina Anderberg, SUHF <a href="https://orcid.org/0000-0002-3344-8130" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Jonas Åkerman, SU. Till Brückner, KI <a href="https://orcid.org/0000-0001-9346-3319" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Abeni Wickham, SciFree <a href="https://orcid.org/0000-0002-2106-0665" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Amanda Klein, VR. Karin Westin Tikkanen, SND <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Lotta Waesterberg Tomasson, Vetenskap & Allmänhet <a href="https://orcid.org/0000-0001-9106-5843" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Andreas Lundquist, KI Innovations. |
+| Date created | October 2024 |
 | Date published | xxx |  
 
 
@@ -25,7 +25,7 @@ The course '_Open Science in the Swedish context_' delivered by SciLifeLab Train
 | URL | [Open Science in the Swedish context](https://scilifelab-training.github.io/open-science/2505) |
 | DOI | xxx |
 | Access costs | No |
-| Events | March 6 2025, DDLS Research School retreat, shortened version see here. May 6-9 2025 SciLifeLab Solna, full course in person, registration here |
+| Events | March 6 2025, DDLS Research School retreat, shortened version see [here](https://scilifelab-training.github.io/open-science/2503/). May 6-9 2025 SciLifeLab Solna, full course in person, see [here](https://scilifelab-training.github.io/open-science/2505/) |
 
 ## Educational   
 
@@ -36,9 +36,9 @@ The course '_Open Science in the Swedish context_' delivered by SciLifeLab Train
 | Target audience | This is a nationally offered course open to PhD students, postdocs, researchers, PIs and other employees at all Swedish universities who would like to implement Open Science practices into every step of their research projects. |
 | Expertise (skill) level |  beginner/intermediate |
 | Prerequisite - knowledge | none |
-| Prerequisite - technical  |  basic computer knowledge, xxx |
+| Prerequisite - technical  |  basic computer knowledge |
+| Additional resources |  none |
 | Additional information |  none |
-| Links and references |  none |
 
 
 ## Reuse   
@@ -50,7 +50,6 @@ The course '_Open Science in the Swedish context_' delivered by SciLifeLab Train
 | Status | under development |
 | Version |  1 |
 | Date of last revision | NA |
-| Date modified  |  NA |
 | Modification contact person |  NA |
 
 
