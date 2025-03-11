@@ -18,7 +18,7 @@ This module is primarily based on information from [Vetenskap & Allmänhet](http
 ---   
   
 ### **Assignment**      
-**Please work through the three chapters below and  complete the assignments in the [Google form]**
+**Please work through the three chapters below and  complete the assignments in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSe8VjKIiY5RYVvrpsW35rUDkC_efk1tR8wiE5FgrmaZjmUhkQ/viewform?usp=dialog)**
 
 Chapter overview:   
 [1. Introduction to science communication and citizen science](SS_SciCom1.qmd)  
