@@ -72,7 +72,7 @@ date: today
 
 **Lecture slides**  
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLi0fFwUqzXoWWIhHeMdlfaQ_LQMtMqCSUcCPlyZeG8bkFOYnJPTDPnQSUsZbfvQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLi0fFwUqzXoWWIhHeMdlfaQ_LQMtMqCSUcCPlyZeG8bkFOYnJPTDPnQSUsZbfvQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="500" height="300"></iframe>
   
 
 **Miro board**  
