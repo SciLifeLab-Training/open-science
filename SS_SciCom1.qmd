@@ -1,1 +1,81 @@
+---
+title: "1. Introduction to Science Communication and Citizen Science"
+---
 
+<span style="color: #A7C947;">**Reading time: 15 min** </span>  
+  
+
+### **Science communication**
+
+Science isn’t just for scientists—it belongs to everyone! As a researcher, your work has the power to **shape society, influence policy, and inspire future generations**. But for that to happen, people need to understand and engage with your research. That’s where science communication comes in.   
+  
+Science communication is the practice of sharing scientific knowledge, methods, and discoveries with audiences beyond the academic community. This includes engaging with:   
+   
+- the public
+- policymakers   
+- journalists  
+- industry stakeholders   
+  
+through various channels, such as:
+
+- media articles   
+- social media   
+- public lectures  
+- exhibitions 
+- citizen science initiatives  
+   
+Here’s why it matters:  
+🌍 Impact & Influence – Your research can inform policies, healthcare, and innovation—but only if the right people understand it.  
+🧭 Public Trust in Science – Misinformation spreads fast. Clear, transparent communication helps build trust in scientific research.  
+🤝 Collaboration & New Perspectives – Engaging with the public and industry can bring fresh insights, making your research more inclusive and applicable.  
+  
+Unlike in many other countries, science communication isn’t just encouraged in Sweden—it’s legally required. **The [Higher Education Act (1992:1434)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/hogskolelag-19921434_sfs-1992-1434/), established science communication as the tredje uppgift (third mission)**, which means universities must share their knowledge with society. In short, if you’re a researcher in Sweden, you have a responsibility to communicate your work beyond academia.  
+  
+Luckily, you’re not alone in communicating your science! Sweden has a strong network of organizations that promote and support science communication, for example:   
+
+- [Vetenskap & Allmänhet](https://vetenskapallmanhet.se) (Public & Science Sweden) – a national non-profit organization with around 100 member institutions. Helps researchers engage with the public and policymakers through events, training, and outreach projects.  
+- [Forskom](https://forskom.org) (Sweden’s Network for Research Communication) – A community for science communicators to exchange ideas and strategies.  
+- [Falling Walls Engage Hub Sweden](https://falling-walls.com/engage/hubs/hub-sweden) – Connects science communicators across the Nordic region to share best practices and create innovative engagement projects.  
+
+  
+In addition, most universities in Sweden have dedicated communication teams that can help you share your work through media, social platforms, and public engagement events. Here are a few examples:  
+   
+- [SciLifeLab](https://www.scilifelab.se/contact/operations-office/). The SciLifeLab operations office has communication officers who can support you with public outreach.   
+- [Karolinska Institutet](https://staff.ki.se/tools-and-support/communication-tools-and-support). Provides tools and guidance to support you with communication work.    
+- [University of Gothenburg](https://www.gu.se/en/press-office). Has a press office and press contacts per faculty.   
+- [Stockholm University](https://medarbetare.su.se/en/our-su/organisation/university-administration/communications-office). Offers structured communication support for researchers.  
+
+
+Science communication is also recognized by funders as an essential part of research. Major funding includes:  
+  
+- Vetenskapsrådet – Offers grants for research communication and runs [forskning.se](https://www.forskning.se), a public science platform.  
+- Vinnova – Funds innovation-focused research and emphasizes societal impact.  
+- Wallenberg Foundations – Sweden’s largest private research funders, which prioritize research dissemination.    
+  
+    
+
+### **Citizen science**   
+  
+Citizen science can be considered to be the ultimate form of science communication — **it doesn’t just share research with the public, it invites people to actively participate in research**. For you as a researcher, this means a direct connection with society, making your work more open, transparent, and impactful.  
+  
+Citizen science is a research approach that actively involves non-scientists in scientific investigations. Participants can contribute by collecting data, analyzing results, or even co-designing studies. It can take many forms—volunteers monitoring biodiversity, communities tracking air quality, or gamers helping to fold proteins in an online puzzle. These projects don’t just advance research; **they make science accessible and engaging, allowing you to build trust with the public and expand the reach of your work**.  
+  
+Sweden has a strong and growing citizen science community, with projects spanning biodiversity monitoring, environmental research, health sciences, and digital humanities. Vetenskap & Allmänhet plays a key role in promoting citizen science in Sweden by coordinating various projects that engage the public in hands-on research. Examples include [The Plastic Experiment](https://forskarfredag.se/2024/04/09/resultat-ar-har-fran-sveriges-storsta-plastexperiment/), [The Star-Spotting Experiment](https://forskarfredag.se/researchers-night/mass-experiments/the-star-spotting-experiment-2019/), and [The Food Waste Experiment (Svinnkollen)](https://forskarfredag.se/massexperiment/svinnkollen/). 
+    
+Other examples of citizen science in Sweden include:   
+  
+- [Artportalen](https://www.artportalen.se): A biodiversity citizen science platform where the public reports observations of species, helping scientists track environmental changes. Researchers communicate findings back to contributors, creating a feedback loop.   
+- ​[​BatMapper](https://www.su.se/english/research/research-projects/ng-batmapper-using-citizen-science-in-bat-research?open-collapse-boxes=research-project-description,research-project-more-about): This project enlists volunteers to gather data on bat activity and roosting sites across Sweden. Participants assist in collecting essential information that aids researchers in understanding bat populations and their responses to environmental changes.   
+- [Naturens kalender](https://www.naturenskalender.se): This project collects phenological observations of plants and birds throughout Sweden. Participants monitor events like flowering, fruit ripening, and bird appearances, contributing to studies on climate change impacts.   
+- [Luftdata](https://luftdata.se/): A citizen science project that enables individuals across Sweden to contribute to air quality monitoring by building and installing their own low-cost air pollution sensors. The collected data is openly shared, providing real-time insights into particulate matter (PM) levels and helping scientists, policymakers, and the public understand local air pollution trends.   
+
+<br>
+**In this module, you’ll dive into the essentials of science communication — why it matters, how it’s practiced, and its crucial role in open science and citizen engagement. You’ll discover how to effectively communicate your research to different audiences, and explore how citizen science takes science communication to the next level by actively involving the public in research.**  
+  
+**To get hands-on experience with science communication and citizen science, you’ll choose a Swedish citizen science project and create a popular scientific summary that translates complex research into an engaging, accessible format. This hands-on exercise will help you develop a key skill for making your science more open, transparent, and impactful.**
+
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="SS_CitizenScienceAndScienceCommunication.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="SS_SciCom2.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>
