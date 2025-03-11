@@ -1,0 +1,38 @@
+---
+title: "3. Assignment: Write a Popular Scientific Summary About a Citizen Science Project"
+---
+
+<span style="color: #A7C947;">**Assignment time: 1h 15 min** </span>  
+  
+### **Objective**
+In this assignment, you will explore a Swedish citizen science project and practice translating complex research into an engaging and accessible format. This will help you develop essential science communication skills while deepening your understanding of citizen science in Sweden.
+
+### **Step 1: Choose a Citizen Science Project**
+Find a Swedish citizen science project that interests you and that you would like to learn more about. The project can be either ongoing or already completed.   
+Examples of projects can be found on [medborgarforskning.se](https://medborgarforskning.se) under the heading 'Medborgarforskningsprojekt'. You're also welcome to choose a project that's not on this list! 
+
+### **Step 2: Analyze the Project**
+Once you have chosen a project, analyze it using the following guiding questions:  
+  
+- What is the project’s goal? – What scientific question or problem does it aim to address?
+- Who are the participants, and how do they contribute? – What role does the public play in the research?  
+- How are the results communicated to the public? – Does the project engage participants beyond data collection?  
+- Is this an example of good science communication? Why or why not? – Consider clarity, accessibility, and engagement strategies.   
+  
+Please submit your analysis in this Google form. 
+
+### **Step 3: Write a Popular Science Article**  
+Using your analysis, write a ~500-word popular science article about the project. Your article should:
+
+- Be engaging and accessible to a non-expert audience
+- Clearly explain the project’s purpose and impact
+- Use storytelling techniques or real-world examples to make the science relatable    
+   
+Please submit your article in this Google form. 
+
+  
+<div style="display: flex; justify-content: space-between;">
+<a href="SS_SciCom2.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+
+  
+
