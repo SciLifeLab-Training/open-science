@@ -3,8 +3,46 @@ title: "Self-study: Citizen science & science communication"
 date: today
 ---
   
- 
-::: {.callout-note}
-Coming soon 
-:::
- 
+<br>
+  
+--- 
+
+### **About**  
+This module is primarily based on information from [Vetenskap & Allmänhet](https://vetenskapallmanhet.se/eng/our-areas-of-interest/science-communication/), [Vetenskapsrådet](https://www.vr.se/english/mandates/science-communication.html), and [Science Europe](https://www.scienceeurope.org/our-priorities/science-communication) The information provided in this module is not exhaustive, but rather meant as an introduction to the topic. 
+
+**Upon completion of this module, students will be able to:**   
+- Explain the key principles of Citizen Science and describe how researchers can effectively engage the public in scientific projects  
+- Write a popular scientific summary of a citizen science project    
+**Mode of study:** self-paced 
+   
+---   
+  
+### **Assignment**      
+**Please work through the three chapters below and  complete the assignments in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSe8VjKIiY5RYVvrpsW35rUDkC_efk1tR8wiE5FgrmaZjmUhkQ/viewform?usp=dialog)**
+
+Chapter overview:   
+[1. Introduction to science communication and citizen science](SS_SciCom1.qmd)  
+[2. Essentials of science communication and citizen science](SS_SciCom2.qmd)  
+[3. Assignment: write a popular scientific summary about a citizen science project](SS_SciCom3.qmd)  
+
+
+  
+<span style="color: #A7C947;">**Total reading & video time: ~ 1.5h  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> Total assignment time: ~ 1.5h ** </span>
+
+---  
+
+[Next →](SS_SciCom1.qmd){.btn .btn-primary}
+  
+---  
+
+### **Module creation** 
+This educational module was created by compiling content from the sources referenced throughout. The compiled material was summarized with the assistance of ChatGPT (OpenAI, 2025), to distill key insights. Following this, the summary was reviewed and rewritten, and subsequently refined by independent reviewers.
+
+**Creator**   
+- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+<!--
+**Contributors**  
+- Kristen Schroeder <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/kristen-schroeder-7b418470/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/kristen-schroeder" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+- Yvonne Kallberg <a href="https://orcid.org/0000-0002-3977-9600" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.https://www.linkedin.com/in/yvonne-kallberg-53969417/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/yvonnekallberg" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+- Markus Englund <a href="https://orcid.org/0000-0003-1688-7112" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/markusenglund/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/jmenglund" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+-->

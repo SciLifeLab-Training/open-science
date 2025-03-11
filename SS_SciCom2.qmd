@@ -1,0 +1,39 @@
+---
+title: "2. Essentials of Science Communication and Citizen Science"
+---
+
+<span style="color: #A7C947;">**Video time: 1h 15 min** </span>  
+  
+
+### **Science communication**
+To get started with the essentials of science communication, please watch the videos below. They are part of a free YouTube course designed to help researchers effectively share their work with non-experts. These videos will introduce you to key principles, strategies, and real-world examples of how to communicate complex scientific concepts in a clear and engaging way.
+
+Why you should bother doing science communication: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mIT5KNtRs08?si=10pMnRPNi8ORexdP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+    
+Who do you want to engage with your science:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4UGTizPkfrs?si=FasWXBAEfrQNK5M4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  
+What type of science communication can you do:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XYwg2lsrCY0?si=b6g2wIN9-ohMquWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  
+How to get an audience to care about your science:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OwPMU5-gbh4?si=jY4K7jenzYAsOkI_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  
+How to tell a science story:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/99Ar5_Iwi24?si=0w_Nuyr7cVB3o0Jt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  
+How to explain a science idea clearly:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9cqwQQqHoU?si=Sfz0O9NERiEOQG9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  
+    
+### **Citizen Science**  
+To explore the fundamentals of citizen science, watch the video below. This short introduction traces the origins of citizen science and highlights its diverse applications across various fields. You'll see how large-scale data collection in ecology helps track changes in plant and animal populations over time, how citizen-powered computing contributes to the search for extraterrestrial intelligence, and how volunteers assist astronomers in studying galaxy formation. The video also explores how gamification has turned biological challenges—such as protein and RNA folding—into interactive problem-solving opportunities for the public.   
+  
+The awesome power of citizen science:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SZwJzB-yMrU?si=XJQUR-KpAO2irczq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+<div style="display: flex; justify-content: space-between;">
+<a href="SS_SciCom1.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Previous</a>
+<a href="SS_SciCom3.qmd" style="padding: 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Next</a>
+</div>
