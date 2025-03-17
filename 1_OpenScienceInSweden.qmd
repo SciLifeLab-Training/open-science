@@ -7,7 +7,7 @@ date: today
   
 ---   
   
-### **About**  
+## About
    
 **Upon completion of this module, students will be able to:**   
 - Explain what Open Science is, and discuss the benefits and challenges that come with its implementation, specifically in the Swedish context    
@@ -15,7 +15,7 @@ date: today
   
 ---   
   
-### **Schedule**  
+## Schedule 
 <style>
   tr:hover {
     background-color: #F6F8F9;
@@ -60,7 +60,7 @@ date: today
   
 
 
-## **Materials**  
+## Materials 
   
 <!--   
 **Lecture videos**
