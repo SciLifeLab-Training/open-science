@@ -7,7 +7,7 @@ date: today
   
 ---   
   
-### **About**  
+## About  
    
 **Upon completion of this module, students will be able to:**   
 - Distinguish the different types of Open Access publishing options and debate their benefits and limitations
@@ -15,7 +15,7 @@ date: today
   
 ---   
   
-### **Schedule**  
+## Schedule  
 <style>
   tr:hover {
     background-color: #F6F8F9;
@@ -55,7 +55,7 @@ date: today
   
 
 
-## **Materials**  
+## Materials  
   
 <!--   
 **Lecture videos**
