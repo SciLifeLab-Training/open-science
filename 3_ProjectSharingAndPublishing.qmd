@@ -10,7 +10,8 @@ date: today
 ## About  
    
 **Upon completion of this module, students will be able to:**   
-- Distinguish the different types of Open Access publishing options and debate their benefits and limitations
+- Evaluate different types of Open Access publishing options
+
 **Mode of study:** in-person workshop   
   
 ---   
@@ -38,16 +39,16 @@ date: today
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
       <td style="padding: 10px 0;">12:50</td>
       <td style="padding: 10px 0;">Analyzing Open Access publishing types</td>
-      <td style="padding: 10px 0;">Group work</td>
+      <td style="padding: 10px 0;">Discussion</td>
     </tr>
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
       <td style="padding: 10px 0;">13:20</td>
       <td style="padding: 10px 0;">Evaluation Open Access publishing types</td>
-      <td style="padding: 10px 0;">Group work</td>
+      <td style="padding: 10px 0;">Discussion</td>
     </tr>
     <tr style="border-bottom: 0.5px solid #808080;">
       <td style="padding: 10px 0;">14:15</td>
-      <td style="padding: 10px 0;">Lunch</td>
+      <td style="padding: 10px 0;">Coffee Break</td>
       <td style="padding: 10px 0;"></td>
     </tr>
   </tbody>
@@ -65,12 +66,14 @@ date: today
 [The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
 -->
 
+#### Further reading:
+1. Navigating the Research Data Landscape: Publication Practices at a Swedish University. Maria Almbro & Lisa Olsson. The Research Data Management Team, Stockholm University. Recorded lecture [available on YouTube](https://www.youtube.com/watch?v=VJ5AzujeN_I)
+
+2. Forskning och innovation för framtid, nyfikenhet och nytta. Prop. 2024/25:60. Accessed from [https://www.regeringen.se/rattsliga-dokument/proposition/2024/12/prop.-20242560](https://www.regeringen.se/rattsliga-dokument/proposition/2024/12/prop.-20242560)
+
 **Lecture slides**  
-Coming soon  
-  
-<!--  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
---> 
+<iframe src="https://docs.google.com/presentation/d/1Sc4ZgL_uJPa_BfawuC-vMyhrDgU-OxOT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
+
 
 <!--   
 <a class="inline_disabled" href="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/expoprt/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
