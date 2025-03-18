@@ -4,6 +4,95 @@ date: today
 ---
 
 
-::: {.callout-note}
-Coming soon
-:::
+<br>
+  
+---   
+  
+## About  
+   
+**Upon completion of this module, students will be able to:**   
+- Identify up-and-coming researcher evaluation criteria and demonstrate an understanding of which
+research outputs can be published and credited
+  
+---   
+  
+## Schedule   
+Coming soon  
+  
+<!--   
+<style>
+  tr:hover {
+    background-color: #F6F8F9;
+  }
+</style>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border-bottom: 0.5px solid #808080;">
+    <th style="width: 15%;">Time</th>
+    <th style="width: 60%;">Topic</th>
+    <th style="width: 25%;">Mode of study</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 0.4px solid #D3D3D3;">
+      <td style="padding: 10px 0;">12:30</td>  
+      <td style="padding: 10px 0;">The life of an article and Open Access in Sweden</td>
+      <td style="padding: 10px 0;">Interactive presentation</td>
+    </tr>
+    <tr style="border-bottom: 0.4px solid #D3D3D3;">
+      <td style="padding: 10px 0;">12:50</td>
+      <td style="padding: 10px 0;">Analyzing Open Access publishing types</td>
+      <td style="padding: 10px 0;">Group work</td>
+    </tr>
+    <tr style="border-bottom: 0.4px solid #D3D3D3;">
+      <td style="padding: 10px 0;">13:20</td>
+      <td style="padding: 10px 0;">Evaluation Open Access publishing types</td>
+      <td style="padding: 10px 0;">Group work</td>
+    </tr>
+    <tr style="border-bottom: 0.5px solid #808080;">
+      <td style="padding: 10px 0;">14:15</td>
+      <td style="padding: 10px 0;">Lunch</td>
+      <td style="padding: 10px 0;"></td>
+    </tr>
+  </tbody>
+</table>
+-->  
+
+
+## Materials  
+  
+<!--   
+**Lecture videos**
+
+<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
+
+[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
+-->
+
+**Lecture slides**  
+Coming soon  
+  
+<!--  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
+--> 
+
+<!--   
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/expoprt/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
+-->
+
+**Feedback form**  
+Please help us to enhance SciLifeLab training by completing the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSec_IJdu-wiK_ONBD6_3BjylIZT2wKJoG2E0kWZiLJoqyNf9g/viewform?usp=header) related to the in-person workshop! 
+
+
+## Contributors
+
+- Joanna Sendecka <a href="https://orcid.org/0009-0002-6665-2856" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
+
+## Reuse  
+
+All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite material as:  
+
+>Joanna Sendecka (2025) *Open Science in the Swedish context, 1hp - Session 4: Open Science in researcher evaluation*. Retrieved from https://scilifelab-training.github.io/open-science/2503/4_ResearcherEvaluation.html
