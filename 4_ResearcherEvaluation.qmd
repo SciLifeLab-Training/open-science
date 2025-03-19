@@ -17,9 +17,7 @@ research outputs can be published and credited
 ---   
   
 ## Schedule   
-Coming soon  
-  
-<!--   
+
 <style>
   tr:hover {
     background-color: #F6F8F9;
@@ -35,28 +33,37 @@ Coming soon
   </thead>
   <tbody>
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">12:30</td>  
-      <td style="padding: 10px 0;">The life of an article and Open Access in Sweden</td>
+      <td style="padding: 10px 0;">14:45</td>  
+      <td style="padding: 10px 0;">Research evaluation: Current and future practices</td>
       <td style="padding: 10px 0;">Interactive presentation</td>
     </tr>
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">12:50</td>
-      <td style="padding: 10px 0;">Analyzing Open Access publishing types</td>
-      <td style="padding: 10px 0;">Group work</td>
+      <td style="padding: 10px 0;">15:15</td>
+      <td style="padding: 10px 0;">Show your work to the world</td>
+      <td style="padding: 10px 0;">Interactive presentation</td>
     </tr>
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">13:20</td>
-      <td style="padding: 10px 0;">Evaluation Open Access publishing types</td>
-      <td style="padding: 10px 0;">Group work</td>
+      <td style="padding: 10px 0;">15:45</td>
+      <td style="padding: 10px 0;">Metadata</td>
+      <td style="padding: 10px 0;">Exercise</td>
+    </tr>
+   <tr style="border-bottom: 0.4px solid #D3D3D3;">
+      <td style="padding: 10px 0;">16:15</td>
+      <td style="padding: 10px 0;">Success stories</td>
+      <td style="padding: 10px 0;">Interactive lecture</td>
     </tr>
     <tr style="border-bottom: 0.5px solid #808080;">
-      <td style="padding: 10px 0;">14:15</td>
-      <td style="padding: 10px 0;">Lunch</td>
+      <td style="padding: 10px 0;">16:30</td>
+      <td style="padding: 10px 0;">Course wrap-up</td>
+      <td style="padding: 10px 0;"></td>
+    </tr>
+    <tr style="border-bottom: 0.5px solid #808080;">
+      <td style="padding: 10px 0;">16:45</td>
+      <td style="padding: 10px 0;">End of day</td>
       <td style="padding: 10px 0;"></td>
     </tr>
   </tbody>
 </table>
--->  
 
 
 ## Materials  
@@ -70,7 +77,7 @@ Coming soon
 -->
 
 **Lecture slides**  
-Coming soon  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSiOxwwLZVqFtXMhZfhhSfQtvQjuaQ6cpS5F-BINFxcpShEgtLu2lCStWrtMvKFg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
   
 <!--  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
