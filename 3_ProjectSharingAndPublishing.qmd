@@ -70,14 +70,12 @@ date: today
 [The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
 -->
 
-#### Further reading:
-1. Navigating the Research Data Landscape: Publication Practices at a Swedish University. Maria Almbro & Lisa Olsson. The Research Data Management Team, Stockholm University. Recorded lecture [available on YouTube](https://www.youtube.com/watch?v=VJ5AzujeN_I)
-
-2. Forskning och innovation för framtid, nyfikenhet och nytta. Prop. 2024/25:60. Accessed from [https://www.regeringen.se/rattsliga-dokument/proposition/2024/12/prop.-20242560](https://www.regeringen.se/rattsliga-dokument/proposition/2024/12/prop.-20242560)
-
-3. Open Peer Review case study: Roager L, Kempen PJ, Bentzon-Tilia M, Sonnenschein EC, Gram L. 2024. Impact of host species on assembly, composition, and functional profiles of phycosphere microbiomes. mSystems9:e00583-24. [https://doi.org/10.1128/msystems.00583-24](https://doi.org/10.1128/msystems.00583-24)
-
-
+**Lecture slides**  
+Coming soon  
+  
+<!--  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
+--> 
 
 <!--   
 <a class="inline_disabled" href="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/expoprt/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>

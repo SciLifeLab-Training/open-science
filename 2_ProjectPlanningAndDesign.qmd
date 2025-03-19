@@ -69,6 +69,18 @@ date: today
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
   
+**Assignment - Preregistration**  
+  
+- Go to [https://aspredicted.org/](https://aspredicted.org)
+- Select the ‘Just trying it out’ box and click ‘Create’   
+- Enter your email address  
+- Open the login link you received by email  
+- In the ‘Main’ menu, click ‘create a new preregistration’    
+- Make sure the self-destruct box is selected!  
+- Fill out the preregistration form for your next, upcoming experiment  
+- When you’re all done, click ‘preview’  
+- Double-check your answers and approve! (the study will be deleted after 24h)  
+You’ve now preregistered your study!  
 
   <!--   
 <a class="inline_disabled" href="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/expoprt/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
