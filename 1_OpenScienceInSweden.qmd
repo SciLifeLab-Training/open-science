@@ -72,9 +72,21 @@ date: today
 
 **Lecture slides**  
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLi0fFwUqzXoWWIhHeMdlfaQ_LQMtMqCSUcCPlyZeG8bkFOYnJPTDPnQSUsZbfvQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
-  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLi0fFwUqzXoWWIhHeMdlfaQ_LQMtMqCSUcCPlyZeG8bkFOYnJPTDPnQSUsZbfvQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
 
+  
+**Assignment - National Guidelines for Open Science (KB, 2024)**  
+Read the sections of the National Guidelines for Open Science relevant to your chosen area. The Guidelines can be accessed [here](https://www.kb.se/samverkan-och-utveckling/nytt-fran-kb/nyheter-samverkan-och-utveckling/2024-08-27-national-guidelines-for-open-science---now-in-english.html) by clicking 'Read the national guidelines for open science'.   
+
+Pages to read per group are as follows:   
+- Groups 1.1 & 2.1: pages 8-10, the heading 'Open Access to scholarly publications'  
+- Groups 1.2 & 2.2: pages 10-11, the heading 'Open Access to research data'  
+- Groups 1.3 & 2.3: pages 11-12, the heading 'Open research methods'  
+- Groups 1.4 & 2.4: pages 12-13, the heading 'Open Educational Resources'  
+- Groups 1.5 & 2.5: pages 13-15, the heading 'Public engagement in science'  
+- Groups 1.6 & 2.6: pages 15-16, the heading 'Infrastructures supporting Open Science'   
+
+  
 **Miro board**  
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIV31POQ=/?moveToViewport=-6348,-2365,5550,4302&embedId=547029441807" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
