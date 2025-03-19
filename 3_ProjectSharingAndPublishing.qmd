@@ -66,11 +66,9 @@ date: today
 -->
 
 **Lecture slides**  
-Coming soon  
-  
-<!--  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
---> 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPBwwnc-QjeElUKLbKfkNyXBgFLphYKxS2rvCVQyh1JVz8vOSrTFWTnx_ccBe4SA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
+
 
 <!--   
 <a class="inline_disabled" href="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/expoprt/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
