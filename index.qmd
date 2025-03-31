@@ -19,6 +19,9 @@ Course lead: Ineke Luijten (SciLifeLab Training Hub) <a href="https://orcid.org/
 
 Course contact: ineke.luijten@scilifelab.se
 
+NOTE: To receive a certificate of attendence, please complete all assignments and email ineke.luijten@scilifelab.se 
+NOTE: Help us improve the course and the materials we deliver! Please leave your anonymous feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSezBb_5CpzEz7lDENh2UYbqCwujQclEdNjIkHHspMv1TY7xeQ/viewform?usp=header)
+
 <!-- 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8qNaaBrPsM6BIHKiPCMNGeWQXzyjAp8mfC7sRk9oltbFJig/viewform" rel="orcid"><img src="img/Registration button.png" alt="" height="50"/></a>
 <br>
