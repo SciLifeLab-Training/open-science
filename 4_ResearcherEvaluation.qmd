@@ -87,9 +87,6 @@ research outputs can be published and credited
 <a class="inline_disabled" href="https://docs.google.com/presentation/d/e/2PACX-1vRf4zc2DCIkOurT7irUYECG-ChFnUKlUb7olx9ZPApz_KAMwJN-bDRbMf6HMLsATbWaD4K3zjMQ4KI9/expoprt/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
 -->
 
-**Feedback form**  
-Please help us to enhance SciLifeLab training by completing the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSec_IJdu-wiK_ONBD6_3BjylIZT2wKJoG2E0kWZiLJoqyNf9g/viewform?usp=header) related to the in-person workshop! 
-
 
 ## Contributors
 
