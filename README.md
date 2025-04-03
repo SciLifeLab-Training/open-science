@@ -15,7 +15,7 @@ This README file was generated on 2025-04-03 by Ineke Luijten
 - Authors: Ineke Luijten, SciLifeLab Training Hub <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Kristen Schroeder, SciLifeLab Training Hub <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>.  Joanna Sendecka, SciLifeLab Data Centre <a href="https://orcid.org/0009-0002-6665-2856" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - Author contact details: ineke.luijten@scilifelab.se, kristen.schroeder@scilifelab.se, joanna.sendecka@scilifelab.se 
 - Content Provider:  [SciLifeLab Training Hub](https://training.scilifelab.se)
-- Contributors:  Yvonne Kallberg, SciLifeLab Data Centre <a href="https://orcid.org/0000-0002-3977-9600" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Markus Englund, <a href="NBIS https://orcid.org/0000-0003-1688-7112" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>.  
+- Contributors:  Yvonne Kallberg, SciLifeLab Data Centre <a href="https://orcid.org/0000-0002-3977-9600" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>. Markus Englund, NBIS <a href="NBIS https://orcid.org/0000-0003-1688-7112" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>.  
 - Date created: January - March 2025
 - Date published: March 2025 
 
