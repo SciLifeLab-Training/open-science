@@ -107,7 +107,7 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:  
 
->Ineke Luijten, David Rayner, Abeni Wickham (2024) *Open Science in the Swedish context - Session 4: Open Science in the project lifecycle - share and disseminate*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session4.html     
+>Ineke Luijten, David Rayner, Abeni Wickham (2024) *Open Science in the Swedish context - Open Science in the project lifecycle - share and publish*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session4.html     
 
 
 
