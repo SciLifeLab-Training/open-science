@@ -1,5 +1,5 @@
 ---
-title: "7. Open Science in the project lifecycle - communicate & involve"
+title: "Open Science in the project lifecycle - communicate & involve"
 date: today
 ---
 
