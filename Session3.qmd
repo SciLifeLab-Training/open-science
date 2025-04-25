@@ -1,5 +1,5 @@
 ---
-title: "3. Open Science in the project lifecycle - collect & analyze "
+title: "Open Science in the project lifecycle - collect & analyse "
 date: today
 ---
 
