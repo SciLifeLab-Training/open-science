@@ -1,5 +1,5 @@
 ---
-title: "3. Open Science in the project lifecycle - collect & analyze "
+title: "Open Science in the project lifecycle - collect & analyse "
 date: today
 ---
 
@@ -100,6 +100,6 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:  
 
->Ineke Luijten, Jonas Åkerman, David Rayner (2024) *Open Science in the Swedish context - Session 3: Open Science in the project lifecycle - collect & analyze*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session3.html     
+>Ineke Luijten, Jonas Åkerman, David Rayner (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - collect & analyse*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session3.html     
 
 
