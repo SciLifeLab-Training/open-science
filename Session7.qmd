@@ -97,7 +97,7 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:   
    
-> Karin Westin Tikkanen, Lotta Waesterberg Tomasson (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - communicate & citizen science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session7.html   
+> Karin Westin Tikkanen, Lotta Waesterberg Tomasson (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - communicate & involve*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session7.html   
 
 
 
