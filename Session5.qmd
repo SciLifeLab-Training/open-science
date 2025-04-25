@@ -110,5 +110,5 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:   
    
-> Ineke Luijten, Elin Kronander(2024) *Open Science in the Swedish context - Open Science in the project lifecycle - access & reuse*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session5.html   
+> Ineke Luijten, Elin Kronander (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - access & reuse*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session5.html   
 
