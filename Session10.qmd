@@ -81,10 +81,10 @@ Coming soon
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Stefan Ekman <a href="https://orcid.org/0000-0003-0902-5637" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - Angeliki Adamaki <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Sabina Leonelli <a href="https://orcid.org/0000-0002-7815-6609" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Richard Williams <a href="https://orcid.org/0000-0003-0039-7450" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 
 
@@ -95,7 +95,7 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:   
    
-> Ineke Luijten, Elin Kronander, David Rayner, Sabina Leonelli, Angeliki Adamaki, Sanna Isabel Ulfsparre (2024) *Open Science in the Swedish context - Session 9: The future of Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session9.html   
+> Ineke Luijten, Elin Kronander, Stefan Ekman, Richard Williams, Angeliki Adamaki, Sanna Isabel Ulfsparre (2024) *Open Science in the Swedish context - The future of Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session9.html   
 
 
 
