@@ -94,7 +94,7 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:   
    
-> Erik Stattin (2024) *Open Science in the Swedish context - session 8: The National Guidelines for Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session8.html   
+> Erik Stattin (2025) *Open Science in the Swedish context - The National Guidelines for Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session8.html   
 
 
 
