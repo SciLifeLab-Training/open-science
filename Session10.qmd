@@ -95,7 +95,7 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:   
    
-> Ineke Luijten, Elin Kronander, Stefan Ekman, Richard Williams, Angeliki Adamaki, Sanna Isabel Ulfsparre (2024) *Open Science in the Swedish context - The future of Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session9.html   
+> Ineke Luijten, Elin Kronander, Stefan Ekman, Richard Williams, Angeliki Adamaki, Sanna Isabel Ulfsparre (2025) *Open Science in the Swedish context - The future of Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session9.html   
 
 
 
