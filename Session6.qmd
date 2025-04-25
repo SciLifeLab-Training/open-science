@@ -1,5 +1,5 @@
 ---
-title: "6. Open Science in the project lifecycle - evaluate & build"
+title: "Open Science in the project lifecycle - evaluate & build"
 date: today
 ---
 
@@ -101,7 +101,7 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:   
    
-> Ineke Luijten, Sanna Isabel Ulfsparre (2024) *Open Science in the Swedish context - Session 6: Open Science in the project lifecycle - evaluation*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session6.html   
+> Ineke Luijten, Sanna Isabel Ulfsparre, Amanda Klein (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - evaluate & build*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session6.html   
 
 
 
