@@ -1,5 +1,5 @@
 ---
-title: "5. Open Science in the project lifecycle - access & reuse "
+title: "Open Science in the project lifecycle - access & reuse "
 date: today
 ---
 
