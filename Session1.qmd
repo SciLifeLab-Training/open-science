@@ -62,7 +62,14 @@ implemented in Sweden over the coming years
 
 ## Materials  
   
-Coming soon
+**Introduction to Open Science**  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvsLkCzfM0sKbO7LDwKibSCCiOwDfK5Z7nTpthqGCA9jpV_3Vs4pPp7ZG1OvpERg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVI9m6eQA=/?moveToViewport=-1373,-5272,3033,1260&embedId=977678150817" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>  
+
+
+**The Roadmap for Open Science**  
 
 See [Resources](Resources.qmd) --> Reports & documents/articles/books for a link to the Roadmap for Open Science (SUHF, 2021/rev 2025)
   
