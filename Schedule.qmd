@@ -32,7 +32,7 @@ date: today
 
 | Time | Session |
 |------|------|
-| 09:00 - 12:00 | [Open Science in the project lifecycle - share & publish](https://scilifelab-training.github.io/open-science/2505/Session4.html) |
+| 09:00 - 12:00 | [Open Science in the project lifecycle - publish & spread](https://scilifelab-training.github.io/open-science/2505/Session4.html) |
 | 13:00 - 16:30 | [Open Science in the project lifecycle - access & reuse](https://scilifelab-training.github.io/open-science/2505/Session5.html)  |
 : {tbl-colwidths="[25,75]"}
 
