@@ -71,9 +71,10 @@ implemented in Sweden over the coming years
 
 **The Roadmap for Open Science**  
 
-See [Resources](Resources.qmd) --> Reports & documents/articles/books for a link to the Roadmap for Open Science (SUHF, 2021/rev 2025)
+See [Resources](Resources.qmd) --> Reports & documents/articles/books for a link to the Roadmap for Open Science (SUHF, 2021/rev 2025)  
   
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS7t_r-o9dPNzQ7z2x2Kf-GgpfV57Eib5GNPReeKW4q8Sml2Y7xKP0YAnBVdRszAw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+  
 <!-- 
 **Lecture videos**
 
