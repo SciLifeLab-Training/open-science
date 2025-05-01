@@ -63,7 +63,10 @@ and describe available options to publish sensitive data
 
 ## Materials  
 
-Coming soon
+**Open Science in publishing: past and present**  
+  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRbq2fs7dsC8sQQj0W0oRUnabcRFS2nuu0Hl46MQh5lF9d8bPp6aAEkptM3QPNlKMWc68ebA92ZKTt/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
+  
   
 <!-- 
 
