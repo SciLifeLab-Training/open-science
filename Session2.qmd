@@ -61,7 +61,10 @@ according to the FAIR principles
 
 ## Materials  
   
-Coming soon
+**Open Science in project planning & design**  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCJ_iVgSio_QMqsGT32xBilNw3U1Ua1-5mGjDAzfbY1pOM5M_G7PZdcC59bRw3XyPjGJPRN39Q2H4M/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+  
   
 <!-- 
 **Lecture videos**
