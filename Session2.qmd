@@ -8,8 +8,8 @@ date: today
 
 By the end of this session, participants will be able to:
 
-- Locate relevant study registries  
-- Discuss the benefits of publish in registered report format 
+- Locate tools to assist in implementing Open Science into protocol writing, data analysis, and notetaking  
+- Discuss the benefits of publishing in registered report format 
 - Describe the importance of having a Data Management Plan (DMP) and working with data
 according to the FAIR principles    
       
@@ -65,7 +65,11 @@ according to the FAIR principles
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCJ_iVgSio_QMqsGT32xBilNw3U1Ua1-5mGjDAzfbY1pOM5M_G7PZdcC59bRw3XyPjGJPRN39Q2H4M/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
+**Preregistration and registered reports**  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx9yyNMy19dpIB0aQB3XT7-203VG8CwHSJzb8k9sEr_wdnWwd_2QyyM6fRoLwToA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
+    
 <!-- 
 **Lecture videos**
 
