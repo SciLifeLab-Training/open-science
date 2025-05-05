@@ -74,7 +74,7 @@ according to the FAIR principles
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTD6raarol2ZFuU5ogby2bUQf8k6kKp_arWabsNfzjUDsjiuQbIFruUcCyKsU1xyTt752GDRdrHq_zE/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
 **Exercise related tp data management plans**  
-Option 1, reccomended for life scientist:  
+Option 1, recommended for life scientist:  
 Create a Data Management Plan (DMP) using [SciLifeLab Data Stewardship Wizard (DSW)](https://dsw.scilifelab.se/) following these instructions: [Write a DMP (part 1)](https://nbisweden.github.io/module-dmp-dm-practices/02-exercise-part1/index.html)  
   
 Option 2:  
