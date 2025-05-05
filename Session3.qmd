@@ -63,6 +63,10 @@ By the end of this session, participants will be able to:
 **Open Science in data collection & analysis**  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaZpqnSKScpywbGCMzGN2Ij-EGXimaHgLP1WIdZeU8X91IetKUwO484lRdYWc0w1I4kokqc9LwRdqm/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
+
+**Good Research Practice**  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8_ubkvrdYBGu1b-elckneCt4I2rHZzAMELDnFtllRLXuhFI4tlHmRs0Juh3EKQA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
     
 **Data reuse**  
   
