@@ -73,7 +73,18 @@ according to the FAIR principles
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTD6raarol2ZFuU5ogby2bUQf8k6kKp_arWabsNfzjUDsjiuQbIFruUcCyKsU1xyTt752GDRdrHq_zE/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
-     
+**Exercise related tp data management plans**  
+Option 1, reccomended for life scientist:  
+Create a Data Management Plan (DMP) using [SciLifeLab Data Stewardship Wizard (DSW)](https://dsw.scilifelab.se/) following these instructions: [Write a DMP (part 1)](https://nbisweden.github.io/module-dmp-dm-practices/02-exercise-part1/index.html)  
+  
+Option 2:  
+a) Find out if your organisation provides a DMP tool or template.  
+b) Use SND's checklist for data management planning.  
+1. Download the [Checklist for data management plans from SND](https://zenodo.org/records/6424769)  
+2. Start at p.5 and go through the questions to see which ones are relevant to your project/situation.  
+3. Start answering the relevant questions.    
+  
+  
 <!-- 
 **Lecture videos**
 
