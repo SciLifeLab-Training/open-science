@@ -68,8 +68,12 @@ according to the FAIR principles
 **Preregistration and registered reports**  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx9yyNMy19dpIB0aQB3XT7-203VG8CwHSJzb8k9sEr_wdnWwd_2QyyM6fRoLwToA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+
+**Data management plans**  
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTD6raarol2ZFuU5ogby2bUQf8k6kKp_arWabsNfzjUDsjiuQbIFruUcCyKsU1xyTt752GDRdrHq_zE/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
-    
+     
 <!-- 
 **Lecture videos**
 
