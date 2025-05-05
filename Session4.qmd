@@ -66,7 +66,12 @@ and describe available options to publish sensitive data
 **Open Science in publishing: past and present**  
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRbq2fs7dsC8sQQj0W0oRUnabcRFS2nuu0Hl46MQh5lF9d8bPp6aAEkptM3QPNlKMWc68ebA92ZKTt/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
+
+**Publishing sensitive data**  
   
+<iframe src="https://drive.google.com/file/d/1BuglfTN8kfa6eJZWX8Ad6Hq-bKZ0qnEJ/preview" width="700" height="420" allow="autoplay"></iframe>  
+  
+
   
 <!-- 
 
