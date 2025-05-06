@@ -75,7 +75,7 @@ By the end of this session, learners will be able to:
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk64lUaU-bhgpXu9y44NUAsv0uLaK6KC5jrYFaB9HxsKgN29LbSKQdW-NVnbul3EjsO2EGjRPyLEfW/pubembed?start=false&loop=false&delayms=3000"  frameborder="0" width="700" height="420"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/1tOo10jtYMQmP9_LAu23UVZ5tM2rSzafY24UNJOqxjS4/edit?pli=1#slide=id.g3341102e499_0_105"  frameborder="0" width="700" height="420"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACK-1tOo10jtYMQmP9_LAu23UVZ5tM2rSzafY24UNJOqxjS4/pubembed?start=false&loop=false&delayms=3000"  frameborder="0" width="700" height="420"></iframe>
   
   
 <!-- 
