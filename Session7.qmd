@@ -58,9 +58,13 @@ By the end of this session, learners will be able to:
 ## Materials  
   
 **Science communication**  
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyZBBeiQxKSrgaFKEBzwG0Lt6mp_sUmD5LjVs68qwaSQGOyz03QyBZ4MYiygrurQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyZBBeiQxKSrgaFKEBzwG0Lt6mp_sUmD5LjVs68qwaSQGOyz03QyBZ4MYiygrurQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+
+**Citizen science**  
+  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkuJRpeKTwxNbofE2ItSm08fBOZ7Qckas4fkT9xW5jSIzOpdOUO6Oa4PS3SrmyVg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+   
 <!-- 
 **Lecture videos**
 
