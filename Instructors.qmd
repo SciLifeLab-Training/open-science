@@ -127,7 +127,7 @@ date: today
 
 <br/>
 
-#### Amanda Klein <a href="https://www.linkedin.com/in/amanda-klein-28b36a1a/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+#### Amanda Klein <a href="https://orcid.org/0000-0003-3998-920X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/amanda-klein-28b36a1a/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ###### Senior Research Officer, Vetenskapsrådet 
 
 <table>
