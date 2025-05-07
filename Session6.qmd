@@ -62,8 +62,13 @@ By the end of this session, learners will be able to:
 
 **Open Science in researcher evaluation practices**
    
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQ4gwTWwtOYJHG2B6IC2URkS7A-CW_18Pedp_WnzjMblV8a7WIb6rDxfSnyZzZ7XGedTZF6S1WK1or/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
-     
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQ4gwTWwtOYJHG2B6IC2URkS7A-CW_18Pedp_WnzjMblV8a7WIb6rDxfSnyZzZ7XGedTZF6S1WK1or/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>   
+  
+**Innovations in researcher evaluation - CoARA**
+  
+<iframe src="https://drive.google.com/file/d/1IIvl8trnfZYdV5eDQhgYAT84CGRt9NVS/preview" width="700" height="420" allow="autoplay"></iframe>    
+
+       
 <!-- 
 **Lecture videos**
 
