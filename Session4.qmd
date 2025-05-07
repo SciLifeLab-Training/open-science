@@ -69,10 +69,12 @@ and describe available options to publish sensitive data
 
 **Publishing sensitive data**  
   
-<iframe src="https://drive.google.com/file/d/1BuglfTN8kfa6eJZWX8Ad6Hq-bKZ0qnEJ/preview" width="700" height="420" allow="autoplay"></iframe>  
-  
+<iframe src="https://drive.google.com/file/d/1BuglfTN8kfa6eJZWX8Ad6Hq-bKZ0qnEJ/preview" width="700" height="420" allow="autoplay"></iframe>   
 
-  
+**The future of publishing: SciFree**  
+
+<iframe src="https://drive.google.com/file/d/1gieN6z8T_hQLlz7_zHmexuZaQ3xNLw_b/preview" width="700" height="420" allow="autoplay"></iframe>   
+   
 <!-- 
 
 **Lecture videos**
