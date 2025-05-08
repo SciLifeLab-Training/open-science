@@ -56,7 +56,9 @@ By the end of this session, learners will be able to:
 
 ## Materials  
   
-Coming soon
+**Course wrap-up**    
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCCoryZsUGgij1pFNucfbuQ7MYj7H7Xbao1tabm8iWh6ZjiVXp6FObT-9rNdFymuN5W2DmuNklA7Gv/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
 <!-- 
 **Lecture videos**
