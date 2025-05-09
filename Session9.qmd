@@ -54,10 +54,14 @@ By the end of this session, learners will be able to:
   
 
 
-## Materials  
+## Materials   
   
+**Open science and intellectual property rights**    
+  
+<iframe src="https://drive.google.com/file/d/1mQKaSddxNXI0vhYJGqRb4cKT0wEH5K2T/preview" width="700" height="420" allow="autoplay"></iframe>    
+   
 **Course wrap-up**    
-
+  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCCoryZsUGgij1pFNucfbuQ7MYj7H7Xbao1tabm8iWh6ZjiVXp6FObT-9rNdFymuN5W2DmuNklA7Gv/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
 <!-- 
