@@ -55,9 +55,9 @@ By the end of this session, learners will be able to:
  
 
 ## Materials  
-  
-![](img/Library location.png)
-  
+    
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgvb1MNNjPfheqPab5P997oD0dR3qMO3uR7tEbjd85VkkEwPAA9Lr9JnDZBDdqtQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+   
 
 <!-- 
 **Lecture videos**
