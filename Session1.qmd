@@ -62,10 +62,15 @@ implemented in Sweden over the coming years
 
 ## Materials  
   
-**Introduction to Open Science**  
+<span style="font-size: 20px;">**Introduction to Open Science**</span>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvsLkCzfM0sKbO7LDwKibSCCiOwDfK5Z7nTpthqGCA9jpV_3Vs4pPp7ZG1OvpERg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvsLkCzfM0sKbO7LDwKibSCCiOwDfK5Z7nTpthqGCA9jpV_3Vs4pPp7ZG1OvpERg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>   
+  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1QiXyjmXkpZDzw8GPqBaqQgUj9ycFoqsn/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1QiXyjmXkpZDzw8GPqBaqQgUj9ycFoqsn/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>  
+  
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVI9m6eQA=/?moveToViewport=-1373,-5272,3033,1260&embedId=977678150817" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>  
 
 
