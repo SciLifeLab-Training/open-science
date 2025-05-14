@@ -61,18 +61,36 @@ according to the FAIR principles
 
 ## Materials  
   
-**Open Science in project planning & design**  
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCJ_iVgSio_QMqsGT32xBilNw3U1Ua1-5mGjDAzfbY1pOM5M_G7PZdcC59bRw3XyPjGJPRN39Q2H4M/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+<span style="font-size: 20px;">**Open Science in project planning & design**</span>  
   
-**Preregistration and registered reports**  
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx9yyNMy19dpIB0aQB3XT7-203VG8CwHSJzb8k9sEr_wdnWwd_2QyyM6fRoLwToA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
-
-**Data management plans**  
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTD6raarol2ZFuU5ogby2bUQf8k6kKp_arWabsNfzjUDsjiuQbIFruUcCyKsU1xyTt752GDRdrHq_zE/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCJ_iVgSio_QMqsGT32xBilNw3U1Ua1-5mGjDAzfbY1pOM5M_G7PZdcC59bRw3XyPjGJPRN39Q2H4M/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>      
   
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1ccomz8YNWUnHw8LozoBCE8sSPOKVCYfUv8j32dGnYi0/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1ccomz8YNWUnHw8LozoBCE8sSPOKVCYfUv8j32dGnYi0/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>  
+  
+  
+<span style="font-size: 20px;">**Preregistration and registered reports**</span>   
+    
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx9yyNMy19dpIB0aQB3XT7-203VG8CwHSJzb8k9sEr_wdnWwd_2QyyM6fRoLwToA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
+  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1gKAhyfY0KP33MxmSu6bT-FhcXyz_ogi8/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1gKAhyfY0KP33MxmSu6bT-FhcXyz_ogi8/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>  
+  
+  
+<span style="font-size: 20px;">**Data management plans**</span>   
+    
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTD6raarol2ZFuU5ogby2bUQf8k6kKp_arWabsNfzjUDsjiuQbIFruUcCyKsU1xyTt752GDRdrHq_zE/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
+  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/198OP8BRmdu_qBuXcVqFjTwWzof-o4c94qw9vPctypms/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/198OP8BRmdu_qBuXcVqFjTwWzof-o4c94qw9vPctypms/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>  
+  
+   
 **Exercise related to data management plans**  
 Option 1, recommended for life scientist:  
 Create a Data Management Plan (DMP) using [SciLifeLab Data Stewardship Wizard (DSW)](https://dsw.scilifelab.se/) following these instructions: [Write a DMP (part 1)](https://nbisweden.github.io/module-dmp-dm-practices/02-exercise-part1/index.html)  
@@ -82,32 +100,8 @@ a) Find out if your organisation provides a DMP tool or template.
 b) Use SND's checklist for data management planning.  
 1. Download the [Checklist for data management plans from SND](https://zenodo.org/records/6424769)  
 2. Start at p.5 and go through the questions to see which ones are relevant to your project/situation.  
-3. Start answering the relevant questions.    
-  
-  
-<!-- 
-**Lecture videos**
-
-<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
-
-[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
-
-
-**Lecture slides**  
-
-<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
-
-
-<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
-
-
-**Practical assignments**  
-
-Coming soon  
-  
- 
-<br>
--->
+3. Start answering the relevant questions.      
+   
 
 ## Contributors
 
@@ -118,7 +112,7 @@ Coming soon
 
 ## Reuse  
 
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
 
 Please cite material as:  
 
