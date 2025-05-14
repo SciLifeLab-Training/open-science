@@ -60,42 +60,30 @@ By the end of this session, participants will be able to:
 
 ## Materials    
 
-**Open Science in data collection & analysis**  
+<span style="font-size: 20px;">**Open Science in data collection & analysis**</span>  
+  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaZpqnSKScpywbGCMzGN2Ij-EGXimaHgLP1WIdZeU8X91IetKUwO484lRdYWc0w1I4kokqc9LwRdqm/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>       
+  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>  
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaZpqnSKScpywbGCMzGN2Ij-EGXimaHgLP1WIdZeU8X91IetKUwO484lRdYWc0w1I4kokqc9LwRdqm/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
+<span style="font-size: 20px;">**Good Research Practice**</span>   
+  
+You can find the report Good Research Practice (VR, 2024, ISBN 978-91-89845-08-4) [here in Swedish](https://www.vr.se/analys/rapporter/vara-rapporter/2024-10-02-god-forskningssed-2024.html). The English version will be made available by VR in May/June 2025. 
 
-**Good Research Practice**  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8_ubkvrdYBGu1b-elckneCt4I2rHZzAMELDnFtllRLXuhFI4tlHmRs0Juh3EKQA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe> 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8_ubkvrdYBGu1b-elckneCt4I2rHZzAMELDnFtllRLXuhFI4tlHmRs0Juh3EKQA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p> 
     
-**Data reuse**  
+<span style="font-size: 20px;">**Data reuse**</span> 
   
 <iframe src="https://drive.google.com/file/d/1f_W1m6ysBj2LWvKSmdjjizkeK6EBLrTZ/preview" width="700" height="420" allow="autoplay"></iframe>  
   
-<!-- 
-**Lecture videos**
-
-<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
-
-[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
-
-
-**Lecture slides**  
-
-<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
-
-
-<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
-
-
-**Practical assignments**  
-
-Coming soon  
-  
- 
-<br>
--->
-
 
 ## Contributors
 
@@ -106,7 +94,7 @@ Coming soon
 
 ## Reuse  
 
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
 
 Please cite material as:  
 
