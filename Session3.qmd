@@ -80,9 +80,14 @@ You can find the report Good Research Practice (VR, 2024, ISBN 978-91-89845-08-4
   ➡️ <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
 </p> 
     
-<span style="font-size: 20px;">**Data reuse**</span> 
+<span style="font-size: 20px;">**Data reuse**</span>  
+    
+<<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdfqniLy7e8EgJ9a8OvqVHLojbzSk7VXf6HGPFhmeCv7w17fVpRr4efrxKga_UvM82Ma2d9TD1PBs5/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
-<iframe src="https://drive.google.com/file/d/1f_W1m6ysBj2LWvKSmdjjizkeK6EBLrTZ/preview" width="700" height="420" allow="autoplay"></iframe>  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1L4aDwKTjuzVm9us1JEEWtqBouFrMpgOu33U2F9mWCIk/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1L4aDwKTjuzVm9us1JEEWtqBouFrMpgOu33U2F9mWCIk/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p> 
   
 
 ## Contributors
