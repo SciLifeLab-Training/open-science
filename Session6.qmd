@@ -36,7 +36,7 @@ By the end of this session, learners will be able to:
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
       <td style="padding: 10px 0;">13:30</td>
       <td style="padding: 10px 0;">Innovations in researcher evaluation - CoARA</td>
-      <td style="padding: 10px 0;">Jessica Lindvall & Chris Erdmann</td>
+      <td style="padding: 10px 0;">Chris Erdmann</td>
     </tr>
     <tr style="border-bottom: 0.4px solid #D3D3D3;">
       <td style="padding: 10px 0;">14:30</td>
@@ -60,41 +60,28 @@ By the end of this session, learners will be able to:
 
 ## Materials    
 
-**Open Science in researcher evaluation practices**
-   
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQ4gwTWwtOYJHG2B6IC2URkS7A-CW_18Pedp_WnzjMblV8a7WIb6rDxfSnyZzZ7XGedTZF6S1WK1or/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>   
-  
-**Innovations in researcher evaluation - CoARA**
-  
-<iframe src="https://drive.google.com/file/d/1IIvl8trnfZYdV5eDQhgYAT84CGRt9NVS/preview" width="700" height="420" allow="autoplay"></iframe>    
+<span style="font-size: 20px;">**Open Science in researcher evaluation practices**</span>
 
-**Researcher evaluation: funders perspective**  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQ4gwTWwtOYJHG2B6IC2URkS7A-CW_18Pedp_WnzjMblV8a7WIb6rDxfSnyZzZ7XGedTZF6S1WK1or/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1-V5yR4bytTM2WmU4UXc2CEDyTYYUaaU9jla8_hACABc/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1-V5yR4bytTM2WmU4UXc2CEDyTYYUaaU9jla8_hACABc/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>  
+  
+<span style="font-size: 20px;">**Innovations in researcher evaluation - CoARA**</span>  
+  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfiMahsrMcCvhFT9po8jUbiEZigJh3e_t7zBKCQlejPvZBAzADJlBOmh87AxPQi03YlKFt5CLn-u7Q/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>     
+   
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1R-z0uZHtSu_b-LnWjar_OPpsTENS6-oXeXWk05t7mdU/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1R-z0uZHtSu_b-LnWjar_OPpsTENS6-oXeXWk05t7mdU/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p> 
+  
+<span style="font-size: 20px;">**Researcher evaluation: funders perspective**</span>  
   
 <iframe src="https://drive.google.com/file/d/1Tc-nrHZuO-GgluDuF1jepFISUVzyyotH/preview" width="700" height="420" allow="autoplay"></iframe>   
        
-<!-- 
-**Lecture videos**
-
-<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
-
-[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
-
-
-**Lecture slides**  
-
-<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
-
-
-<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
-
-
-**Practical assignments**  
-
-Coming soon  
-  
- 
-<br>
--->
 
 ## Contributors
 
@@ -107,12 +94,13 @@ Coming soon
 
 ## Reuse  
 
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+All SciLifeLab materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
+All Vetenskapsrådet materials from this session are available for re-use under https://creativecommons.org/licenses/by-nd/4.0/. You are free to share (copy and redistribute) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors and do not adapt (remix, transform, or build upon) the material.
 
 
 Please cite material as:   
    
-> Ineke Luijten, Sanna Isabel Ulfsparre, Amanda Klein (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - evaluate & build*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session6.html   
+> Ineke Luijten, Chris Erdmann, Sanna Isabel Ulfsparre, Amanda Klein (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - evaluate & build*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session6.html   
 
 
 
