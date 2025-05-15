@@ -91,14 +91,32 @@ By the end of this session, learners will be able to:
 </p>   
    
 Exercise:  
+
 - Instructions for the Zenodo Sandbox exercise: 
   <a href="https://docs.google.com/document/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/edit" target="_blank">View</a> | 
   <a href="https://docs.google.com/document/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/copy" target="_blank">Make a Copy</a>  
 - Research output: bird populations: 
   <a href="https://drive.google.com/file/d/1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ/view" target="_blank">View</a> | 
-  <a href="https://drive.google.com/uc?export=download&id=1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ" target="_blank">Download</a>
+  <a href="https://drive.google.com/uc?export=download&id=1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ" target="_blank">Download</a>  
+- Research output: interview transcript: 
+  <a href="https://drive.google.com/file/d/1wa6vKiXBB4YV4-vSxXSVKTSJFQGlVcSW/view" target="_blank">View</a> | 
+  <a href="https://drive.google.com/uc?export=download&id=1wa6vKiXBB4YV4-vSxXSVKTSJFQGlVcSW" target="_blank">Download</a>  
+- Research output: conference presentation slides: 
+  <a href="https://docs.google.com/presentation/d/1yRxLUyAhegxhs5dlo6v2ZXC2S2kUHUxl/view" target="_blank">View</a> | 
+  <a href="https://docs.google.com/presentation/d/1yRxLUyAhegxhs5dlo6v2ZXC2S2kUHUxl/copy" target="_blank">Make a copy</a> 
+- Research output: educational resources: 
+  <a href="https://drive.google.com/file/d/1WrbNGsEUqzzm8hkYh_32yJS9oOk6STLc/view" target="_blank">View</a> | 
+  <a href="https://drive.google.com/uc?export=download&id=1WrbNGsEUqzzm8hkYh_32yJS9oOk6STLc" target="_blank">Download</a>  
+- Research output: software tool 1: 
+  <a href="https://drive.google.com/file/d/1ErXeGuCEb_g6dvpe3bIEeENvf_tb8tRf/view" target="_blank">View</a> | 
+  <a href="https://drive.google.com/uc?export=download&id=1ErXeGuCEb_g6dvpe3bIEeENvf_tb8tRf" target="_blank">Download</a>    
+- Research output: software tool 2: 
+  <a href="https://drive.google.com/file/d/1Gs_ac5CuERc3HQkGUEbpSOwne2ZX4Xyj/view" target="_blank">View</a> | 
+  <a href="https://drive.google.com/uc?export=download&id=1Gs_ac5CuERc3HQkGUEbpSOwne2ZX4Xyj" target="_blank">Download</a>  
+- Research output: software tool 3: 
+  <a href="https://drive.google.com/file/d/1W9Q-aEcy0UkfUHz_fhbjC0jORO4foLIc/view" target="_blank">View</a> | 
+  <a href="https://drive.google.com/uc?export=download&id=1W9Q-aEcy0UkfUHz_fhbjC0jORO4foLIc" target="_blank">Download</a>  
  
-  
 
 ## Contributors
 
