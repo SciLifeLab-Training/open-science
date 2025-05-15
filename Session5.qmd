@@ -83,8 +83,13 @@ By the end of this session, learners will be able to:
   
 <span style="font-size: 20px;">**Repositories, metadata, DOIs, licensing**</span>  
   
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVVOVvG2IAas01KxNvqcq1w0mHkwGLRhJ_l7lZtcowZUs4Jyu2fG5w_pY3yA4bgtgCbaa7DDOy6bAc/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>   
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdtLWzGLDtTZzPh6t1zi1EceWxKcoSeV3Rea_K1XSl-nT_v8w_aOIYLlGAgmhpFSyco_U2x-fkfEef/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
   
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1_8S4bf_wrMQssxUcIaTcaF74R5LN2VpH59BKPN3IbEk/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1_8S4bf_wrMQssxUcIaTcaF74R5LN2VpH59BKPN3IbEk/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>   
+   
 Exercise:
 [Instructions and materials for the Zenodo Sandbox exercise](https://drive.google.com/drive/folders/1yhyXktgh69qnykFgGTR661F9AWvQghLf?usp=drive_link)  
 
