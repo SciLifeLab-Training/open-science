@@ -57,39 +57,28 @@ By the end of this session, learners will be able to:
 
 ## Materials  
 
-**Open Science in science communication & public involvement**  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqs6nvSTzF-i6HtPaQ4u3zCzal9G_5ppnB2Q2ujeWjb6W7i_o03U3d6-B5EwSwPJ4ivSvR33g_gG_Z/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+<span style="font-size: 20px;">**Open Science in science communication & public involvement**</span>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqs6nvSTzF-i6HtPaQ4u3zCzal9G_5ppnB2Q2ujeWjb6W7i_o03U3d6-B5EwSwPJ4ivSvR33g_gG_Z/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
+
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1hD9_3dmnv3eZ-ab2yQizEhLMJI7rei7rhqvdRVFOct4/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1hD9_3dmnv3eZ-ab2yQizEhLMJI7rei7rhqvdRVFOct4/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p> 
     
-**Science communication**  
+<span style="font-size: 20px;">**Science communication**</span>
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyZBBeiQxKSrgaFKEBzwG0Lt6mp_sUmD5LjVs68qwaSQGOyz03QyBZ4MYiygrurQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
 
-**Citizen science**  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/19DJUlO147EJpOZ_6FhXbI0v1gj1dzIKD/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/19DJUlO147EJpOZ_6FhXbI0v1gj1dzIKD/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p> 
+
+<span style="font-size: 20px;">**Citizen science**</span>
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyXQ-i7-xBbGFeXhNrXeyEITJ4fli_-ZOf2w7dGByKnc68opBCjA3XllJGV2rBgg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
    
-<!-- 
-**Lecture videos**
-
-<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
-
-[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
-
-
-**Lecture slides**  
-
-<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
-
-
-<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
-
-
-**Practical assignments**  
-
-Coming soon  
-  
- <br>
--->
 
 
 ## Contributors
@@ -101,9 +90,9 @@ Coming soon
 
 ## Reuse  
 
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
-
-
+All SciLifeLab and SND materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
+All Vetenskap & Allmänhet materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" rel="CCBYNC"><img src="img/CCBYNC4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) this material for any non-commercial purpose — as long as you give appropriate credit to the original authors and do not use the material for commercial purposes.  
+    
 Please cite material as:   
    
 > Karin Westin Tikkanen, Lotta Waesterberg Tomasson (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - communicate & involve*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session7.html   
