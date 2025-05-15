@@ -90,9 +90,13 @@ By the end of this session, learners will be able to:
   ➡️ <a href="https://docs.google.com/presentation/d/1_8S4bf_wrMQssxUcIaTcaF74R5LN2VpH59BKPN3IbEk/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
 </p>   
    
-Exercise:
-- Instructions for the Zenodo Sandbox exercise <a href="https://docs.google.com/presentation/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/view" target="_blank">Open in Google Docs</a> <a href="https://docs.google.com/presentation/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/copy" target="_blank">Make a copy</a>
-- Research output: bird populations <a href="https://docs.google.com/file/d/1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ/view" target="_blank">Open file</a> <a href="https://docs.google.com/file/d/1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ/copy" target="_blank">Make a copy</a>
+Exercise:  
+- Instructions for the Zenodo Sandbox exercise: 
+  <a href="https://docs.google.com/document/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/edit" target="_blank">View</a> | 
+  <a href="https://docs.google.com/document/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/copy" target="_blank">Make a Copy</a>  
+- Research output: bird populations: 
+  <a href="https://drive.google.com/file/d/1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ/view" target="_blank">View</a> | 
+  <a href="https://drive.google.com/uc?export=download&id=1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ" target="_blank">Download</a>
  
   
 
