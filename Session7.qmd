@@ -78,6 +78,11 @@ By the end of this session, learners will be able to:
 <span style="font-size: 20px;">**Citizen science**</span>
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyXQ-i7-xBbGFeXhNrXeyEITJ4fli_-ZOf2w7dGByKnc68opBCjA3XllJGV2rBgg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1DjzzlhNTO4vZFGXutcgGRglOhuFG0nLg/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1DjzzlhNTO4vZFGXutcgGRglOhuFG0nLg/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p> 
    
 
 
