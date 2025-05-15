@@ -91,8 +91,10 @@ By the end of this session, learners will be able to:
 </p>   
    
 Exercise:
-[Instructions and materials for the Zenodo Sandbox exercise](https://drive.google.com/drive/folders/1yhyXktgh69qnykFgGTR661F9AWvQghLf?usp=drive_link)  
-
+- Instructions for the Zenodo Sandbox exercise <a href="https://docs.google.com/presentation/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/view" target="_blank">Open in Google Docs</a> <a href="https://docs.google.com/presentation/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/copy" target="_blank">Make a copy</a>
+- Research output: bird populations <a href="https://docs.google.com/file/d/1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ/view" target="_blank">Open file</a> <a href="https://docs.google.com/file/d/1bJkfhMObB8JbMCcL5WIWv5FUSNxeG1TQ/copy" target="_blank">Make a copy</a>
+ 
+  
 
 ## Contributors
 
