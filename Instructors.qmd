@@ -45,22 +45,8 @@ date: today
 </table>
   
 <br/>
-
-
-#### Jessica Lindvall, PhD  <a href="https://orcid.org/0000-0002-5042-8481" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://se.linkedin.com/in/jessica-lindvall-310a8132" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
-###### Head of Training, SciLifeLab Training Hub   
-
-<table>
-<tr>
-    <td style="width: 20%;"><img src="img/JessicaLindvall.jpg" alt="Jessica Lindvall" width="80"></td>
-    <td style="width: 80%;">Jessica heads the Training Hub at SciLifeLab, a national Research Infrastructure within the life science domain. She is a strong Open Science and FAIR advocate involved in various national and international Open Science and FAIR capacity building and upskilling work. </td>
-</tr>
-</table>
   
-    
-<br/>
-
-
+  
 #### Sabina Anderberg <a href="https://orcid.org/0000-0002-3344-8130" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sabina-anderberg-0a393960/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> 
 ###### Senior Advisor, SUHF & Stockholm University   
 
@@ -194,6 +180,20 @@ date: today
 <br/>  
 
 
+#### Richard Williams, PhD  <a href="https://orcid.org/0000-0003-0039-7450" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/richard-williams-1aa378148/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
+######  Postdoctoral researcher in the Philosophy of Open Science, Technical University of Munich   
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/RichardWilliams.jpeg" alt="Richard Williams" width="80"></td>
+    <td style="width: 80%;">As a postdoc in the group of Sabina Leonelli (author of “The philosophy of Open Science” (2023)), Richard explores how Open Science practices across diverse research environments can inform and shape public policy. Previously, he has taught political theory at Sheffield University. </td>
+</tr>
+</table>
+  
+    
+<br/>
+  
+  
 #### Angeliki Adamaki <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/angeliki-adamaki/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ###### Project manager, Lund University 
 
@@ -207,13 +207,13 @@ date: today
 
 <br/>
 
-#### Sabina Leonelli <a href="https://orcid.org/0000-0002-7815-6609" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sabina-leonelli-a878673b/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
-###### Professor of Philosophy and History of Science, Technical University of Munich 
+#### Stefan Ekman <a href="https://orcid.org/0000-0003-0902-5637" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/stefanuekman/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+###### Senior Advisor, SND
 
 <table>
 <tr>
-    <td style="width: 20%;"><img src="img/SabinaLeonelli.jpg" alt="Sabina Leonelli" width="80"></td>
-    <td style="width: 80%;"> Sabina is well known for her work on scientific practices, data-centric science, and open science policies. In her most recent book “The philosophy of Open Science” (2023), she examines the role played by Open Science principles and practices within contemporary research and how this relates to the epistemology of science.  </td>
+    <td style="width: 20%;"><img src="img/StefanEkman.jpg" alt="Stefan Ekman" width="80"></td>
+    <td style="width: 80%;"> Stefan is a researcher and Open Science advocate with a background that bridges English literature, data management, and strategic research support. A docent in English Literature, he combines deep expertise in the humanities with hands-on experience from roles at SND, Karlstad University, and the CAPTURE project at Uppsala University, where he works on paradata and qualitative research infrastructure.  </td>
 </tr>
 </table>
   
