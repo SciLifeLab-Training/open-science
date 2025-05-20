@@ -82,9 +82,14 @@ and describe available options to publish sensitive data
 </p>  
   
 <span style="font-size: 20px;">**The future of publishing: SciFree**</span>   
+  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOxIE3Nq8plG6pthP7x04JTR8Oqiu4n5A_-lOXKUkz_jUCqtSogDsmkqxvEtQL9A/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
+  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1hZeAEug0H0TL0Agf4AzA_YAHvXwE9s-F/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1hZeAEug0H0TL0Agf4AzA_YAHvXwE9s-F/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>   
 
-<iframe src="https://drive.google.com/file/d/1gieN6z8T_hQLlz7_zHmexuZaQ3xNLw_b/preview" width="700" height="420" allow="autoplay"></iframe>    
-   
 
 ## Contributors
 
