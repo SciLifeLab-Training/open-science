@@ -51,7 +51,10 @@ By the end of this session, learners will be able to:
 
 ## Materials
 
-See [SciLifeLab](https://www.scilifelab.se/event/the-future-of-open-science-in-sweden/) for details and registration for the online roundtable.    
+See [SciLifeLab](https://www.scilifelab.se/event/the-future-of-open-science-in-sweden/) for details and registration for the online roundtable.      
+
+<span style="font-size: 1.1em;"><strong>[Please fill out the course feedback survey here](https://docs.google.com/forms/d/e/1FAIpQLSfTkeOV076iHopvzoTTmFODEsHec3FTVb2abf148BiqAcG0ZA/viewform?usp=header)</strong></span>  
+  
   
 ## Contributors
 
