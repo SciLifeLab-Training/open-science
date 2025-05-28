@@ -53,24 +53,27 @@ By the end of this session, learners will be able to:
 
 See [SciLifeLab](https://www.scilifelab.se/event/the-future-of-open-science-in-sweden/) for details and registration for the online roundtable.   
 
-<span style="font-size: 20px;">**The Future of Open Science in Sweden**</span>  
+<span style="font-size: 20px;">**The Future of Open Science in Sweden**</span>   
     
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHus2e0z6JpJNiMT3jNdAy3Cf22N_bz_IcPD35tVm9ycaEIP5OcEcynlyEl4UjsA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe> 
-
-  
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
-
+Keynote presentation: The Future of Open Science, by Richard Williams, PhD (Technical University of Munich <a href="https://orcid.org/0000-0003-0039-7450" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>) 
   
 <iframe src="https://drive.google.com/file/d/1dCpEzHQc6-BOfZQeFPmRfkXY0AI60gDu/preview" frameborder="0" width="700" height="420"></iframe>  
   
 <p>
   ➡️ <a href="https://drive.google.com/uc?export=download&id=1dCpEzHQc6-BOfZQeFPmRfkXY0AI60gDu" target="_blank">Download the video</a>
-</p>
-  
+</p>  
 
+  
+Slides from the keynote presentation    
+   
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHus2e0z6JpJNiMT3jNdAy3Cf22N_bz_IcPD35tVm9ycaEIP5OcEcynlyEl4UjsA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe> 
+  
+<p>
+  ➡️ <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
+  ➡️ <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
+</p>    
+  
+  
 <span style="font-size: 1.1em;"><strong>[Please fill out the course feedback survey here](https://docs.google.com/forms/d/e/1FAIpQLSfTkeOV076iHopvzoTTmFODEsHec3FTVb2abf148BiqAcG0ZA/viewform?usp=header)</strong></span>  
 
   
