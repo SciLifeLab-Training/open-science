@@ -63,6 +63,13 @@ See [SciLifeLab](https://www.scilifelab.se/event/the-future-of-open-science-in-s
   ➡️ <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
 </p>  
 
+  
+<iframe src="https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9I0J/preview" frameborder="0" width="700" height="420"></iframe>  
+  
+<p>
+  ➡️ <a href="https://drive.google.com/uc?export=download&id=1A2B3C4D5E6F7G8H9I0J" target="_blank">Download the video</a>
+</p>
+  
 
 <span style="font-size: 1.1em;"><strong>[Please fill out the course feedback survey here](https://docs.google.com/forms/d/e/1FAIpQLSfTkeOV076iHopvzoTTmFODEsHec3FTVb2abf148BiqAcG0ZA/viewform?usp=header)</strong></span>  
   
