@@ -100,7 +100,8 @@ You can find the report Good Research Practice (VR, 2024, ISBN 978-91-89845-08-4
 ## Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Jonas Åkerman 
+- Jonas Åkerman <a href="https://orcid.org/0000-0001-8852-5458" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Sara Belfrage <a href="https://orcid.org/0000-0002-4152-9045" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 - David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 
@@ -110,6 +111,6 @@ All materials from this session are available for re-use under <a href="https://
 
 Please cite material as:  
 
->Ineke Luijten, Jonas Åkerman, David Rayner (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - collect & analyse*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session3.html     
+>Ineke Luijten, Jonas Åkerman, Sara Belfrage, David Rayner (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - collect & analyse*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session3.html     
 
 
