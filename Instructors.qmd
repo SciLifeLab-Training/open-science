@@ -74,7 +74,7 @@ date: today
     
 <br/>
 
-#### Jonas Åkerman <a href="https://www.linkedin.com/in/jonas-åkerman-a30a7b190/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+#### Jonas Åkerman <a href="https://orcid.org/0000-0001-8852-5458" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/jonas-åkerman-a30a7b190/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ###### Coordinator for research ethics, Stockholm University  
 
 <table>
