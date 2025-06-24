@@ -2,17 +2,15 @@
 title: "Open Science in the project lifecycle - evaluate & build"
 date: today
 ---
+  
+## Learning Outcomes
 
-::: {.callout-tip}
-### Learning Objectives
-
-By the end of this session, learners will be able to:
+Upon completion of this module, students will be able to:
 
 - Summarize the role of CoARA in re-shaping researcher evaluation 
 - Identify future evaluation criteria for researchers and the importance of sharing all research outputs  
 
 
-:::
 ## Schedule  
 <style>
   tr:hover {
@@ -58,48 +56,77 @@ By the end of this session, learners will be able to:
   
 
 
-## Materials    
+## Materials & Reuse   
 
-<span style="font-size: 20px;">**Open Science in researcher evaluation practices**</span>
+<span style="font-size: 22px;">**Open Science in researcher evaluation practices**</span>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQ4gwTWwtOYJHG2B6IC2URkS7A-CW_18Pedp_WnzjMblV8a7WIb6rDxfSnyZzZ7XGedTZF6S1WK1or/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1-V5yR4bytTM2WmU4UXc2CEDyTYYUaaU9jla8_hACABc/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1-V5yR4bytTM2WmU4UXc2CEDyTYYUaaU9jla8_hACABc/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Joanna Sendecka <a href="https://orcid.org/0009-0002-6665-2856" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29354012.v1">https://doi.org/10.17044/scilifelab.29354012.v1</a><br>
+  <strong>Citation:</strong> Luijten I, Sendecka J (2025). *Open Science in the Swedish context - Open Science in researcher evaluation*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29354012.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1-V5yR4bytTM2WmU4UXc2CEDyTYYUaaU9jla8_hACABc/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1-V5yR4bytTM2WmU4UXc2CEDyTYYUaaU9jla8_hACABc/copy" target="_blank">Make a Copy</a> 
+</div>  
+    
+<br>   
   
-<span style="font-size: 20px;">**Innovations in researcher evaluation - CoARA**</span>  
+<span style="font-size: 22px;">**Innovations in researcher evaluation - CoARA**</span>  
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfiMahsrMcCvhFT9po8jUbiEZigJh3e_t7zBKCQlejPvZBAzADJlBOmh87AxPQi03YlKFt5CLn-u7Q/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>     
    
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1R-z0uZHtSu_b-LnWjar_OPpsTENS6-oXeXWk05t7mdU/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1R-z0uZHtSu_b-LnWjar_OPpsTENS6-oXeXWk05t7mdU/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p> 
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Christopher Erdmann <a href="https://orcid.org/0000-0003-2554-180X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29354012.v1">https://doi.org/10.17044/scilifelab.29354012.v1</a><br>
+  <strong>Citation:</strong> Erdmann, C (2025). *Open Science in the Swedish context - CoARA*. SciLifeLab Data Centre. DOI: 10.17044/scilifelab.29354012.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1R-z0uZHtSu_b-LnWjar_OPpsTENS6-oXeXWk05t7mdU/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1R-z0uZHtSu_b-LnWjar_OPpsTENS6-oXeXWk05t7mdU/copy" target="_blank">Make a Copy</a> 
+</div> 
+
+<br> 
   
-<span style="font-size: 20px;">**Researcher evaluation: funders perspective**</span>  
+<span style="font-size: 22px;">**Researcher evaluation: funders perspective**</span>  
   
 <iframe src="https://drive.google.com/file/d/1Tc-nrHZuO-GgluDuF1jepFISUVzyyotH/preview" width="700" height="420" allow="autoplay"></iframe>   
- ➡️ <a href="https://docs.google.com/document/d/1JKbWOXYXQl-0YqUmgRCKuCwVWxp2fEEjfHNxhvl6nzU/edit?usp=sharing" target="_blank">Open speaker notes for this presentation in Google Docs (view-only)</a><br>  
+ 
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Amanda Klein <a href="https://orcid.org/0000-0003-3998-920X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29354012.v1">https://doi.org/10.17044/scilifelab.29354012.v1</a><br>
+  <strong>Citation:</strong> Klein, A (2025). *Open Science in the Swedish context - The review process at the Swedish Research Council*. Vetenskapsrådet. DOI: 10.17044/scilifelab.29354012.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://drive.google.com/uc?export=download&id=1Tc-nrHZuO-GgluDuF1jepFISUVzyyotH" download>Download a copy (PDF)</a> | 
+    <a href="https://drive.google.com/uc?export=download&id=14l7lJYOfrA_1vxqFCewfMhSUUFJ_fDYs" target="_blank">Download speaker notes (PDF)</a> 
+</div> 
 
-## Contributors
+<br> 
+  
+<iframe src="https://drive.google.com/file/d/1dd-02U_T_dc1XU-gmzDUy90ZdbvZ1Ow1/preview" width="700" height="420" allow="autoplay"></iframe>
+ 
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29354012.v1">https://doi.org/10.17044/scilifelab.29354012.v1</a><br>
+  <strong>Citation:</strong> Ulfsparre, SI (2025). *Open Science in the Swedish context - Open Science: a funders perspective*. Vetenskapsrådet. DOI: 10.17044/scilifelab.29354012.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://drive.google.com/uc?export=download&id=1dd-02U_T_dc1XU-gmzDUy90ZdbvZ1Ow1" download>Download a copy (PDF)</a> | 
+    <a href="https://drive.google.com/uc?export=download&id=1c9latR-hvFIVa7p6I5NYsWVv47NwMKmc" target="_blank">Download speaker notes (PDF)</a>
+</div> 
 
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Chris Erdmann <a href="https://orcid.org/0000-0003-2554-180X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> 
-- Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Amanda Klein <a href="https://orcid.org/0000-0003-3998-920X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+<br> 
+
+## License details
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="CCBY"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.   
+  
+<a href="https://creativecommons.org/licenses/by-nd/4.0/" rel="CCBYND"><img src="img/CCBYND4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors and do not adapt (remix, transform, or build upon) the material.    
 
 
-## Reuse  
 
-All SciLifeLab materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CCBY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
-All Vetenskapsrådet materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by-nd/4.0/" rel="CCBYND"><img src="img/CCBYND4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors and do not adapt (remix, transform, or build upon) the material.  
-
-
-Please cite material as:   
-   
-> Ineke Luijten, Chris Erdmann, Sanna Isabel Ulfsparre, Amanda Klein (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - evaluate & build*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session6.html   
 
 
 

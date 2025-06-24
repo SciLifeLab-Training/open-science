@@ -3,18 +3,16 @@ title: "Open Science in the project lifecycle - publish & spread"
 date: today
 ---
 
-::: {.callout-tip}
-### Learning Objectives
+  
+### Learning Outcomes
 
-By the end of this session, learners will be able to:
+Upon completion of this module, students will be able to:
 
 - Define the different types of Open Access publishing options and their benefits and 
-limitations  
+limitations
 - Evaluate the sensitivity of research outputs and whether they can be made openly available,
-and describe available options to publish sensitive data  
+and describe available options to publish sensitive data
 
-
-:::
 
 ## Schedule  
 <style>
@@ -61,49 +59,61 @@ and describe available options to publish sensitive data
   
 
 
-## Materials  
+## Materials & Reuse
 
-<span style="font-size: 20px;">**Open Science in publishing: past and present**</span>
+<span style="font-size: 22px;">**Open Science in publishing: past and present**</span>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRbq2fs7dsC8sQQj0W0oRUnabcRFS2nuu0Hl46MQh5lF9d8bPp6aAEkptM3QPNlKMWc68ebA92ZKTt/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1X7Tt3mPuGFJMHhKOfYs1XBcAvTOm1mlUitBtVIS7so0/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1X7Tt3mPuGFJMHhKOfYs1XBcAvTOm1mlUitBtVIS7so0/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>   
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29349998.v2">https://doi.org/10.17044/scilifelab.29349998.v2</a><br>
+  <strong>Citation:</strong> Luijten, I. (2025). *Open Science in the Swedish context - Open Science in publishing: past and present*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29349998.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1X7Tt3mPuGFJMHhKOfYs1XBcAvTOm1mlUitBtVIS7so0/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1X7Tt3mPuGFJMHhKOfYs1XBcAvTOm1mlUitBtVIS7so0/copy" target="_blank">Make a Copy</a> 
+</div>  
+    
+<br>   
+
   
-<span style="font-size: 20px;">**Publishing sensitive data**</span>
+<span style="font-size: 22px;">**Publishing sensitive data**</span>
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWuijOKsd6qDbEn49fvFLUS8z5EsK8Lg5JC1ofaWT8QIXpN_dL0jxopY4c72M6FLyFGWvRtkh34ixC/pubembed?start=false&loop=false&delayms=3000" width="700" height="420" allow="autoplay"></iframe>  
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1T9m3NkP7rEVTty25sxHsYmKyZjL9Ua76L0f9AbPgKEI/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1T9m3NkP7rEVTty25sxHsYmKyZjL9Ua76L0f9AbPgKEI/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
-  
-<span style="font-size: 20px;">**The future of publishing: SciFree**</span>   
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29349998.v2">https://doi.org/10.17044/scilifelab.29349998.v2</a><br>
+  <strong>Citation:</strong> Rayner, D. (2025). *Open Science in the Swedish context - Publishing sensitive data*. SND. DOI: 10.17044/scilifelab.29349998.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1T9m3NkP7rEVTty25sxHsYmKyZjL9Ua76L0f9AbPgKEI/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1T9m3NkP7rEVTty25sxHsYmKyZjL9Ua76L0f9AbPgKEI/copy" target="_blank">Make a Copy</a> 
+</div>  
+    
+<br>   
+
+
+<span style="font-size: 22px;">**The future of publishing: SciFree**</span>   
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOxIE3Nq8plG6pthP7x04JTR8Oqiu4n5A_-lOXKUkz_jUCqtSogDsmkqxvEtQL9A/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1hZeAEug0H0TL0Agf4AzA_YAHvXwE9s-F/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1hZeAEug0H0TL0Agf4AzA_YAHvXwE9s-F/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>   
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Abeni Wickham <a href="https://orcid.org/0000-0002-2106-0665" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29349998.v2">https://doi.org/10.17044/scilifelab.29349998.v2</a><br>
+  <strong>Citation:</strong> Wickham, A. (2025). *Open Science in the Swedish context - The future of academic publishing: SciFree*. SciFree AB. DOI: 10.17044/scilifelab.29349998.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1hZeAEug0H0TL0Agf4AzA_YAHvXwE9s-F/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1hZeAEug0H0TL0Agf4AzA_YAHvXwE9s-F/copy" target="_blank">Make a Copy</a> 
+</div>  
+    
+<br> 
 
-
-## Contributors
-
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Abeni Wickham <a href="https://orcid.org/0000-0002-2106-0665" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-
-## Reuse  
-
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
-
-Please cite material as:  
-
->Ineke Luijten, David Rayner, Abeni Wickham (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - publish & spread*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session4.html     
+  
+## License details
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.    
 
 
 
