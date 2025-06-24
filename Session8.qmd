@@ -3,15 +3,13 @@ title: "The National Guidelines for Open Science "
 date: today
 ---
 
-::: {.callout-tip}
-### Learning Objectives
 
-By the end of this session, learners will be able to:
+## Learning Outcomes
+
+Upon completion of this module, students will be able to:
 
 - Summarize the National Guidelines for Open Science and how they will be implemented across stakeholders over the coming years  
 - Identify the support Kungliga Biblioteket offers researchers with regards to Open Science and FAIR   
-
-:::
 
 ## Schedule  
 
@@ -54,35 +52,29 @@ By the end of this session, learners will be able to:
   
  
 
-## Materials  
+## Materials & Reuse 
     
-<span style="font-size: 20px;">**The National Guidelines for Open Science**</span>
+<span style="font-size: 22px;">**The National Guidelines for Open Science**</span>
 
-You can find the National Guidelines for Open Science [here in Swedish](https://urn.kb.se/resolve?urn=urn:nbn:se:kb:publ-722) and [here in English](https://urn.kb.se/resolve?urn=urn:nbn:se:kb:publ-738). A full report on the guidelines including background and development can be found [here (Swedish only)](https://urn.kb.se/resolve?urn=urn:nbn:se:kb:publ-721)
+You can find the National Guidelines for Open Science [here in Swedish](https://urn.kb.se/resolve?urn=urn:nbn:se:kb:publ-722) and [here in English](https://urn.kb.se/resolve?urn=urn:nbn:se:kb:publ-738). A full report on the guidelines including background and development can be found [here (in Swedish)](https://urn.kb.se/resolve?urn=urn:nbn:se:kb:publ-721)
     
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgvb1MNNjPfheqPab5P997oD0dR3qMO3uR7tEbjd85VkkEwPAA9Lr9JnDZBDdqtQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe> 
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1xX8pukz53nxPHJSR4E7T5-cnmKDEgIct/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1xX8pukz53nxPHJSR4E7T5-cnmKDEgIct/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
-   
-
-## Contributors
-
-- Erik Stattin <a href="https://orcid.org/0000-0002-1520-2022" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-
-
-## Reuse  
-
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Erik Stattin <a href="https://orcid.org/0000-0002-1520-2022" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29365898.v1">https://doi.org/10.17044/scilifelab.29365898.v1</a><br>
+  <strong>Citation:</strong> Stattin, E. (2025). *Open Science in the Swedish context - The National Guidelines for Open Science*. Kungliga Biblioteket. DOI: 10.17044/scilifelab.29365898.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1xX8pukz53nxPHJSR4E7T5-cnmKDEgIct/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1xX8pukz53nxPHJSR4E7T5-cnmKDEgIct/copy" target="_blank">Make a Copy</a>
+</div>  
+    
+<br>  
 
 
-Please cite material as:   
-   
-> Erik Stattin (2025) *Open Science in the Swedish context - The National Guidelines for Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session8.html   
-
-
+## License details
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
 
 
 
