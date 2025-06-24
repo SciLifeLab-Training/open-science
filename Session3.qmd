@@ -58,57 +58,62 @@ Upon completion of this module, students will be able to:
 
 ## Materials & Reuse   
 
-<span style="font-size: 20px;">**Open Science in data collection & analysis**</span>  
+<span style="font-size: 22px;">**Open Science in data collection & analysis**</span>  
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaZpqnSKScpywbGCMzGN2Ij-EGXimaHgLP1WIdZeU8X91IetKUwO484lRdYWc0w1I4kokqc9LwRdqm/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>       
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29348669.v2">https://doi.org/10.17044/scilifelab.29348669.v2</a><br>
+  <strong>Citation:</strong> Luijten, I. (2025). *Open Science in the Swedish context - Open Science in data collection & analysis*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29348669.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/copy" target="_blank">Make a Copy</a> |
+</div>  
+    
+<br>   
 
-<span style="font-size: 20px;">**Good Research Practice**</span>   
+<span style="font-size: 22px;">**Good Research Practice**</span>   
   
 You can find the report Good Research Practice (VR, 2024, ISBN 978-91-89845-08-4) [here in Swedish](https://www.vr.se/analys/rapporter/vara-rapporter/2024-10-02-god-forskningssed-2024.html). The English version will be made available by VR in May/June 2025. 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8_ubkvrdYBGu1b-elckneCt4I2rHZzAMELDnFtllRLXuhFI4tlHmRs0Juh3EKQA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe> 
 
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p> 
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Jonas Åkerman <a href="https://orcid.org/0000-0001-8852-5458" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Sara Belfrage <a href="https://orcid.org/0000-0002-4152-9045" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29348669.v2">https://doi.org/10.17044/scilifelab.29348669.v2</a><br>
+  <strong>Citation:</strong> Åkerman J, Belfrage S. (2025). *Open Science in the Swedish context - Good Research Practice*. Stockholm University. DOI: 10.17044/scilifelab.29348669.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/copyy" target="_blank">Make a Copy</a> |
+</div>  
+    
+<br> 
     
 <span style="font-size: 20px;">**Data reuse**</span>  
     
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdfqniLy7e8EgJ9a8OvqVHLojbzSk7VXf6HGPFhmeCv7w17fVpRr4efrxKga_UvM82Ma2d9TD1PBs5/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
-  
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1L4aDwKTjuzVm9us1JEEWtqBouFrMpgOu33U2F9mWCIk/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1L4aDwKTjuzVm9us1JEEWtqBouFrMpgOu33U2F9mWCIk/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p> 
-  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjANBq-LT0HHylhUQ0u7hcHizoGX1Mvp_-9eSZEqDCnaqWkcsAzxOXC8eKwW1PMPuZQzpQpxI963sF/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
-  
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1_WmverdPyN6seL4xNFgBGZpYZEe-SB7-7r6Ldubi7E8/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1_WmverdPyN6seL4xNFgBGZpYZEe-SB7-7r6Ldubi7E8/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
-  
-
-## Contributors
-
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Jonas Åkerman <a href="https://orcid.org/0000-0001-8852-5458" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Sara Belfrage <a href="https://orcid.org/0000-0002-4152-9045" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdfqniLy7e8EgJ9a8OvqVHLojbzSk7VXf6HGPFhmeCv7w17fVpRr4efrxKga_UvM82Ma2d9TD1PBs5/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
+    
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjANBq-LT0HHylhUQ0u7hcHizoGX1Mvp_-9eSZEqDCnaqWkcsAzxOXC8eKwW1PMPuZQzpQpxI963sF/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>     
+    
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29348669.v2">https://doi.org/10.17044/scilifelab.29348669.v2</a><br>
+  <strong>Citation:</strong> Rayner, D. (2025). *Open Science in the Swedish context - Data reuse*. SND. DOI: 10.17044/scilifelab.29348669.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1L4aDwKTjuzVm9us1JEEWtqBouFrMpgOu33U2F9mWCIk/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1L4aDwKTjuzVm9us1JEEWtqBouFrMpgOu33U2F9mWCIk/copy" target="_blank">Make a Copy</a> |
+    <a href="https://docs.google.com/presentation/d/1_WmverdPyN6seL4xNFgBGZpYZEe-SB7-7r6Ldubi7E8/view" target="_blank">View exercise comments in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1_WmverdPyN6seL4xNFgBGZpYZEe-SB7-7r6Ldubi7E8/copy" target="_blank">Make a Copy of exercise comments</a> 
+</div>  
+    
+<br> 
 
 
-## Reuse  
-
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
-
-Please cite material as:  
-
->Ineke Luijten, Jonas Åkerman, Sara Belfrage, David Rayner (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - collect & analyse*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session3.html     
+## License details
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.     
 
 
