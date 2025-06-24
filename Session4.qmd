@@ -4,7 +4,7 @@ date: today
 ---
 
   
-### Learning Outcomes
+## Learning Outcomes
 
 Upon completion of this module, students will be able to:
 
