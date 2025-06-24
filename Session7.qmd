@@ -105,7 +105,7 @@ Upon completion of this module, students will be able to:
 
 ## License details   
 <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.       
-<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" rel="CCBYNC"><img src="img/CCBYNC4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) this material for any non-commercial purpose — as long as you give appropriate credit to the original authors and do not use the material for commercial purposes.    
+<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" rel="CCBYNC"><img src="img/CCBYNC4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) this material for any non-commercial purpose — as long as you give appropriate credit to the original authors and do not use the material for commercial purposes.    
     
 
 
