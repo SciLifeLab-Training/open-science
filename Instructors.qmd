@@ -100,6 +100,19 @@ date: today
     
 <br/>
 
+#### Christopher Erdman <a href="https://orcid.org/0000-0003-2554-180X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/christopher-erdmann-1213a456/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+###### Head of Open Science, SciLifeLab Data Centre 
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/ChristopherErdmann.png" alt="Christopher Erdmann" width="80"></td>
+    <td style="width: 80%;"> Chris leads SciLifeLab's efforts to embed FAIR and open practices into research infrastructure and workflows. A seasoned open science advocate, he previously served as Associate Director for Open Science at the Michael J. Fox Foundation and Assistant Director for Data Leadership at the American Geophysical Union.  </td>
+</tr>
+</table>
+
+
+<br/>
+
 #### Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/sanna-isabel-ulfsparre/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
 ###### Analyst, Vetenskapsrådet 
 
