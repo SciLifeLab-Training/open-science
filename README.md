@@ -24,8 +24,8 @@ This README file was generated on 2025-04-03 by Ineke Luijten
 - DOI: None yet
 - Access costs: None
 - Events:  
-  - Past events: March 6 2025, DDLS Research School retreat [here](https://scilifelab-training.github.io/open-science/2503/)  
-  - Upcoming events: May 6-9 2025 SciLifeLab Solna, full 3ECTS course in person, see [here](https://scilifelab-training.github.io/open-science/2505/)  
+  - Past events: - March 6 2025, DDLS Research School retreat [here](https://scilifelab-training.github.io/open-science/2503/)  
+                - May 6-9 2025 SciLifeLab Solna, full 3ECTS course in person, see [here](https://scilifelab-training.github.io/open-science/2505/)  
 
 ## EDUCATIONAL   
 - Learning outcomes: 
