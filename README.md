@@ -18,7 +18,7 @@ This README file was generated on 2025-06-08 by Ineke Luijten
 
 ## ACCESSIBILITY   
 - URL: [Open Science in the Swedish context 2505](https://scilifelab-training.github.io/open-science/2505/) 
-- DOI: None yet
+- DOI: 10.17044/scilifelab.c.7890686
 - Access costs: None
 - Events:  
   - Past events:
