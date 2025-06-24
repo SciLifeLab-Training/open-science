@@ -3,15 +3,13 @@ title: "Open Science in the project lifecycle - collect & analyse "
 date: today
 ---
 
-::: {.callout-tip}
-### Learning Objectives
+## Learning Outcomes
 
-By the end of this session, participants will be able to:
+Upon completion of this module, students will be able to:
+ 
+- Summarize the most important principles of working according to good research practice standards
+- Find, access and evaluate the quality of data in repositories
 
-- Summarize the most important principles of working according to good research practice standards  
-- Find, access and evaluate the quality of data in repositories   
-    
-:::
 
 ## Schedule  
 <style>
@@ -58,7 +56,7 @@ By the end of this session, participants will be able to:
   
 
 
-## Materials    
+## Materials & Reuse   
 
 <span style="font-size: 20px;">**Open Science in data collection & analysis**</span>  
   
