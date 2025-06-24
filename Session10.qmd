@@ -3,15 +3,13 @@ title: "The future of Open Science "
 date: today
 ---
 
-::: {.callout-tip}
-### Learning Objectives
 
-By the end of this session, learners will be able to:
+## Learning Outcomes
+
+Upon completion of this module, students will be able to:
 
 - Provide an overview of the implementation of Open Science principles into their own workflow
 - Discuss future benefits and challenges that come with the implementation of Open Science principles in Sweden
-
-:::
 
 
 ## Schedule  
@@ -49,53 +47,46 @@ By the end of this session, learners will be able to:
     
 
 
-## Materials
+## Materials & Reuse
 
-See [SciLifeLab](https://www.scilifelab.se/event/the-future-of-open-science-in-sweden/) for details and registration for the online roundtable.   
-
-<span style="font-size: 20px;">**The Future of Open Science in Sweden**</span>   
-    
-Keynote presentation: The Future of Open Science, by Richard Williams, PhD (Technical University of Munich <a href="https://orcid.org/0000-0003-0039-7450" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>) 
+<span style="font-size: 22px;">**Course wrap-up & assignment information**</span>     
   
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCCoryZsUGgij1pFNucfbuQ7MYj7H7Xbao1tabm8iWh6ZjiVXp6FObT-9rNdFymuN5W2DmuNklA7Gv/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
+
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29381951.v1">https://doi.org/10.17044/scilifelab.29381951.v1</a><br>
+  <strong>Citation:</strong> Luijten, I. (2025). *Open Science in the Swedish context - Wrap-up*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29381951.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1vd22VfanyMgGTmgQUHloiTLnUt-y2_9QKyDHRsHvfkQ/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1vd22VfanyMgGTmgQUHloiTLnUt-y2_9QKyDHRsHvfkQ/copy" target="_blank">Make a Copy</a> 
+</div>  
+    
+<br>   
+    
+
+<span style="font-size: 22px;">**The Future of Open Science in Sweden**</span>  
+  
+[Details and registration for the public, online roundtable](https://www.scilifelab.se/event/the-future-of-open-science-in-sweden/)
+      
 <iframe src="https://drive.google.com/file/d/1dCpEzHQc6-BOfZQeFPmRfkXY0AI60gDu/preview" frameborder="0" width="700" height="420"></iframe>  
   
-<p>
-  ➡️ <a href="https://drive.google.com/uc?export=download&id=1dCpEzHQc6-BOfZQeFPmRfkXY0AI60gDu" target="_blank">Download the video</a>
-</p>  
+div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Richard Williams <a href="https://orcid.org/0000-0003-0039-7450" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Sabina Leonelli <a href="https://orcid.org/0000-0002-7815-6609" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29381951.v1">https://doi.org/10.17044/scilifelab.29381951.v1</a><br>
+  <strong>Citation:</strong> Williams R, Leonelli S. (2025). *Open Science in the Swedish context - The future of Open Science*. Technical University of Munich. DOI: 10.17044/scilifelab.29381951.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://drive.google.com/uc?export=download&id=1dCpEzHQc6-BOfZQeFPmRfkXY0AI60gDu" target="_blank">Download a copy (mp4)</a> | 
+    <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/view" target="_blank">View in Google Slides</a><br> |
+    <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/copy" target="_blank">Make a copy</a>
+</div>  
+    
+<br>  
 
-  
-Slides from the keynote presentation    
-   
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHus2e0z6JpJNiMT3jNdAy3Cf22N_bz_IcPD35tVm9ycaEIP5OcEcynlyEl4UjsA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe> 
-  
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1YLq0n3TdzWQkYjGq4hkt7Djeea_lkzLj/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>    
-  
-  
-<span style="font-size: 1.1em;"><strong>[Please fill out the course feedback survey here](https://docs.google.com/forms/d/e/1FAIpQLSfTkeOV076iHopvzoTTmFODEsHec3FTVb2abf148BiqAcG0ZA/viewform?usp=header)</strong></span>  
-
-  
-## Contributors
-
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Stefan Ekman <a href="https://orcid.org/0000-0003-0902-5637" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Angeliki Adamaki <a href="https://orcid.org/0000-0001-7070-8352" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Richard Williams <a href="https://orcid.org/0000-0003-0039-7450" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-
-
-
-## Reuse  
-
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
-
-
-Please cite material as:   
-   
-> Ineke Luijten, Elin Kronander, Stefan Ekman, Richard Williams, Angeliki Adamaki, Sanna Isabel Ulfsparre (2025) *Open Science in the Swedish context - The future of Open Science*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session9.html   
+## License details
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors. 
 
 
 
