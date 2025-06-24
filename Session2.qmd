@@ -6,7 +6,7 @@ date: today
   
 ## Learning Outcomes  
 
-By the end of this session, participants will be able to:
+Upon completion of this module, students will be able to:
 
 - Locate tools to assist in implementing Open Science into protocol writing, data analysis, and notetaking
 - Discuss the benefits of publishing in registered report format
