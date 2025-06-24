@@ -101,26 +101,32 @@ Upon completion of this module, students will be able to:
   <strong>Citation:</strong> Klein, A (2025). *Open Science in the Swedish context - The review process at the Swedish Research Council*. Vetenskapsrådet. DOI: 10.17044/scilifelab.29354012.v1<br>
   <strong>Download:</strong> 
     <a href="https://drive.google.com/uc?export=download&id=1Tc-nrHZuO-GgluDuF1jepFISUVzyyotH" download>Download a copy (PDF)</a> | 
-    <a href="https://drive.google.com/uc?export=download&id=14l7lJYOfrA_1vxqFCewfMhSUUFJ_fDYs" target="_blank">Download the speaker notes (PDF)</a>
+    <a href="https://drive.google.com/uc?export=download&id=14l7lJYOfrA_1vxqFCewfMhSUUFJ_fDYs" target="_blank">Download speaker notes (PDF)</a> 
+</div> 
+
+<br> 
+  
+<iframe src="https://drive.google.com/file/d/1dd-02U_T_dc1XU-gmzDUy90ZdbvZ1Ow1/preview" width="700" height="420" allow="autoplay"></iframe>
+ 
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.en) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29354012.v1">https://doi.org/10.17044/scilifelab.29354012.v1</a><br>
+  <strong>Citation:</strong> Ulfsparre, SI (2025). *Open Science in the Swedish context - Open Science: a funders perspective*. Vetenskapsrådet. DOI: 10.17044/scilifelab.29354012.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://drive.google.com/uc?export=download&id=1dd-02U_T_dc1XU-gmzDUy90ZdbvZ1Ow1" download>Download a copy (PDF)</a> | 
+    <a href="https://drive.google.com/uc?export=download&id=1c9latR-hvFIVa7p6I5NYsWVv47NwMKmc" target="_blank">Download speaker notes (PDF)</a>
+</div> 
+
+<br> 
+
+## License details
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="CCBY"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.   
+  
+<a href="https://creativecommons.org/licenses/by-nd/4.0/" rel="CCBYND"><img src="img/CCBYND4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors and do not adapt (remix, transform, or build upon) the material.    
 
 
-## Contributors
 
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Chris Erdmann 
-- Sanna Isabel Ulfsparre <a href="https://orcid.org/0000-0002-4474-8366" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Amanda Klein 
-
-
-## Reuse  
-
-All SciLifeLab materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CCBY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
-All Vetenskapsrådet materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by-nd/4.0/" rel="CCBYND"><img src="img/CCBYND4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors and do not adapt (remix, transform, or build upon) the material.  
-
-
-Please cite material as:   
-   
-> Ineke Luijten, Chris Erdmann, Sanna Isabel Ulfsparre, Amanda Klein (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - evaluate & build*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session6.html   
 
 
 
