@@ -45,7 +45,7 @@ This course is designed for participants to:
 
 ## REUSE  
 - Licensing and reuse details: Unless stated otherwise, all materials from this course are available for re-use under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/)
-- Preferred citation: *Session author 1, Session author 2, etc* (2024) Open Science in the Swedish context - session *x*: *session title*. Retrieved from https://scilifelab-training.github.io/open-science/2503 
+- Preferred citation: Indicated per item 
 - Status: active 
 - Version: 1
 - Date of last revision: NA
