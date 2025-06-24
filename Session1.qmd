@@ -4,11 +4,12 @@ date: today
 ---
 
   
-## Learning Outcomes
+## Learning Outcomes    
 
-Upon completion of this module, students will be able to:  
-- Explain what Open Science is, and discuss the benefits and challenges that come with its implementation    
-- Summarize the Roadmap for Open Science and how it will be implemented in Sweden over the coming years     
+Upon completion of this module, students will be able to:
+
+- Explain what Open Science is, and discuss the benefits and challenges that come with its implementation
+- Summarize the Roadmap for Open Science and how it will be implemented in Sweden over the coming years
 
 
 
@@ -58,7 +59,7 @@ Upon completion of this module, students will be able to:
 
 ## Materials & Reuse
   
-<span style="font-size: 20px;">**Introduction to Open Science**</span>
+<span style="font-size: 22px;">**Introduction to Open Science**</span>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvsLkCzfM0sKbO7LDwKibSCCiOwDfK5Z7nTpthqGCA9jpV_3Vs4pPp7ZG1OvpERg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
   
@@ -79,7 +80,7 @@ Upon completion of this module, students will be able to:
 <br>   
 
 
-<span style="font-size: 20px;">**The Roadmap for Open Science**</span>  
+<span style="font-size: 22px;">**The Roadmap for Open Science**</span>  
   
 You can find the Roadmap For Open Science [here in Swedish](https://suhf.se/app/uploads/2025/02/REK-2021-1-Fardplan-for-oppen-vetenskap-REVIDERAD-250131.pdf) and [here in English](https://suhf.se/app/uploads/2025/05/REC-2021-1-Open-Science-Roadmap-REVISED-08-05-2025.docx)  
   
