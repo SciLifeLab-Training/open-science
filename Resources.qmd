@@ -72,7 +72,7 @@ A global registry of research data repositories, helping researchers, funding or
 ## Tools
 
 <details>
-  <summary>Data managament</summary>
+  <summary>Data management</summary>
 
 - **[Swedish National Data Service (SND)](https://snd.se/en/)**  
 A Swedish national infrastructure for research data, supporting the accessibility, preservation, and reuse of research data and related materials. Tools include, but are not limited to: 
