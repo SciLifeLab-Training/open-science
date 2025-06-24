@@ -9,17 +9,12 @@ date: today
 ## About
 
 **Organizers:** 				SciLifeLab Training Hub, NBIS Training, SND training  
-**Course material:**		Collection available [here](https://figshare.scilifelab.se/collections/Open_Science_in_the_Swedish_Context/7890686). DOI: 10.17044/scilifelab.c.7890686
-**Next in-person instance:**	Spring 2026 
-
-<!--
 **First teaching instance:**			May 5-9 (in-person) & May 27 (online), 2025  
 **Location:**					SciLifeLab Solna, room Air&Fire  
 **Suggested number of credits:** 		2hp  
 **Enrollment opens:**				November 25, 2024  
 **Enrollment closes:**				February 28, 2025     
 **Course fee:**				        none   
--->
 
 Course leaders: 
 
@@ -29,6 +24,8 @@ Course leaders:
 
 
 Course contact: ineke.luijten@scilifelab.se
+
+**Course material: Full collection available [here](https://figshare.scilifelab.se/collections/Open_Science_in_the_Swedish_Context/7890686). DOI: 10.17044/scilifelab.c.7890686**
 
 <!--
 **Registration is now closed** -->
