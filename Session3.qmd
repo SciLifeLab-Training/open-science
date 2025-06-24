@@ -87,7 +87,7 @@ You can find the report Good Research Practice (VR, 2024, ISBN 978-91-89845-08-4
   <strong>Citation:</strong> Åkerman J, Belfrage S. (2025). *Open Science in the Swedish context - Good Research Practice*. Stockholm University. DOI: 10.17044/scilifelab.29348669.v2<br>
   <strong>Download:</strong> 
     <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/view" target="_blank">View in Google Slides</a> | 
-    <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/copyy" target="_blank">Make a Copy</a> 
+    <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/copy" target="_blank">Make a Copy</a> 
 </div>  
     
 <br> 
