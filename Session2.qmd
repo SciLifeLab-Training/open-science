@@ -2,18 +2,16 @@
 title: "Open Science in the project lifecycle - plan & design "
 date: today
 ---
+  
+  
+## Learning Outcomes  
 
-::: {.callout-tip}
-### Learning Objectives
+Upon completion of this module, students will be able to:
 
-By the end of this session, participants will be able to:
-
-- Locate tools to assist in implementing Open Science into protocol writing, data analysis, and notetaking  
-- Discuss the benefits of publishing in registered report format 
-- Describe the importance of having a Data Management Plan (DMP) and working with data
-according to the FAIR principles    
+- Locate tools to assist in implementing Open Science into protocol writing, data analysis, and notetaking
+- Discuss the benefits of publishing in registered report format
+- Describe the importance of having a Data Management Plan (DMP) and working with data according to the FAIR principles  
       
-:::
 
 ## Schedule  
 <style>
@@ -59,37 +57,43 @@ according to the FAIR principles
 </table>
   
 
-## Materials  
+## Materials & Reuse 
   
-<span style="font-size: 20px;">**Open Science in project planning & design**</span>  
+<span style="font-size: 22px;">**Open Science in project planning & design**</span>  
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCJ_iVgSio_QMqsGT32xBilNw3U1Ua1-5mGjDAzfbY1pOM5M_G7PZdcC59bRw3XyPjGJPRN39Q2H4M/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>      
+    
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29338142.v2">https://doi.org/10.17044/scilifelab.29338142.v2</a><br>
+  <strong>Citation:</strong> Luijten, I. (2025). *Open Science in the Swedish context - Open Science in project planning & design*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29338142.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1ccomz8YNWUnHw8LozoBCE8sSPOKVCYfUv8j32dGnYi0/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1ccomz8YNWUnHw8LozoBCE8sSPOKVCYfUv8j32dGnYi0/copy" target="_blank">Make a Copy</a>
+</div>  
+    
+<br>   
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1ccomz8YNWUnHw8LozoBCE8sSPOKVCYfUv8j32dGnYi0/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1ccomz8YNWUnHw8LozoBCE8sSPOKVCYfUv8j32dGnYi0/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
-  
-  
-<span style="font-size: 20px;">**Preregistration and registered reports**</span>   
+<span style="font-size: 22px;">**Preregistration and registered reports**</span>   
     
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx9yyNMy19dpIB0aQB3XT7-203VG8CwHSJzb8k9sEr_wdnWwd_2QyyM6fRoLwToA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1gKAhyfY0KP33MxmSu6bT-FhcXyz_ogi8/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1gKAhyfY0KP33MxmSu6bT-FhcXyz_ogi8/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Till Brücker  <a href="https://orcid.org/0000-0001-9346-3319" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29338142.v2">https://doi.org/10.17044/scilifelab.29338142.v2</a><br>
+  <strong>Citation:</strong> Brückner, T. (2025). *Open Science in the Swedish context - Preregistration and registered reports*. Karolinska Instutite. DOI: 10.17044/scilifelab.29338142.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1gKAhyfY0KP33MxmSu6bT-FhcXyz_ogi8/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1gKAhyfY0KP33MxmSu6bT-FhcXyz_ogi8/copy" target="_blank">Make a Copy</a>
+</div>  
+    
+<br>   
   
-  
-<span style="font-size: 20px;">**Data management plans**</span>   
+<span style="font-size: 22px;">**Data management plans**</span>   
     
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTD6raarol2ZFuU5ogby2bUQf8k6kKp_arWabsNfzjUDsjiuQbIFruUcCyKsU1xyTt752GDRdrHq_zE/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
-  
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/198OP8BRmdu_qBuXcVqFjTwWzof-o4c94qw9vPctypms/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/198OP8BRmdu_qBuXcVqFjTwWzof-o4c94qw9vPctypms/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>  
-  
    
 **Exercise related to data management plans**  
 Option 1, recommended for life scientist:  
@@ -102,21 +106,20 @@ b) Use SND's checklist for data management planning.
 2. Start at p.5 and go through the questions to see which ones are relevant to your project/situation.  
 3. Start answering the relevant questions.      
    
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Elin Kronander  <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29338142.v2">https://doi.org/10.17044/scilifelab.29338142.v2</a><br>
+  <strong>Citation:</strong> Kronander, E. (2025). *Open Science in the Swedish context - Data Manegement Plans*. NBIS. DOI: 10.17044/scilifelab.29338142.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/198OP8BRmdu_qBuXcVqFjTwWzof-o4c94qw9vPctypms/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/198OP8BRmdu_qBuXcVqFjTwWzof-o4c94qw9vPctypms/copy" target="_blank">Make a Copy</a>
+</div>  
 
-## Contributors
-
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Till Brückner <a href="https://orcid.org/0000-0001-9346-3319" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-
-
-## Reuse  
-
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
-
-Please cite material as:  
-
->Ineke Luijten, Till Brückner, Elin Kronander (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - plan & design*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session2.html     
+<br>  
+  
+## License details
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.    
 
 
 
