@@ -72,7 +72,7 @@ Upon completion of this module, students will be able to:
       
 <iframe src="https://drive.google.com/file/d/1dCpEzHQc6-BOfZQeFPmRfkXY0AI60gDu/preview" frameborder="0" width="700" height="420"></iframe>  
   
-div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
   <strong>Author(s):</strong> Richard Williams <a href="https://orcid.org/0000-0003-0039-7450" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>, Sabina Leonelli <a href="https://orcid.org/0000-0002-7815-6609" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
   <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
   <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29381951.v1">https://doi.org/10.17044/scilifelab.29381951.v1</a><br>
