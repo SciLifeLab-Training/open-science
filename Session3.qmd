@@ -92,7 +92,7 @@ You can find the report Good Research Practice (VR, 2024, ISBN 978-91-89845-08-4
     
 <br> 
     
-<span style="font-size: 20px;">**Data reuse**</span>  
+<span style="font-size: 22px;">**Data reuse**</span>  
     
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdfqniLy7e8EgJ9a8OvqVHLojbzSk7VXf6HGPFhmeCv7w17fVpRr4efrxKga_UvM82Ma2d9TD1PBs5/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
     
