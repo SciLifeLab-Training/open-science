@@ -2,13 +2,13 @@
 title: "Open Science in Sweden "
 date: today
 ---
-<br>
+
   
 ## Learning Outcomes
 
-Upon completion of this module, students will be able to:
-- Explain what Open Science is, and discuss the benefits and challenges that come with its implementation  
-- Summarize the Roadmap for Open Science and how it will be implemented in Sweden over the coming years   
+Upon completion of this module, students will be able to:  
+- Explain what Open Science is, and discuss the benefits and challenges that come with its implementation    
+- Summarize the Roadmap for Open Science and how it will be implemented in Sweden over the coming years     
 
 
 
