@@ -66,12 +66,18 @@ implemented in Sweden over the coming years
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvsLkCzfM0sKbO7LDwKibSCCiOwDfK5Z7nTpthqGCA9jpV_3Vs4pPp7ZG1OvpERg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>   
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1QiXyjmXkpZDzw8GPqBaqQgUj9ycFoqsn/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1QiXyjmXkpZDzw8GPqBaqQgUj9ycFoqsn/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>  
-  ➡️ <a href="https://docs.google.com/presentation/d/1soSpiNS-K8Cc1LfI4OrxQtDz-4l7U9jHUyKFbelUgrE/view" target="_blank">Open the course worksheet in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1soSpiNS-K8Cc1LfI4OrxQtDz-4l7U9jHUyKFbelUgrE/copy" target="_blank">Make a copy of the course worksheet (for editing or downloading)</a>
-</p>  
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Authors:</strong> Ineke Luijten <br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29337071.v2">https://doi.org/10.17044/scilifelab.29337071.v2</a><br>
+  <strong>Citation:</strong> Luijten, I. (2025). *Open Science in the Swedish context - Open Science in Sweden*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29337071.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1QiXyjmXkpZDzw8GPqBaqQgUj9ycFoqsn/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1QiXyjmXkpZDzw8GPqBaqQgUj9ycFoqsn/copy" target="_blank">Make a Copy</a>
+    <a href="https://docs.google.com/presentation/d/1soSpiNS-K8Cc1LfI4OrxQtDz-4l7U9jHUyKFbelUgrE/view" target="_blank">View the course worksheet in Google Slides</a><br>
+    <a href="https://docs.google.com/presentation/d/1soSpiNS-K8Cc1LfI4OrxQtDz-4l7U9jHUyKFbelUgrE/copy" target="_blank">Make a copy of the course worksheet</a>
+</div>  
+  
   
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVI9m6eQA=/?moveToViewport=-1373,-5272,3033,1260&embedId=977678150817" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>  
 
