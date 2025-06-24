@@ -92,8 +92,8 @@ You can find the Roadmap For Open Science [here in Swedish](https://suhf.se/app/
   <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29337071.v2">https://doi.org/10.17044/scilifelab.29337071.v2</a><br>
   <strong>Citation:</strong> Anderberg, S. (2025). *Open Science in the Swedish context - Open Science in Sweden*. SUHF. DOI: 10.17044/scilifelab.29337071.v2<br>
   <strong>Download:</strong> 
-    <a href="https://https://docs.google.com/presentation/d/1T9XkvByGOdlowwYUBD83-X13Pc6LaAKG/view" target="_blank">View in Google Slides</a> | 
-    <a href="https://https://docs.google.com/presentation/d/1T9XkvByGOdlowwYUBD83-X13Pc6LaAKG/copy" target="_blank">Make a Copy</a>
+    <a href="https://docs.google.com/presentation/d/1T9XkvByGOdlowwYUBD83-X13Pc6LaAKG/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1T9XkvByGOdlowwYUBD83-X13Pc6LaAKG/copy" target="_blank">Make a Copy</a>
 </div>  
     
 <br>  
