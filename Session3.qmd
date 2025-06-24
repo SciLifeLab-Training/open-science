@@ -69,7 +69,7 @@ Upon completion of this module, students will be able to:
   <strong>Citation:</strong> Luijten, I. (2025). *Open Science in the Swedish context - Open Science in data collection & analysis*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29348669.v2<br>
   <strong>Download:</strong> 
     <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/view" target="_blank">View in Google Slides</a> | 
-    <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/copy" target="_blank">Make a Copy</a> |
+    <a href="https://docs.google.com/presentation/d/10OhJyhUDFs1QDAo2jUqdG2xU6kAOBQMHPj1VRY8lq1M/copy" target="_blank">Make a Copy</a> 
 </div>  
     
 <br>   
@@ -87,7 +87,7 @@ You can find the report Good Research Practice (VR, 2024, ISBN 978-91-89845-08-4
   <strong>Citation:</strong> Åkerman J, Belfrage S. (2025). *Open Science in the Swedish context - Good Research Practice*. Stockholm University. DOI: 10.17044/scilifelab.29348669.v2<br>
   <strong>Download:</strong> 
     <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/view" target="_blank">View in Google Slides</a> | 
-    <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/copyy" target="_blank">Make a Copy</a> |
+    <a href="https://docs.google.com/presentation/d/1qaS_pxZfqbXUfoFqdxh6F6s1yBZjEL6I/copyy" target="_blank">Make a Copy</a> 
 </div>  
     
 <br> 
