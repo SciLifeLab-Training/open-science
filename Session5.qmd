@@ -3,16 +3,14 @@ title: "Open Science in the project lifecycle - access & reuse "
 date: today
 ---
 
-::: {.callout-tip}
-### Learning Objectives
 
-By the end of this session, learners will be able to:
+## Learning Outcomes
+
+Upon completion of this module, students will be able to:
 
 - Attach a license and DOI to research outputs  
 - Articulate the importance of attaching metadata to research outputs   
 
-
-:::
 
 ## Schedule  
 <style>
@@ -70,27 +68,31 @@ By the end of this session, learners will be able to:
 
 
 
-## Materials  
+## Materials & Reuse 
   
-<span style="font-size: 20px;">**Open Science in data access and reuse**</span>
+<span style="font-size: 22px;">**Open Science in data access and reuse**</span>
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk64lUaU-bhgpXu9y44NUAsv0uLaK6KC5jrYFaB9HxsKgN29LbSKQdW-NVnbul3EjsO2EGjRPyLEfW/pubembed?start=false&loop=false&delayms=3000"  frameborder="0" width="700" height="420"></iframe>   
    
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1ul7YiMF8ppa1XDhjdLmevUoW22tfUDVzOnmOpAFnWjE/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1ul7YiMF8ppa1XDhjdLmevUoW22tfUDVzOnmOpAFnWjE/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>    
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29352653.v2">https://doi.org/10.17044/scilifelab.29352653.v2</a><br>
+  <strong>Citation:</strong> Luijten, I. (2025). *Open Science in the Swedish context - Open Science in data access and reuse*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29352653.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1ul7YiMF8ppa1XDhjdLmevUoW22tfUDVzOnmOpAFnWjE/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1ul7YiMF8ppa1XDhjdLmevUoW22tfUDVzOnmOpAFnWjE/copy" target="_blank">Make a Copy</a> 
+</div>  
+    
+<br>   
+   
   
-<span style="font-size: 20px;">**Repositories, metadata, DOIs, licensing**</span>  
+<span style="font-size: 22px;">**Repositories, metadata, DOIs, licensing**</span>  
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdtLWzGLDtTZzPh6t1zi1EceWxKcoSeV3Rea_K1XSl-nT_v8w_aOIYLlGAgmhpFSyco_U2x-fkfEef/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
   
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1_8S4bf_wrMQssxUcIaTcaF74R5LN2VpH59BKPN3IbEk/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1_8S4bf_wrMQssxUcIaTcaF74R5LN2VpH59BKPN3IbEk/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p>   
    
-Exercise:  
+Exercise instructions and files:  
 
 - Instructions for the Zenodo Sandbox exercise: 
   <a href="https://docs.google.com/document/d/1IMOT6eyZZlDnyzx0jNgZGgNJLouLtQAVLrJIGIfWnWg/edit" target="_blank">View</a> | 
@@ -117,19 +119,18 @@ Exercise:
   <a href="https://drive.google.com/file/d/1W9Q-aEcy0UkfUHz_fhbjC0jORO4foLIc/view" target="_blank">View</a> | 
   <a href="https://drive.google.com/uc?export=download&id=1W9Q-aEcy0UkfUHz_fhbjC0jORO4foLIc" target="_blank">Download</a>  
  
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29352653.v2">https://doi.org/10.17044/scilifelab.29352653.v2</a><br>
+  <strong>Citation:</strong> Kronander, E. (2025). *Open Science in the Swedish context - Open Science in the project lifecycle: access and reuse*. NBIS. DOI: 10.17044/scilifelab.29352653.v2<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1_8S4bf_wrMQssxUcIaTcaF74R5LN2VpH59BKPN3IbEk/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1_8S4bf_wrMQssxUcIaTcaF74R5LN2VpH59BKPN3IbEk/copy" target="_blank">Make a Copy</a> 
+</div>  
+    
+<br>  
 
-## Contributors
 
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-
-
-## Reuse  
-
-All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.
-
-
-Please cite material as:   
-   
-> Ineke Luijten, Elin Kronander (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - access & reuse*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session5.html   
-
+## License details
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors. 
