@@ -3,16 +3,12 @@ title: "Open Science in the project lifecycle - communicate & involve"
 date: today
 ---
 
-::: {.callout-tip}
-### Learning Objectives
+## Learning Outcomes
 
-By the end of this session, learners will be able to:
+Upon completion of this module, students will be able to:
 
 - Recognize how the research workflow can be opened to benefit society  
 - Identify opportunities for public outreach and science communication in Sweden  
-
-
-:::
 
 
 ## Schedule  
@@ -55,52 +51,63 @@ By the end of this session, learners will be able to:
   
 
 
-## Materials  
+## Materials & Reuse 
 
-<span style="font-size: 20px;">**Open Science in science communication & public involvement**</span>
+<span style="font-size: 22px;">**Open Science in science communication & public involvement**</span>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqs6nvSTzF-i6HtPaQ4u3zCzal9G_5ppnB2Q2ujeWjb6W7i_o03U3d6-B5EwSwPJ4ivSvR33g_gG_Z/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>    
 
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1hD9_3dmnv3eZ-ab2yQizEhLMJI7rei7rhqvdRVFOct4/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1hD9_3dmnv3eZ-ab2yQizEhLMJI7rei7rhqvdRVFOct4/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p> 
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29365787.v1">https://doi.org/10.17044/scilifelab.29365787.v1</a><br>
+  <strong>Citation:</strong> Luijten, I. (2025). *Open Science in the Swedish context - Open Science in science communication & public involvement*. SciLifeLab Training Hub. DOI: 10.17044/scilifelab.29365787.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1hD9_3dmnv3eZ-ab2yQizEhLMJI7rei7rhqvdRVFOct4/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1hD9_3dmnv3eZ-ab2yQizEhLMJI7rei7rhqvdRVFOct4/copy" target="_blank">Make a Copy</a> 
+</div>  
     
-<span style="font-size: 20px;">**Science communication**</span>
+<br>   
+
+    
+<span style="font-size: 22px;">**Science communication**</span>
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyZBBeiQxKSrgaFKEBzwG0Lt6mp_sUmD5LjVs68qwaSQGOyz03QyBZ4MYiygrurQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
 
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/19DJUlO147EJpOZ_6FhXbI0v1gj1dzIKD/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/19DJUlO147EJpOZ_6FhXbI0v1gj1dzIKD/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p> 
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Karin Westin Tikkanen <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29365787.v1">https://doi.org/10.17044/scilifelab.29365787.v1</a><br>
+  <strong>Citation:</strong> Westin Tikkanen, K. (2025). *Open Science in the Swedish context - Science communication*. SND. DOI: 10.17044/scilifelab.29365787.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/19DJUlO147EJpOZ_6FhXbI0v1gj1dzIKD/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/19DJUlO147EJpOZ_6FhXbI0v1gj1dzIKD/copy" target="_blank">Make a Copy</a> 
+</div>  
+    
+<br>   
 
-<span style="font-size: 20px;">**Citizen science**</span>
+<span style="font-size: 22px;">**Citizen science**</span>
   
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyXQ-i7-xBbGFeXhNrXeyEITJ4fli_-ZOf2w7dGByKnc68opBCjA3XllJGV2rBgg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420"></iframe>  
 
-<p>
-  ➡️ <a href="https://docs.google.com/presentation/d/1DjzzlhNTO4vZFGXutcgGRglOhuFG0nLg/view" target="_blank">Open this presentation in Google Slides (for viewing)</a><br>
-  ➡️ <a href="https://docs.google.com/presentation/d/1DjzzlhNTO4vZFGXutcgGRglOhuFG0nLg/copy" target="_blank">Make a copy of this presentation (for editing or downloading)</a>
-</p> 
-   
-
-
-## Contributors
-
-- Karin Westin Tikkanen <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
-- Lotta Waesterberg Tomasson <a href="https://orcid.org/0000-0001-9106-5843" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-
-
-## Reuse  
-
-All SciLifeLab and SND materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.  
-All Vetenskap & Allmänhet materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" rel="CCBYNC"><img src="img/CCBYNC4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) this material for any non-commercial purpose — as long as you give appropriate credit to the original authors and do not use the material for commercial purposes.  
+<div style="border: 1px solid #ccc; padding: 10px; margin-top: 10px; font-size: 90%; background-color: #f9f9f9;">
+  <strong>Author(s):</strong> Lotta Waesterberg Tomasson <a href="https://orcid.org/0000-0001-9106-5843" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a><br>
+  <strong>License:</strong> [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) <br>
+  <strong>DOI:</strong> <a href="https://doi.org/10.17044/scilifelab.29365787.v1">https://doi.org/10.17044/scilifelab.29365787.v1</a><br>
+  <strong>Citation:</strong> Waesterberg Tomasson, L. (2025). *Open Science in the Swedish context - Citizen Science in Sweden*. Vetenskap & Allmänhet. DOI: 10.17044/scilifelab.29365787.v1<br>
+  <strong>Download:</strong> 
+    <a href="https://docs.google.com/presentation/d/1DjzzlhNTO4vZFGXutcgGRglOhuFG0nLg/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1DjzzlhNTO4vZFGXutcgGRglOhuFG0nLg/copy" target="_blank">Make a Copy</a> 
+</div>  
     
-Please cite material as:   
+<br> 
    
-> Karin Westin Tikkanen, Lotta Waesterberg Tomasson (2025) *Open Science in the Swedish context - Open Science in the project lifecycle - communicate & involve*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session7.html   
+
+## License details   
+<a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a> You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) this material for any purpose, even commercially — as long as you give appropriate credit to the original authors.       
+<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en" rel="CCBYNC"><img src="img/CCBYNC4.0.png" alt="" height="20"/></a>. You are free to share (copy and redistribute) this material for any non-commercial purpose — as long as you give appropriate credit to the original authors and do not use the material for commercial purposes.    
+    
+
 
 
 
