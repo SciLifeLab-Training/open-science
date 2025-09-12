@@ -17,10 +17,7 @@ website:
       - Index.qmd 
       - Schedule.qmd
       - Instructors.qmd
-      - Session1.qmd
-      - Session2.qmd
-      - Session3.qmd
-      - Session4.qmd
+   
      
 
   navbar:
