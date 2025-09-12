@@ -38,19 +38,19 @@ h1 {
 h2 {
     font-size: 30px; /* Adjust the size for h2 */
     font-weight: 350;
-    color: #E5482D;      /* Optional: Set a default heading color */
+    color: #A6281E;      /* Optional: Set a default heading color */
 }
 
 h3 {
     font-size: 25px; /* Adjust the size for h3 */
     font-weight: 300;
-    color: #E5482D;     
+    color: #A6281E;     
 }
 
 h4 {
     font-size: 20px; /* Adjust the size for h3 */
     font-weight: 300;
-    color: #E5482D;     
+    color: #A6281E;     
 }
 
 /* Additional Customization (Optional) */
