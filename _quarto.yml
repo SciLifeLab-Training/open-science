@@ -14,7 +14,7 @@ website:
     fontsize: 35px
     search: true
     contents: 
-      - Index.qmd 
+      - index.qmd 
       - Schedule.qmd
       - Instructors.qmd
    
