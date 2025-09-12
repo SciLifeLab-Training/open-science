@@ -6,10 +6,10 @@ date: today
 
 
 ::: {.callout-note}
-Schedule is under development and may be subject to change
+Schedule is under development and will be announced in December 2025
 :::
  
-
+<!--
 <br/>
 
 ##### May 5, 2025. SciLifeLab Solna 
@@ -68,3 +68,4 @@ Schedule is under development and may be subject to change
 : {tbl-colwidths="[25,75]"}
 
 <br/>
+-->
