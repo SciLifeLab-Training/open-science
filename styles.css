@@ -6,6 +6,12 @@
     padding-left: 30px;
 }
 
+/* Make website title text white in navbar */
+.navbar-brand {
+  color: white !important;
+}
+
+
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora:wght@400;700&display=swap');
 
