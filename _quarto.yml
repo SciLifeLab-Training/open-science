@@ -6,11 +6,12 @@ branches:
     output-dir: "2605"
 
 website:
-  title: "Open Science in the Swedish context"
+  title: ""
   favicon: "img/OSitSCfavicon.png"
   sidebar:
     style: "floating"
-    background: "#F4F6F6"
+    width: 240px
+    background: "white"
     fontsize: 35px
     search: true
     contents: 
@@ -22,14 +23,18 @@ website:
 
   navbar:
     background: "#111F36"
-    logo: "img/OSitSCLogo.png"
+    logo: "img/OSitSCLogo2.png"
+    right:
+       - icon: github
+         href: "https://github.com/SciLifeLab-Training/open-science"
+         aria-label: GitHub
 
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 execute:
   freeze: auto

@@ -1,7 +1,5 @@
 ---
-title: "Course syllabus"
-author: "Ineke Luijten"
-date: today
+title: "Open Science in the Swedish Context"
 ---
 
 ::: {.callout-warning icon=false}
