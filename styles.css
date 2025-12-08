@@ -1,56 +1,133 @@
-/* css styles */
-
-.navbar-title {
-    font-size: x-large;
-    font-weight: 800;
-    padding-left: 30px;
-}
-
-/* Make website title text white in navbar */
-.navbar-brand {
-  color: white !important;
-}
-
-
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora:wght@400;700&display=swap');
 
+
+/* ---------------- Navbar ---------------- */
+
+/* Increase the overall height of the navbar and add extra padding above and below the content.
+   This ensures there is enough space for the logo and any icons inside the navbar. */
+.navbar {
+    height: 100px !important;       /* sets the height of the navbar */
+    min-height: 100px !important;   /* ensures it doesn't shrink below 100px */
+    padding-top: 10px !important;   /* space above the content inside the navbar */
+    padding-bottom: 10px !important;/* space below the content inside the navbar */
+}
+
+/* Set the logo size and override any default rules from the theme or browser.
+   This ensures the logo is the exact height you want and scales properly. */
+.navbar-brand img {
+    height: 50px !important;       /* sets the height of the logo */
+    max-height: 50px !important;   /* prevents the logo from growing larger than 50px */
+    width: auto !important;        /* keeps the correct width-to-height ratio */
+}
+
+/* Fix the navbar to the top of the page so it stays visible while scrolling.
+   The z-index ensures it sits above other content. */
+.navbar {
+    position: fixed !important;    /* keeps the navbar at the top of the page */
+    top: 0;                        /* position it at the very top */
+    left: 0;                       /* align to the left edge */
+    width: 100%;                   /* stretch the navbar across the full page width */
+    z-index: 1000;                 /* make sure it appears above other content */
+}
+
+
+/* ---------------- Sidebar ---------------- */
+
+/* Sidebar docked on the left: fixed width, white background, scrollable content. 
+   This defines the main container for the sidebar on the left side. */
+.sidebar {
+    width: 260px !important;               /* fixed width of the sidebar */
+    background: #ffffff !important;      /* white background color */
+    flex-shrink: 0 !important;             /* prevents shrinking */
+    position: sticky !important;           /* keeps the sidebar visible while scrolling */
+    top: 100px !important;                 /* distance from the top, below navbar */
+    height: calc(100vh - 130px) !important;/* full viewport height minus navbar */
+    overflow-y: auto !important;           /* allows vertical scrolling if content overflows */
+}
+
+/* Container for the sidebar menu items.
+   Adds padding inside and ensures text aligns to the left. */
+.sidebar-menu-container {
+    padding-left: 10px !important;      /* space inside on the left */
+    padding-right: 20px !important;     /* space inside on the right */
+    text-align: left !important;        /* align all text to left */
+}
+
+/* Special styling for the first item in the sidebar as a title. */
+.sidebar-item:first-child {
+    font-family: "Lato", sans-serif !important;     /* sets font */
+    font-weight: 600 !important;                    /* bold text */
+    font-size: 15px !important;                     /* slightly bigger than normal items */
+    color: #8e8e8e !important;                    /* gray color */
+    padding-right: 20px !important;                 /* right padding */
+}
+
+/* Font and text styling for the sidebar items. */
+.sidebar-item a {
+    color: #000000 !important;
+    font-family: "Lato", sans-serif !important;     /* sets font */
+    font-weight: 300 !important;                    /* normal weight for items */
+    font-size: 14px !important;                     /* font size of text */
+    line-height: 1.5 !important;                    /* vertical spacing between lines */
+}
+
+/* Link colors and hover effects */
+.sidebar .sidebar-item .active {
+    color: #2288cd !important;              /* active link color */
+}
+.sidebar .sidebar-item a:hover {
+    color: #de901b !important;              /* change color on hover for interactivity */
+}
+
+
+
+
+
+
+
+
+
 /* General Body Text */
+
+main {
+    padding-top: 130px !important; /* your navbar height */
+}
 body {
-    font-family: 'Lora', sans-serif;
-    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
     line-height: 1.6; /* Optional: Adjust line height for readability */
     color: #000;      /* Optional: Set a default text color */
 }
 
 /* Headings (h1 - h6) */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lora', sans-serif;  
+    font-family: 'Lato', sans-serif;  
 }
 
 /* Optional: Fine-tune individual heading levels */
 h1 {
-    font-size: 40px; /* Adjust the size for h1 */
-    font-weight: 700; /* Optional: Make headings bold */
-    color: #000;      /* Optional: Set a default heading color */
+    font-size: 35px; /* Adjust the size for h1 */
+    font-weight: 800; /* Optional: Make headings bold */
+    color: #8e8e8e;      /* Optional: Set a default heading color */
 }
 
 h2 {
     font-size: 30px; /* Adjust the size for h2 */
-    font-weight: 350;
-    color: #A6281E;      /* Optional: Set a default heading color */
+    font-weight: 100;
+    color: #000000;      /* Optional: Set a default heading color */
 }
 
 h3 {
     font-size: 25px; /* Adjust the size for h3 */
-    font-weight: 300;
-    color: #A6281E;     
+    font-weight: 200;
+    color: #000000;     
 }
 
 h4 {
     font-size: 20px; /* Adjust the size for h3 */
-    font-weight: 300;
-    color: #A6281E;     
+    font-weight: 200;
+    color: #000000;     
 }
 
 /* Additional Customization (Optional) */
@@ -58,11 +135,6 @@ a {
     color: #007acc; /* Customize link color */
     text-decoration: none;
 }
-
-a:hover {
-    text-decoration: underline; /* Add hover effect to links */
-}
-
 
 .callout-warning .callout-header {
     background-color: #E5E5E5 !important; /* Header background color */
@@ -77,162 +149,30 @@ a:hover {
     border-left: 5px solid #a6a6a6  !important; /* Change the left border color */
   }
 
-/* --- Sidebar and main content layout --- */
 
-/* Make the sidebar fixed width and white */
-.sidebar {
-  width: 260px !important;          /* adjust width as needed */
-  background: #ffffff !important;
-  padding-top: 20px !important;
-  flex-shrink: 0 !important;        /* prevent shrinking in flex layout */
-  box-shadow: none !important;
-  border-right: none !important;
+
+/* Ensure main content is pushed right of the sidebar */
+#quarto-content .content {
+    padding-left: 70px !important;  /* optional breathing room */
 }
 
-/* Center text / add padding inside sidebar */
-.sidebar .sidebar-menu-container {
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-  text-align: center;
-}
-
-/* Main content should flex and not go under sidebar */
-.page-with-sidebar {
-  display: flex !important;
-  flex-direction: row !important;
-}
-
-.page-with-sidebar .main-container {
-  flex-grow: 1 !important;          /* take remaining space */
-  margin-left: 0 !important;        /* remove old margin hack */
-  border-left: none !important;
-  box-shadow: none !important;
-  padding: 20px;                    /* optional content padding */
-}
-
-/* Remove separator line (cosmo uses ::before) */
-.page-with-sidebar::before {
-  display: none !important;
-}
-
-/* Fix title overlapping sidebar */
-.navbar-title,
-.site-title,
-.page-header {
-  margin-left: 260px !important;  /* same width as sidebar */
-  padding-left: 0 !important;
-}
-
-/* Ensure flex layout doesn’t allow overflow */
-.page-with-sidebar > .main-container,
-.page-header {
-  overflow: hidden;
-}
-
-/* Sidebar text left-aligned */
-.sidebar .sidebar-menu-container {
-    padding-left: 20px !important;  /* optional extra padding */
-    padding-right: 20px !important;
-    text-align: left !important;     /* align text to the left */
-}
-
-.sidebar .sidebar-item {
-    padding-left: 5px !important;
-    padding-right: 5px !important;
-}
-
-/* Sidebar items spacing */
-.sidebar .sidebar-item {
-    padding-left: 5px !important;
-    padding-right: 5px !important;
-    margin-bottom: 0.8rem;  /* increase space between items */
-}
-
-/* ---------------- ELIXIR-style sidebar (MkDocs Material-like) ---------------- */
-
-.sidebar,
-.sidebar .sidebar-item,
-.sidebar .sidebar-item a {
-    font-family: "Lato", sans-serif !important;  /* same as MkDocs Material */
-    font-weight: 400 !important;
-    font-size: 14px !important;
-    letter-spacing: 0.3px !important;
-    line-height: 1.5 !important;
-}
-
-/* link colors */
-.sidebar .sidebar-item a {
-    color: #000000 !important;
-    padding: 4px 8px !important;
-    border-radius: 4px;
-}
-
-/* hover */
-.sidebar .sidebar-item a:hover {
-    color: #de901b !important;
-}
-
-/* active item */
-.sidebar .sidebar-item .active {
-    color: #2288cd !important;
-    font-weight: 400 !important;
-}
-
-/* spacing */
-.sidebar .sidebar-item {
-    margin-bottom: 6px !important;
-}
-
-
-/* ---------------- Navbar ---------------- */
-.navbar {
-    height: 90px !important;       /* increase navbar height */
-    min-height: 90px !important;   /* ensure minimum height */
-}
-
-.navbar-brand img {
-    height: 60px !important;       /* adjust logo size */
-    width: auto !important;        /* maintain aspect ratio */
-}
-
-/* Adjust vertical alignment of text in navbar */
-.navbar-title,
-.navbar-brand {
-    line-height: 90px !important;  /* same as navbar height for vertical centering */
-}
-
-/* Make navbar logo larger */
-.navbar-brand img {
-    height: 100px !important;   /* Increase this number for a bigger logo */
-    width: auto !important;    /* Keeps the correct proportions */
-}
-
-
-/* ---- FORCE LOGO TO BE BIGGER ---- */
-
-/* Allow navbar to grow */
-.navbar {
-    height: 100px !important;
-    min-height: 100px !important;
-    padding-top: 10px !important;
-    padding-bottom: 10px !important;
-}
-
-/* OVERRIDE all default logo sizing rules */
-.navbar-brand img {
-    height: 50px !important;      /* your desired logo size */
-    max-height: 50px !important;  /* must override bootstrap constraint */
-    width: auto !important;
-}
-
-/* vertically center text + logo */
-.navbar-brand,
-.navbar-title {
-    line-height: 120px !important;
-}
-
-.navbar .quarto-search-github {
+/* Outer wrapper that centers the layout */
+.page-wrapper {
     display: flex;
-    align-items: center;
-    gap: 8px;
+    justify-content: center;   /* center sidebar + content */
+    max-width: 1200px;         /* optional */
+    margin: 0 auto;
 }
+
+/* Inside, sidebar stays fixed width, content flexes */
+.page-wrapper .sidebar {
+    width: 260px;
+    flex-shrink: 0;
+    position: relative;        /* not sticky here, or sticky inside wrapper */
+}
+
+.page-wrapper .content {
+    margin-left: 20px;         /* gap between sidebar + content */
+    flex: 1;                   /* content grows */
+}
+

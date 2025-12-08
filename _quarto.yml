@@ -9,17 +9,25 @@ website:
   title: ""
   favicon: "img/OSitSCfavicon.png"
   sidebar:
-    style: "floating"
+    style: "docked"
     width: 240px
     background: "white"
     fontsize: 35px
     search: true
     contents: 
-      - index.qmd 
-      - Schedule.qmd
-      - Instructors.qmd
-   
-     
+      - text: "Open Science in the Swedish Context"  # Sidebar title
+        href: ""                                    # empty link
+        class: "sidebar-title"
+      - text: "About"
+        href: index.qmd
+      - section: "Content"
+        collapse: true
+        contents: 
+          - file: Schedule.qmd
+          - file: Instructors.qmd
+          - file: Session1.qmd
+          - file: Session2.qmd
+          - file: Session3.qmd
 
   navbar:
     background: "#111F36"
