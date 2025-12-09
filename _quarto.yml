@@ -8,12 +8,15 @@ branches:
 website:
   title: ""
   favicon: "img/OSitSCfavicon.png"
+  search:
+    location: navbar
+    type: textbox
   sidebar:
     style: "docked"
-    width: 240px
     background: "white"
-    fontsize: 35px
     search: true
+    collapse: true   # this enables automatic collapsing on narrow screens
+    fontsize: 35px
     contents: 
       - text: "Open Science in the Swedish Context"  # Sidebar title
         href: ""                                    # empty link
@@ -32,17 +35,26 @@ website:
   navbar:
     background: "#111F36"
     logo: "img/OSitSCLogo2.png"
+    
+  page-footer:
+    background: light
+    left: "By SciLifeLab Training Hub. Licensed under CC BY 4.0. <br> Built with Quarto and hosted on GitHub Pages."
     right:
        - icon: github
          href: "https://github.com/SciLifeLab-Training/open-science"
-         aria-label: GitHub
-
+         aria-label: GitHub 
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+         <!-- Font Awesome for icons -->
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+
 
 execute:
   freeze: auto
