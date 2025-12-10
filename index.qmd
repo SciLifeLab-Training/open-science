@@ -30,44 +30,48 @@ To follow this course, learners should have basic knowledge of:<br>
 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
 
 </div>
-
-
-::: {.callout-warning icon=false}
-
-## About
-
-**Organizers:** 				SND Training, SciLifeLab Training Hub, NBIS Training  
-**Next teaching instance:**		May 4-7, 2026  
-**Location:**					Wallenberg Conference Center, Gothenburg  
-**Suggested number of credits:** 		2hp  
-**Enrollment opens:**				December 2025  
-**Enrollment closes:**				February 2026 
-**Course fee:**					2500SEK
-		
-
-Course leaders: 
-
-- David Rayner (SND) <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Ineke Luijten (SciLifeLab Training Hub) <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Elin Kronander (NBIS) <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-
-
-Course contact: david.rayner@gu.se, ineke.luijten@scilifelab.se, elin.kronander@scilifelab.se
   
-:::
+
+## Course leaders 
+
+### David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
+###### Training Coordinator, SND <a href="https://snd.se/en"><img src="img/SND_logotyp_eng.png" alt="" width="20" height="20"></a>
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/DavidRayner.jpg" alt="David Rayner" width="80"></td>
+    <td style="width: 80%;"> David coordinates education ventures for the Swedish National Data service. He liaises with researchers and domain specialists to identify new functionality and training needs.   </td>
+</tr>
+</table>
+  
+<br/> 
 
 
+### Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+###### Scientific Training Officer, SciLifeLab Training Hub  
 
-## Forms of instruction and examination
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/InekeLuijten.png" alt="Ineke Luijten" width="80"></td>
+    <td style="width: 80%;">Ineke develops and delivers cross-disciplinary training modules on Open Science and FAIR principles. She is a member of the Open Science community and a strong advocate for Open Science and FAIR. </td>
+</tr>
+</table>
+  
+    
+<br/>
 
-**Forms of instruction:** In-person   
-**Forms of study:** Interactive lectures, practical assignments, group activities, discussion seminars     
-**Language:** English  
-**Examination:** Active participation and a 3 min final presentation  
 
+### Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+###### Head of Training and Data Steward, NBIS  
 
-## Additional notes
-- This course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.   
-- Participants need to bring a laptop.    
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/ElinKronander.png" alt="Elin Kronander" width="80"></td>
+    <td style="width: 80%;"> Elin leads initiatives to enhance data management and bioinformatics education. With expertise in implementing FAIR data principles, she supports researchers across Sweden's scientific community in managing and sharing data effectively to promote open science.  </td>
+</tr>
+</table>
+
+<br/>
+
 
 

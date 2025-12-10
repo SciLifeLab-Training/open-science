@@ -21,16 +21,16 @@ website:
       - text: "Open Science in the Swedish Context"  # Sidebar title
         href: ""                                    # empty link
         class: "sidebar-title"
-      - text: "About"
+      - text: "Syllabus"
         href: index.qmd
+      - text: "Enrollment & practicalities"
+        href: docs/practicalinformation.qmd
+      - text: "Schedule"
+        href: docs/schedule.qmd  
       - section: "Content"
         collapse: true
         contents: 
-          - file: Schedule.qmd
-          - file: Instructors.qmd
           - file: Session1.qmd
-          - file: Session2.qmd
-          - file: Session3.qmd
 
   navbar:
     background: "#111F36"

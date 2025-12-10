@@ -171,6 +171,10 @@ a {
 
 
 
+
+
+
+
 .lesson-overview {
     border: 1px solid #000;
     background: #ffffff;
@@ -192,4 +196,38 @@ a {
     margin-right: 8px;
     color: #333;
 }
+/* Grey header */
+.lesson-header {
+    background: #e5e5e5;
+    padding: 12px 15px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    border-radius: 5px 5px 0 0; /* round only top corners */
+}
 
+/* Date text under title */
+.lesson-header .lesson-date {
+    font-size: 15px;
+    font-weight: 400;
+    color: #555;
+}
+
+/* Body area */
+.lesson-body {
+    padding: 15px 20px;
+}
+
+/* Grid layout */
+.lesson-grid {
+    display: grid;
+    grid-template-columns: 180px auto;
+    row-gap: 10px;
+    column-gap: 15px;
+}
+
+/* Label column styling */
+.lesson-grid .label {
+    font-weight: 600;
+    color: #333;
+}

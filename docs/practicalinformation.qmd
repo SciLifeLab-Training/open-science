@@ -1,0 +1,48 @@
+---
+title: "Enrollment & practicalities"
+---
+<br>
+
+## Upcoming courses 
+
+<div class="lesson-overview" {=html}>
+
+<div class="lesson-header">
+    <strong>Open Science in the Swedish Context</strong><br>
+    <span class="lesson-date">May 4–7, 2026</span>
+</div>
+
+<div class="lesson-body" style="display:grid; grid-template-columns: 180px auto; row-gap:8px; column-gap:10px;">
+
+<strong>Location:</strong>
+<div>Wallenberg Conference Center, Gothenburg</div>
+
+<strong>Suggested credits:</strong>
+<div>2 hp</div>
+
+<strong>Enrollment opens:</strong>
+<div>December 18th, 2025</div>
+
+<strong>Enrollment closes:</strong>
+<div>February 27th, 2026</div>
+
+<strong>Confirmation to applicants:</strong>
+<div>March 6th, 2026</div>
+
+<strong>Course fee:</strong>
+<div>2500 SEK, invoiced to higher education institution</div>
+
+<strong>Course contacts:</strong>
+<div>david.rayner@gu.se, ineke.luijten@scilifelab.se, elin.kronander@scilifelab.se</div>
+
+<p style="margin-top:15px;">
+<a href="#" class="btn btn-primary" style="padding:10px 20px; font-size:16px; border-radius:8px;">
+🔗 Enroll now
+</a>
+</p>
+
+</div>
+</div>
+
+<!-- VERY IMPORTANT: blank line below -->
+
