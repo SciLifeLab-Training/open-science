@@ -24,9 +24,9 @@ website:
       - text: "Syllabus"
         href: index.qmd
       - text: "Enrollment & practicalities"
-        href: docs/practicalinformation.qmd
+        href: practicalinformation.qmd
       - text: "Schedule"
-        href: docs/schedule.qmd  
+        href: schedule.qmd  
       - section: "Content"
         collapse: true
         contents: 

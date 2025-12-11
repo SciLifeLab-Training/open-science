@@ -35,14 +35,15 @@
 
 /* ---------------- Sidebar ---------------- */
 
-/* Sidebar docked on the left: fixed width, white background, scrollable content. 
-   This defines the main container for the sidebar on the left side. */
+/* Correct selector for docked sidebar */
 .sidebar {
-    width: 260px;                   /* fixed width of the sidebar */
-    background: #ffffff;          /* white background color */
-    top: 100px !important;          /* distance from the top, below navbar */
-    height: calc(100vh - 130px);    /* full viewport height minus navbar */
-    overflow-y: auto;           /* allows vertical scrolling if content overflows */
+    width: 260px;
+    background: #ffffff;
+    top: 120px !important;
+    height: calc(100vh - 120px-10px) !important;
+    overflow-y: auto;
+    position: fixed !important;
+    z-index: 1001; /* ensures above body but below navbar */
 }
 
 /* Container for the sidebar menu items.

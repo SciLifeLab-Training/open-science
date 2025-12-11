@@ -1,9 +1,9 @@
 ---
 title: "Enrollment & practicalities"
 ---
-<br>
+<br> 
 
-## Upcoming courses 
+## Upcoming course instances 
 
 <div class="lesson-overview" {=html}>
 
@@ -46,3 +46,17 @@ title: "Enrollment & practicalities"
 
 <!-- VERY IMPORTANT: blank line below -->
 
+## Past course instances
+
+<div class="lesson-overview">
+<p>
+  <strong> Open Science in the Swedish Context</strong> <br>
+  May 5–9, 2025. SciLifeLab Solna 
+</p>
+<a href="https://scilifelab-training.github.io/open-science/2505/"> Course website</a>, <a href="https://figshare.scilifelab.se/collections/Open_Science_in_the_Swedish_Context/7890686"> Course material</a> 
+   
+"*I really enjoyed the course; every session provided me with new knowledge, and the atmosphere among the participants and speakers was excellent.*"  
+"*The topics are relevant and necessary in current times.*"  
+"*This was one of the best and most thoughtfully designed courses I’ve taken.*"      - Taken from participant feedback, 2025
+
+</div>
