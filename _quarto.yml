@@ -8,6 +8,7 @@ branches:
 website:
   title: ""
   favicon: "img/OSitSCfavicon.png"
+  page-navigation: true
   search:
     location: navbar
     type: textbox

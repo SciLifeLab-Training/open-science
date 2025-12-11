@@ -1,8 +1,9 @@
 ---
 title: "Open Science in the Swedish Context"
 ---
+
 <br>
-  
+
 ## Course syllabus
 
 <div class="lesson-overview">
@@ -12,66 +13,65 @@ This course is designed to equip academics across all disciplines with a range o
 
 <p><span class="fa-solid fa-arrow-left"></span> <strong>Prerequisites</strong><br>
 To follow this course, learners should have basic knowledge of:<br>
- 1. Principles of scientific research and methodology<br>
- 2. How research outputs are typically disseminated, (e.g., journals, conferences etc.)<br>
+1. Principles of scientific research and methodology<br>
+2. How research outputs are typically disseminated, (e.g., journals, conferences etc.)<br>
 3. The structure of the Swedish research system, including universities and funding bodies
 </p>
 
 <p><span class="fa-solid fa-arrow-right"></span> <strong>Learning Outcomes</strong><br>
-1. Explain what Open Science is. Discuss the benefits and challenges that come with its implementation, specifically in the Swedish context<br> 
-2. Describe the most common Open Science practices throughout every step of the research project lifecycle<br> 
+1. Explain what Open Science is. Discuss the benefits and challenges that come with its implementation, specifically in the Swedish context<br>
+2. Describe the most common Open Science practices throughout every step of the research project lifecycle<br>
 3. Implement Open Science practices into their own workflow</p>
 
 <p><span class="fa-solid fa-users"></span> <strong>Target Audience:</strong> PhD students, postdocs, researchers, PIs and other employees at all Swedish universities</p>
 
 <p><span class="fa-solid fa-stairs"></span> <strong>Level:</strong> Beginner</p>
 
-<p><span class="fa-solid fa-lock"></span> <strong>License:</strong> 
+<p><span class="fa-solid fa-lock"></span> <strong>License:</strong>
 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
 
 </div>
-  
 
-## Course leaders 
+## Course leaders
 
-### David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
-###### Training Coordinator, SND <a href="https://snd.se/en"><img src="img/SND_logotyp_eng.png" alt="" width="20" height="20"></a>
+<!-- Blank line above -->
 
-<table>
-<tr>
-    <td style="width: 20%;"><img src="img/DavidRayner.jpg" alt="David Rayner" width="80"></td>
-    <td style="width: 80%;"> David coordinates education ventures for the Swedish National Data service. He liaises with researchers and domain specialists to identify new functionality and training needs.   </td>
-</tr>
-</table>
-  
-<br/> 
+<div class="leader-cards-container" {=html}>
+  <div class="leader-card">
+    <img src="img/DavidRayner.jpg" alt="David Rayner" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">David Rayner</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0000-0003-0545-3634"><img src="img/ORCID_Logomark.png" width="20" height="20"/></a>
+        <a href="https://snd.se/en"><img src="img/SND_logotyp_eng.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Training Coordinator, SND</p>
+    </div>
+  </div>
 
+  <div class="leader-card">
+    <img src="img/InekeLuijten.png" alt="Ineke Luijten" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">Ineke Luijten</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0000-0001-5768-275X"><img src="img/ORCID_Logomark.png" width="20" height="20"></a>
+        <a href="https://www.linkedin.com/in/inekeluijten/"><img src="img/Linkedin.png" width="20" height="20"></a>
+        <a href="https://github.com/InekeL"><img src="img/Github.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Scientific Training Officer, SciLifeLab Training Hub</p>
+    </div>
+  </div>
 
-### Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
-###### Scientific Training Officer, SciLifeLab Training Hub  
-
-<table>
-<tr>
-    <td style="width: 20%;"><img src="img/InekeLuijten.png" alt="Ineke Luijten" width="80"></td>
-    <td style="width: 80%;">Ineke develops and delivers cross-disciplinary training modules on Open Science and FAIR principles. She is a member of the Open Science community and a strong advocate for Open Science and FAIR. </td>
-</tr>
-</table>
-  
-    
-<br/>
-
-
-### Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
-###### Head of Training and Data Steward, NBIS  
-
-<table>
-<tr>
-    <td style="width: 20%;"><img src="img/ElinKronander.png" alt="Elin Kronander" width="80"></td>
-    <td style="width: 80%;"> Elin leads initiatives to enhance data management and bioinformatics education. With expertise in implementing FAIR data principles, she supports researchers across Sweden's scientific community in managing and sharing data effectively to promote open science.  </td>
-</tr>
-</table>
-
-<br/>
-
-
-
+  <div class="leader-card">
+    <img src="img/ElinKronander.png" alt="Elin Kronander" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">Elin Kronander</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0000-0003-0280-6318"><img src="img/ORCID_Logomark.png" width="20" height="20"></a>
+        <a href="https://www.linkedin.com/in/elin-kronander/"><img src="img/Linkedin.png" width="20" height="20"></a>
+        <a href="https://github.com/elinkronander"><img src="img/Github.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Head of Training and Data Steward, NBIS</p>
+    </div>
+  </div>
+</div>
