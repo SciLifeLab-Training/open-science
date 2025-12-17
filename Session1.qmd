@@ -5,7 +5,7 @@ title: "1. Open Science in Sweden "
 <br>
 
 ::: {.callout-note}
-All content is under active development and will be released in spring 2026.
+Course content will be released in spring 2026
 :::
 
 
