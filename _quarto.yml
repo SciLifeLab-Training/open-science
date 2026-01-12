@@ -35,7 +35,7 @@ website:
 
   navbar:
     background: "#111F36"
-    logo: "img/OSitSCLogo2.png"
+    logo: "img/SciLifeLab_Logotype_NEG.png"
     
   page-footer:
     background: light
