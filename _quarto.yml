@@ -6,34 +6,56 @@ branches:
     output-dir: "2603"
 
 website:
-  title: "Open Science in the Swedish context"
-  favicon: "img/favicon-32x32.png"
+  title: ""
+  favicon: "img/OSitSCfavicon.png"
+  page-navigation: true
+  search:
+    location: navbar
+    type: textbox
   sidebar:
-    style: "floating"
-    background: "#F4F6F6"
-    fontsize: 35px
+    style: "docked"
+    background: "white"
     search: true
+    collapse: true   # this enables automatic collapsing on narrow screens
+    fontsize: 35px
     contents: 
-      - Index.qmd 
-      - Schedule.qmd
-      - Instructors.qmd
-      - Session1.qmd
-      - Session2.qmd
-      - Session3.qmd
-      - Session4.qmd
-     
+      - text: "Open Science in the Swedish Context"  # Sidebar title
+        href: ""                                    # empty link
+        class: "sidebar-title"
+      - text: "Syllabus"
+        href: index.qmd
+      - text: "Enrollment & practicalities"
+        href: practicalinformation.qmd
+      - text: "Schedule"
+        href: schedule.qmd  
+      - section: "Content"
+        collapse: true
+        contents: 
+          - file: Session1.qmd
 
   navbar:
-    background: "#A7C947"
-    logo: "img/SciLifeLab_Logotype_NEG.png"
-
+    background: "#111F36"
+    logo: "img/OSitSCLogo2.png"
+    
+  page-footer:
+    background: light
+    left: "By SciLifeLab Training Hub. Licensed under CC BY 4.0. <br> Built with Quarto and hosted on GitHub Pages."
+    right:
+       - icon: github
+         href: "https://github.com/SciLifeLab-Training/open-science"
+         aria-label: GitHub 
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+    include-in-header:
+      text: |
+         <!-- Font Awesome for icons -->
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+
 
 execute:
   freeze: auto
-
