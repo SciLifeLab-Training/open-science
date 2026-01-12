@@ -1,93 +1,79 @@
 ---
-title: "Course syllabus"
-author: "Ineke Luijten"
-date: today
+title: "Open Science in the Swedish Context"
 ---
 
-::: {.callout-warning icon=false}
+<br>
 
-## About
+## Course syllabus
 
-**Organizers:** 				SciLifeLab Training Hub, NBIS Training, SND training  
-**First in-person teaching instance:**		May 5-9, & May 27, 2025  
-**Location:**					SciLifeLab Solna, Air&Fire  
-**Suggested number of credits:** 		3hp  
-**Enrollment opens:**				November 25, 2024  
-**Enrollment closes:**				February 28, 2025     
-**Course fee:**				        none   
-		
+<div class="lesson-overview">
 
-Course leaders: 
+<p><span class="fa-regular fa-bookmark"></span> <strong>Description</strong><br>
+This course is designed to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation.</p>
 
-- Ineke Luijten (SciLifeLab Training Hub) <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Elin Kronander (NBIS) <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- David Rayner (SND) <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+<p><span class="fa-solid fa-arrow-left"></span> <strong>Prerequisites</strong><br>
+To follow this course, learners should have basic knowledge of:<br>
+1. Principles of scientific research and methodology<br>
+2. How research outputs are typically disseminated, (e.g., journals, conferences etc.)<br>
+3. The structure of the Swedish research system, including universities and funding bodies
+</p>
 
+<p><span class="fa-solid fa-arrow-right"></span> <strong>Learning Outcomes</strong><br>
+1. Explain what Open Science is. Discuss the benefits and challenges that come with its implementation, specifically in the Swedish context<br>
+2. Describe the most common Open Science practices throughout every step of the research project lifecycle<br>
+3. Implement Open Science practices into their own workflow</p>
 
-Course contact: ineke.luijten@scilifelab.se
+<p><span class="fa-solid fa-users"></span> <strong>Target Audience:</strong> PhD students, postdocs, researchers, PIs and other employees at all Swedish universities</p>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc8qNaaBrPsM6BIHKiPCMNGeWQXzyjAp8mfC7sRk9oltbFJig/viewform" rel="orcid"><img src="img/Registration button.png" alt="" height="50"/></a>
+<p><span class="fa-solid fa-stairs"></span> <strong>Level:</strong> Beginner</p>
 
-  
-:::
+<p><span class="fa-solid fa-lock"></span> <strong>License:</strong>
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
 
-## Course content
+</div>
 
-In accordance with the international EUA Agenda for Open Science 2025, Sweden has now committed itself to implement Open Science into its higher education by 2026, with clear paths mapped by SUHFs ‘Färdplan för öppen vetenskap’ (2021), and KBs ‘Nationella riktlinjer för öppen vetenskap’ (2024).  
-   
-The training ‘Open Science in the Swedish context’ is designed to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation.   
-  
-Completing this training will position participants as future leaders in the global shift towards more open and collaborative research practices, fostering a research environment where knowledge is freely exchanged and built upon.  
+## Course leaders
 
-Topics covered include:
+<!-- Blank line above -->
 
-- Open Science: what’s in it for you?
-- The state of Open Science in Sweden
-- Eliminating publication bias: how to publish a registered report
-- Data reuse with the help of data repositories
-- Good research practice in Sweden
-- New ways of academic publishing: Open Access and beyond
-- Getting credit for all your research outputs: DOIs and licensing 
-- Advances in researcher evaluation: funder and institutional perspectives
-- Science communication and citizen science
+<div class="leader-cards-container" {=html}>
+  <div class="leader-card">
+    <img src="img/DavidRayner.jpg" alt="David Rayner" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">David Rayner</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0000-0003-0545-3634"><img src="img/ORCID_Logomark.png" width="20" height="20"/></a>
+        <a href="https://snd.se/en"><img src="img/SND_logotyp_eng.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Training Coordinator, SND</p>
+    </div>
+  </div>
 
-## Learning Objectives and Learning Outcomes
-#### Learning Objectives
+  <div class="leader-card">
+    <img src="img/InekeLuijten.png" alt="Ineke Luijten" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">Ineke Luijten</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0000-0001-5768-275X"><img src="img/ORCID_Logomark.png" width="20" height="20"></a>
+        <a href="https://www.linkedin.com/in/inekeluijten/"><img src="img/Linkedin.png" width="20" height="20"></a>
+        <a href="https://github.com/InekeL"><img src="img/Github.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Scientific Training Officer, SciLifeLab Training Hub</p>
+    </div>
+  </div>
 
-This course is designed for participants to:  
-
-- Get acquainted with Open Science principles and how they will be implemented into Swedish academia within the coming years  
-- Be able to execute every step of a research project according to Open Science principles   
-
-#### Learning Outcomes
-
-Upon completion of this course, participants will be able to:
-
-- Explain what Open Science is, and discuss the benefits and challenges that come with its 
-implementation, specifically in the Swedish context
-- Describe the most common Open Science practices throughout every step of the research 
-project lifecycle
-- Implement Open Science practices into their own workflow  
-
-
-## Target audience and course prerequisites
-
-**Target audience:** This is a nationally offered course open to PhD students, postdocs, researchers, PIs and other employees at all Swedish universities who would like to implement Open Science practices into every step of their research projects.  
-**Course prerequisites:** none  
-**Level:** beginner/intermediate
-
-
-## Forms of instruction and examination
-
-**Forms of instruction:** In-person (sessions 1-8), Online (session 9)  
-**Forms of study:** Interactive lectures, practical assignments, group activities, discussion seminars   
-**Language:** English  
-**Examination:** Active participation and a 3 min final presentation  
-
-
-
-## Additional notes
-- This course is highly interactive and hence it is important that you, as a participant, actively contribute to all sessions and elements of the course.   
-- Participants need to bring a laptop.    
+  <div class="leader-card">
+    <img src="img/ElinKronander.png" alt="Elin Kronander" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">Elin Kronander</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0000-0003-0280-6318"><img src="img/ORCID_Logomark.png" width="20" height="20"></a>
+        <a href="https://www.linkedin.com/in/elin-kronander/"><img src="img/Linkedin.png" width="20" height="20"></a>
+        <a href="https://github.com/elinkronander"><img src="img/Github.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Head of Training and Data Steward, NBIS</p>
+    </div>
+  </div>
+</div> 
 
 
