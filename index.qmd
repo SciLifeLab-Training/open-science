@@ -74,4 +74,16 @@ To follow this course, learners should have basic knowledge of:<br>
       <p class="leader-role">Head of Training and Data Steward, NBIS</p>
     </div>
   </div>
+
+  <div class="leader-card">
+    <img src="img/StefanEkman.jpg" alt="Stefan Ekman" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">Stefan Ekman</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0000-0003-0902-5637"><img src="img/ORCID_Logomark.png" width="20" height="20"></a>
+         <a href="https://snd.se/en"><img src="img/SND_logotyp_eng.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Senior Advisor, SND</p>
+    </div>
+  </div>
 </div>
