@@ -11,10 +11,12 @@
 /* Set the logo size and override any default rules from the theme or browser.
    This ensures the logo is the exact height you want and scales properly. */
 .navbar-brand img {
-    height: 50px;       /* sets the height of the logo */
-    max-height: 50px;   /* prevents the logo from growing larger than 50px */
-    width: auto;        /* keeps the correct width-to-height ratio */
+    max-height: clamp(28px, 5vw, 50px);
+    height: auto;
+    width: auto;
 }
+
+
 
 /* ---------------- Sidebar ---------------- */
 
@@ -111,7 +113,7 @@ a {
 
 /* Ensure main content does not overlap sidebar */
 #quarto-content .content {
-    padding-left: 70px;         /* Adds spacing to the left so content starts after sidebar */
+    padding-left: 50px;         /* Adds spacing to the left so content starts after sidebar */
 }
 
 
@@ -245,7 +247,7 @@ a {
 /* Grid layout */
 .lesson-grid {
     display: grid;
-    grid-template-columns: 180px auto;
+    grid-template-columns: auto 1fr;
     row-gap: 10px;
     column-gap: 15px;
 }
