@@ -258,4 +258,15 @@ a {
     color: #333;
 }
 
-
+@media (max-width: 480px) {
+    /* On small phones, stack labels and values */
+    .lesson-body {
+        display: block; /* switch from grid to vertical layout */
+    }
+    .lesson-body > strong,
+    .lesson-body > div {
+        display: block;
+        width: 100%;
+        margin-bottom: 6px; /* optional spacing between label/value pairs */
+    }
+}
