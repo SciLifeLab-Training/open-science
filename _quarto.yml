@@ -24,18 +24,24 @@ website:
         class: "sidebar-title"
       - text: "Syllabus"
         href: index.qmd
-      - text: "Enrollment & practicalities"
-        href: practicalinformation.qmd
       - text: "Schedule"
-        href: schedule.qmd  
+        href: Schedule.qmd  
       - section: "Content"
         collapse: true
         contents: 
+          - file: Assignment1.qmd
+          - file: Assignment2.qmd
+          - file: Assignment3.qmd
           - file: Session1.qmd
+          - file: Session2.qmd
+          - file: Session3.qmd
+          - file: Session4.qmd
+          - file: Assignment4.qmd
 
-  navbar:
-    background: "#111F36"
+  navbar: 
+    background: "#045C64"
     logo: "img/SciLifeLab_Logotype_NEG.png"
+    pinned: true
     
   page-footer:
     background: light

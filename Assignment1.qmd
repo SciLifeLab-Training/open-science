@@ -1,0 +1,4 @@
+---
+title: "Assignment 1: OS in the Swedish academic framework"
+date: today
+---

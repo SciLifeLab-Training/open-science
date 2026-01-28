@@ -9,7 +9,7 @@ title: "Open Science in the Swedish Context"
 <div class="lesson-overview">
 
 <p><span class="fa-regular fa-bookmark"></span> <strong>Description</strong><br>
-This course is designed to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical assignments. Participants will gain first-hand experience with implementing Open Science practices into experimental planning & design, data collection & analysis, sharing & disseminating research output, long-term data accessibility & re-use, and project & researcher evaluation.</p>
+The 1hp course ‘Open Science in the Swedish Context’ is designed to teach DDLS research school scientists how to apply Swedish Open Science standards in their daily research. The course covers key stages of the research lifecycle, from planning a research project, to sharing results, to science communication and researcher evaluation. Through interactive lectures, guest speakers, and practical assignments, participants will explore pre-registration, Open Access publishing, up-and-coming researcher evaluation criteria, and citizen science. Completing this training will prepare DDLS students to lead the global shift toward open and collaborative research.</p>
 
 <p><span class="fa-solid fa-arrow-left"></span> <strong>Prerequisites</strong><br>
 To follow this course, learners should have basic knowledge of:<br>
@@ -19,11 +19,10 @@ To follow this course, learners should have basic knowledge of:<br>
 </p>
 
 <p><span class="fa-solid fa-arrow-right"></span> <strong>Learning Outcomes</strong><br>
-1. Explain what Open Science is. Discuss the benefits and challenges that come with its implementation, specifically in the Swedish context<br>
-2. Describe the most common Open Science practices throughout every step of the research project lifecycle<br>
-3. Implement Open Science practices into their own workflow</p>
+1. Get acquainted with Open Science principles and how they will be implemented into Swedish academia within the coming years<br>
+2. Develop a foundational understanding of how to apply Open Science principles at key stages of a research project<br>
 
-<p><span class="fa-solid fa-users"></span> <strong>Target Audience:</strong> PhD students, postdocs, researchers, PIs and other employees at all Swedish universities</p>
+<p><span class="fa-solid fa-users"></span> <strong>Target Audience:</strong> Researchers in the SciLifeLab DDLS program</p>
 
 <p><span class="fa-solid fa-stairs"></span> <strong>Level:</strong> Beginner</p>
 
@@ -38,18 +37,6 @@ To follow this course, learners should have basic knowledge of:<br>
 
 <div class="leader-cards-container" {=html}>
   <div class="leader-card">
-    <img src="img/DavidRayner.jpg" alt="David Rayner" class="leader-photo">
-    <div class="leader-info">
-      <h4 class="leader-name">David Rayner</h4>
-      <div class="leader-icons">
-        <a href="https://orcid.org/0000-0003-0545-3634"><img src="img/ORCID_Logomark.png" width="20" height="20"/></a>
-        <a href="https://snd.se/en"><img src="img/SND_logotyp_eng.png" width="20" height="20"></a>
-      </div>
-      <p class="leader-role">Training Coordinator, SND</p>
-    </div>
-  </div>
-
-  <div class="leader-card">
     <img src="img/InekeLuijten.png" alt="Ineke Luijten" class="leader-photo">
     <div class="leader-info">
       <h4 class="leader-name">Ineke Luijten</h4>
@@ -59,19 +46,6 @@ To follow this course, learners should have basic knowledge of:<br>
         <a href="https://github.com/InekeL"><img src="img/Github.png" width="20" height="20"></a>
       </div>
       <p class="leader-role">Scientific Training Officer, SciLifeLab Training Hub</p>
-    </div>
-  </div>
-
-  <div class="leader-card">
-    <img src="img/ElinKronander.png" alt="Elin Kronander" class="leader-photo">
-    <div class="leader-info">
-      <h4 class="leader-name">Elin Kronander</h4>
-      <div class="leader-icons">
-        <a href="https://orcid.org/0000-0003-0280-6318"><img src="img/ORCID_Logomark.png" width="20" height="20"></a>
-        <a href="https://www.linkedin.com/in/elin-kronander/"><img src="img/Linkedin.png" width="20" height="20"></a>
-        <a href="https://github.com/elinkronander"><img src="img/Github.png" width="20" height="20"></a>
-      </div>
-      <p class="leader-role">Head of Training and Data Steward, NBIS</p>
     </div>
   </div>
 </div> 
