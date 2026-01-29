@@ -1,8 +1,10 @@
 ---
 title: "1. OS in Sweden "
-date: today
 ---
 
+Coming soon
+
+<!-- 
 ::: {.callout-tip}
 ### Learning Objectives
 
@@ -65,7 +67,7 @@ implemented in Sweden over the coming years
 Coming soon
   
 
-<!-- 
+
 **Lecture videos**
 
 <iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -87,7 +89,7 @@ Coming soon
   
  
 <br>
--->
+
 
 ## Contributors
 
@@ -105,3 +107,4 @@ Please cite material as:
 > Ineke Luijten, Sabina Anderberg (2024) *Open Science in the Swedish context - session 1: Open Science in Sweden*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html   
 
 
+-->

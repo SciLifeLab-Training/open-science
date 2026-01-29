@@ -1,4 +1,3 @@
 ---
 title: "Assignment 4: Citizen science and science communication"
-date: today
 ---

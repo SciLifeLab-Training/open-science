@@ -1,4 +1,14 @@
 ---
-title: "Assignment 2: Open Science in Sweden: who does what?"
-date: today
+title: "Assignment 2: OS in Sweden: who does what?"
 ---
+<!-- 
+
+::: {.callout-tip}
+### Learning Objectives
+
+By the end of this session, participants will be able to:
+
+- Locate key national policy and guidance documents relevant to research in Sweden.
+:::
+
+-->

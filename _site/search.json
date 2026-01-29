@@ -64,7 +64,7 @@
     "href": "Session2.html",
     "title": "2. OS in project planning & design",
     "section": "",
-    "text": "Learning Objectives\n\n\n\nBy the end of this session, participants will be able to:\n\nLocate relevant study registries\n\nDiscuss the benefits of publish in registered report format\nDescribe the importance of having a Data Management Plan (DMP) and working with data according to the FAIR principles",
+    "text": "Coming soon",
     "crumbs": [
       "Content",
       "2. OS in project planning & design"
@@ -119,7 +119,7 @@
     "href": "Session4.html",
     "title": "4. OS in researcher evaluation",
     "section": "",
-    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nDefine the different types of Open Access publishing options and their benefits and limitations\n\nEvaluate the sensitivity of research outputs and whether they can be made openly available, and describe available options to publish sensitive data",
+    "text": "Coming soon",
     "crumbs": [
       "Content",
       "4. OS in researcher evaluation"
@@ -181,7 +181,7 @@
     "href": "Session3.html",
     "title": "3. OS in project sharing & publishing",
     "section": "",
-    "text": "Learning Objectives\n\n\n\nBy the end of this session, participants will be able to:\n\nSummarize the most important principles of working according to good research practice standards\n\nFind, access and evaluate the quality of data in domain-specific repositories",
+    "text": "Coming soon",
     "crumbs": [
       "Content",
       "3. OS in project sharing & publishing"
@@ -236,10 +236,10 @@
     "href": "Session1.html",
     "title": "1. OS in Sweden",
     "section": "",
-    "text": "Learning Objectives\n\n\n\nBy the end of this session, participants will be able to:\n\nExplain what Open Science is, and discuss the benefits and challenges that come with its implementation\nSummarize the National Roadmap for Open Science and how it will be implemented in Sweden over the coming years",
+    "text": "Coming soon",
     "crumbs": [
       "Content",
-      "1. Open Science in Sweden"
+      "1. OS in Sweden"
     ]
   },
   {
@@ -324,6 +324,50 @@
     "text": "March 19, in-person\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:30 - 11:00\n1. Open Science in Sweden\n\n\n11:00 - 11:15\nCoffee break\n\n\n11:15 - 12:30\n2. OS in project planning & design\n\n\n12:30 - 13:30\nLunch\n\n\n13:30 - 15:00\n3. OS in project sharing & publishing\n\n\n15:00 - 15:15\nCoffee break\n\n\n15:15 - 17:00\n4. OS in researcher evaluation\n\n\n17:00 - 17:15\nWrap-up and handout post-course assignment",
     "crumbs": [
       "Schedule"
+    ]
+  },
+  {
+    "objectID": "Assignment1.html",
+    "href": "Assignment1.html",
+    "title": "Assignment 1: The Swedish academic framework",
+    "section": "",
+    "text": "Assignment specifics\n\n\n\nPurpose:\nFamiliarise participants with the Swedish legal and institutional context in which Open Science operates.\nLearning outcomes:\nUpon completion of this assignment, participants will be able to:\n\nIdentify the main institutions that govern Swedish research and higher education.\nDescribe the roles and responsibilities of researchers, universities, and funders in the Swedish system.\nExplain the implications of Lärarundantaget (teacher’s exemption) on academic work. Understand the principle of public access to official documents (Allmän handling) and how it affects research.\n\nEstimated duration:\n120min",
+    "crumbs": [
+      "Content",
+      "Assignment 1: The Swedish academic framework"
+    ]
+  },
+  {
+    "objectID": "Assignment1.html#the-swedish-academic-system",
+    "href": "Assignment1.html#the-swedish-academic-system",
+    "title": "Assignment 1: The Swedish academic framework",
+    "section": "The Swedish academic system",
+    "text": "The Swedish academic system\nBefore diving into Open Science, it helps to understand how research in Sweden actually works. Laws, funding models, and institutional responsibilities shape what you as a researcher can and cannot do, often in ways that are not immediately visible in your everyday work. Knowing the basics of the Swedish research system makes it easier to understand your rights and responsibilities as a researcher, and provides important context for later discussions about sharing data, publications, and other Open Science practices.\n\nWho sets the rules?\nAt the national level, the Government and the Riksdag (the Swedish parliament) are responsible for higher education. They:\n\n\n\n\n\n\nSet the legal framework for universities and university colleges, mainly through two laws:\n\nThe Higher Education Act, which sets out the mission of higher education, academic freedom, and institutional responsibilities\nThe Higher Education Ordinance, which provides more detailed rules on degrees, admissions, employment, and study programmes.\n\nThe Government also sets the strategic direction for Swedish research through a national research policy bill, published every four years. The current bill (2025–2028) outlines priorities such as research excellence, internationalisation, and innovation, and shapes how public research funding is distributed.\n\n\n\n\n\n\n\n\n\nAllocate public funding to universities, with education and research funded separately.\nResearch & PhD education funding comes from:\n\nRecurrent government funding (base grants to universities)\nExternal competitive funding, awarded by public agencies and other private research funders and organisations.\nAlmost half of all external funding comes from the Swedish government through research councils, in particular:\n\nthe Swedish Research Council (Vetenskapsrådet)\nthe Swedish Research Council for Health, Working Life and Welfare (Forte)\nthe Swedish Research Council for Sustainable Development (Formas)\nSweden’s Innovation Agency (Vinnova)\nthe Swedish Energy Agency (Energimyndigheten)\n\n\n\n\n\n\n\n\n\n\n\nSupervise higher education and research providers to ensure compliance with national legislation\nSeveral (independent) government agencies under the Ministry of Education and Research are responsible for supervising universities and research activities in Sweden:\n\nThe Swedish Higher Education Authority (Universitetskanslersämbetet, UKÄ)supervises higher education institutions to ensure they comply with applicable legislation, including the Higher Education Act, the Higher Education Ordinance, the Administrative Procedures Act, and their own internal regulations.\n\nThe Swedish Council for Higher Education (Universitets- och högskolerådet, UHR) works with admissions, recognition of qualifications, international mobility, and information about higher education, rather than supervision of research quality.\nThe Swedish Ethical Review Authority (Etikprövningsmyndigheten)\nEvaluates research involving humans, biological material, or sensitive personal data. Researchers must submit study plans for ethical review and approval before such research can begin.\n\n\n\n\n\n🎓 PhD takeaway: Your PhD is shaped by national laws, not just local practice. Funding structures influence how research is organised and public-sector rules apply to most universities.\n\n\n\nWhat is the role of universities?\nUniversities and university colleges have a broad mission that includes:\n\nEducation based on research or artistic practice\nResearch and development work\nInteraction with society, so that research and knowledge benefit the wider community\n\nIn addition, Swedish higher education institutions have to guarantee researchers academic freedom. This means that researchers and teachers should be free to choose research questions, methods, and how results are communicated, within the legal framework.\nAlthough Sweden’s higher education system is nationally regulated, universities are given a lot of freedom in how research and education are carried out. The Government sets overarching goals, but institutions decide independently how to meet them. For early-career researchers, this means that day-to-day research life is shaped largely by your university and your role within it. Universities independently decide:\n\nHow they are organised\nWhich courses and programmes to offer\nThe content and design of education\nHow many students to admit\nWhat research to prioritise\n\nThere is thus no nationally fixed curriculum and no central planning of how much research or education should be done in specific fields. For PhD students, this also means that conditions can vary between universities. though three academic positions – professor, senior lecturer, and associate senior lecturer – are regulated by law. Under the Higher Education Act, researchers are free to choose research problems, develop methods, and publish results. The Act also emphasises academic credibility and good re search practice, along with the responsibility of higher education institutions to safeguard and promote academic freedom.",
+    "crumbs": [
+      "Content",
+      "Assignment 1: The Swedish academic framework"
+    ]
+  },
+  {
+    "objectID": "Assignment1.html#important-actors",
+    "href": "Assignment1.html#important-actors",
+    "title": "Assignment 1: The Swedish academic framework",
+    "section": "## Important actors",
+    "text": "## Important actors\nPart 2: Key Research Institutions and Funding Bodies Estimated time: 15–20 minutes\nSwedish National Data Service (SND) Data repository for research data; supports data management Researchers deposit and access data\nUniversities Implement policies, supervise researchers, manage grants Day-to-day administration of academic work Reflection: Consider which of these institutions you interact with the most and why. Part 3: Roles and Responsibilities Estimated time: 10–15 minutes Understanding who is responsible for what is key: Researchers: Uphold academic freedom and research integrity Comply with legal obligations and funder requirements Manage and report data and publications responsibly Universities: Support researchers with policy guidance and infrastructure Supervise PhD students and staff Ensure compliance with national laws and funder requirements Funders: Define grant conditions and priorities Monitor compliance and reporting Provide guidance on best practices Tip: These roles are interlinked. A failure in one often impacts the others. Part 4: Legal Principles Affecting Academic Work Estimated time: 15–20 minutes 1. Lärarundantaget (Teacher’s Exemption) Swedish law allows teachers to freely use and publish materials they create for teaching. Implications: Teaching materials may be exempt from certain sharing obligations, but this does not override ethical or legal requirements for research data. 2. Allmän handling (Public Document) Many documents held by public authorities (including universities) are considered public. Principle of Public Access: Anyone may request access to official documents. Implications: Research records, communications, and reports may be accessible unless legally restricted (e.g., privacy, sensitive data). Tip: Researchers must balance transparency with confidentiality obligations. Part 5: Key Policy and Guidance Documents Estimated time: 10–15 minutes Some of the most important national documents include: The Higher Education Act (Högskolelagen) – governs universities, academic freedom, and responsibilities. Swedish Research Council guidelines – includes research ethics, open access recommendations, and data management. Freedom of the Press Act / Principle of Public Access – foundation for public access to documents. National guidelines for research integrity – defines good scientific practice. Exercise: Skim the Swedish Research Council website and identify one guideline relevant to your research area: https://www.vr.se Part 6: Assignments / Knowledge Checks Estimated time: 30–40 minutes 1. Actor Map Create a table or simple diagram showing: Key institutions (from Part 2) Their roles Who they interact with (researchers, universities, funders) 2. Scenario Questions You created slides for a university lecture. A colleague wants to post them online. Which legal principle may apply? Your research group receives a public request for internal communications. How should you respond? 3. Document Scavenger Exercise Go to https://www.vr.se or https://snd.gu.se. Find: One document that explains university responsibilities in research One guidance document about handling public requests 4. Reflection (Optional) “How do Swedish legal and institutional frameworks shape your day-to-day work as a researcher or student?”\nSources: https://www.uka.se/swedish-higher-education-authority/about-higher-education/governance-of-higher-education",
+    "crumbs": [
+      "Content",
+      "Assignment 1: The Swedish academic framework"
+    ]
+  },
+  {
+    "objectID": "Assignment2.html",
+    "href": "Assignment2.html",
+    "title": "Assignment 2: OS in Sweden: who does what?",
+    "section": "",
+    "text": "&lt;!– ::: {.callout-tip} ### Learning Objectives\nBy the end of this session, participants will be able to:\n\nLocate key national policy and guidance documents relevant to research in Sweden. :::",
+    "crumbs": [
+      "Content",
+      "Assignment 2: OS in Sweden: who does what?"
     ]
   }
 ]

@@ -1,8 +1,10 @@
 ---
 title: "2. OS in project planning & design"
-date: today
 ---
 
+Coming soon
+
+<!-- 
 ::: {.callout-tip}
 ### Learning Objectives
 
@@ -85,7 +87,7 @@ Coming soon
   
  
 <br>
--->
+
 
 ## Contributors
 
@@ -104,3 +106,4 @@ Please cite material as:
 
 
 
+-->
