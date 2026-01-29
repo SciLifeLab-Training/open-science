@@ -8,7 +8,7 @@ title: "Enrollment & practicalities"
 <div class="lesson-overview" {=html}>
 
 <div class="lesson-header">
-    <strong>Open Science in the Swedish Context</strong><br>
+    <strong>Open Science in the Swedish Context 2026</strong><br>
     <span class="lesson-date">May 4–7, 2026</span>
 </div>
 
