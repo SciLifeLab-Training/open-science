@@ -3,7 +3,7 @@ title: "Assignment 1: The Swedish academic framework"
 ---
 
 ::: {.callout-tip}
-### Assignment specifics
+### About
 **Purpose:**   
 Familiarise participants with the Swedish legal and institutional context in which Open Science operates. 
 
@@ -18,7 +18,7 @@ Upon completion of this assignment, participants will be able to:
 120min
 :::
 
-<!-- 
+
 
 ## The Swedish academic system 
 Before diving into Open Science, it helps to understand **how research in Sweden actually works**. Laws, funding models, and institutional responsibilities shape what you as a researcher can and cannot do, often in ways that are not immediately visible in your everyday work. Knowing the basics of the Swedish research system makes it easier to understand your **rights and responsibilities** as a researcher, and provides **important context** for later discussions about sharing data, publications, and other Open Science practices.
@@ -168,4 +168,3 @@ One guidance document about handling public requests
 Sources:
 https://www.uka.se/swedish-higher-education-authority/about-higher-education/governance-of-higher-education
 
--->

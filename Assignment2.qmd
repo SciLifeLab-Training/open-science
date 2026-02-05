@@ -1,14 +1,19 @@
 ---
 title: "Assignment 2: OS in Sweden: who does what?"
 ---
-<!-- 
 
 ::: {.callout-tip}
-### Learning Objectives
+### About
+**Purpose:**   
+Familiarise participants with the Swedish legal and institutional context in which Open Science operates. 
 
-By the end of this session, participants will be able to:
+**Learning outcomes:**   
+Upon completion of this assignment, participants will be able to:
 
-- Locate key national policy and guidance documents relevant to research in Sweden.
+- Identify the main institutions that govern Swedish research and higher education.
+- Describe the roles and responsibilities of researchers, universities, and funders in the Swedish system.
+- Explain the implications of Lärarundantaget (teacher’s exemption) on academic work. Understand the principle of public access to official documents (Allmän handling) and how it affects research.
+
+**Estimated duration:**   
+120min
 :::
-
--->
