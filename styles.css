@@ -268,3 +268,14 @@ a {
         margin-bottom: 6px; /* optional spacing between label/value pairs */
     }
 }
+
+/* Callout text sizing */
+.callout p,
+.callout li {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.callout p {
+    margin-bottom: 0.6em;
+}

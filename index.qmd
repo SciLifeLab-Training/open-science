@@ -31,7 +31,7 @@ To follow this course, learners should have basic knowledge of:<br>
 
 </div>
 
-## Course leaders
+## Course lead
 
 <!-- Blank line above -->
 
@@ -51,3 +51,33 @@ To follow this course, learners should have basic knowledge of:<br>
 </div> 
 
 
+## Contributors
+
+<!-- Blank line above -->
+
+<div class="leader-cards-container" {=html}>
+  <div class="leader-card">
+    <img src="img/KristenSchroeder.jpeg" alt="Kristen Schroeder" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">Kristen Schroeder</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0000-0002-6271-4530"><img src="img/ORCID_Logomark.png" width="20" height="20"></a>
+        <a href="https://www.linkedin.com/in/kristen-schroeder-7b418470/"><img src="img/Linkedin.png" width="20" height="20"></a>
+        <a href="https://github.com/kristen-schroeder"><img src="img/Github.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Scientific Training Officer, SciLifeLab Training Hub</p>
+    </div>
+  </div>
+
+  <div class="leader-card">
+    <img src="img/JoannaSendecka.jpeg" alt="Joanna Sendecka" class="leader-photo">
+    <div class="leader-info">
+      <h4 class="leader-name">Joanna Sendecka</h4>
+      <div class="leader-icons">
+        <a href="https://orcid.org/0009-0002-6665-2856"><img src="img/ORCID_Logomark.png" width="20" height="20"></a>
+        <a href="https://www.linkedin.com/in/joanna-sendecka-0a19ab8b/"><img src="img/Linkedin.png" width="20" height="20"></a>
+      </div>
+      <p class="leader-role">Data Stewards, SciLifeLab Data Centre</p>
+    </div>
+  </div>
+</div> 
