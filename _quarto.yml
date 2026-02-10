@@ -6,7 +6,7 @@ branches:
     output-dir: "2505"
 
 website:
-  title: "Open Science in the Swedish context"
+  title: "Open Science in the Swedish context 2025"
   favicon: img/favicon-32x32.png
 
   sidebar:
