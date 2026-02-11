@@ -17,3 +17,63 @@ Upon completion of this assignment, participants will be able to:
 **Estimated duration:**   
 120min
 :::
+
+
+
+
+While universities are central to research and doctoral education, they do not operate in isolation. Much of the practical support for research in Sweden is provided through national organisations and shared research infrastructures that serve researchers across institutions.
+These bodies are not universities themselves, but they play an increasingly important role in how research is conducted, supported, and governed.
+
+Examples of key national actors
+- Swedish National Data Service (SND)
+A national research infrastructure that supports research data management, sharing, and long-term preservation. SND works with universities to provide guidance on data management plans, metadata, and data publication.
+- SciLifeLab
+A national research centre and infrastructure for data-driven life science, offering advanced technologies, platforms, and training. Many PhD students interact with SciLifeLab through infrastructure access, courses, or data-intensive research environments.
+- National research infrastructures
+Funded largely through the Swedish Research Council, these include facilities for high-performance computing, sequencing, imaging, and other advanced research methods. Access is often cross-institutional and governed by national rules.
+- University libraries and national library collaboration
+Libraries play a key role in open access publishing, research data support, bibliometrics, and compliance with funder and policy requirements. Many Open Science services are delivered locally but coordinated nationally.
+- SUHF (Association of Swedish Higher Education Institutions)
+A collaboration body for Swedish universities that develops joint positions, guidelines, and recommendations on issues such as Open Science, research data, and academic governance.
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong> Much of the support you encounter during your PhD — especially around data, infrastructure, and Open Science — comes from national bodies working together with your university. Knowing who does what can help you find the right support faster and understand where requirements actually come from.</span>
+:::
+
+
+  
+### **Guidelines**  
+- [The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research](https://arriveguidelines.org/arrive-guidelines). Percie du Sert N, Hurst V, Ahluwalia A, Alam S, Avey MT, Baker M, et al. (2020) *PLOS Biology* 18(7) 
+- [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care). Global Indigenous Data Alliance, 2018
+- [COPE Ethical Guidelines for Peer Reviewers](https://web.sciedu.ca/images/COPE/Ethical_Guidelines_For_Peer_Reviewers_2.pdf). COPE Council, 2017
+- [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/). World Medical Association, 2024   
+- [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf). ALLEA, 2023   
+- [Global responsible engagement: checklist](https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf). the Association of Swedish Higher Education Institutions (SUHF), 2023
+- [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html). 'God forskningssed', VR, 2024 
+- [Guidelines on the responsible use of generative AI in research developed by the European Research Area Forum](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en). European Commission, 2024
+- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf). 'Vägledning för lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed', SUHF, 2023  
+- [Handbook on Whistleblower protection in research](https://zenodo.org/records/8192478). European Network for Research Integrity Offices (ENRIO), 2023 
+- [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml). Convention on Biological Diversity, 2010   
+- [PREPARE: Guidelines for planning animal research and testing)](https://norecopa.no/PREPARE). Smith, AJ, Clutton, RE, Lilley, E, Hansen KEA, Brattelid, T. (2018) *Laboratory Animals* 52(2):135-141 
+- [Recommendations to higher education institutions on how to work with responsible internationalisation](https://www.stint.se/wp-content/uploads/2022/09/STINT_Ansvarsfull-internation_web.pdf). The Swedish Foundation for International Cooperation in Research and Higher Education ('Stiftelsen för internationalisering av högre utbilndning och forskning'), 2022 
+- [SciLifeLabs code of conduct](https://www.scilifelab.se/code-of-conduct/). SciLifeLab Operations Office, 2023    
+- [The TRUST code, a global code of conduct of equitable research partnerships](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf). TRUST, 2018
+- [User Guide - DECLARE NAGOYA IT system](https://www.naturvardsverket.se/4ac4da/contentassets/09859c1d752d445ab59f06c0544fe6e0/question-and-answer-users.pdf).  
+- [The Vancouver recommendations](https://www.icmje.org/icmje-recommendations.pdf). International Committee of Medical Journal Editors (ICMJE), 2025
+
+
+### **Relevant organizations in Sweden **   
+- [Biobank Sverige](https://biobanksverige.se)
+- [Etikprövningsmyndigheten](https://etikprovningsmyndigheten.se)
+- [Gentekniknämnden](https://www.genteknik.se)
+- [Jordbruksverket](https://jordbruksverket.se)
+- [Läkemedelsverket](https://www.lakemedelsverket.se/sv)
+- [Naturvårdsverket](https://www.naturvardsverket.se)
+- [Npof: Nämnden för prövning av oredlighet i forskning](https://npof.se)
+- [Onep: Överklagandenämnden för etikprövning](https://www.onep.se/en/)
+- [Statens medicinsk-etiska råd](https://smer.se)
+- [STINT: Stiftelsen för internationalisering av högre utbilndning och forskning](https://www.stint.se)
+- [Strålsäkerhetsmyndigheten](https://www.stralsakerhetsmyndigheten.se)
+- [SUHF: Sveriges universitets- & högskoleförbund](https://suhf.se)
+- [Vetenskapsrådet](https://www.vr.se)
+
