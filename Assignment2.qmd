@@ -18,7 +18,7 @@ Upon completion of this assignment, participants will be able to:
 120min
 :::
 
-
+<!--
 
 
 While universities are central to research and doctoral education, they do not operate in isolation. Much of the practical support for research in Sweden is provided through national organisations and shared research infrastructures that serve researchers across institutions.
@@ -77,3 +77,4 @@ A collaboration body for Swedish universities that develops joint positions, gui
 - [SUHF: Sveriges universitets- & högskoleförbund](https://suhf.se)
 - [Vetenskapsrådet](https://www.vr.se)
 
+-->
