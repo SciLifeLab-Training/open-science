@@ -30,7 +30,7 @@ Open Access publishing is the widely adopted ideal that all should have equitabl
 There are six different types of OA publishing currently recognized. Below is an overview of the different types. 
 
 ![The six different types of OA publishing](img/image_openaccess_colors.png){ width=50% fig-align="center"}  
-<br>   
+<br>     
 
 ### Step 1
 Listen to the following discussion between researchers, journal editors, and EMBO Open Science professionals on publishing, the move towards more Open Access, and the future of journal articles:
