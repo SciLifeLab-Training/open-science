@@ -9,7 +9,7 @@ title: "Schedule"
 | Time | Session |
 |------|------|
 | N/A | [Assignment 1: Open Science in the Swedish academic framework](Assignment1.qmd) |
-| N/A | [Assignment 2: Open Science in Sweden: who does what?](Assignment2.qmd) |
+| N/A | [Assignment 2: OS in Sweden: what, why, how and who?](Assignment2.qmd) |
 | N/A | [Assignment 3: Types of Open Access publishing](Assignment3.qmd) |
 : {tbl-colwidths="[25,75]"}  
 

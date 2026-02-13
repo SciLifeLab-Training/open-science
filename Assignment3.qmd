@@ -14,6 +14,9 @@ Upon completion of this assignment, participants will be able to:
 
 **Estimated duration:**   
 120min
+
+**To-do:**   
+
 :::
 
 
@@ -22,8 +25,9 @@ Open Access publishing is the widely adopted ideal that all should have equitabl
 
 There are six different types of OA publishing currently recognized. Below is an overview of the different types. 
 
-<center><img src="img/OpenAccess-Colors.png" alt="" width="450">
-</center>  
+![The 4 key pillars Open Science is built on, and the areas within Open Science they refer to. Unesco (2022) Understanding Open Science, https://doi.org/10.54677/UTCD9302, CC BY-SA 3.0 IGO](img/image_openaccess_colors.png){ width=50% fig-align="center"}
+
+
 <br>   
 
 To prepare for the in-person workshop, listen to the following discussion between researchers, journal editors, and EMBO Open Science professionals on publishing, the move to more Open Access, and the future of journal articles:

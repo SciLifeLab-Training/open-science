@@ -1,11 +1,11 @@
 ---
-title: "Assignment 2: OS in Sweden: who does what?"
+title: "Assignment 2: OS in Sweden: what, why, how and who?"
 ---
 
 ::: {.callout-tip}
 ### About
 **Purpose:**   
-Familiarise participants with the Swedish legal and institutional context in which Open Science operates. 
+To develop an understanding of how responsibilities for Open Science are distributed across different actors in the Swedish research system, and to prepare participants for discussion-based sessions during the in-person training. 
 
 **Learning outcomes:**   
 Upon completion of this assignment, participants will be able to:
@@ -16,13 +16,175 @@ Upon completion of this assignment, participants will be able to:
 
 **Estimated duration:**   
 120min
+
+**To-do:**   
+
 :::
 
-<!--
+<!-- 
+## Introduction
+In Assignment 1, you examined how the Swedish academic system is organised, including which decisions are taken at the governmental level and which responsibilities rest with universities. You also discovered some foundational principles that embed elements of openness within the higher education and research system in Sweden.  
+In this assignment, we move from structure to implementation. We take a closer look at Open Science: what it entails, what ambitions and promises are associated with it, how it is operationalised within the Swedish research system, and how responsibilities are distributed among different actors. Most importantly, you will reflect on what these expectations mean in practice for you as a PhD student.
+ 
+To complete this assignment, read the chapters below and prepare the group-work task. The results will be presented and discussed during the in-person workshop at the DDLS Research School Retreat on March 19th.
+
+## Open Science: what is it?  
+Open Science is a broad transformation of how research is **conducted, documented, shared, and evaluated**.  Over the past decade, it has moved from being a grassroots movement advocating for openness to becoming a formal policy framework adopted by governments, funders, and universities worldwide. 
+
+In 2021, UNESCO adopted the first internationally agreed definition of Open Science in its [Recommendation on Open Science](https://www.unesco.org/en/open-science/about?hub=686) (2021). It defines Open Science as: 
+
+::: {.callout}
+<span style="color:00000;"><strong>An  inclusive  construct  that  combines  various movements and practices, aiming to:</strong> 
+
+- Make multilingual scientific knowledge openly available, accessible and reusable for everyone
+- Increase scientific collaborations and sharing of information for the benefits  of science and society
+- Open the processes of scientific knowledge creation, evaluation and communication to actors beyond the traditional scientific community
+  
+All scientific disciplines and all aspects of scholarly practice are included.
+</span>
+
+:::
 
 
-While universities are central to research and doctoral education, they do not operate in isolation. Much of the practical support for research in Sweden is provided through national organisations and shared research infrastructures that serve researchers across institutions.
-These bodies are not universities themselves, but they play an increasingly important role in how research is conducted, supported, and governed.
+UNESCO structures Open Science around four interconnected pillars:
+
+
+![The 4 key pillars Open Science is built on, and the areas within Open Science they refer to. Unesco (2022) Understanding Open Science, https://doi.org/10.54677/UTCD9302, CC BY-SA 3.0 IGO](img/image_openscience_UNESCO.png){ width=50% fig-align="left"}
+
+
+::: {.callout}
+<span style="color:00000;"><strong>1. Open scientific knowledge:</strong> 
+This refers to free access to research publications, research data, educational resources, software, source code, and even hardware. The emphasis is not only on access, but on reuse through open licenses and formats that allow others to build upon your work.
+
+<span style="color: #A7C947;">**PhD takeaway:** You are expected to make your research outputs as open as possible: publish open access when feasible, manage and document your data so others can understand and reuse it, share code and workflows where appropriate, and apply FAIR principles from the start of your project.</span>
+
+</span>
+
+:::
+
+::: {.callout}
+<span style="color:00000;"><strong>2. Open science infrastructures:</strong> 
+Openness requires infrastructure. Repositories, data services, persistent identifiers, high-performance computing environments, and metadata standards are all part of the ecosystem that makes Open Science possible.
+
+<span style="color: #A7C947;">**PhD takeaway:** You are not expected to build infrastructure, but you are expected to use it. This includes depositing publications in repositories, writing data management plans, using persistent identifiers (e.g. ORCID), and following institutional and funder guidelines for storage and sharing.</span>
+
+</span>
+
+:::
+
+::: {.callout}
+<span style="color:00000;"><strong>3. Open engagement of societal actors:</strong> 
+This pillar promotes transparency in the research process and encourages engagement beyond academia — for example through citizen science, public dialogue, or collaboration with policy-makers and industry.
+
+<span style="color: #A7C947;">**PhD takeaway:** Depending on your field, you may be expected to communicate your research beyond academia, through public talks, policy briefs, collaboration with external partners, or accessible summaries. Open Science encourages you to consider who might benefit from your research and how they can access or engage with it.</span>
+
+</span>
+
+:::
+
+::: {.callout}
+<span style="color:00000;"><strong>4. Open dialogue with other knowledge systems:</strong> 
+This pillar promotes respectful dialogue between academic research and other forms of knowledge — including Indigenous knowledge systems, practitioner expertise, and community-based knowledge.
+
+<span style="color: #A7C947;">**PhD takeaway:** Open Science asks you to reflect on whose knowledge counts. In practice, this may involve ethical collaboration with communities, recognition of non-academic expertise, or sensitivity to cultural and societal contexts when conducting and communicating research.</span>
+
+</span>
+
+:::
+
+At its core, Open Science is about shifting research from being **closed by default** to being **open by design**. Instead of publishing results behind paywalls, storing data on personal hard drives, or treating methods as implicit know-how, Open Science encourages you as a researcher to make your outputs and processes transparent, accessible, and reusable. Importantly, openness can only be applied where possible and appropriate. A key phrase in the Open Science movements is:   
+
+### ***'As open as possible, as closed as neccesary'***
+  
+
+## Open Science: why?  
+In the Swedish context, Open Science is closely linked to broader national ambitions: strengthening research quality, improving efficiency in the use of public funding, increasing societal relevance, and maintaining international competitiveness. These ambitions mirror developments across the EU and OECD, where openness is framed as both a quality-enhancing and democratising reform of research systems.
+The overarching promise of Open Science is that greater transparency and accessibility improve how knowledge is produced and used. In policy discourse, increased openness is expected to contribute to:
+Higher research quality and reproducibility
+Faster dissemination and uptake of results
+Increased societal impact and innovation
+More equitable access to publicly funded research
+The logic is straightforward: when publications, data, and methods are openly available, research can be scrutinised, validated, replicated, and reused. Barriers to access are lowered, duplication of effort may be reduced, and collaboration across disciplines and sectors becomes easier.
+However, the empirical evidence is uneven across different components of Open Science. For example:
+Open access publishing is relatively well studied, with substantial evidence showing increased visibility and citation advantage in many fields (though the magnitude varies).
+Data sharing has documented benefits for reuse and citation, but uptake remains inconsistent and discipline-dependent.
+Open methods and reproducibility practices are widely promoted as improving robustness, yet implementation challenges and incentive misalignments persist.
+Societal engagement and impact pathways are conceptually compelling, but causal links between openness and measurable societal outcomes are harder to demonstrate systematically.
+In other words, Open Science carries strong normative and policy expectations, and there is growing empirical support for several of its components — but its full systemic impact is still evolving and remains the subject of ongoing research and debate.
+This tension between promise and practice is important to keep in mind as we move to the Swedish implementation context.
+
+
+## Open Science: how and who?
+Open Science introduces new responsibilities at multiple levels of the research system. It is therefore not solely an individual commitment but a shared systemic effort.
+
+Open Science in Sweden involves coordinated action across several actors, each with distinct mandates and responsibilities.
+
+
+![The 4 key pillars Open Science is built on, and the areas within Open Science they refer to. Unesco (2022) Understanding Open Science, https://doi.org/10.54677/UTCD9302, CC BY-SA 3.0 IGO](img/image_swedishOSlandscape.png){ width=70% fig-align="left"}
+
+
+1. National Government
+Sets overarching research and Open Science policy objectives through research bills and national strategies.
+2. National Agencies
+Several agencies have specific mandates connected to Open Science, including:
+The National Library of Sweden (KB) – coordinates and develops national guidelines for Open Science.
+Swedish Research Council (VR) and other research funders – implement Open Science requirements through funding conditions.
+SND (Swedish National Data Service) – supports data management and sharing.
+Other national research infrastructures and coordinating bodies.
+3. Research Funders
+Funders operationalize Open Science through grant requirements, such as:
+Open access publishing mandates
+Data management plan requirements
+Data sharing expectations
+Monitoring and compliance mechanisms
+4. Universities
+Universities are responsible for:
+Providing infrastructure and support (repositories, data stewards, libraries)
+Developing institutional policies
+Supporting researchers in compliance
+Ensuring research quality and integrity
+5. Individual Researchers
+Researchers — including PhD students — are responsible for implementing Open Science in their daily practice:
+Publishing open access when required
+Managing and sharing data responsibly
+Applying transparent methods
+Engaging ethically with societal stakeholders
+Open Science is therefore distributed across levels. It cannot be implemented by researchers alone, nor solely by institutions.
+
+## Assignment
+
+You will be divided into groups of 5–6 participants before the course. Each group will be assigned one of the six Open Science areas listed above.
+Preparation
+Each group should:
+Read the relevant section in the National Library of Sweden’s national guidelines.
+Pay particular attention to the section titled “Actors and their areas of responsibility.”
+Task
+Prepare a two-slide summary addressing the following:
+What does Open Science mean in practice within your assigned area?
+Move beyond definitions. Describe what concrete actions or changes are implied.
+What is expected of:
+The individual researcher?
+The university?
+Funders or research infrastructures?
+From a PhD student perspective:
+Which expectation in this area seems most realistic?
+Which seems least realistic?
+Why?
+Be specific. Consider structural constraints (time, funding, supervision, disciplinary norms) as well as enabling factors (institutional support, infrastructure, funder mandates).
+
+
+Areas of Open Science in Sweden
+The National Library of Sweden’s national guidelines structure Open Science into six areas:
+Open access to scholarly publications
+Open access to research data
+Open research methods
+Open educational resources
+Public engagement in science
+Infrastructures supporting Open Science
+Each area contains expectations directed at different actors and clarifies how responsibilities are distributed.
+Importantly, expectations differ depending on role and seniority. Some requirements fall directly on individual researchers, while others depend on institutional or national infrastructure.
+
+
 
 Examples of key national actors
 - Swedish National Data Service (SND)
@@ -42,7 +204,7 @@ A collaboration body for Swedish universities that develops joint positions, gui
 
 
   
-### **Guidelines**  
+## References and further reading
 - [The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research](https://arriveguidelines.org/arrive-guidelines). Percie du Sert N, Hurst V, Ahluwalia A, Alam S, Avey MT, Baker M, et al. (2020) *PLOS Biology* 18(7) 
 - [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care). Global Indigenous Data Alliance, 2018
 - [COPE Ethical Guidelines for Peer Reviewers](https://web.sciedu.ca/images/COPE/Ethical_Guidelines_For_Peer_Reviewers_2.pdf). COPE Council, 2017
@@ -60,21 +222,5 @@ A collaboration body for Swedish universities that develops joint positions, gui
 - [The TRUST code, a global code of conduct of equitable research partnerships](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf). TRUST, 2018
 - [User Guide - DECLARE NAGOYA IT system](https://www.naturvardsverket.se/4ac4da/contentassets/09859c1d752d445ab59f06c0544fe6e0/question-and-answer-users.pdf).  
 - [The Vancouver recommendations](https://www.icmje.org/icmje-recommendations.pdf). International Committee of Medical Journal Editors (ICMJE), 2025
-
-
-### **Relevant organizations in Sweden **   
-- [Biobank Sverige](https://biobanksverige.se)
-- [Etikprövningsmyndigheten](https://etikprovningsmyndigheten.se)
-- [Gentekniknämnden](https://www.genteknik.se)
-- [Jordbruksverket](https://jordbruksverket.se)
-- [Läkemedelsverket](https://www.lakemedelsverket.se/sv)
-- [Naturvårdsverket](https://www.naturvardsverket.se)
-- [Npof: Nämnden för prövning av oredlighet i forskning](https://npof.se)
-- [Onep: Överklagandenämnden för etikprövning](https://www.onep.se/en/)
-- [Statens medicinsk-etiska råd](https://smer.se)
-- [STINT: Stiftelsen för internationalisering av högre utbilndning och forskning](https://www.stint.se)
-- [Strålsäkerhetsmyndigheten](https://www.stralsakerhetsmyndigheten.se)
-- [SUHF: Sveriges universitets- & högskoleförbund](https://suhf.se)
-- [Vetenskapsrådet](https://www.vr.se)
 
 -->
