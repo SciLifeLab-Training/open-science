@@ -1,292 +1,5 @@
 [
   {
-    "objectID": "index.html#course-syllabus",
-    "href": "index.html#course-syllabus",
-    "title": "Open Science in the Swedish Context",
-    "section": "Course syllabus",
-    "text": "Course syllabus\n\n\n Description The 1hp course ‘Open Science in the Swedish Context’ is designed to teach DDLS research school scientists how to apply Swedish Open Science standards in their daily research. The course covers key stages of the research lifecycle, from planning a research project, to sharing results, to science communication and researcher evaluation. Through interactive lectures, guest speakers, and practical assignments, participants will explore pre-registration, Open Access publishing, up-and-coming researcher evaluation criteria, and citizen science. Completing this training will prepare DDLS students to lead the global shift toward open and collaborative research.\n\n\n Prerequisites To follow this course, learners should have basic knowledge of: 1. Principles of scientific research and methodology 2. How research outputs are typically disseminated, (e.g., journals, conferences etc.) 3. The structure of the Swedish research system, including universities and funding bodies\n\n\n Learning Outcomes 1. Get acquainted with Open Science principles and how they will be implemented into Swedish academia within the coming years 2. Develop a foundational understanding of how to apply Open Science principles at key stages of a research project\n\n Target Audience: Researchers in the SciLifeLab DDLS program\n\n\n Level: Beginner\n\n\n License: CC BY 4.0\n\n\n\nCourse lead\n\n\n  \n    \n    \n      Ineke Luijten\n      \n        \n        \n        \n      \n      Scientific Training Officer, SciLifeLab Training Hub\n    \n  \n\n\n\nContributors\n\n\n  \n    \n    \n      Kristen Schroeder\n      \n        \n        \n        \n      \n      Scientific Training Officer, SciLifeLab Training Hub\n    \n  \n\n  \n    \n    \n      Joanna Sendecka\n      \n        \n        \n      \n      Data Stewards, SciLifeLab Data Centre",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "index.html#course-leaders",
-    "href": "index.html#course-leaders",
-    "title": "Open Science in the Swedish Context",
-    "section": "Course leaders",
-    "text": "Course leaders\n\n\n  \n    \n    \n      Ineke Luijten\n      \n        \n        \n        \n      \n      Scientific Training Officer, SciLifeLab Training Hub",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "Schedule.html#may-4",
-    "href": "Schedule.html#may-4",
-    "title": "Schedule",
-    "section": "May 4",
-    "text": "May 4\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n13:00 - 14:00\n1.1 What is Open Science?\n\n\n14:00 - 14:30\n1.2 The state of Open Science in Sweden\n\n\n14:30 - 15:00\nBreak\n\n\n15:00 - 16:30\n1.3 The ideology of Open Science (group work)",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "Schedule.html#may-5",
-    "href": "Schedule.html#may-5",
-    "title": "Schedule",
-    "section": "May 5",
-    "text": "May 5\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:00 - 10:00\n2.1 Plan & Design: Data Management Plans\n\n\n10:00 - 10:30\n2.2 Plan & Design: Reusing research data\n\n\n10:30 - 11:00\nBreak\n\n\n11:00 - 12:00\n2.3 Plan & Design: Intellectual property - OR - 2.4 Plan & Design: CARE principles\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 14:30\n3.1 Collect & Analyze: Citizen Science and stakeholder engagement\n\n\n14:30 - 15:00\nBreak\n\n\n15:00 - 16:30\n3.2 Collect & Analyze: Research with sensitive qualitative data - OR - 3.3 Collect & Analyze: Research with sensitive quantitative data",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "Schedule.html#may-6",
-    "href": "Schedule.html#may-6",
-    "title": "Schedule",
-    "section": "May 6",
-    "text": "May 6\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:00 - 10:30\n4.1 Publish & Spread: Publishing your results\n\n\n10:30 - 11:00\nBreak\n\n\n11:00 - 12:00\n4.2 Publish & Spread: Open Acces - code and models - OR - 4.3 Publish & Spread: Open Acces scholarly books \n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 13:30\n5.1 Access & Reuse: Introduction to repositories, metadata, DOI & licensing\n\n\n13:30 - 14:30\n5.2 Access & Reuse: Repositories and metadata in practice (group work)\n\n\n14:30 - 15:00\nBreak\n\n\n15:00 - 16:30\n5.3 Access & Reuse: Sharing sensitive data",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "Schedule.html#may-7",
-    "href": "Schedule.html#may-7",
-    "title": "Schedule",
-    "section": "May 7",
-    "text": "May 7\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:00 - 10:30\n6.1 Communicate & Involve: Open Educational Resources\n\n\n10:30 - 11:00\nBreak\n\n\n11:00 - 12:00\n6.2 Communicate & Involve: How to use and create open educational resources (group work)\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 13:45\n6.3 Communicate & Involve: Science Communication\n\n\n13:45 - 14:30\n6.4 Communicate & Involve: Science Communication (group work)\n\n\n14:30 - 15:00\nBreak\n\n\n15:00 - 16:30\n6.5 Communicate & Involve: Grand finale",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "Session2.html",
-    "href": "Session2.html",
-    "title": "2. OS in project planning & design",
-    "section": "",
-    "text": "Coming soon",
-    "crumbs": [
-      "Content",
-      "2. OS in project planning & design"
-    ]
-  },
-  {
-    "objectID": "Session2.html#schedule",
-    "href": "Session2.html#schedule",
-    "title": "2. OS in project planning & design",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\nTime\n\n\nTopic\n\n\nInstructor\n\n\n\n\n\n\n09:00\n\n\nWhat is the research project lifecycle?\n\n\nIneke Luijten\n\n\n\n\n09:15\n\n\nPreregistration and registered reports\n\n\nTill Brückner\n\n\n\n\n10:15\n\n\nCoffee break\n\n\n\n\n\n\n10:45\n\n\nData management plans\n\n\nElin Kronander\n\n\n\n\n12:00\n\n\nLunch",
-    "crumbs": [
-      "Content",
-      "2. OS in project planning & design"
-    ]
-  },
-  {
-    "objectID": "Session2.html#materials",
-    "href": "Session2.html#materials",
-    "title": "2. OS in project planning & design",
-    "section": "Materials",
-    "text": "Materials\nComing soon",
-    "crumbs": [
-      "Content",
-      "2. OS in project planning & design"
-    ]
-  },
-  {
-    "objectID": "Session2.html#contributors",
-    "href": "Session2.html#contributors",
-    "title": "2. OS in project planning & design",
-    "section": "Contributors",
-    "text": "Contributors\n\nIneke Luijten \nTill Brückner \nElin Kronander",
-    "crumbs": [
-      "Content",
-      "2. OS in project planning & design"
-    ]
-  },
-  {
-    "objectID": "Session2.html#reuse",
-    "href": "Session2.html#reuse",
-    "title": "2. OS in project planning & design",
-    "section": "Reuse",
-    "text": "Reuse\nAll materials from this session are available for re-use under \nPlease cite material as:\n\nIneke Luijten, Till Brückner, Elin Kronander (2024) Open Science in the Swedish context - Session 2: Open Science in the project lifecycle - plan & design. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session2.html",
-    "crumbs": [
-      "Content",
-      "2. OS in project planning & design"
-    ]
-  },
-  {
-    "objectID": "Session4.html",
-    "href": "Session4.html",
-    "title": "4. OS in researcher evaluation",
-    "section": "",
-    "text": "Coming soon",
-    "crumbs": [
-      "Content",
-      "4. OS in researcher evaluation"
-    ]
-  },
-  {
-    "objectID": "Session4.html#schedule",
-    "href": "Session4.html#schedule",
-    "title": "4. OS in researcher evaluation",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\nTime\n\n\nTopic\n\n\nInstructor\n\n\n\n\n\n\n09:00\n\n\nOpen Science in sharing knowledge\n\n\nIneke Luijten\n\n\n\n\n09:15\n\n\nOpen Access publishing models\n\n\nIneke Luijten\n\n\n\n\n09:45\n\n\nPublishing sensitive data\n\n\nDavid Rayner\n\n\n\n\n10:30\n\n\nCoffee break\n\n\n\n\n\n\n11:00\n\n\nThe future of publishing: SciFree\n\n\nAbeni Wickham\n\n\n\n\n12:00\n\n\nLunch",
-    "crumbs": [
-      "Content",
-      "4. OS in researcher evaluation"
-    ]
-  },
-  {
-    "objectID": "Session4.html#materials",
-    "href": "Session4.html#materials",
-    "title": "4. OS in researcher evaluation",
-    "section": "Materials",
-    "text": "Materials\nComing soon",
-    "crumbs": [
-      "Content",
-      "4. OS in researcher evaluation"
-    ]
-  },
-  {
-    "objectID": "Session4.html#contributors",
-    "href": "Session4.html#contributors",
-    "title": "4. OS in researcher evaluation",
-    "section": "Contributors",
-    "text": "Contributors\n\nIneke Luijten \nDavid Rayner \nAbeni Wickham",
-    "crumbs": [
-      "Content",
-      "4. OS in researcher evaluation"
-    ]
-  },
-  {
-    "objectID": "Session4.html#reuse",
-    "href": "Session4.html#reuse",
-    "title": "4. OS in researcher evaluation",
-    "section": "Reuse",
-    "text": "Reuse\nAll materials from this session are available for re-use under \nPlease cite material as:\n\nIneke Luijten, David Rayner, Abeni Wickham (2024) Open Science in the Swedish context - Session 4: Open Science in the project lifecycle - share and disseminate. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session4.html",
-    "crumbs": [
-      "Content",
-      "4. OS in researcher evaluation"
-    ]
-  },
-  {
-    "objectID": "Instructors.html",
-    "href": "Instructors.html",
-    "title": "Instructors",
-    "section": "",
-    "text": "Ineke Luijten   \n\nScientific Training Officer, SciLifeLab Training Hub\n\n\n\n\n\n\nIneke develops and delivers cross-disciplinary training modules on Open Science and FAIR principles. She is a member of the Open Science community and a strong advocate for Open Science and FAIR.\n\n\n\n\n\n\n\nElin Kronander   \n\nHead of Training and Data Steward, NBIS\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Rayner \n\nTraining Coordinator, SND \n\n\n\n\n\n\nDavid coordinates education ventures for the Swedish National Data service. He liaises with researchers and domain specialists to identify new functionality and training needs.\n\n\n\n\n\n\n\nJessica Lindvall, PhD  \n\nHead of Training, SciLifeLab Training Hub\n\n\n\n\n\n\nJessica heads the Training Hub at SciLifeLab, a national Research Infrastructure within the life science domain. She is a strong Open Science and FAIR advocate involved in various national and international Open Science and FAIR capacity building and upskilling work.\n\n\n\n\n\n\n\nSabina Anderberg  \n\nSenior Advisor, SUHF & Stockholm University\n\n\n\n\n\n\n\n\n\n\n\n\n\nTill Brückner   \n\nPostdoctoral fellow - clinical trial reporting, Karolinska Institute\n\n\n\n\n\n\n\n\n\n\n\n\n\nJonas Åkerman \n\nCoordinator for research ethics, Stockholm University\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbeni Wickham  \n\nFounder/CEO, SciFree\n\n\n\n\n\n\n\n\n\n\n\n\n\nSanna Isabel Ulfsparre  \n\nAnalyst, Vetenskapsrådet\n\n\n\n\n\n\n\n\n\n\n\n\n\nErik Stattin  \n\nUnit manager Research Collaboration, Kungliga Biblioteket\n\n\n\n\n\n\n\n\n\n\n\n\n\nAngeliki Adamaki  \n\nProject manager, Lund University\n\n\n\n\n\n\n\n\n\n\n\n\n\nSabina Leonelli  \n\nProfessor of Philosophy and History of Science, Technical University of Munich"
-  },
-  {
-    "objectID": "Session3.html",
-    "href": "Session3.html",
-    "title": "3. OS in project sharing & publishing",
-    "section": "",
-    "text": "Coming soon",
-    "crumbs": [
-      "Content",
-      "3. OS in project sharing & publishing"
-    ]
-  },
-  {
-    "objectID": "Session3.html#schedule",
-    "href": "Session3.html#schedule",
-    "title": "3. OS in project sharing & publishing",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\nTime\n\n\nTopic\n\n\nInstructor\n\n\n\n\n\n\n13:00\n\n\nOpen Science in data collection & analysis\n\n\nIneke Luijten\n\n\n\n\n13:15\n\n\nGood research practice\n\n\nJonas Åkerman\n\n\n\n\n14:15\n\n\nCoffee break\n\n\n\n\n\n\n14:45\n\n\nData reuse\n\n\nDavid Rayner\n\n\n\n\n16:30\n\n\nEnd of day",
-    "crumbs": [
-      "Content",
-      "3. OS in project sharing & publishing"
-    ]
-  },
-  {
-    "objectID": "Session3.html#materials",
-    "href": "Session3.html#materials",
-    "title": "3. OS in project sharing & publishing",
-    "section": "Materials",
-    "text": "Materials\nComing soon",
-    "crumbs": [
-      "Content",
-      "3. OS in project sharing & publishing"
-    ]
-  },
-  {
-    "objectID": "Session3.html#contributors",
-    "href": "Session3.html#contributors",
-    "title": "3. OS in project sharing & publishing",
-    "section": "Contributors",
-    "text": "Contributors\n\nIneke Luijten \nJonas Åkerman\nDavid Rayner",
-    "crumbs": [
-      "Content",
-      "3. OS in project sharing & publishing"
-    ]
-  },
-  {
-    "objectID": "Session3.html#reuse",
-    "href": "Session3.html#reuse",
-    "title": "3. OS in project sharing & publishing",
-    "section": "Reuse",
-    "text": "Reuse\nAll materials from this session are available for re-use under \nPlease cite material as:\n\nIneke Luijten, Jonas Åkerman, David Rayner (2024) Open Science in the Swedish context - Session 3: Open Science in the project lifecycle - collect & analyze. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session3.html",
-    "crumbs": [
-      "Content",
-      "3. OS in project sharing & publishing"
-    ]
-  },
-  {
-    "objectID": "Session1.html",
-    "href": "Session1.html",
-    "title": "1. OS in Sweden",
-    "section": "",
-    "text": "Coming soon",
-    "crumbs": [
-      "Content",
-      "1. OS in Sweden"
-    ]
-  },
-  {
-    "objectID": "Session1.html#schedule",
-    "href": "Session1.html#schedule",
-    "title": "1. OS in Sweden",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\nTime\n\n\nTopic\n\n\nInstructor\n\n\n\n\n\n\n13:00\n\n\nWelcome & Introduction to Open Science\n\n\nIneke Luijten\n\n\n\n\n13:15\n\n\nThe benefits of Open Science\n\n\nIneke Luijten\n\n\n\n\n14:30\n\n\nCoffee break\n\n\n\n\n\n\n15:00\n\n\nThe state of Open Science in Sweden\n\n\nSabina Anderberg\n\n\n\n\n16:30\n\n\nEnd of day",
-    "crumbs": [
-      "Content",
-      "1. Open Science in Sweden"
-    ]
-  },
-  {
-    "objectID": "Session1.html#materials",
-    "href": "Session1.html#materials",
-    "title": "1. OS in Sweden",
-    "section": "Materials",
-    "text": "Materials\nComing soon",
-    "crumbs": [
-      "Content",
-      "1. Open Science in Sweden"
-    ]
-  },
-  {
-    "objectID": "Session1.html#contributors",
-    "href": "Session1.html#contributors",
-    "title": "1. OS in Sweden",
-    "section": "Contributors",
-    "text": "Contributors\n\nIneke Luijten \nSabina Anderberg",
-    "crumbs": [
-      "Content",
-      "1. Open Science in Sweden"
-    ]
-  },
-  {
-    "objectID": "Session1.html#reuse",
-    "href": "Session1.html#reuse",
-    "title": "1. OS in Sweden",
-    "section": "Reuse",
-    "text": "Reuse\nAll materials from this session are available for re-use under \nPlease cite material as:\n\nIneke Luijten, Sabina Anderberg (2024) Open Science in the Swedish context - session 1: Open Science in Sweden. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html",
-    "crumbs": [
-      "Content",
-      "1. Open Science in Sweden"
-    ]
-  },
-  {
     "objectID": "Schedule.html#feb-16---march-18-self-study",
     "href": "Schedule.html#feb-16---march-18-self-study",
     "title": "Schedule",
@@ -297,11 +10,11 @@
     ]
   },
   {
-    "objectID": "Schedule.html#march-19",
-    "href": "Schedule.html#march-19",
+    "objectID": "Schedule.html#march-19-in-person",
+    "href": "Schedule.html#march-19-in-person",
     "title": "Schedule",
-    "section": "March 19",
-    "text": "March 19\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:30 - 11:00\n1. Open Science in Sweden\n\n\n11:00 - 11:15\nCoffee break\n\n\n11:15 - 12:30\n2. OS in project planning & design\n\n\n12:30 - 13:30\nLunch\n\n\n13:30 - 15:00\n3. OS in project sharing & publishing\n\n\n15:00 - 15:15\nCoffee break\n\n\n15:15 - 17:00\n4. OS in researcher evaluation\n\n\n17:00 - 17:15\nWrap-up and handout post-course assignment",
+    "section": "March 19, in-person",
+    "text": "March 19, in-person\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:30 - 11:00\n1. Open Science in Sweden\n\n\n11:00 - 11:15\nCoffee break\n\n\n11:15 - 12:30\n2. OS in project planning & design\n\n\n12:30 - 13:30\nLunch\n\n\n13:30 - 15:00\n3. OS in project sharing & publishing\n\n\n15:00 - 15:15\nCoffee break\n\n\n15:15 - 17:00\n4. OS in researcher evaluation\n\n\n17:00 - 17:15\nWrap-up and handout post-course assignment",
     "crumbs": [
       "Schedule"
     ]
@@ -317,13 +30,55 @@
     ]
   },
   {
-    "objectID": "Schedule.html#march-19-in-person",
-    "href": "Schedule.html#march-19-in-person",
-    "title": "Schedule",
-    "section": "March 19, in-person",
-    "text": "March 19, in-person\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:30 - 11:00\n1. Open Science in Sweden\n\n\n11:00 - 11:15\nCoffee break\n\n\n11:15 - 12:30\n2. OS in project planning & design\n\n\n12:30 - 13:30\nLunch\n\n\n13:30 - 15:00\n3. OS in project sharing & publishing\n\n\n15:00 - 15:15\nCoffee break\n\n\n15:15 - 17:00\n4. OS in researcher evaluation\n\n\n17:00 - 17:15\nWrap-up and handout post-course assignment",
+    "objectID": "index.html#course-syllabus",
+    "href": "index.html#course-syllabus",
+    "title": "Open Science in the Swedish Context",
+    "section": "Course syllabus",
+    "text": "Course syllabus\n\n\n\n Description The 1hp course ‘Open Science in the Swedish Context’ is designed to teach DDLS research school scientists how to apply Swedish Open Science standards in their daily research. The course covers key stages of the research lifecycle, from planning a research project, to sharing results, to science communication and researcher evaluation. Through interactive lectures, guest speakers, and practical assignments, participants will explore pre-registration, Open Access publishing, up-and-coming researcher evaluation criteria, and citizen science. Completing this training will prepare DDLS students to lead the global shift toward open and collaborative research.\n\n\n Prerequisites To follow this course, learners should have basic knowledge of: 1. Principles of scientific research and methodology 2. How research outputs are typically disseminated, (e.g., journals, conferences etc.) 3. The structure of the Swedish research system, including universities and funding bodies\n\n\n Learning Outcomes 1. Get acquainted with Open Science principles and how they will be implemented into Swedish academia within the coming years 2. Develop a foundational understanding of how to apply Open Science principles at key stages of a research project\n\n Target Audience: Researchers in the SciLifeLab DDLS program\n\n\n Level: Beginner\n\n\n License: CC BY 4.0",
     "crumbs": [
-      "Schedule"
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#course-lead",
+    "href": "index.html#course-lead",
+    "title": "Open Science in the Swedish Context",
+    "section": "Course lead",
+    "text": "Course lead\n\n\n  \n    \n    \n      Ineke Luijten\n      \n        \n        \n        \n      \n      Scientific Training Officer, SciLifeLab Training Hub",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html#contributors",
+    "href": "index.html#contributors",
+    "title": "Open Science in the Swedish Context",
+    "section": "Contributors",
+    "text": "Contributors\n\n\n  \n    \n    \n      Kristen Schroeder\n      \n        \n        \n        \n      \n      Scientific Training Officer, SciLifeLab Training Hub\n    \n  \n\n  \n    \n    \n      Joanna Sendecka\n      \n        \n        \n      \n      Data Stewards, SciLifeLab Data Centre",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "Session3.html",
+    "href": "Session3.html",
+    "title": "3. OS in project sharing & publishing",
+    "section": "",
+    "text": "Coming soon",
+    "crumbs": [
+      "Content",
+      "3. OS in project sharing & publishing"
+    ]
+  },
+  {
+    "objectID": "Assignment3.html",
+    "href": "Assignment3.html",
+    "title": "Assignment 3: Types of Open Access publishing",
+    "section": "",
+    "text": "About\n\n\n\nPurpose:\nFamiliarise participants with the different types of Open Access publishing.\nLearning outcomes:\nUpon completion of this assignment, participants will be able to:\n\nAnalyze different types of Open Access publishing\n\nTo do: Please read through the introduction, listen to the podcast and video, and complete the assignment. We will share answers during the in-person workshop, so ensure you bring them along.\nEstimated duration:\nApprox. 80 min content review + 30 minutes working time\n\n\n\n Introduction\n\nOpen Access publishing is the widely adopted ideal that all should have equitable access to the information generated by research.\nThere are six different types of OA publishing currently recognized. Below is an overview of the different types.\n\n\n\n\n\nStep 1\nListen to the following discussion between researchers, journal editors, and EMBO Open Science professionals on publishing, the move towards more Open Access, and the future of journal articles:\n\nThe EMBO Podcast - A stepping stone to an Open Science Future\nRuntime: 50 minutes.\n\n\n\nStep 2\nFor data from a Swedish University on Open Access publishing across disciplines (including SciLifelab!) watch this recorded presentation by Maria Almbro at Stockholm University:\n\nNavigating the Research Data Landscape: Publication Practices at a Swedish University.\nRuntime: 30 minutes.\n\n\n\nGo farther\nIf you would like more in-depth information on Open Access publishing, check out the following article:\n\nPiwowar H, Priem J, Larivière V, Alperin JP, Matthias L, Norlander B, Farley A, West J, Haustein S. 2018. The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles. PeerJ 6:e4375 https://doi.org/10.7717/peerj.4375\n\n\n Assignment\n\nBring your answers to the in-person workshop!\n\n\nPart 1\nChoose two OA publishing types (Gold, Green, Hybrid, Bronze, Diamond, Black) and answer the following ten questions.\n\n\n\n\n\n\nTip\n\n\n\nTo find articles, compare a society journal and an Elsevier or Nature journal in the DDLS field. You can also use the search engine OA.mg!\n\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\n\nList which two publishing types you have chosen\n\n\n\n\n\nLink an article published with the first OA type\n\n\n\n\n\nWhat is the advantage of publishing with this type?\n\n\n\n\n\nLink an article published with the second OA type\n\n\n\n\n\nWhat is the advantage of publishing with this type?\n\n\n\n\n\nHow could you tell what OA type these articles are published with?\n\n\n\n\n\nWho paid for publishing of these two articles?\n\n\n\n\n\nCan you access the data used to build these articles?\n\n\n\n\n\nCould a retired plumber in Borås access these articles?\n\n\n\n\n\nCould a student at your host university access these articles?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPart 2\nWhat access type was the most recent paper you (or someone in your research group) were an author on?",
+    "crumbs": [
+      "Content",
+      "Assignment 3: Types of Open Access publishing"
     ]
   },
   {
@@ -349,97 +104,11 @@
     ]
   },
   {
-    "objectID": "Assignment1.html#important-actors",
-    "href": "Assignment1.html#important-actors",
-    "title": "Assignment 1: The Swedish academic framework",
-    "section": "Important actors",
-    "text": "Important actors\nReflection: Consider which of these institutions you interact with the most and why.\nFreedom of the Press Act / Principle of Public Access – foundation for public access to documents. National guidelines for research integrity – defines good scientific practice. Exercise: Skim the Swedish Research Council website and identify one guideline relevant to your research area: https://www.vr.se Part 6: Assignments / Knowledge Checks Estimated time: 30–40 minutes 1. Actor Map Create a table or simple diagram showing: Key institutions (from Part 2) Their roles Who they interact with (researchers, universities, funders) 2. Scenario Questions You created slides for a university lecture. A colleague wants to post them online. Which legal principle may apply? Your research group receives a public request for internal communications. How should you respond? 3. Document Scavenger Exercise Go to https://www.vr.se or https://snd.gu.se. Find: One document that explains university responsibilities in research One guidance document about handling public requests 4. Reflection (Optional) “How do Swedish legal and institutional frameworks shape your day-to-day work as a researcher or student?”\nSources: https://www.uka.se/swedish-higher-education-authority/about-higher-education/governance-of-higher-education\nFreedom icon by Icons8\nTeach Icon Vectors by Vecteezy\nIcon by Iconpacks",
-    "crumbs": [
-      "Content",
-      "Assignment 1: The Swedish academic framework"
-    ]
-  },
-  {
-    "objectID": "Assignment2.html",
-    "href": "Assignment2.html",
-    "title": "Assignment 2: OS in Sweden: who does what?",
-    "section": "",
-    "text": "About\n\n\n\nPurpose:\nFamiliarise participants with the Swedish legal and institutional context in which Open Science operates.\nLearning outcomes:\nUpon completion of this assignment, participants will be able to:\n\nIdentify the main institutions that govern Swedish research and higher education.\nDescribe the roles and responsibilities of researchers, universities, and funders in the Swedish system.\nExplain the implications of Lärarundantaget (teacher’s exemption) on academic work. Understand the principle of public access to official documents (Allmän handling) and how it affects research.\n\nEstimated duration:\n120min",
-    "crumbs": [
-      "Content",
-      "Assignment 2: OS in Sweden: who does what?"
-    ]
-  },
-  {
-    "objectID": "Assignment3.html",
-    "href": "Assignment3.html",
-    "title": "Assignment 3: Types of Open Access publishing",
-    "section": "",
-    "text": "About\n\n\n\nPurpose:\nFamiliarise participants with different types of Open Access publishing.\nLearning outcomes:\nUpon completion of this assignment, participants will be able to:\n\nAnalyze different types of Open Access publishing\n\nEstimated duration:\n120min",
-    "crumbs": [
-      "Content",
-      "Assignment 3: Types of Open Access publishing"
-    ]
-  },
-  {
-    "objectID": "Assignment3.html#introduction",
-    "href": "Assignment3.html#introduction",
-    "title": "Assignment 3: Types of Open Access publishing",
-    "section": "Introduction",
-    "text": "Introduction\nOpen Access publishing is the widely adopted ideal that all should have equitable access to the information generated by research.\nThere are six different types of OA publishing currently recognized. Below is an overview of the different types.\n\n\n\n\nTo prepare for the in-person workshop, listen to the following discussion between researchers, journal editors, and EMBO Open Science professionals on publishing, the move to more Open Access, and the future of journal articles:\n\nThe EMBO Podcast - A stepping stone to an Open Science Future\nRuntime: 50 minutes.\n\nFor data from a Swedish University on Open Access publishing across disciplines (including SciLifelab!) watch this recorded presentation by Maria Almbro at Stockholm University:\n\nNavigating the Research Data Landscape: Publication Practices at a Swedish University.\nRuntime: 30 minutes.\n\nIf you would like more in-depth information on Open Access publishing, check out the following article:\n\nPiwowar H, Priem J, Larivière V, Alperin JP, Matthias L, Norlander B, Farley A, West J, Haustein S. 2018. The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles. PeerJ 6:e4375 https://doi.org/10.7717/peerj.4375",
-    "crumbs": [
-      "Content",
-      "Assignment 3: Types of Open Access publishing"
-    ]
-  },
-  {
-    "objectID": "Assignment3.html#assignment",
-    "href": "Assignment3.html#assignment",
-    "title": "Assignment 3: Types of Open Access publishing",
-    "section": "Assignment",
-    "text": "Assignment\nBring your answers to the in-person workshop!\n\nPart 1\nChoose two OA publishing types (Gold, Green, Hybrid, Bronze, Diamond, Black) and answer the following ten questions.\n\n\n\n\n\n\nTip\n\n\n\nTo find articles, compare a society journal and an Elsevier or Nature journal in the DDLS field. You can also use the search engine OA.mg!\n\n\n\n\n\n\n\nQuestions\n\n\n\n\n\n\n\nList which two publishing types you have chosen\n\n\n\n\n\nLink an article published with the first OA type\n\n\n\n\n\nWhat is the advantage of publishing with this type?\n\n\n\n\n\nLink an article published with the second OA type\n\n\n\n\n\nWhat is the advantage of publishing with this type?\n\n\n\n\n\nHow could you tell what OA type these articles are published with?\n\n\n\n\n\nWho paid for publishing of these two articles?\n\n\n\n\n\nCan you access the data used to build these articles?\n\n\n\n\n\nCould a retired plumber in Borås access these articles?\n\n\n\n\n\nCould a student at your host university access these articles?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPart 2\nWhat access type was the most recent paper you (or someone in your research group) were an author on?",
-    "crumbs": [
-      "Content",
-      "Assignment 3: Types of Open Access publishing"
-    ]
-  },
-  {
-    "objectID": "index.html#course-lead",
-    "href": "index.html#course-lead",
-    "title": "Open Science in the Swedish Context",
-    "section": "Course lead",
-    "text": "Course lead\n\n\n  \n    \n    \n      Ineke Luijten\n      \n        \n        \n        \n      \n      Scientific Training Officer, SciLifeLab Training Hub",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "index.html#contributors",
-    "href": "index.html#contributors",
-    "title": "Open Science in the Swedish Context",
-    "section": "Contributors",
-    "text": "Contributors\n\n\n  \n    \n    \n      Kristen Schroeder\n      \n        \n        \n        \n      \n      Scientific Training Officer, SciLifeLab Training Hub\n    \n  \n\n  \n    \n    \n      Joanna Sendecka\n      \n        \n        \n      \n      Data Stewards, SciLifeLab Data Centre",
-    "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
     "objectID": "Assignment1.html#openness-built-into-the-swedish-academic-system",
     "href": "Assignment1.html#openness-built-into-the-swedish-academic-system",
     "title": "Assignment 1: The Swedish academic framework",
     "section": "Openness built into the Swedish academic system",
     "text": "Openness built into the Swedish academic system\nBetween national policy and university-level decision-making, there are some core principles in Swedish academia that apply to all Swedish universities. These rules are the same everywhere and are not optional, they are built into law and long-standing academic practice. Even though they are not labelled as “Open Science”, they set clear expectations around transparency, access, and responsibility in research. For you, this means there is a shared baseline for how research in Sweden should be carried out, documented, and shared, regardless of where you are enrolled.\n\n Academic freedom\n\nThe first foundational principle is academic freedom, which is protected in the Higher Education Act. In Sweden, universities are legally required to safeguard academic freedom as a core condition for research and education. In practice, this means that all researchers — including you as a PhD student — have the right to:\n\nchoose and refine their research questions\ndevelop and apply appropriate methods\ncommunicate, publish, and discuss their results\n\nUniversities have to not only respect your academic freedom, but also actively protect and promote it by providing appropriate working conditions, supervision, and safeguards. At the same time, academic freedom is not unlimited. It comes with clear responsibilities. The Higher Education Act emphasises academic integrity and good research practice, meaning that you are expected to conduct your research ethically, transparently, and responsibly. To better understand the ethical principles, regulations, and responsibilities that apply to your research, see Good Research Practice 2024, a report published by the Swedish Research Council.\n\n\n\n\n\n\nPhD takeaway: Academic freedom gives you room to shape your research and how you communicate it, but it also means you are responsible for following good research practice, documenting your work properly, and engaging honestly with the research community.\n\n\n\n\n The principle of public access (‘Allmän handling’)\n\nThe second foundational principle is transparency in research. In Sweden, this is not only a scientific ideal but a legal requirement. Under the Freedom of the Press Ordinance (Tryckfrihetsförordningen, 1949:105), the public (“allmänheten”) has a constitutional right to access allmänna handlingar (official public documents) held by public authorities. Because public universities are classified as public authorities, many documents created or held within universities fall under this principle.\nIn practice, this means:\n\nA wide range of material connected to your PhD work may be considered public, e.g. meeting minutes, project documentation (i.e. lab journal), email correspondence, research protocols, and in some cases databases or research records can be requested by anyone.\nA person requesting access does not need to explain why, and they may remain anonymous.\nIf a university refuses to release a document, the decision must be legally justified and can be challenged in the Court of Appeal (‘Hovrätt’).\n\nTransparency also applies over time. Under the Archives Act (Arkivlagen, 1990:782), public authorities — including universities — are required to preserve and manage your research documentation for legal, scientific, and historical purposes. This means that research records connected to your PhD may not only be accessible during your studies, but may also be stored and retrievable long after your project has ended.\nAs seen above, public access is not unlimited and universities can refuse to release a document. The Public Access and Secrecy Act (Offentlighets- och sekretesslagen, 2009:400) defines what information must be kept confidential, for example to ensure:\n\nConfidentiality: Protecting personal data and sensitive research topics\nLegal compliance: Following ethical guidelines and applicable laws\nRisk mitigation: Balancing transparency with security\n\nEthical approvals, data protection legislation (GDPR), and secrecy rules can therefore restrict what may be disclosed, even if a document does exist.\nFrom an Open Science perspective, the principle of public access sets transparency as the default in publicly funded research in Sweden. Openness is assumed unless there are clear legal or ethical reasons not to share. This is why careful documentation, traceability, and responsible data management are central to Swedish research governance and Open Science, and why these practices matter directly in your everyday PhD work.\n\n\n\n\n\n\nPhD takeaway: Research notes, emails, reports, and datasets connected to your work may be subject to public access requests. This makes careful documentation, data management, and awareness of legal protections especially important.\n\n\n\n\n The teacher’s exemption (‘Lärarundantaget’)\n\nThe third foundational legal principle that is applied in Swedish academia is the lärarundantaget (teacher’s exemption). Unlike in many other countries, this means that teachers and researchers (including PhD students) generally retain the rights to materials they create in the course of their academic work, rather than these rights automatically transferring to the university as the employer. This give you a comparatively strong position when it comes to ownership of your academic work!\nFor PhD students, lärarundantaget primarily affects intellectual property, such as novel methods, software, algorithms, materials, or therapeutics. If your PhD project develops any of these, you typically have significant influence over how your work is used, shared, or further developed, including whether, when, and how it is made openly available. Some data and materials in projects involving intellectual property might be legitimately exempt from open access requirements, including:\n\nData protected under intellectual property laws, such as Patent Law (1967:837), where early openness could conflict with innovation, commercialisation, or patentability.\n\nData that is owned by third parties and protected by Copyright Law (1960:729) that limits redistribution or reuse.\n\nFrom an Open Science perspective, lärarundantaget can be seen as a double-edged sword. On one hand, retaining rights to your own work gives you the freedom to share materials, add licences that support openness and reuse, and contribute to a transparent research culture. On the other hand, not all outputs can or should be shared immediately. If your work involves innovation, methods, or data that could be patented or are subject to commercial or third-party rights, immediate openness may conflict with patentability, licensing agreements, or intellectual property protections.\nThis means that as a PhD student, you carry the responsibility to make informed decisions about what, when, and how to share your work. Understanding these boundaries early helps you balance openness with ethical, legal, and strategic considerations, ensuring that your research is both responsible and maximally reusable whenever possible.\n\n\n\n\n\n\nPhD takeaway: Lärarundantaget gives you the flexibility to support Open Science by retaining the rights to your work, but it also means you must actively consider legal, ethical, and contractual limits when sharing data, code, or results during your PhD.",
-    "crumbs": [
-      "Content",
-      "Assignment 1: The Swedish academic framework"
-    ]
-  },
-  {
-    "objectID": "Assignment1.html#sources-references",
-    "href": "Assignment1.html#sources-references",
-    "title": "Assignment 1: The Swedish academic framework",
-    "section": "Sources & References",
-    "text": "Sources & References\nhttps://www.uka.se/swedish-higher-education-authority/about-higher-education/governance-of-higher-education\nFreedom icon by Icons8\nTeach Icon Vectors by Vecteezy\nIcon by Iconpacks",
     "crumbs": [
       "Content",
       "Assignment 1: The Swedish academic framework"
@@ -465,6 +134,50 @@
     "crumbs": [
       "Content",
       "Assignment 1: The Swedish academic framework"
+    ]
+  },
+  {
+    "objectID": "Assignment2.html",
+    "href": "Assignment2.html",
+    "title": "Assignment 2: OS in Sweden: who does what?",
+    "section": "",
+    "text": "About\n\n\n\nPurpose:\nFamiliarise participants with the Swedish legal and institutional context in which Open Science operates.\nLearning outcomes:\nUpon completion of this assignment, participants will be able to:\n\nIdentify the main institutions that govern Swedish research and higher education.\nDescribe the roles and responsibilities of researchers, universities, and funders in the Swedish system.\nExplain the implications of Lärarundantaget (teacher’s exemption) on academic work. Understand the principle of public access to official documents (Allmän handling) and how it affects research.\n\nEstimated duration:\n120min",
+    "crumbs": [
+      "Content",
+      "Assignment 2: OS in Sweden: who does what?"
+    ]
+  },
+  {
+    "objectID": "Session4.html",
+    "href": "Session4.html",
+    "title": "4. OS in researcher evaluation",
+    "section": "",
+    "text": "Coming soon",
+    "crumbs": [
+      "Content",
+      "4. OS in researcher evaluation"
+    ]
+  },
+  {
+    "objectID": "Session2.html",
+    "href": "Session2.html",
+    "title": "2. OS in project planning & design",
+    "section": "",
+    "text": "Coming soon",
+    "crumbs": [
+      "Content",
+      "2. OS in project planning & design"
+    ]
+  },
+  {
+    "objectID": "Session1.html",
+    "href": "Session1.html",
+    "title": "1. OS in Sweden",
+    "section": "",
+    "text": "Coming soon",
+    "crumbs": [
+      "Content",
+      "1. OS in Sweden"
     ]
   }
 ]
