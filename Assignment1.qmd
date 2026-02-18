@@ -14,16 +14,20 @@ Upon completion of this assignment, participants will be able to:
 - articulate how academic freedom, the principle of public access (*allmän handling*), and the teacher’s exemption (*lärarundantaget*) affect transparency, data sharing, and ownership of research outputs.
 
 **Estimated duration:**   
-60min
+1.5h
 
 **To-do:**   
-Read the module below, answer the reflection questions in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeL9FVqZh-cmhYqeutL1VlcTa5IFY9Mwc78WYweexVBVBmRbw/viewform?usp=dialog) and submit.
+Read the content below, answer the reflection questions in the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeL9FVqZh-cmhYqeutL1VlcTa5IFY9Mwc78WYweexVBVBmRbw/viewform?usp=dialog) and submit.
 :::
 
- 
+## Introduction
+Welcome to *Open Science in the Swedish Context*! In this course, we explore what Open Science is, why it is becoming a policy priority in Sweden, and how it is implemented across the Swedish research system, from government and funders to universities and individual researchers.   
+Throughout the course, the focus is on **you as a PhD student**. Open Science increasingly shapes how research is planned, conducted, and communicated, and you will examine what this means in practice for your own project. We will clarify who is responsible for what, what expectations apply to you, and what support structures are available.  
+The course combines an overview of the Swedish landscape with practical tools and discussion-based exercises, helping you translate Open Science principles into concrete actions in your research.
+
 ## The Swedish academic system 
-Welcome to *Open Science in the Swedish context*! Before diving into Open Science, it’s essential to first understand how research in Sweden actually works. Who sets the overall direction of research in Sweden and decides which areas are prioritized? Which aspects of your research and education are decided at a national level, and which are determined by your university? How is the push for Open Science coordinated, and how does it influence what you are expected to share, document, or publish?  
-Understanding the answers to these questions is key to knowing what you as a researcher in Sweden **can, must, and cannot do**, often in ways that aren’t immediately visible in your day-to-day work. Grasping the basics of the Swedish research system provides important context for later discussions about sharing data, publications, and other Open Science practices.
+Before diving into Open Science, it is essential to first understand how the Swedish research system actually works. This provides the context for how the push for Open Science is coordinated and how it shapes expectations for your research practice. Who sets the overall direction of research in Sweden? Who decides which areas are prioritised? Which aspects of your research and doctoral education are regulated at the national level, and which are determined by your university?   
+Understanding the answers to these questions is key to knowing what you as a researcher in Sweden **can, must, and cannot do** with regard to Open Science, often in ways that aren’t immediately visible in your day-to-day work. A basic grasp of how the system is organised will make it easier to understand later discussions about data sharing, open access publishing, research infrastructures, and other Open Science practices.
 
 
 <h3>
@@ -137,7 +141,7 @@ Because the national framework deliberately leaves room for interpretation, univ
 
 
 ## Openness built into the Swedish academic system
-Between national policy and university-level decision-making, there are some core principles in Swedish academia that apply to all Swedish universities. These rules are the same everywhere and are not optional, they are built into law and long-standing academic practice. Even though they are not labelled as “Open Science”, they set clear expectations around transparency, access, and responsibility in research. For you, this means there is a shared baseline for how research in Sweden should be carried out, documented, and shared, regardless of where you are enrolled.
+Between national policy and university-level decision-making, there are some core principles in Swedish academia that apply to ***all*** Swedish universities. These rules are the same everywhere and are **not optional**, they are built into law and long-standing academic practice. Even though they are not labelled as “Open Science”, they set clear expectations around transparency, access, and responsibility in research. For you, this means there is a shared baseline for how research in Sweden should be carried out, documented, and shared, regardless of where you are enrolled.
 
 <h3>
   <img src="img/icon_academic_freedom.png" alt="law"
@@ -171,7 +175,7 @@ In practice, this means:
 - **A person requesting access does not need to explain why**, and they may remain anonymous. 
 - **If a university refuses to release a document, the decision must be legally justified** and can be challenged in the Court of Appeal (‘Hovrätt’). 
 
-Transparency also applies over time. Under the [Archives Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arkivlag-1990782_sfs-1990-782/) (Arkivlagen, 1990:782), public authorities — including universities — are required to preserve and manage your research documentation for legal, scientific, and historical purposes. This means that research records connected to your PhD may not only be accessible during your studies, but may also be stored and retrievable long after your project has ended.
+Transparency also applies over time. Under the [Archives Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/arkivlag-1990782_sfs-1990-782/) (Arkivlagen, 1990:782), public authorities (including universities) are required to preserve and manage your research documentation for legal, scientific, and historical purposes. This means that research records connected to your PhD may not only be accessible during your studies, but may also be stored and retrievable long after your project has ended.
 
 As seen above, public access is **not unlimited** and universities *can* refuse to release a document. The [Public Access and Secrecy Act](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/offentlighets-och-sekretesslag-2009400_sfs-2009-400/) (Offentlighets- och sekretesslagen, 2009:400) defines what information must be kept confidential, for example to ensure:
 
@@ -209,11 +213,16 @@ This means that as a PhD student, you carry the responsibility to make informed 
 :::
 
 ## Reflection questions
-In this assignment, we’ve explored how the Swedish academic system works and discussed some key principles that embed openness in Swedish research.  
+In this assignment, we’ve explored how the Swedish academic system works and discussed three key principles that embed a baseline level of openness in Swedish research: academic freedom, allmänna handlingar, and lärarundantaget.  
   
-Now it’s time to reflect on what this means for your own project. Consider how these rules and principles shape the way you document, share, and manage your research, and how they interact with your responsibilities as a PhD student. Fill out the questions in the form below to think critically about your practices, anticipate potential challenges, and prepare for discussions during the course.
+Now, it’s time to reflect on what this governance structure and openness means for your own project. Consider how the Swedish rules and principles discussed in this assignment shape the way you document, share, and manage your research, and how they interact with your responsibilities as a PhD student. 
+  
+To complete the assignment, fill out the reflection questions in the form below that guide you to think critically about your practices, anticipate potential challenges, and prepare for discussions during the course.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeL9FVqZh-cmhYqeutL1VlcTa5IFY9Mwc78WYweexVBVBmRbw/viewform?embedded=true" width="640" height="2382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+**Well done on completing the assignment! You can now move on to '[*Assignment 2: OS in Sweden: what, why, how and who?*](Assignment2.qmd)' to learn more about Open Science!** 
+  
 
 ## References and further reading
 (1) Swedish Higher Education Authority. (2023) *Governance of higher education* **Swedish Higher Education Authority** https://www.uka.se/swedish-higher-education-authority/about-higher-education/governance-of-higher-education. Accessed 11-02-2025

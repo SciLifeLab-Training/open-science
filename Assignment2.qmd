@@ -5,33 +5,37 @@ title: "Assignment 2: OS in Sweden: what, why, how and who?"
 ::: {.callout-tip}
 ### About
 **Purpose:**   
-To develop an understanding of how responsibilities for Open Science are distributed across different actors in the Swedish research system, and to prepare participants for discussion-based sessions during the in-person training. 
+To develop an understanding of what Open Science entails and how responsibilities for its implementation are distributed among actors in the Swedish research system. The session also prepares participants to critically discuss and apply these concepts in practice, focusing on feasible actions for PhD students.
 
 **Learning outcomes:**   
 Upon completion of this assignment, participants will be able to:
 
-- Identify the main institutions that govern Swedish research and higher education.
-- Describe the roles and responsibilities of researchers, universities, and funders in the Swedish system.
-- Explain the implications of Lärarundantaget (teacher’s exemption) on academic work. Understand the principle of public access to official documents (Allmän handling) and how it affects research.
+- Explain the main principles and pillars of Open Science and describe how they are operationalised within the Swedish research system. 
+- Analyse the distribution of responsibilities for Open Science implementation in Sweden, and determine where PhD students carry responsibility. 
+- Identify and evaluate concrete Open Science practices relevant to the participant's research context.  
 
 **Estimated duration:**   
-120min
+3h
 
 **To-do:**   
+Read the content below, and complete the group assignment. 
 
 :::
 
-<!-- 
+
 ## Introduction
-In Assignment 1, you examined how the Swedish academic system is organised, including which decisions are taken at the governmental level and which responsibilities rest with universities. You also discovered some foundational principles that embed elements of openness within the higher education and research system in Sweden.  
-In this assignment, we move from structure to implementation. We take a closer look at Open Science: what it entails, what ambitions and promises are associated with it, how it is operationalised within the Swedish research system, and how responsibilities are distributed among different actors. Most importantly, you will reflect on what these expectations mean in practice for you as a PhD student.
+In [Assignment 1](Assignment1.qmd), you examined how the Swedish academic system is organised, including which decisions are taken at the governmental level and which responsibilities rest with universities. You also discovered some foundational principles that embed elements of openness within the higher education and research system in Sweden by default. 
+   
+In this assignment, we move from general structure to specifics and implementation of Open Science. We take a close look at Open Science: what it entails, why it is increasingly prioritized, how it is operationalised within the Swedish research system, and how responsibilities for implementation are distributed among different actors. Most importantly, you will reflect on what these expectations mean in practice for you as a PhD student.
  
-To complete this assignment, read the chapters below and prepare the group-work task. The results will be presented and discussed during the in-person workshop at the DDLS Research School Retreat on March 19th.
+To complete this assignment, read the content below and prepare the group-work task. The results will be presented and discussed during the in-person workshop at the DDLS Research School Retreat on March 19th.
 
 ## Open Science: what is it?  
-Open Science is a broad transformation of how research is **conducted, documented, shared, and evaluated**.  Over the past decade, it has moved from being a grassroots movement advocating for openness to becoming a formal policy framework adopted by governments, funders, and universities worldwide. 
+Open Science is a broad transformation of how research is **conducted, documented, shared, and evaluated**. It challenges long-standing academic assumptions and practices about who can access knowledge, how research processes are documented, and how results circulate within (and beyond) academia.
 
-In 2021, UNESCO adopted the first internationally agreed definition of Open Science in its [Recommendation on Open Science](https://www.unesco.org/en/open-science/about?hub=686) (2021). It defines Open Science as: 
+What began as a grassroots movement advocating for openness,  particularly around access to publications and data, has, over the past decades, evolved into a formal policy framework adopted by governments, research funders, and universities worldwide. Open Science is now embedded in research bills, funding requirements, institutional strategies, and infrastructure investments, also in Sweden.
+
+In 2021, UNESCO adopted the first internationally agreed definition of Open Science in its [Recommendation on Open Science](https://unesdoc.unesco.org/ark:/48223/pf0000379949?posInSet=3&queryId=4e9e5e25-46d0-428c-86ae-4191da67426c) (1). It defines Open Science as: 
 
 ::: {.callout}
 <span style="color:00000;"><strong>An  inclusive  construct  that  combines  various movements and practices, aiming to:</strong> 
@@ -45,18 +49,32 @@ All scientific disciplines and all aspects of scholarly practice are included.
 
 :::
 
+UNESCO's definition highlights that Open Science is not just publishing open access articles, or making your research data openly available. Instead, it is a set of practices that weave through the entire research lifecycle: from planning, data collection and analysis, to publication, communication, long-term preservation, and even researcher evaluation.
 
-UNESCO structures Open Science around four interconnected pillars:
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong> For you as a PhD student, this means that Open Science is not a separate activity added on top of your research. It increasingly shapes **how your research is expected to be done in day-to-day practice**. Questions such as: 
+  
+<span style="color:#A7C947;">
+- How will you document your methods?  
+- Where will your data be stored?  
+- Can others reproduce your analysis?  
+- Who might benefit from access to your results?  
+<span style="color:#A7C947;">  
+are becoming part of standard research planning.</span>
 
+:::
 
-![The 4 key pillars Open Science is built on, and the areas within Open Science they refer to. Unesco (2022) Understanding Open Science, https://doi.org/10.54677/UTCD9302, CC BY-SA 3.0 IGO](img/image_openscience_UNESCO.png){ width=50% fig-align="left"}
+Because Open Science touches so many dimensions of research practice, UNESCO structures it around four interconnected pillars. 
+The figure below (copied from (2)) summarises these four pillars and the areas they encompass. A further explanation of each pillar is provided below the figure. 
+
+![](img/image_openscience_UNESCO.png){ width=50% fig-align="left"}
 
 
 ::: {.callout}
 <span style="color:00000;"><strong>1. Open scientific knowledge:</strong> 
-This refers to free access to research publications, research data, educational resources, software, source code, and even hardware. The emphasis is not only on access, but on reuse through open licenses and formats that allow others to build upon your work.
+The first pillar refers to free access to research publications, research data, educational resources, software, source code, and even hardware. The emphasis is not only on access, but on reuse through open licenses and formats that allow others to build upon your work.
 
-<span style="color: #A7C947;">**PhD takeaway:** You are expected to make your research outputs as open as possible: publish open access when feasible, manage and document your data so others can understand and reuse it, share code and workflows where appropriate, and apply FAIR principles from the start of your project.</span>
+<span style="color: #A7C947;">**PhD takeaway:** You are expected to make your research outputs as open as possible: publish open access when feasible, manage and document your data so others can understand and reuse it, share code and workflows where appropriate, and apply [FAIR principles](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable, Reusable) from the start of your project.</span>
 
 </span>
 
@@ -66,7 +84,7 @@ This refers to free access to research publications, research data, educational 
 <span style="color:00000;"><strong>2. Open science infrastructures:</strong> 
 Openness requires infrastructure. Repositories, data services, persistent identifiers, high-performance computing environments, and metadata standards are all part of the ecosystem that makes Open Science possible.
 
-<span style="color: #A7C947;">**PhD takeaway:** You are not expected to build infrastructure, but you are expected to use it. This includes depositing publications in repositories, writing data management plans, using persistent identifiers (e.g. ORCID), and following institutional and funder guidelines for storage and sharing.</span>
+<span style="color: #A7C947;">**PhD takeaway:** You are not expected to build infrastructure, but you are expected to use it. This includes depositing publications in repositories, writing data management plans, using persistent identifiers (e.g. [DOI](https://www.doi.org), [ORCID](https://orcid.org)), and following institutional and funder guidelines for storage and sharing.</span>
 
 </span>
 
@@ -74,9 +92,9 @@ Openness requires infrastructure. Repositories, data services, persistent identi
 
 ::: {.callout}
 <span style="color:00000;"><strong>3. Open engagement of societal actors:</strong> 
-This pillar promotes transparency in the research process and encourages engagement beyond academia — for example through citizen science, public dialogue, or collaboration with policy-makers and industry.
+This pillar promotes transparency in the research process and encourages engagement beyond academia. This can for example be done through citizen science, public dialogue, collaboration with policy-makers and industry. 
 
-<span style="color: #A7C947;">**PhD takeaway:** Depending on your field, you may be expected to communicate your research beyond academia, through public talks, policy briefs, collaboration with external partners, or accessible summaries. Open Science encourages you to consider who might benefit from your research and how they can access or engage with it.</span>
+<span style="color: #A7C947;">**PhD takeaway:** Depending on your field, you may be expected to communicate your research beyond academia, e.g. through public talks, policy briefs, collaboration with external partners, accessible summaries, or even citizen science initiatives where citizens and communities actively contribute to knowledge generation and shared problem-solving. Open Science encourages you to reflect on who might benefit from your research and how they can meaningfully access, engage with, or participate in it.</span>
 
 </span>
 
@@ -84,7 +102,7 @@ This pillar promotes transparency in the research process and encourages engagem
 
 ::: {.callout}
 <span style="color:00000;"><strong>4. Open dialogue with other knowledge systems:</strong> 
-This pillar promotes respectful dialogue between academic research and other forms of knowledge — including Indigenous knowledge systems, practitioner expertise, and community-based knowledge.
+This pillar promotes respectful dialogue between academic research and other forms of knowledge, e.g: indigenous knowledge systems, practitioner expertise, and community-based knowledge.
 
 <span style="color: #A7C947;">**PhD takeaway:** Open Science asks you to reflect on whose knowledge counts. In practice, this may involve ethical collaboration with communities, recognition of non-academic expertise, or sensitivity to cultural and societal contexts when conducting and communicating research.</span>
 
@@ -92,135 +110,327 @@ This pillar promotes respectful dialogue between academic research and other for
 
 :::
 
-At its core, Open Science is about shifting research from being **closed by default** to being **open by design**. Instead of publishing results behind paywalls, storing data on personal hard drives, or treating methods as implicit know-how, Open Science encourages you as a researcher to make your outputs and processes transparent, accessible, and reusable. Importantly, openness can only be applied where possible and appropriate. A key phrase in the Open Science movements is:   
-
-### ***'As open as possible, as closed as neccesary'***
+In summary: Open Science is an umbrella term that brings together multiple movements and reforms under a shared ambition: **to reduce unnecessary barriers to knowledge.**   
+At its core, Open Science is about shifting research from being **closed by default** to being **open by design**. Instead of publishing results behind paywalls, storing data on personal hard drives, or treating methods as implicit know-how, Open Science encourages you as a researcher to make your outputs and processes transparent, accessible, and reusable. 
   
+For you as a PhD student, this does not mean that everything must always be made public. Openness is not absolute. Ethical constraints, legal requirements, privacy considerations, intellectual property, and disciplinary norms all matter. The following guiding principle often used in Open Science captures this balance:
+  
+### ***'As open as possible, as closed as neccesary'***
 
-## Open Science: why?  
-In the Swedish context, Open Science is closely linked to broader national ambitions: strengthening research quality, improving efficiency in the use of public funding, increasing societal relevance, and maintaining international competitiveness. These ambitions mirror developments across the EU and OECD, where openness is framed as both a quality-enhancing and democratising reform of research systems.
-The overarching promise of Open Science is that greater transparency and accessibility improve how knowledge is produced and used. In policy discourse, increased openness is expected to contribute to:
-Higher research quality and reproducibility
-Faster dissemination and uptake of results
-Increased societal impact and innovation
-More equitable access to publicly funded research
-The logic is straightforward: when publications, data, and methods are openly available, research can be scrutinised, validated, replicated, and reused. Barriers to access are lowered, duplication of effort may be reduced, and collaboration across disciplines and sectors becomes easier.
-However, the empirical evidence is uneven across different components of Open Science. For example:
-Open access publishing is relatively well studied, with substantial evidence showing increased visibility and citation advantage in many fields (though the magnitude varies).
-Data sharing has documented benefits for reuse and citation, but uptake remains inconsistent and discipline-dependent.
-Open methods and reproducibility practices are widely promoted as improving robustness, yet implementation challenges and incentive misalignments persist.
-Societal engagement and impact pathways are conceptually compelling, but causal links between openness and measurable societal outcomes are harder to demonstrate systematically.
-In other words, Open Science carries strong normative and policy expectations, and there is growing empirical support for several of its components — but its full systemic impact is still evolving and remains the subject of ongoing research and debate.
-This tension between promise and practice is important to keep in mind as we move to the Swedish implementation context.
-
-
-## Open Science: how and who?
-Open Science introduces new responsibilities at multiple levels of the research system. It is therefore not solely an individual commitment but a shared systemic effort.
-
-Open Science in Sweden involves coordinated action across several actors, each with distinct mandates and responsibilities.
-
-
-![The 4 key pillars Open Science is built on, and the areas within Open Science they refer to. Unesco (2022) Understanding Open Science, https://doi.org/10.54677/UTCD9302, CC BY-SA 3.0 IGO](img/image_swedishOSlandscape.png){ width=70% fig-align="left"}
-
-
-1. National Government
-Sets overarching research and Open Science policy objectives through research bills and national strategies.
-2. National Agencies
-Several agencies have specific mandates connected to Open Science, including:
-The National Library of Sweden (KB) – coordinates and develops national guidelines for Open Science.
-Swedish Research Council (VR) and other research funders – implement Open Science requirements through funding conditions.
-SND (Swedish National Data Service) – supports data management and sharing.
-Other national research infrastructures and coordinating bodies.
-3. Research Funders
-Funders operationalize Open Science through grant requirements, such as:
-Open access publishing mandates
-Data management plan requirements
-Data sharing expectations
-Monitoring and compliance mechanisms
-4. Universities
-Universities are responsible for:
-Providing infrastructure and support (repositories, data stewards, libraries)
-Developing institutional policies
-Supporting researchers in compliance
-Ensuring research quality and integrity
-5. Individual Researchers
-Researchers — including PhD students — are responsible for implementing Open Science in their daily practice:
-Publishing open access when required
-Managing and sharing data responsibly
-Applying transparent methods
-Engaging ethically with societal stakeholders
-Open Science is therefore distributed across levels. It cannot be implemented by researchers alone, nor solely by institutions.
-
-## Assignment
-
-You will be divided into groups of 5–6 participants before the course. Each group will be assigned one of the six Open Science areas listed above.
-Preparation
-Each group should:
-Read the relevant section in the National Library of Sweden’s national guidelines.
-Pay particular attention to the section titled “Actors and their areas of responsibility.”
-Task
-Prepare a two-slide summary addressing the following:
-What does Open Science mean in practice within your assigned area?
-Move beyond definitions. Describe what concrete actions or changes are implied.
-What is expected of:
-The individual researcher?
-The university?
-Funders or research infrastructures?
-From a PhD student perspective:
-Which expectation in this area seems most realistic?
-Which seems least realistic?
-Why?
-Be specific. Consider structural constraints (time, funding, supervision, disciplinary norms) as well as enabling factors (institutional support, infrastructure, funder mandates).
-
-
-Areas of Open Science in Sweden
-The National Library of Sweden’s national guidelines structure Open Science into six areas:
-Open access to scholarly publications
-Open access to research data
-Open research methods
-Open educational resources
-Public engagement in science
-Infrastructures supporting Open Science
-Each area contains expectations directed at different actors and clarifies how responsibilities are distributed.
-Importantly, expectations differ depending on role and seniority. Some requirements fall directly on individual researchers, while others depend on institutional or national infrastructure.
-
-
-
-Examples of key national actors
-- Swedish National Data Service (SND)
-A national research infrastructure that supports research data management, sharing, and long-term preservation. SND works with universities to provide guidance on data management plans, metadata, and data publication.
-- SciLifeLab
-A national research centre and infrastructure for data-driven life science, offering advanced technologies, platforms, and training. Many PhD students interact with SciLifeLab through infrastructure access, courses, or data-intensive research environments.
-- National research infrastructures
-Funded largely through the Swedish Research Council, these include facilities for high-performance computing, sequencing, imaging, and other advanced research methods. Access is often cross-institutional and governed by national rules.
-- University libraries and national library collaboration
-Libraries play a key role in open access publishing, research data support, bibliometrics, and compliance with funder and policy requirements. Many Open Science services are delivered locally but coordinated nationally.
-- SUHF (Association of Swedish Higher Education Institutions)
-A collaboration body for Swedish universities that develops joint positions, guidelines, and recommendations on issues such as Open Science, research data, and academic governance.
-
+In practice, this principle means that openness is the default aspiration, but not at the expense of ethical responsibility, legal compliance, or research integrity. Transparency should be maximised wherever possible, but restrictions should be applied where they are genuinely justified.    
+  
 ::: {.callout}
-<span style="color:#A7C947;"><strong>PhD takeaway:</strong> Much of the support you encounter during your PhD — especially around data, infrastructure, and Open Science — comes from national bodies working together with your university. Knowing who does what can help you find the right support faster and understand where requirements actually come from.</span>
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong> Open Science is not about doing everything openly at all times. It is about making informed choices. As a PhD student, the key question is not *“Should I be fully open?”* but rather: *Which open practices make sense for my project, my field, and my career stage, and what support is available to help me implement them well?*</span>
+
 :::
 
 
-  
-## References and further reading
-- [The ARRIVE guidelines 2.0: Updated guidelines for reporting animal research](https://arriveguidelines.org/arrive-guidelines). Percie du Sert N, Hurst V, Ahluwalia A, Alam S, Avey MT, Baker M, et al. (2020) *PLOS Biology* 18(7) 
-- [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care). Global Indigenous Data Alliance, 2018
-- [COPE Ethical Guidelines for Peer Reviewers](https://web.sciedu.ca/images/COPE/Ethical_Guidelines_For_Peer_Reviewers_2.pdf). COPE Council, 2017
-- [the Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki/). World Medical Association, 2024   
-- [European Code of Conduct for Research Integrity](https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf). ALLEA, 2023   
-- [Global responsible engagement: checklist](https://suhf.se/app/uploads/2023/04/SUHF-Checklist-Global-Responsible-Engagement-REC.-2023-4-230411-REVISED.pdf). the Association of Swedish Higher Education Institutions (SUHF), 2023
-- [Good Research Practice](https://www.vr.se/uppdrag/etik/god-forskningssed---ny-utgava.html). 'God forskningssed', VR, 2024 
-- [Guidelines on the responsible use of generative AI in research developed by the European Research Area Forum](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/guidelines-responsible-use-generative-ai-research-developed-european-research-area-forum-2024-03-20_en). European Commission, 2024
-- [Guidance for higher education institutions' work to prevent, manage and follow up on suspected deviations from good research practice](https://suhf.se/app/uploads/2023/09/REK-2020-3-REV-Vagledning-for-larosatens-arbete-med-att-forebygga-hantera-och-folja-upp-misstankar-om-avvikelser-fran-god-forskningssed-REVIDERAD-2023.pdf). 'Vägledning för lärosätens arbete med att förebygga, hantera och följa upp misstankar om avvikelser från god forskningssed', SUHF, 2023  
-- [Handbook on Whistleblower protection in research](https://zenodo.org/records/8192478). European Network for Research Integrity Offices (ENRIO), 2023 
-- [the Nagoya Protocol](https://www.cbd.int/abs/text/default.shtml). Convention on Biological Diversity, 2010   
-- [PREPARE: Guidelines for planning animal research and testing)](https://norecopa.no/PREPARE). Smith, AJ, Clutton, RE, Lilley, E, Hansen KEA, Brattelid, T. (2018) *Laboratory Animals* 52(2):135-141 
-- [Recommendations to higher education institutions on how to work with responsible internationalisation](https://www.stint.se/wp-content/uploads/2022/09/STINT_Ansvarsfull-internation_web.pdf). The Swedish Foundation for International Cooperation in Research and Higher Education ('Stiftelsen för internationalisering av högre utbilndning och forskning'), 2022 
-- [SciLifeLabs code of conduct](https://www.scilifelab.se/code-of-conduct/). SciLifeLab Operations Office, 2023    
-- [The TRUST code, a global code of conduct of equitable research partnerships](https://www.globalcodeofconduct.org/wp-content/uploads/2023/06/The_TRUST_Code.pdf). TRUST, 2018
-- [User Guide - DECLARE NAGOYA IT system](https://www.naturvardsverket.se/4ac4da/contentassets/09859c1d752d445ab59f06c0544fe6e0/question-and-answer-users.pdf).  
-- [The Vancouver recommendations](https://www.icmje.org/icmje-recommendations.pdf). International Committee of Medical Journal Editors (ICMJE), 2025
+## Open Science: why should I care?  
 
--->
+In the previous section, we have seen that Open Science is a shift toward research that is *open by design*. That may sound compelling in principle, and the logic behind it seems straightforward: 
+
+→ If research outputs are accessible, more people can read them.  
+→ If more people can read transparant research outputs, findings can be scrutinised and replicated.  
+→ If outputs can be scrutinised and replicated, duplication of effort may decrease and collaboration across institutions, disciplines, and even sectors may increase. 
+
+On paper, this logic is persuasive. In Sweden, the predicted benefits of Open Science are also framed as contributing to broader national objectives: strengthening research quality, improving the efficiency of public funding, increasing societal relevance, and maintaining international competitiveness. But does openness **actually** improve research practice? Why should you invest time and effort into making your work more transparent and accessible? What *exactly* are the promised benefits, and is there evidence that they really materialise?
+
+To understand what Open Science can realistically deliver, and what it may cost you in terms of time, effort, and coordination, the table below summarizes common promised benefits, their practical advantages, and the main challenges you should be aware of. Where evidence to support an advantage exists, illustrative references are provided. 
+
+| Promise | Advantage | Challenge |
+|------|------|------|
+| **More equitable use of public funding**| Publicly funded research becomes accessible and beneficial to taxpayers, increasing societal value. | The financial and administrative costs of openness (for example, article processing charges (APCs)) often fall on you or your institution, which can create inequalities between well- and under-resourced environments. |
+| **More collaboration between researchers**| Shared standards, interoperable formats, and open repositories make it easier to collaborate across labs, institutions, and countries (3).| High-quality sharing requires time, documentation, and infrastructure that may not always be available. |
+| **More efficient development of methods and innovation**| When methods, code, and data are shared, you and others can build on existing work, accelerating methodological progress and supporting more ambitious research (4). | Sharing work early can feel risky, especially in competitive fields where concerns about being scooped or insufficiently credited are common. |
+| **Improved reproducibility and reduced publication bias**| Open data, pre-registration, and transparent methods make your findings easier to reproduce and validate, thereby reducing publication bias & replication crisis (5, 6, 7) | Preparing reusable data and documentation requires substantial extra effort, and this work is not always formally rewarded in evaluations. |
+| **Faster dissemination of research**| Preprints and open access publishing allow your findings to reach the community more quickly, enabling earlier feedback and visibility (8). | Rapid sharing without sufficient review may increase the circulation of preliminary or flawed results. |
+| **Increased citations and visibility**| Open publications are generally more discoverable and, in many fields, associated with higher citation rates (3, 9, 10, 11). | Citation advantages vary by discipline, and open access fees can be costly if not covered by your institution or funder. |
+| **Greater public awareness and societal engagement**| Open publications, data, and tools can inform policy, education, and public debate, increasing the societal reach of your research (3). | Research findings or data may be misunderstood, selectively used, or misinterpreted outside academic contexts. |
+| **Helps early-career researchers build visibility**| Sharing your work openly can increase discoverability, expand your professional network, and support interdisciplinary connections. | You may be more exposed to unclear authorship norms or strategic behaviour by more senior colleagues. |
+| **Alignments with funder and institutional requirements**| Many funders and universities now require Open Science practices; complying can strengthen grant competitiveness and institutional alignment. | Without adequate support structures, meeting these requirements can feel administratively burdensome and time-consuming. |
+: {tbl-colwidths="[30,70]"}  
+
+
+In short, Open Science can bring some real benefits for you as a PhD student: your work can get more visibility, reach the community faster, become easier to reproduce, and open up opportunities to collaborate with other researchers. That said, not all of these benefits are fully proven yet. Open Science is still a fairly recent movement, and monitoring mechanisms in Sweden and Europe and still being developed. It’s therefore hard to say for sure how much it actually improves research quality, impact, or societal relevance in every case.
+
+Even if openness might benefit you, it will most likely also come with extra work. You might spend more time documenting your data properly, preregistering studies, managing repositories, or communicating your results to the public. These things take effort, and it’s not always clear how much they’ll pay off for your career, especially as a PhD student.
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong> Open Science can offer real advantages, but also comes with practical trade-offs. As a PhD student, it’s important to approach Open Science strategically: be aware of the potential gains, but plan realistically for the extra effort involved.
+</span>
+
+:::
+
+Because of the extra work involved in making your research as open as possible, it’s useful to know that Open Science isn’t something you do alone. Different actors share responsibility: researchers like you, your supervisors, your university, funders, and national infrastructures all have roles to play. In the next section, we’ll look at who does what in Sweden when it comes to Open Science, so you can see how the system is set up and what might realistically be expected from you.
+
+## Open Science: how and who?
+In Sweden, as in much of Europe, Open Science grew out of frustration among researchers who faced paywalls, limited access to data, and untransparant research practices. Early progress was driven largely by university libraries, which played a key role in negotiating open access agreements, building institutional repositories, and supporting researchers with publishing and archiving. At the same time, national and international research infrastructure initiatives began focusing more seriously on research data management.  
+  
+During the 2000s and 2010s, the conversation gradually broadened. What started as a push for open access to publications evolved into the wider concept of Open Science, including data, methods, and societal engagement. Over time, national coordination became more formalised, and Open Science moved from being mainly a grassroots initiative to becoming part of official policy.  
+  
+Today, Open Science is embedded in national strategies, university policies, and funder requirements. Its implementation in Sweden involves coordinated action across researchers, supervisors, universities, funders, and national agencies. In other words, Open Science is a shared, system-wide effort in which different actors carry different responsibilities.
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong> Open Science is both a bottom-up and a top-down process. Individual research practices matter, but expectations, infrastructure, and incentives are shaped at levels above you. Understanding who is responsible for what can help you navigate these expectations more confidently and realistically.
+</span>
+
+:::
+
+The figure below gives you an overview of the main actors involved in implementing Open Science in Sweden, from government and national agencies to universities and researchers.  
+  
+The purpose is not just to show who is involved, but to help you see **where responsibilities lie and where you can turn for support**. Some expectations come from funders or national policy, while others are shaped by your university or research group. Understanding this structure can help you distinguish between what is required of you, what is decided above you, and what support systems are available to make Open Science manageable in practice.  
+  
+Below the figure, each level is explained in more detail, with key responsibilities, actors, and guiding documents highlighted.
+
+![The Swedish Open Science landscape, illustrating major actors across different levels of the research system and their primary areas of responsibility, from national policy and coordination to institutional implementation and researcher-level practice. NLS = National Library of Sweden, SUHF = Association of Swedish Higher Education Institutions, OS = Open Science, SND = Swedish National Data Service, SRC = The Swedish Research Council, EOSC = European Open Science Cloud, HEIs = Higher Education Institutions, ISs = infrastructures.](img/image_swedishOSlandscape.png){ width=70% fig-align="left"}
+
+<h3>
+  <img src="img/icon_government.svg" alt="law"
+       style="width:40px; height:40px; vertical-align:middle; margin-right:8px;">
+  Government
+</h3> 
+
+As you saw in Assignment 1, the Swedish government sets the overall direction for research and Open Science. This is done through research bills and national strategies.
+Through annual appropriation directives, the government also gives specific tasks to governmental agencies (e.g.the National Library of Sweden and the Swedish Research Council) related to Open Science. These agencies then translate political goals into more concrete actions and guidelines (see below).
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong> You will probably never interact directly with this level. However, it shapes the expectations placed on universities and funders. When you hear that “Sweden has a national goal for Open Science,” this is where that goal originates.
+</span>
+
+:::
+
+<h3>
+  <img src="img/icon_nls.svg" alt="law"
+       style="width:40px; height:40px; vertical-align:middle; margin-right:8px;">
+  <img src="img/icon_suhf.svg" alt="law"
+       style="width:40px; height:40px; vertical-align:middle; margin-right:8px;">
+  <img src="img/icon_snd.svg" alt="law"
+       style="width:40px; height:40px; vertical-align:middle; margin-right:8px;">
+  Expert agencies
+</h3>
+Several national organizations in Sweden help create the frameworks and tools that make Open Science manageable for you, so you don’t have to figure everything out on your own. Understanding their roles can help you know where to go for guidance and support.
+
+- **National Library of Sweden (NLS)**: The government has tasked NLS with coordinating Sweden’s work on open access to publications. They do this mainly through the [Bibsam consortium](https://www.kb.se/for-bibliotekssektorn/eng/bibsam-consortium/bibsam-consortium.html), which negotiates agreements with publishers on behalf of all Swedish universities. Every year, KB publishes a report on its government assignment (see e.g. (12)), showing how many articles and books were openly published in Sweden and the [costs of academic publishing](https://www.kb.se/for-bibliotekssektorn/eng/open-science/open-access/costs-of-scholarly-publishing.html). They also manage [Publicera](https://publicera.kb.se), the national digital platform for Swedish open-access journals, and [SwePub](https://swepub.kb.se), a national portal for research that has been published by researchers active in Sweden.
+In 2024, NLS published [the National Guidelines for Open Science](https://www.kb.se/for-bibliotekssektorn/eng/news-from-the-national-library/news/2024-01-15-national-guidelines-for-promoting-open-science-in-sweden.html), which will be central for your group work in this assignment.
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong>   
+The National Library of Sweden:  
+→ Supports open-access publishing and helps make Swedish research widely available  
+→ Provides guidance and infrastructure to publish your articles openly  
+→ Tracks progress on open-access publishing across Sweden, so you can see where things stand nationally. 
+</span>
+
+:::
+- **Association of Swedish Higher Education Institutions (SUHF)**: SUHF is a collaboration body for Swedish universities. They developed [the Roadmap for Open Science](https://suhf.se/arbetsgrupper/suhfs-grupp-for-samordning-av-oppen-vetenskap/), which provides practical advice for universities on how to implement Open Science. Each year, SUHF also runs a survey to track how universities across Sweden are putting Open Science into practice (see e.g. (13)).
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong>   
+SUHF:  
+→ Helps universities coordinate policies and support, meaning some of the heavy lifting (like infrastructure or templates) may already be in place for you   
+→ Tracks progress across Swedish universities, giving you insight into how your institution compares nationally
+ 
+</span>
+
+:::
+
+- **Swedish National Data Service (SND**): SND is a national research infrastructure that supports research data management, sharing, and long-term preservation. You can turn to them for guidance on creating data management plans, adding proper metadata, and publishing data according to FAIR principles. Tools like [DORIS](https://snd.se/en/doris-researchers) allow you to describe and publish your research data on the national portal [Researchdata.se](https://researchdata.se/en), making it findable and reusable by others.
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong>   
+SND:  
+→ Supports you in managing and sharing your research data according to best practices  
+→ Provides tools like DORIS and the Researchdata.se portal to make your data findable and reusable  
+→ Offers guidance on FAIR data, metadata, and data management plans, helping you meet funder or institutional requirements efficiently.  
+</span>
+
+::: 
+
+<h3>
+  <img src="img/icon_funders.svg" alt="law"
+       style="width:40px; height:40px; vertical-align:middle; margin-right:8px;">
+  Funders</h3>
+Funders play a key role in driving Open Science because they can require and reward open practices. In Sweden, several funders now explicitly encourage or reward Open Science practices in this way, so your grant applications are not just about the research itself, but also how openly and responsibly you plan to share your outputs. In general, funding requirements include things like:
+
+- Publishing your work open access (see e.g. [SRC requirements](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/publishing-open-access.html))
+- FAIR data sharing (see e.g. [SRC](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/plan-manage-and-make-research-data-available.html), and [sharpened requirements in 2026](https://www.vr.se/english/just-now/news/news-archive/2025-12-01-more-precise-requirements-for-how-data-should-be-handled-in-research-projects.html?tag=Open+access+to+data))
+- Data management plans (see e.g. [SRC requirements](https://www.vr.se/english/just-now/news/news-archive/2018-12-17-by-2019-all-who-receive-grants-from-us-must-have-a-data-management-plan.html?tag=Open+access+to+data))
+- Highlighting Open Science contributions in funding applications (e.g. through narrative CVs or special sections in proposals, see e.g. [Formas Career grant for ECRs](https://formas.se/en/start-page/apply-for-funding/different-types-of-financing/career-grant-for-early-career-researchers.html) and [Formas Explore](https://formas.se/en/start-page/apply-for-funding/different-types-of-financing/explore---formas-open-call.html))
+
+The Swedish Research Council (SRC) is the largest national research funder. SRC has a government mandate to coordinate work on open access to research data. Every year, they publish a report on progress (see e.g. (14)), and they provide guidance, examples, and templates for things like [data management plans](https://www.vr.se/english/applying-for-funding/requirements-terms-and-conditions/data-management-plan-template.html) to help you comply with Open Science expectations.
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong>   
+Funders:  
+→ May want you to highlight Open Science contributions in your grant proposals   
+→ May require specific open practices once your grant is approved  
+→ Provide guidance, examples, and templates for data management and sharing   
+If you’re unsure about any requirement, your university library or research support office can help you interpret the rules and plan your project.
+</span>
+
+::: 
+
+<h3>
+  <img src="img/icon_uni.svg" alt="law"
+       style="width:40px; height:40px; vertical-align:middle; margin-right:8px;">
+  <img src="img/icon_infrastructure.svg" alt="law"
+       style="width:40px; height:40px; vertical-align:middle; margin-right:8px;">
+  Research organizations
+</h3>
+Your **university** is where Open Science really becomes practical for you. It’s responsible for providing the support and tools that make open practices possible. This includes:
+
+- Repositories for publications and research data
+- Support from the library (publishing guidance) and data stewards (data management advice)
+- Local Open Science policies and guidance
+- Training in Open Science practices
+
+On top of that, **national research infrastructures** provide advanced facilities and technologies across universities, including high-performance computing, sequencing, imaging, and other specialized research platforms.
+  
+SciLifeLab is one such infrastructure in life sciences. It offers platforms, training, and support for data-intensive research. For Open Science, SciLifeLab provides:
+
+- the [Data Stewardship Wizard](https://dsw.scilifelab.se/wizard) for planning and managing data 
+- the [SciLifeLab data repository](https://figshare.scilifelab.se) to deposit datasets
+- the [SciLifeLab Data Platform](https://data.scilifelab.se) for guidance and resources
+- [SciLifeLab Training Hub](https://training.scilifelab.se) for courses and open educational resources
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong>   
+→ Your university is your first stop for Open Science support! Check what repositories, library services, and data stewards are available.  
+→ National infrastructures like SciLifeLab provide extra tools, platforms, and training, especially for data-intensive work.  
+→ Use the Data Stewardship Wizard, institutional repositories, and training resources to make your research more FAIR, discoverable, and compliant with funder or institutional requirements.  
+→ Don’t hesitate to ask your supervisors or university support offices for guidance.
+</span>
+
+::: 
+
+<h3>
+  <img src="img/icon_researchers.svg" alt="law"
+       style="width:40px; height:40px; vertical-align:middle; margin-right:8px;">
+  Researchers (including you)
+</h3>
+
+Open Science ultimately happens in everyday research practice. As a PhD student, this is where theory meets reality: **you are the one putting policies and tools into action**. This doesn’t mean you do it alone, but it does mean you have a role in implementing open practices.
+Some ways you might engage with Open Science include (but are not limited to):
+
+- Open access publishing: choosing journals or platforms that make your papers freely available. Tools like Publicera or your university’s repository help you comply with requirements.
+- Data management and sharing: writing and following a data management plan, adding metadata, and depositing data in repositories such as Researchdata.se or SciLifeLab’s repository.
+- Transparent methods and code: documenting your protocols, code, or lab workflows in a clear way so others can understand and reuse them; GitHub, Zenodo, and Jupyter notebooks are popular tools.
+- Preprints and early sharing: posting your manuscript on preprint servers (like bioRxiv, arXiv, or medRxiv) to get faster feedback and increase visibility.
+- Science communication and engagement: sharing your results with non-academic audiences through blogs, social media, open educational resources, or citizen science projects.
+- Responsible research practices: maintaining research integrity, preregistering studies when appropriate, and carefully considering ethical or legal constraints on openness.
+
+::: {.callout}
+<span style="color:#A7C947;"><strong>PhD takeaway:</strong>   
+**Your role is to understand what applies to your project, know what your supervisor/ department/funder expects, and find support when you need it.** Using the tools, templates, and guidance provided makes it much easier to comply with requirements and practice Open Science effectively.
+</span>
+
+::: 
+
+
+## Group assignment
+
+::: {.callout-note title="Assignment"}
+To help you clarify what **Open Science means in practice** for you, we will hold a structured group discussion during the in-person workshop on March 19th at the DDLS Research School Annual Retreat.  
+  
+The aim of this exercise is to:
+
+- Translate national policy into practical implications for PhD students
+- Identify concrete actions you can realistically take
+- Critically reflect on what is feasible, difficult, or context-dependent
+  
+You will work in groups (maximum 7 participants per group). Each group will focus on one specific area of Open Science and **prepare material in advance** for discussion.  
+
+### Step 1 - Sign up 
+Choose the Open Science area you are most interested in:
+
+- Open access to scholarly publications
+- Open access to research data
+- Open research methods
+- Open educational resources
+- Public engagement in science
+- Infrastructures supporting Open Science
+
+<span class="fa-solid fa-arrow-right"></span> Please add your email address under your chosen area in [the sign-up document](https://docs.google.com/document/d/1Cut6hGqS8KiyuErurgjDrWUTtHuyyZirOKFzDdaxl5U/edit?usp=sharing).  
+**Note: First come, first served.**  
+Once you receive a confirmation email from ineke.luijten@scilifelab.se, you can begin preparing the assignment below.  
+
+### Step 2 – Read the Relevant Section of the National Guidelines
+Access the National Guidelines by clicking “Read the national guidelines for open science.” on [this NLS webpage](https://www.kb.se/for-bibliotekssektorn/eng/news-from-the-national-library/news/2024-08-27-national-guidelines-for-open-science---now-in-english.html)
+  
+Read the following pages depending on your group:  
+Group 1: Pages 8–10 – Open Access to scholarly publications  
+Group 2: Pages 10–11 – Open Access to research data  
+Group 3: Pages 11–12 – Open research methods  
+Group 4: Pages 12–13 – Open educational resources  
+Group 5: Pages 13–15 – Public engagement in science  
+Group 6: Pages 15–16 – Infrastructures supporting Open Science
+
+Focus on understanding both:
+
+- What is expected at a national level
+- What this implies for researchers in practice
+
+### Step 3 – Prepare Your Slides (Before the Session)
+Each group must prepare three slides in total for their area of Open Science in the shared Google Slides file:   
+[Group 1](https://docs.google.com/presentation/d/1JSxpzBBQDUe9JOxZ-UkH4Q52_9YmVYMw9w2osdI8S6o/edit?usp=sharing), [Group 2](https://docs.google.com/presentation/d/19Co4C1KTN2g4xetLQP037wni6Mnqzd-KeosZEaOgM0U/edit?usp=sharing), [Group 3](https://docs.google.com/presentation/d/1dWdoKSI8So4iXLjFmQHC7RdbilCudUPc3gDdrxSp46M/edit?usp=sharing), [Group 4](https://docs.google.com/presentation/d/1ZTW3FCxzfHYma9jRsvaLJB1KdxzoKBT_cbHD9yJYygQ/edit?usp=sharing), [Group 5](https://docs.google.com/presentation/d/1H7QcwAvamFeEuYHw6aeC5GWReRRBa-vk21o1aVI6DXU/edit?usp=sharing), [Group 6](https://docs.google.com/presentation/d/1yd1OFjga3TJ8xz7QjFcgwIxO6QOJpD5_zFAyEkD4VWo/edit?usp=sharing). 
+  
+*Slides must be completed by March 18 at 17:00!!*  
+
+**Slide 1 – Plain-language summary (Max 4 Sentences)**  
+Explain:  
+
+- What does this area of Open Science mean?
+- Why does it matter?
+
+Do not copy policy text. Translate the guidelines into clear, accessible language.
+
+**Slide 2 – Three concrete actions for PhD students**    
+Identify three actions that a PhD student could take within this area. 
+Be specific and practical! Your actions should be concrete enough that someone could implement them within the next year.
+  
+Good examples:    
+“Upload the accepted manuscript to the university repository.”    
+“Preregister study design on OSF.”    
+
+Weak examples:  
+“Share data.”   
+“Do outreach.”   
+
+**Slide 3 – One discussion question**    
+Prepare one question that invites reflection or debate within your area.   
+The question should stimulate discussion about feasibility, responsibility, or trade-offs.
+
+### During the session (March 19)
+Each group will:
+ 
+1. Present their plain-language summary (slide 1, maximum 2 minute total).
+2. Present their three concrete action (slide 2) 
+    The audience will vote using colored cards:    
+    🟢 Green = Realistic for most PhD students   
+    🟠 Orange = Depends on field or context   
+    🔴 Red = Largely unrealistic or very difficult.   
+    We will briefly discuss why participants voted differently   
+3. Pose their discussion question   
+    We will discuss for 5–10 minutes before moving to the next group.
+:::
+
+
+**Well done on completing the assignment! You can now move on to ‘[Assignment 3: Types of Open Access publishing](Assignment3.qmd)’ to prepare for March 19th**
+
+
+
+## References and further reading
+(1) UNESCO. (2021). UNESCO recommendation on Open Science (SC-PCB-SPP/2021/OS/UROS). UNESCO. https://doi.org/10.54677/MNMH8546. [CC BY-SA 3.0 IGO](https://creativecommons.org/licenses/by-sa/3.0/igo/) 
+(2) UNESCO. (2022). Understanding open science (UNESCO Open Science Toolkit; SC-PBS-STIP/2022/OST/1). UNESCO. https://doi.org/10.54677/UTCD9302. [CC BY-SA 3.0 IGO](https://creativecommons.org/licenses/by-sa/3.0/igo/)   
+(3) McKiernan, E. C., Bourne, P. E., Brown, C. T., Buck, S., Kenall, A., Lin, J., McDougall, D., Nosek, B. A., Ram, K., Soderberg, C. K., Spies, J. R., Thaney, K., Updegrove, A., Woo, K. H., & Yarkoni, T. (2016). Point of view: How open science helps researchers succeed. *eLife*, 5, e16800. https://doi.org/10.7554/eLife.16800. 
+(4) Jong, S., & Slavova, K. (2014). When publications lead to products: The open science conundrum in new product development. *Research Policy*, 43(4), 645–654. https://doi.org/10.1016/j.respol.2013.12.009. 
+(5) Kaplan, R. M., & Irvin, V. L. (2015). Likelihood of null effects of large NHLBI clinical trials has increased over time. *PLOS ONE*, 10(8), e0132382. https://doi.org/10.1371/journal.pone.0132382. 
+(6) Warren, M. (2018). First analysis of “pre-registered” studies shows sharp rise in null findings. *Nature*. https://www.nature.com/articles/d41586-018-07118-1. 
+(7) Scheel, A. M., Schijen, M., & Lakens, D. (2021). An excess of positive results: Comparing the standard psychology literature with registered reports. *Advances in Methods and Practices in Psychological Science*, 4(2). https://doi.org/10.1177/25152459211007467. 
+(8) Björk, B.-C., & Solomon, D. (2013). The publishing delay in scholarly peer-reviewed journals. *Journal of Informetrics*, 7(4), 914–923. https://doi.org/10.1016/j.joi.2013.09.001. 
+(9) Huang, C. K., Neylon, C., Montgomery, L., Hosking, R., & Wilson, K. (2024). Open access research outputs receive more diverse citations. *Scientometrics*, 129, 825–845. https://doi.org/10.1007/s11192-023-04894-0. 
+(10) Piwowar, H., Priem, J., Larivière, V., Alperin, J. P., Matthias, L., Norlander, B., Farley, A., West, J., & Haustein, S. (2018). The state of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ*, 6, e4375. https://doi.org/10.7717/peerj.4375. 
+(11) Tennant, J. P., Waldner, F., Jacques, D. C., Masuzzo, P., Collister, L. B., & Hartgerink, C. H. J. (2016). The academic, economic and societal impacts of Open Access: An evidence-based review. *F1000Research*, 5, 632. https://doi.org/10.12688/f1000research.8460.3
+(12) National Library of Sweden (NLS) (2025) Samordning av arbete för öppen tillgång till vetenskapliga publikationer. Dnr KB 2025-395; ISBN 978-91-7000-505-3  
+(13) SUHF (2025) [Sammanställning av SUHF enkät 2025](https://suhf.se/app/uploads/2025/04/SUHF-inventering-oppen-vetenskap-sammanstallning-2025.pdf). Presentation   
+(14) Vetenskapsrådet (2025) Öppen tillgång till forskningsdata 2025 - en kartläggning, analys och bedömning. Dnr 2025-06741; ISBN 978-91-89845-35-0
