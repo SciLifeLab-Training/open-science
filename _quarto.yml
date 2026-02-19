@@ -22,7 +22,7 @@ website:
       - text: "Open Science in the Swedish Context"  # Sidebar title
         href: ""                                    # empty link
         class: "sidebar-title"
-      - text: "Syllabus"
+      - text: "Course Overview"
         href: index.qmd
       - text: "Enrollment & practicalities"
         href: practicalinformation.qmd
