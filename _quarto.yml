@@ -31,7 +31,10 @@ website:
       - section: "Content"
         collapse: true
         contents: 
-          - file: Session1.qmd
+          - file: day1.qmd
+          - file: day2.qmd
+          - file: day3.qmd
+          - file: day4.qmd
 
   navbar:
     background: "#111F36"

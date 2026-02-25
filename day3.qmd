@@ -1,0 +1,40 @@
+---
+title: "May 6, 2026 – Open Access and Responsible Research"
+format: html
+---
+ 
+### Open Access – Publishing Your Results
+
+This session both examines the development of academic publishing and provides information on how Open Access works in practice.   We briefly trace the history of scholarly journals and discuss the strengths and weaknesses of traditional publishing, including issues of quality control, cost, access, and commercialization, and describe the shift away from subscription-based models. 
+
+Participants will be introduced to key Open Access models (Green, Gold, Hybrid, Bronze, and Diamond) and major policy initiatives. The session also covers practical aspects of open publishing, including preprints, repositories, licensing, copyright, and elements of Open Science workflows such as collaborative writing and open peer review.
+
+---
+
+### Parallel Session
+
+#### Open Access – Code and Models
+This hands-on session introduces the essentials of Open Access for code and models, focusing on practical skills. Participants will get started with code versioning using git, learn the basics of creating and sharing Docker container files, and explore how to document and share AI models. No prior experience is required!
+
+**OR**
+
+#### Open Access Scholarly Books
+This discussion-oriented session explores the landscape of open access books. Participants will learn about avenues for securing funding to support open book publishing and review major platforms that facilitate the dissemination of scholarly works. The session will address licensing considerations, including the option of self-archiving your book to maximize accessibility. Be prepared to ask questions about navigating the open access book publishing process.
+
+---
+
+### Citizen Science and Stakeholder Engagement
+
+This session introduces best practices for incorporating Citizen Science into research, highlighting its forms, levels of participation, and key principles. It explains the societal and scientific benefits of Citizen Science, emphasizes funding agencies’ support for open science, and provides guidance on designing inclusive projects, engaging the public, and ensuring data quality, transparency, and ethical considerations. 
+
+---
+ 
+### Parallel Session
+
+#### Research with Sensitive Qualitative Data
+There are many ways to pseudonymize qualitative data. In this workshop, we will discuss some general tips and commonly used techniques for pseudonymizing qualitative research data so you can determine which methods are most suitable for your research data
+
+**OR**
+
+#### Research with Sensitive Quantitative Data
+The most common way to pseudonymize quantitative data is by applying various statistical techniques. These approaches modify the dataset to make it difficult – or impossible – to identify individual research participants. This session gives a hands-on introduction to essential generalization and randomization methods, and also general tips for working with quantitative data

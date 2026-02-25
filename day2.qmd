@@ -1,0 +1,34 @@
+---
+title: "May 5, 2026 – Planning and Sharing Research"
+format: html
+---
+
+### Data Management Plans
+
+This session focuses on integrating Open Science practices early in the research process. Participants receive guidance on creating effective data management plans (DMPs), selecting open tools from the start, and understanding the key planning components of a DMP. The session also introduces related strategies such as preregistration and registered reports.
+
+---
+
+### Parallel Session
+
+#### Intellectual Property
+Discussion centering on intellectual property (IP) and intellectual property rights (IPR) in research and innovation. Covers patents, the Swedish “teacher’s exemption,” what can and cannot be protected, and the three patentability criteria: novelty, inventive step, and industrial application.
+
+**OR**
+
+#### CARE Principles
+Introduction to the CARE Principles for Indigenous Data Governance (Collective benefit, Authority to control, Responsibility, Ethics).  The session will explain how these principles differ from traditional approaches to data management, focusing on the ethical, culturally responsive stewardship of Indigenous data. The session will discuss practical strategies for integrating CARE principles into research projects, promoting respect, transparency, and equitable outcomes for Indigenous communities.
+
+---
+ 
+### Repositories, Metadata, DOIs and Licensing
+
+This session focuses on how to maximize the visibility, accessibility, and reusability of research outputs after publication. It covers best practices for depositing outputs in open repositories, obtaining persistent identifiers, annotating using rich metadata, and applying appropriate open licenses. A practical exercise guides participants through uploading items to a repository (Zenodo), including adding metadata and selecting licenses.
+
+---
+
+### Open Educational Resources
+
+This session introduces Open Educational Resources (OER) and their role in research and teaching. OER are digital materials that can be freely used, adapted, and shared, including study guides, slides, videos, podcasts, and full course packages. We will provide an overview of well-known platforms where educators can find and share open materials. 
+
+The session will also address practical and legal considerations when reusing or adapting existing resources, including copyright, licensing choices, and publishing adapted materials. Participants will receive guidance on how to share their own teaching materials responsibly, how to select an appropriate license, and how to choose suitable platforms for dissemination.  
