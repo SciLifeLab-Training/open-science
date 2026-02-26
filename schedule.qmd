@@ -4,7 +4,6 @@ title: "Schedule 2026"
 <br>
 
 ::: {.callout-note}
-Schedule is under development and subject to change. <br>
 <span style="color:#E9967A;">Items highlighted in salmon indicate parallel sessions. Participants may choose one of the two options.</span> 
 :::
  
