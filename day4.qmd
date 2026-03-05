@@ -1,5 +1,5 @@
 ---
-title: "May 7, 2026 – Reuse and Communication"
+title: "7 May 2026 – Reuse and Communication"
 format: html
 ---
  
@@ -7,20 +7,20 @@ format: html
 
 A workshop on data reuse that offers both theoretical and practical guidance on reusing data from research data repositories. Among other things, it covers how to find, access, and evaluate datasets for reuse in new research. The session builds on an authentic research question that participants will address during the workshop! 
 
----
+----
  
 ### Publishing Sensitive Data
 
 This session focuses on the principles and practical steps for publishing sensitive research data in repositories. The session focusses on how to apply the core principle, "as open as possible, as restricted as necessary".  It clarifies what can be shared openly – such as anonymized and aggregated data – and explains the concept of publishing data with access restrictions, especially datasets containing personal information. Attendees will gain practical guidance on reducing risk to participants, legal responsibilities, and best practices for ensuring data reusability and compliance. 
 
----
+----
 
 ### Science Communication
 
 This session explores how researchers can broaden the impact and reach of their work through effective communication and public engagement. It provides an in-depth look at the seven principles of science communication and practical guidance on applying them. It includes strategies for summarizing research for policymakers and stakeholders to support evidence-based decision-making. 
 During this session, participants will work in groups to develop an “elevator pitch” for their research or role!
 
----
+----
 
 ### Science Communication Grand Finale
 

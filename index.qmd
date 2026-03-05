@@ -4,6 +4,10 @@ title: "Open Science in the Swedish Context 2026"
 
 <br>
 
+## Quick Links
+### [Enrollment & practicalities](practicalinformation.qmd)
+### [Course schedule](schedule.qmd)
+
 ## Course Overview
 
 <div class="lesson-overview">

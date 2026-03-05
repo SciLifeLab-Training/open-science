@@ -1,5 +1,5 @@
 ---
-title: "May 6, 2026 – Open Access and Responsible Research"
+title: "6 May 2026 – Open Access and Responsible Research"
 format: html
 ---
  
@@ -9,7 +9,7 @@ This session both examines the development of academic publishing and provides i
 
 Participants will be introduced to key Open Access models (Green, Gold, Hybrid, Bronze, and Diamond) and major policy initiatives. The session also covers practical aspects of open publishing, including preprints, repositories, licensing, copyright, and elements of Open Science workflows such as collaborative writing and open peer review.
 
----
+----
 
 ### Parallel Session
 
@@ -21,13 +21,13 @@ This hands-on session introduces the essentials of Open Access for code and mode
 #### Open Access Scholarly Books
 This discussion-oriented session explores the landscape of open access books. Participants will learn about avenues for securing funding to support open book publishing and review major platforms that facilitate the dissemination of scholarly works. The session will address licensing considerations, including the option of self-archiving your book to maximize accessibility. Be prepared to ask questions about navigating the open access book publishing process.
 
----
+----
 
 ### Citizen Science and Stakeholder Engagement
 
 This session introduces best practices for incorporating Citizen Science into research, highlighting its forms, levels of participation, and key principles. It explains the societal and scientific benefits of Citizen Science, emphasizes funding agencies’ support for open science, and provides guidance on designing inclusive projects, engaging the public, and ensuring data quality, transparency, and ethical considerations. 
 
----
+----
  
 ### Parallel Session
 

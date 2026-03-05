@@ -1,7 +1,10 @@
 ---
 title: "Schedule 2026"
 ---
+
 <br>
+
+### Quick Link: [Back to Course Overview](index.qmd)
 
 ::: {.callout-note}
 <span style="color:#E9967A;">Items highlighted in salmon indicate parallel sessions. Participants may choose one of the two options.</span> 
@@ -9,59 +12,59 @@ title: "Schedule 2026"
  
 <br/>
 
-## **May 4 2026**
+## **[4 May 2026](day1.qmd)**
 
 | Time | Session |  
 |------|------| 
-| 13:00 - 14:00 | **What is Open Science?** |  
-| 14:00 - 14:30 | **The state of Open Science in Sweden** |
-| 14:30 - 15:00 | <span style="color:#58a4bf;">Break</span> |  
-| 15:00 - 16:30 | **The ideology of Open Science** | 
+| 13:00 - 14:00 | **[What is Open Science?](day1.qmd#what-is-open-science)** |  
+| 14:00 - 14:30 | **[The state of Open Science in Sweden](day1.qmd#the-state-of-open-science-in-sweden)** |
+| 14:30 - 15:00 | <span style="color:#09375c;">Break</span> |  
+| 15:00 - 16:30 | **[The ideology of Open Science](day1.qmd#the-ideology-of-open-science)** | 
 : {tbl-colwidths="[25,75]"}  
 
 <br/>
 
-## **May 5 2026**  
+## **[5 May 2026](day2.qmd)**  
 
 | Time | Session | Research phase |
 |------|------|------|
-| 09:00 - 10:30 | **Data Management Plans**  | Plan and Design |
-| 10:30 - 11:00 | <span style="color:#58a4bf;">Break</span> | |
-| 11:00 - 12:00 | <span style="color:#E9967A;">**Intellectual property** - OR - **CARE principles**</span> | Plan and Design |
-| 12:00 - 13:00 | <span style="color:#58a4bf;">Lunch</span> | |
-| 13:00 - 14:30 | **Introduction to repositories, metadata, DOI and licensing**   | Access and Reuse |
-| 14:30 - 15:00 | <span style="color:#58a4bf;">Break</span> | |
-| 15:00 - 16:30 | **Open Educational Resources** | Communicate and Involve |
+| 09:00 - 10:30 | **[Data Management Plans](day2.qmd)**  | Plan and Design |
+| 10:30 - 11:00 | <span style="color:#09375c;">Break</span> | |
+| <span style="color:#E9967A;">11:00 - 12:00</span> | <span style="color:#E9967A;">**[Intellectual property](day2.qmd#intellectual-property)** - OR - **[CARE principles](day2.qmd#care-principles)**</span> | Plan and Design |
+| 12:00 - 13:00 | <span style="color:#09375c;">Lunch</span> | |
+| 13:00 - 14:30 | **[Introduction to repositories, metadata, DOI and licensing](day2.qmd#repositories-metadata-dois-and-licensing)**   | Access and Reuse |
+| 14:30 - 15:00 | <span style="color:#09375c;">Break</span> | |
+| 15:00 - 16:30 | **[Open Educational Resources](day2.qmd#open-educational-resources)** | Communicate and Involve |
 : {tbl-colwidths="[25,50,25]"}  
 
 <br/>
      
-## **May 6 2026**    
+## **[6 May 2026](day3.qmd)**    
 
 | Time | Session | Research phase |
 |------|------|------|
-| 09:00 - 10:30 | **Open Access - Publishing your results** | Publish and Spread |
-| 10:30 - 11:00 | <span style="color:#58a4bf;">Break</span> | |
-| 11:00 - 12:00 | <span style="color:#E9967A;">**Open Access - code and models - OR - Open Acces scholarly books** </span> | Publish and Spread   |
-| 12:00 - 13:00 | <span style="color:#58a4bf;">Lunch</span> | |
-| 13:00 - 14:30 | **Citizen Science and stakeholder engagement** | Collect and Analyze |
-| 14:30 - 15:00 | <span style="color:#58a4bf;">Break</span> | |
-| 15:00 - 16:30 | <span style="color:#E9967A;">**Research with sensitive qualitative data - OR - Research with sensitive quantitative data**</span> |  Collect and Analyze   |
+| 09:00 - 10:30 | **[Open Access - Publishing your results](day3.qmd#open-access-publishing-your-results)** | Publish and Spread |
+| 10:30 - 11:00 | <span style="color:#09375c;">Break</span> | |
+| <span style="color:#E9967A;">11:00 - 12:00</span> | <span style="color:#E9967A;">**[Open Access - code and models](day3.qmd#open-access-code-and-models) - OR - [Open Acces scholarly books](day3.qmd#open-access-scholarly-books)** </span> | Publish and Spread   |
+| 12:00 - 13:00 | <span style="color:#09375c;">Lunch</span> | |
+| 13:00 - 14:30 | **[Citizen Science and stakeholder engagement](day3.qmd#citizen-science-and-stakeholder-engagement)** | Collect and Analyze |
+| 14:30 - 15:00 | <span style="color:#09375c;">Break</span> | |
+| <span style="color:#E9967A;">15:00 - 16:30</span> | <span style="color:#E9967A;">**[Research with sensitive qualitative data](day3.qmd#research-with-sensitive-qualitative-data) - OR - [Research with sensitive quantitative data](day3.qmd#research-with-sensitive-quantitative-data)**</span> |  Collect and Analyze   |
 : {tbl-colwidths="[25,50,25]"} 
 
 <br/>
 
-## **May 7 2026**   
+## **[7 May 2026](day4.qmd)**   
 
 | Time | Session | Research phase |
 |------|------|------|
-| 10:00 - 10:30 | **Reusing research data** | Plan and Design | 
-| 10:30 - 11:00 | <span style="color:#58a4bf;">Break</span> | |
-| 11:00 - 12:00 | **Publishing sensitive data** | Publish and Spread | 
-| 12:00 - 13:00 | <span style="color:#58a4bf;">Lunch</span> | |
-| 13:00 - 14:30 | **Science Communication**  | Communicate and Involve |
-| 14:30 - 15:00 | <span style="color:#58a4bf;">Break</span> | |
-| 15:00 - 16:30 | **Science Communication Grand Finale**   | Communicate and Involve | 
+| 10:00 - 10:30 | **[Reusing research data](day4.qmd#reusing-research-data)** | Plan and Design | 
+| 10:30 - 11:00 | <span style="color:#09375c;">Break</span> | |
+| 11:00 - 12:00 | **[Publishing sensitive data](day4.qmd#publishing-sensitive-data)** | Publish and Spread | 
+| 12:00 - 13:00 | <span style="color:#09375c;">Lunch</span> | |
+| 13:00 - 14:30 | **[Science Communication](day4.qmd#science-communication)**  | Communicate and Involve |
+| 14:30 - 15:00 | <span style="color:#09375c;">Break</span> | |
+| 15:00 - 16:30 | **[Science Communication Grand Finale](day4.qmd#science-communication-grand-finale)**   | Communicate and Involve | 
 : {tbl-colwidths="[25,50,25]"}
 
 <br/>

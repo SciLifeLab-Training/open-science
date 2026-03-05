@@ -1,9 +1,11 @@
 ---
 title: "Enrollment & practicalities"
 ---
+
 <br> 
 
-## Upcoming course instances 
+### Quick Link: [Back to Course Overview](index.qmd)
+<br>
 
 <div class="lesson-overview" {=html}>
 

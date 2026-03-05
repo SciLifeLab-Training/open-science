@@ -1,19 +1,21 @@
 ---
-title: "May 4, 2026 – Foundations of Open Science"
+title: "4 May 2026 – Foundations of Open Science"
 format: html
 ---
+
+### Quick Link: [Back to Course Overview](index.qmd)
 
 ### What is Open Science?
 
 This opening session provides an overview of the principles and practices that define Open Science. It introduces the historical development of Open Science and discusses its potential benefits and challenges for researchers and society.
 
----
+----
 
 ### The State of Open Science in Sweden
 
 This session explores the current landscape of Open Science in Sweden and Europe, both institutionally and at the grassroots level. It presents the six key areas for the development of Open Science in Sweden and highlights major actors such as VR, SUHF, KB, and SND. The session also examines SUHF’s national roadmap and its ten recommendations, and discusses how Swedish higher education institutions are implementing these goals.
 
----
+----
 
 ### The Ideology of Open Science
 

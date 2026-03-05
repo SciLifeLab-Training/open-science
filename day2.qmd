@@ -1,5 +1,5 @@
 ---
-title: "May 5, 2026 – Planning and Sharing Research"
+title: "5 May 2026 – Planning and Sharing Research"
 format: html
 ---
 
@@ -7,7 +7,7 @@ format: html
 
 This session focuses on integrating Open Science practices early in the research process. Participants receive guidance on creating effective data management plans (DMPs), selecting open tools from the start, and understanding the key planning components of a DMP. The session also introduces related strategies such as preregistration and registered reports.
 
----
+----
 
 ### Parallel Session
 
@@ -19,13 +19,13 @@ Discussion centering on intellectual property (IP) and intellectual property rig
 #### CARE Principles
 Introduction to the CARE Principles for Indigenous Data Governance (Collective benefit, Authority to control, Responsibility, Ethics).  The session will explain how these principles differ from traditional approaches to data management, focusing on the ethical, culturally responsive stewardship of Indigenous data. The session will discuss practical strategies for integrating CARE principles into research projects, promoting respect, transparency, and equitable outcomes for Indigenous communities.
 
----
+----
  
 ### Repositories, Metadata, DOIs and Licensing
 
 This session focuses on how to maximize the visibility, accessibility, and reusability of research outputs after publication. It covers best practices for depositing outputs in open repositories, obtaining persistent identifiers, annotating using rich metadata, and applying appropriate open licenses. A practical exercise guides participants through uploading items to a repository (Zenodo), including adding metadata and selecting licenses.
 
----
+----
 
 ### Open Educational Resources
 
