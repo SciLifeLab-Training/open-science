@@ -43,6 +43,20 @@ Karin's research focuses on epigenetics, genetic epidemiology, and environmental
 <br/>
 
 
+#### Helena Francke <a href="https://www.gu.se/en/about/find-staff/helenafrancke"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/helenafrancke/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
+###### Librarian, University of Gothenburg 
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/HelenaFrancke.jpg" alt="Helena Francke" width="80"></td>
+    <td style="width: 80%;"> Helena Francke is a Library and Information Science professional with a shared position between the Social Sciences Library and Digital Services at the University of Gothenburg. She has extensive national and international experience in teaching, research, and academic library practice.
+Her work focuses on supporting doctoral students and faculty with information seeking and publishing strategies, particularly in relation to academic publishing and open access. She is passionate about making academic knowledge and cultural heritage accessible to readers and students worldwide in an open and inclusive way.</td>
+</tr>
+</table>
+
+<br/>
+
+
 #### Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
 ###### Head of Training and Data Steward, NBIS  
 
@@ -66,7 +80,20 @@ Karin's research focuses on epigenetics, genetic epidemiology, and environmental
 </tr>
 </table>
   
-    
+<br/>   
+
+#### Camilla Pettersson <a href="https://www.gu.se/en/about/find-staff/camillapettersson"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/camilla-pettersson-7821901a/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
+###### Librarian, University of Gothenburg 
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/CamillaPettersson.jpg" alt="Camilla Pettersson" width="80"></td>
+    <td style="width: 80%;"> Camilla Pettersson is group leader for Innovation and Utilization at the Research and Innovation Office, University of Gothenburg. In her role, she works primarily with operational planning, strategy, and developing the university's support for the utilization of knowledge and research.
+She has a master's degree in molecular biology and a PhD in medicine. Her areas of expertise include journalism, communication, collaboration with external partners, innovation, knowledge transfer, and the utilization of research in society.</td>
+</tr>
+</table>
+
+ 
 
 <br/>
 
