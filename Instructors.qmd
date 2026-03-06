@@ -11,6 +11,19 @@ date: today
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/StefanEkman.jpg" alt="Stefan Ekman" width="80"></td>
+    <td style="width: 80%;"> Karin Engström is an Associate Professor in the Division of Occupational and Environmental Medicine at Lund University and head of the Epidemiology and Bioinformatics group (EPI@BIO). She also works as a bioinformatics coordinator for the Faculty of Medicine and is involved in the Lund University Bioinformatics Infrastructure (LUBI).
+Karin's research focuses on epigenetics, genetic epidemiology, and environmental medicine, with expertise in bioinformatics and multi-omics data. In addition to her research, she teaches doctoral courses in medical bioinformatics and data analysis in R and organizes the LUBI seminar series.   </td>
+</tr>
+</table>
+
+<br/>
+
+#### Karin Engström <a href="https://portal.research.lu.se/en/persons/karin-engstr%C3%B6m/"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0002-9227-5188" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/karin-engstr%C3%B6m-031b669/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
+###### Professor, Researcher, Lund University
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/KarinE.jpg" alt="Stefan Ekman" width="80"></td>
     <td style="width: 80%;"> Stefan is an Open Science advocate with a docentship in English literature and a background in humanities scholarship. He is a senior advisor at SND and have previously worked as their domain specialist in the humanities. His research experience includes the CAPTURE project, where he investigated paradata in open data publications, and his most recent book (on the social commentary in urban fantasy) was published with diamond open access from Lever Press.   </td>
 </tr>
 </table>
@@ -76,6 +89,18 @@ date: today
 <tr>
     <td style="width: 20%;"><img src="img/ArinTham.jpg" alt="Arin Tham" width="80"></td>
     <td style="width: 80%;"> Arin has a Ph.D. in Peace and Conflict Studies. She works primarily with qualitative data and has coordinated SND:s participation in the Horizon Europe funded 'Skills4EOSC' project.   </td>
+</tr>
+</table>
+
+<br/>
+
+#### Karin Westin Tikkanen <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a> <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/karin-westin-tikkanen/"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
+###### Journalist/Senior Advisor, SND/Gothenburg University
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/KarinWestinTikkanen.jpg" alt="Karin Westin Tikkanen" width="80"></td>
+    <td style="width: 80%;"> Karin has long experience when it comes to writing and lecturing on popular science communication. Her background is in the Humanities sector (Classical languages and Comparative Philology), but she regularly writes popular science pieces also on scientific research. She is a board member of Minerva, the section for narrative non-fiction of the Swedish Writers’ Union. </td>
 </tr>
 </table>
 
