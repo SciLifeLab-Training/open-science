@@ -1,110 +1,95 @@
 ---
-title: "1. OS in Sweden "
+title: "1. Open Science in Sweden "
 ---
 
-Coming soon
-
-<!-- 
 ::: {.callout-tip}
-### Learning Objectives
+### About
+**Purpose:**   
+To develop an understanding of what Open Science entails and introduce the practical implications of Open Science for PhD students. 
 
-By the end of this session, participants will be able to:
+**Learning outcomes:**   
+Upon completion of this assignment, participants will be able to:
 
-- Explain what Open Science is, and discuss the benefits and challenges that come with its 
-implementation  
+- Explain how national Open Science guidelines translate into concrete expectations for researchers in Sweden.
+- Identify realistic, actionable steps for implementing Open Science practices within the participants' own research project.
 
-- Summarize the National Roadmap for Open Science and how it will be 
-implemented in Sweden over the coming years  
+**Duration:**   
+105min
 
+**To-do:**   
+Before this session, complete [assignment 1](Assignment1.qmd) and [group assignment 2](Assignment2.qmd) 
 :::
 
-## Schedule  
-<style>
-  tr:hover {
-    background-color: #F6F8F9;
-  }
-</style>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="border-bottom: 0.5px solid #808080;">
-    <th style="width: 15%;">Time</th>
-    <th style="width: 60%;">Topic</th>
-    <th style="width: 25%;">Instructor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">13:00</td>  
-      <td style="padding: 10px 0;">Welcome & Introduction to Open Science</td>
-      <td style="padding: 10px 0;">Ineke Luijten</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">13:15</td>
-      <td style="padding: 10px 0;">The benefits of Open Science </td>
-      <td style="padding: 10px 0;">Ineke Luijten</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">14:30</td>
-      <td style="padding: 10px 0;">Coffee break</td>
-      <td style="padding: 10px 0;"></td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">15:00</td>
-      <td style="padding: 10px 0;">The state of Open Science in Sweden</td>
-      <td style="padding: 10px 0;">Sabina Anderberg</td>
-    </tr>
-    <tr style="border-bottom: 0.5px solid #808080;">
-      <td style="padding: 10px 0;">16:30</td>
-      <td style="padding: 10px 0;">End of day</td>
-      <td style="padding: 10px 0;"></td>
-    </tr>
-  </tbody>
-</table>
-   
+## 1.1 Presentation
 
-## Materials  
-  
-Coming soon
-  
+Here you can find the presentation for this session:
 
 
-**Lecture videos**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReKsLNaO-R4aO68MHzNGrbuMTxP0itGrLhj9WQjrjCMW-Rp3jIbKMRvAr0FNDfjA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
-
-[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
-
-
-**Lecture slides**  
-
-<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
+  <strong>Reuse:</strong> 
+    <a href="https://docs.google.com/presentation/d/1n9l7ezweX9-evuI56_sgBkeZzs2uZxJn/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1n9l7ezweX9-evuI56_sgBkeZzs2uZxJn/copy" target="_blank">Make a Copy</a> 
 
 
-<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
+## 1.2 Introduction
 
+This session brings together the two self-study assignments you completed before the workshop. Rather than repeating what you read, the goal is to **put that knowledge to work**: to move from understanding what Open Science is and how it is governed in Sweden, to thinking critically about what it means *in practice* for your own PhD project.
 
-**Practical assignments**  
+The session is structured as a workshop. After a short interactive introduction, you will present your group work to translate national Open Science policy into concrete, realistic actions, and to pressure-test those actions against the reality of doing a PhD.
 
-Coming soon  
-  
+## 1.3 Open Science: from policy to practice
+
+Here, you will present your group work from [assignment 2](Assignment2.qmd) 
+
+Each group will:
  
-<br>
+1. Present their plain-language summary (slide 1, maximum 2 minute total).
+2. Present their three concrete action (slide 2) 
+    The audience will vote using colored cards:    
+    🟢 Green = Realistic for most PhD students   
+    🟠 Orange = Depends on field or context   
+    🔴 Red = Largely unrealistic or very difficult.   
+    We will briefly discuss why participants voted differently   
+3. Pose their discussion question   
+    We will discuss for 5–10 minutes before moving to the next group.
+
+## 1.4 The Open Science workflow
+Throughout this course, we will use an Open Science workflow to map open practices onto the research lifecycle, outlined below: 
+
+![](img/image_openscience_workflow.png){ fig-align="left"}
+
+The full workflow covers six stages, from planning and data collection through to communication and evaluation. In this course, we focus on four: Plan & Design, Publish & Spread, Communicate & Involve, Evaluate & Build. 
+The stages Collect & Analyse and Access & Reuse will be covered in detail in the course 
+[Introduction to Data Management Practices](https://nbis.se/training/introduction-to-data-management-practices). 
 
 
-## Contributors
+## 1.5 Key session takeaways
+
+- **'As open as possible, as closed as necessary'** is the most important guiding principle in Open Science. Use it to make reasoned decisions, not to default to either extreme.
+
+- **Three Swedish legal principles** — academic freedom, allmänna handlingar, and lärarundantaget — already embed openness into your research.
+
+- **Open Science is not just open access.** It touches every stage of the research lifecycle, from planning and data collection to publication, communication, and evaluation.
+
+- **You are not responsible for everything.** Funders, universities, and national agencies each carry part of the Open Science burden. Understanding who does what helps you focus your own effort where it actually matters.  
+
+- **Support exists.** Your university library, your data steward, SND, and SciLifeLab's data infrastructure are all there to help you. The most important Open Science skill is often simply knowing who to ask.
+
+
+
+## Reuse
+### Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Sabina Anderberg <a href="https://orcid.org/0000-0002-3344-8130" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
-
-## Reuse  
+### License  
 
 All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
-
-Please cite material as:   
+### Please cite material as:   
    
-> Ineke Luijten, Sabina Anderberg (2024) *Open Science in the Swedish context - session 1: Open Science in Sweden*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html   
+> Ineke Luijten (2026) *Open Science in the Swedish context, DDLS Research school. Session 1: Open Science in Sweden*. Retrieved from https://scilifelab-training.github.io/open-science/2603/Session1.html   
 
 
--->

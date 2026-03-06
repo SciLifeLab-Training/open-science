@@ -234,12 +234,12 @@
   {
     "objectID": "Session1.html",
     "href": "Session1.html",
-    "title": "1. OS in Sweden",
+    "title": "1. Open Science in Sweden",
     "section": "",
-    "text": "Coming soon",
+    "text": "About\n\n\n\nPurpose:\nTo develop an understanding of what Open Science entails and introduce the practical implications of Open Science for PhD students.\nLearning outcomes:\nUpon completion of this assignment, participants will be able to:\n\nExplain how national Open Science guidelines translate into concrete expectations for researchers in Sweden.\nIdentify realistic, actionable steps for implementing Open Science practices within the participants’ own research project.\n\nDuration:\n105min\nTo-do:\nBefore this session, complete assignment 1 and group assignment 2",
     "crumbs": [
       "Content",
-      "1. OS in Sweden"
+      "1. Open Science in Sweden"
     ]
   },
   {
@@ -278,9 +278,9 @@
   {
     "objectID": "Session1.html#reuse",
     "href": "Session1.html#reuse",
-    "title": "1. OS in Sweden",
+    "title": "1. Open Science in Sweden",
     "section": "Reuse",
-    "text": "Reuse\nAll materials from this session are available for re-use under \nPlease cite material as:\n\nIneke Luijten, Sabina Anderberg (2024) Open Science in the Swedish context - session 1: Open Science in Sweden. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session1.html",
+    "text": "Reuse\n\nContributors\n\nIneke Luijten \n\n\n\nLicense\nAll materials from this session are available for re-use under \n\n\nPlease cite material as:\n\nIneke Luijten (2026) Open Science in the Swedish context, DDLS Research school. Session 1: Open Science in Sweden. Retrieved from https://scilifelab-training.github.io/open-science/2603/Session1.html",
     "crumbs": [
       "Content",
       "1. Open Science in Sweden"
@@ -574,6 +574,83 @@
     "text": "Feb 23 - March 18, self-study\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\nN/A\nAssignment 1: Open Science in the Swedish academic framework\n\n\nN/A\nAssignment 2: OS in Sweden: what, why, how and who?\n\n\nN/A\nAssignment 3: Types of Open Access publishing",
     "crumbs": [
       "Schedule"
+    ]
+  },
+  {
+    "objectID": "Session1.html#presentation",
+    "href": "Session1.html#presentation",
+    "title": "1. Open Science in Sweden",
+    "section": "1.1 Presentation",
+    "text": "1.1 Presentation\nHere you can find the presentation for this session:\n\n\nReuse: View in Google Slides | Make a Copy",
+    "crumbs": [
+      "Content",
+      "1. Open Science in Sweden"
+    ]
+  },
+  {
+    "objectID": "Session1.html#content",
+    "href": "Session1.html#content",
+    "title": "1. Open Science in Sweden",
+    "section": "1.2 Content",
+    "text": "1.2 Content\nThis session brings together the two self-study assignments you completed before the workshop. Rather than repeating what you read, the goal is to put that knowledge to work: to move from understanding what Open Science is and how it is governed in Sweden, to thinking critically about what it means in practice for your own PhD project.\nThe session is structured as a workshop. After a short interactive introduction, you will present your group work to translate national Open Science policy into concrete, realistic actions, and to pressure-test those actions against the reality of doing a PhD.",
+    "crumbs": [
+      "Content",
+      "1. Open Science in Sweden"
+    ]
+  },
+  {
+    "objectID": "Session1.html#session-content",
+    "href": "Session1.html#session-content",
+    "title": "1. Open Science in Sweden",
+    "section": "1.2 Session content",
+    "text": "1.2 Session content\n\nIntroduction\nThis session brings together the two self-study assignments you completed before the workshop. Rather than repeating what you read, the goal is to put that knowledge to work: to move from understanding what Open Science is and how it is governed in Sweden, to thinking critically about what it means in practice for your own PhD project.\nThe session is structured as a workshop. After a short interactive introduction, you will present your group work to translate national Open Science policy into concrete, realistic actions, and to pressure-test those actions against the reality of doing a PhD.\n\n\nOpen Science: from policy to practice\nHere, you will present your group work from assignment 2\nEach group will:\n\nPresent their plain-language summary (slide 1, maximum 2 minute total).\nPresent their three concrete action (slide 2) The audience will vote using colored cards:\n🟢 Green = Realistic for most PhD students\n🟠 Orange = Depends on field or context\n🔴 Red = Largely unrealistic or very difficult.\nWe will briefly discuss why participants voted differently\n\nPose their discussion question\nWe will discuss for 5–10 minutes before moving to the next group.\n\n\n\nThe Open Science workflow\n\n\n\n\n\n\nKey session takeaways\n\n‘As open as possible, as closed as necessary’ is a genuine guiding principle, not an excuse for inaction. Use it to make reasoned decisions, not to default to either extreme.\nThree Swedish legal principles — academic freedom, allmänna handlingar, and lärarundantaget — already embed openness into your research, whether you call it Open Science or not.\nOpen Science is not just open access. It touches every stage of the research lifecycle, from planning and data collection to publication, communication, and evaluation.\nSupport exists. Your university library, your data steward, SND, and SciLifeLab’s data infrastructure are all there to help you. The most important Open Science skill is often simply knowing who to ask.\nYou are not responsible for everything. Funders, universities, and national agencies each carry part of the Open Science burden. Understanding who does what helps you focus your own effort where it actually matters.",
+    "crumbs": [
+      "Content",
+      "1. Open Science in Sweden"
+    ]
+  },
+  {
+    "objectID": "Session1.html#introduction",
+    "href": "Session1.html#introduction",
+    "title": "1. Open Science in Sweden",
+    "section": "1.2 Introduction",
+    "text": "1.2 Introduction\nThis session brings together the two self-study assignments you completed before the workshop. Rather than repeating what you read, the goal is to put that knowledge to work: to move from understanding what Open Science is and how it is governed in Sweden, to thinking critically about what it means in practice for your own PhD project.\nThe session is structured as a workshop. After a short interactive introduction, you will present your group work to translate national Open Science policy into concrete, realistic actions, and to pressure-test those actions against the reality of doing a PhD.",
+    "crumbs": [
+      "Content",
+      "1. Open Science in Sweden"
+    ]
+  },
+  {
+    "objectID": "Session1.html#open-science-from-policy-to-practice",
+    "href": "Session1.html#open-science-from-policy-to-practice",
+    "title": "1. Open Science in Sweden",
+    "section": "1.3 Open Science: from policy to practice",
+    "text": "1.3 Open Science: from policy to practice\nHere, you will present your group work from assignment 2\nEach group will:\n\nPresent their plain-language summary (slide 1, maximum 2 minute total).\nPresent their three concrete action (slide 2) The audience will vote using colored cards:\n🟢 Green = Realistic for most PhD students\n🟠 Orange = Depends on field or context\n🔴 Red = Largely unrealistic or very difficult.\nWe will briefly discuss why participants voted differently\n\nPose their discussion question\nWe will discuss for 5–10 minutes before moving to the next group.",
+    "crumbs": [
+      "Content",
+      "1. Open Science in Sweden"
+    ]
+  },
+  {
+    "objectID": "Session1.html#the-open-science-workflow",
+    "href": "Session1.html#the-open-science-workflow",
+    "title": "1. Open Science in Sweden",
+    "section": "1.4 The Open Science workflow",
+    "text": "1.4 The Open Science workflow\nThroughout this course, we will use an Open Science workflow to map open practices onto the research lifecycle, outlined below:\n\n\n\n\n\nThe full workflow covers six stages, from planning and data collection through to communication and evaluation. In this course, we focus on four: Plan & Design, Publish & Spread, Communicate & Involve, Evaluate & Build. The stages Collect & Analyse and Access & Reuse will be covered in detail in the course Introduction to Data Management Practices.",
+    "crumbs": [
+      "Content",
+      "1. Open Science in Sweden"
+    ]
+  },
+  {
+    "objectID": "Session1.html#key-session-takeaways",
+    "href": "Session1.html#key-session-takeaways",
+    "title": "1. Open Science in Sweden",
+    "section": "1.5 Key session takeaways",
+    "text": "1.5 Key session takeaways\n\n‘As open as possible, as closed as necessary’ is the most important guiding principle in Open Science. Use it to make reasoned decisions, not to default to either extreme.\nThree Swedish legal principles — academic freedom, allmänna handlingar, and lärarundantaget — already embed openness into your research.\nOpen Science is not just open access. It touches every stage of the research lifecycle, from planning and data collection to publication, communication, and evaluation.\nYou are not responsible for everything. Funders, universities, and national agencies each carry part of the Open Science burden. Understanding who does what helps you focus your own effort where it actually matters.\nSupport exists. Your university library, your data steward, SND, and SciLifeLab’s data infrastructure are all there to help you. The most important Open Science skill is often simply knowing who to ask.",
+    "crumbs": [
+      "Content",
+      "1. Open Science in Sweden"
     ]
   }
 ]
