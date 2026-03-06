@@ -16,7 +16,7 @@ website:
     style: "docked"
     background: "white"
     search: true
-    collapse: true   # this enables automatic collapsing on narrow screens
+    collapse: false   # this enables automatic collapsing on narrow screens
     fontsize: 35px
     contents: 
       - text: "Open Science in the Swedish Context"  # Sidebar title
