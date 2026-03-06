@@ -26,6 +26,8 @@ website:
         href: index.qmd
       - text: "Enrollment & practicalities"
         href: practicalinformation.qmd
+      - text: "Instructors"
+        href: Instructors.qmd  
       - text: "Schedule"
         href: schedule.qmd  
       - section: "Content"

@@ -3,19 +3,43 @@ title: "Instructors"
 date: today
 ---
 
-
 <br/>
 
-#### David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
-###### Training Coordinator, SND <a href="https://snd.se/en"><img src="img/SND_logotyp_eng.png" alt="" width="20" height="20"></a>
+#### Stefan Ekman <a href="https://snd.se/en"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0003-0902-5637" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/stefanuekman/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
+###### Training Coordinator, SND 
 
 <table>
 <tr>
-    <td style="width: 20%;"><img src="img/DavidRayner.jpg" alt="David Rayner" width="80"></td>
-    <td style="width: 80%;"> David coordinates education ventures for the Swedish National Data service. He liaises with researchers and domain specialists to identify new functionality and training needs.   </td>
+    <td style="width: 20%;"><img src="img/StefanEkman.jpg" alt="Stefan Ekman" width="80"></td>
+    <td style="width: 80%;"> Stefan is an Open Science advocate with a docentship in English literature and a background in humanities scholarship. He is a senior advisor at SND and have previously worked as their domain specialist in the humanities. His research experience includes the CAPTURE project, where he investigated paradata in open data publications, and his most recent book (on the social commentary in urban fantasy) was published with diamond open access from Lever Press.   </td>
 </tr>
 </table>
-  
+
+<br/>
+
+#### Mattias von Feilitzen <a href="https://www.gu.se/en/about/find-staff/mattiasneht"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/mattias-von-feilitzen-5231a263/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
+###### Educational Developer, University of Gothenburg 
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/MattiasvonFeilitzen.jpg" alt="NAME" width="80"></td>
+    <td style="width: 80%;"> Mattias von Feilitzen is Educational Developer at the Department of Applied IT at the University of Gothenburg and director of Gothenburg Knowledge Lab. He has taught teacher-training courses for over 20 years and is particularly interested in how digitization and digital tools affect higher education and schools. In recent years, his work has increasingly focused on generative AI and its significance for education. He works to strengthen teachers' understanding of the role of digitalisation in education and how digital tools, including AI, can be used in a conscious and responsible manner. </td>
+</tr>
+</table>
+
+<br/>
+
+
+#### Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+###### Head of Training and Data Steward, NBIS  
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/ElinKronander.png" alt="Elin Kronander" width="80"></td>
+    <td style="width: 80%;"> Elin leads initiatives to enhance data management and bioinformatics education. With expertise in implementing FAIR data principles, she supports researchers across Sweden's scientific community in managing and sharing data effectively to promote open science.  </td>
+</tr>
+</table>
+
 <br/> 
 
 
@@ -30,23 +54,43 @@ date: today
 </table>
   
     
+
 <br/>
 
-
-#### Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
-###### Head of Training and Data Steward, NBIS  
+#### David Rayner <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a>  <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://https://github.com/David-Rayner-GVC" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>
+###### Training Coordinator, SND
 
 <table>
 <tr>
-    <td style="width: 20%;"><img src="img/ElinKronander.png" alt="Elin Kronander" width="80"></td>
-    <td style="width: 80%;"> Elin leads initiatives to enhance data management and bioinformatics education. With expertise in implementing FAIR data principles, she supports researchers across Sweden's scientific community in managing and sharing data effectively to promote open science.  </td>
+    <td style="width: 20%;"><img src="img/DavidRayner.jpg" alt="David Rayner" width="80"></td>
+    <td style="width: 80%;"> David coordinates education ventures for the Swedish National Data service. He liaises with researchers and domain specialists to identify new functionality and training needs.   </td>
 </tr>
 </table>
 
 <br/>
 
+#### Arin Tham <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a>
+###### Research data Advisor, SND 
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/ArinTham.jpg" alt="Arin Tham" width="80"></td>
+    <td style="width: 80%;"> Arin has a Ph.D. in Peace and Conflict Studies. She works primarily with qualitative data and has coordinated SND:s participation in the Horizon Europe funded 'Skills4EOSC' project.   </td>
+</tr>
+</table>
 
 <!--
+<br/>
+
+#### NAME <a href="https://orcid.org/XXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  
+###### ROLE, ORG <a href="hemsida"><img src="img/ORG_logotyp_eng.png" alt="" width="20" height="20"></a>
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/IMAGE.jpg" alt="NAME" width="80"></td>
+    <td style="width: 80%;"> BIO  </td>
+</tr>
+</table>
 
 
 #### Jessica Lindvall, PhD  <a href="https://orcid.org/0000-0002-5042-8481" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://se.linkedin.com/in/jessica-lindvall-310a8132" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
