@@ -23,8 +23,7 @@ date: today
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/KarinE.jpg" alt="Stefan Ekman" width="80"></td>
-    <td style="width: 80%;">  Karin Engström is an Associate Professor in the Division of Occupational and Environmental Medicine at Lund University and head of the Epidemiology and Bioinformatics group (EPI@BIO). She also works as a bioinformatics coordinator for the Faculty of Medicine and is involved in the Lund University Bioinformatics Infrastructure (LUBI).
-Karin's research focuses on epigenetics, genetic epidemiology, and environmental medicine, with expertise in bioinformatics and multi-omics data. In addition to her research, she teaches doctoral courses in medical bioinformatics and data analysis in R and organizes the LUBI seminar series. </td>
+    <td style="width: 80%;">  Karin Engström is an Associate Professor in the Division of Occupational and Environmental Medicine at Lund University and head of the Epidemiology and Bioinformatics group (EPI@BIO). Karin's research focuses on epigenetics, genetic epidemiology, and environmental medicine, with expertise in bioinformatics and multi-omics data. In addition to her research, she teaches doctoral courses in medical bioinformatics and data analysis in R. </td>
 </tr>
 </table>
 
@@ -49,8 +48,7 @@ Karin's research focuses on epigenetics, genetic epidemiology, and environmental
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/HelenaFrancke.jpg" alt="Helena Francke" width="80"></td>
-    <td style="width: 80%;"> Helena Francke is a Library and Information Science professional with a shared position between the Social Sciences Library and Digital Services at the University of Gothenburg. She has extensive national and international experience in teaching, research, and academic library practice.
-Her work focuses on supporting doctoral students and faculty with information seeking and publishing strategies, particularly in relation to academic publishing and open access. She is passionate about making academic knowledge and cultural heritage accessible to readers and students worldwide in an open and inclusive way.</td>
+    <td style="width: 80%;"> Helena Francke is an associate professor of Library and Information Science at the University of Borås. She also works as a librarian focusing on research- and publishing support at the Social Sciences Libraries at the University of Gothenburg. She has extensive national and international experience in teaching, research, and academic library practice in the areas of academic publishing and open science.</td>
 </tr>
 </table>
 
@@ -100,8 +98,9 @@ Her work focuses on supporting doctoral students and faculty with information se
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/CamillaPettersson.jpg" alt="Camilla Pettersson" width="80"></td>
-    <td style="width: 80%;"> Camilla Pettersson is group leader for Innovation and Utilization at the Research and Innovation Office, University of Gothenburg. In her role, she works primarily with operational planning, strategy, and developing the university's support for the utilization of knowledge and research.
-She has a master's degree in molecular biology and a PhD in medicine. Her areas of expertise include journalism, communication, collaboration with external partners, innovation, knowledge transfer, and the utilization of research in society.</td>
+    <td style="width: 80%;"> Camilla Pettersson is team leader for Innovation Office at the University of Gothenburg. In her role, she works primarily with planning and managing the Office's activities, as well as strategy and development of the university's support for the utilization of knowledge and research.
+She holds a master's degree in molecular biology and a PhD in medicine, as well as training in journalism and communication. She has worked as an innovation advisor since 2011 and as a team leader since 2019. Her areas of expertise include journalism, communication, collaboration with external partners, innovation, knowledge transfer, and the utilization of research in society.
+</td>
 </tr>
 </table>
 
