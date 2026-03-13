@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.340">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>2. OS in project planning &amp; design</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./Session3.html" rel="next">
+<link href="./Session1.html" rel="prev">
+<link href="./img/OSitSCfavicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed fullcontent">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./img/SciLifeLab_Logotype_NEG.png" alt="" class="navbar-logo">
+    </a>
+  </div>
+        <div class="quarto-navbar-tools ms-auto">
+</div>
+          <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Assignment1.html">Content</a></li><li class="breadcrumb-item"><a href="./Session2.html">2. OS in project planning &amp; design</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+ <span class="menu-text">Open Science in the Swedish Context</span>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Syllabus</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Schedule.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Schedule</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Content</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Assignment1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assignment 1: The Swedish academic framework</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Assignment2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assignment 2: OS in Sweden: what, why, how and who?</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Assignment3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assignment 3: Types of Open Access publishing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Session1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">1. Open Science in Sweden</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Session2.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">2. OS in project planning &amp; design</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Session3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">3. OS in project sharing &amp; publishing</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Session4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">4. OS in researcher evaluation</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Assignment4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Assignment 4: Citizen science and science communication</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">2. OS in project planning &amp; design</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+About
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Purpose:</strong><br>
+To help participants identify the transparency practices in the plan and design stage of research that are most appropriate for their own project, taking into account both intellectual property considerations and their research type.</p>
+<p><strong>Learning outcomes:</strong><br>
+Upon completion of this assignment, participants will be able to:</p>
+<ul>
+<li>Evaluate intellectual property considerations in their projects</li>
+<li>Distinguish between confirmatory and exploratory research approaches</li>
+<li>Select appropriate transparency practices and identify concrete actions they can take within their own project</li>
+</ul>
+<p><strong>Duration:</strong><br>
+75min</p>
+</div>
+</div>
+<section id="presentation" class="level2">
+<h2 class="anchored" data-anchor-id="presentation">2.1 Presentation</h2>
+<p>Here you can find the presentation for this session:</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0RxxU8lk7a09uLu_KbJrkpUQav-fe9Kp1kKYrlnS2IMoz6IR7TXAMiEQPT7fS3-tLtGcSvzdBDjn8/pubembed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+<p><strong>Reuse:</strong> <a href="https://docs.google.com/presentation/d/1hr-5zVQ2hGXQKFDwAHZmNQ1xUM9eka_PlIgQPkbPjy8/view" target="_blank">View in Google Slides</a> | <a href="https://docs.google.com/presentation/d/1hr-5zVQ2hGXQKFDwAHZmNQ1xUM9eka_PlIgQPkbPjy8/copy" target="_blank">Make a Copy</a></p>
+</section>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">2.2 Introduction</h2>
+<p>This session focuses on the first stage of the Open Science workflow: <strong>plan and design</strong>. Open Science in the planning and design stage is about making early decisions in your research transparent: <strong>not to constrain your research, but to create an honest record of your intentions before results are known.</strong></p>
+<p>The session is structured as a guided workshop. Rather than presenting a single, one-size-fits-all solution, the session starts from where you actually are: you will evaluate your own Intellectual Property (IP) situation and research type. We will map the range of research approaches in the room, and will then explore why transparency in research design matters. A spectrum of open practices in research project planning &amp; designing will be introduced, from open lab notebooks to registered reports. Based on your IP situation and research type, you will evaluate where your project sits on the openness-constraint matrix and leave with one specific action to take forward.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="img/image_openscience_workflow_plandesign.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="the-open-science-workflow-plan-design" class="level2">
+<h2 class="anchored" data-anchor-id="the-open-science-workflow-plan-design">2.3 The Open Science workflow: Plan &amp; Design</h2>
+<p>The planning and design stage is where Open Science starts, before you have collected a single data point or run a single analysis. The decisions you make now about how to document, share, and structure your research will shape everything that follows. Thinking about openness at this stage is not just an administrative task to get out of the way: it is one of the most effective things you can do to improve the quality and credibility of your research.</p>
+<section id="why-does-openness-in-planning-and-design-matter" class="level3">
+<h3 class="anchored" data-anchor-id="why-does-openness-in-planning-and-design-matter">Why does openness in planning and design matter?</h3>
+<ul>
+<li><p><strong>It reduces publication bias and increases reporting of null results</strong><br>
+Research that produces positive, statistically significant results is far more likely to be published than research that produces null or negative results (see e.g.&nbsp;1, 2, 3). Studies that find no effect tend to end up in the file drawer, written up but never submitted, or submitted and rejected. <strong>This publication bias creates a systematic distortion in the published literature:</strong> the evidence base looks more certain and more positive than the underlying reality of all the research conducted.<br>
+This distortion has consequences. When researchers build on an inflated literature, funders invest in follow-up work that cannot replicate the original, and in clinical or applied contexts, decisions may be based on a systematically overstated picture of what works. <strong>This is the replication crisis: the difficulty or inability to reproduce published scientific findings</strong> that has been documented across psychology, cancer biology, neuroimaging, and many other fields (e.g.&nbsp;4, 5, 6).<br>
+<strong>Sharing your experimental plan before data collection is one of the most effective responses to this problem.</strong> Studies that are preregistered show a marked increase in null results compared to unregistered studies (e.g.&nbsp;7, 8, 9), because it removes the incentive to selectively report only positive findings.</p></li>
+<li><p><strong>It improves planning &amp; study design</strong><br>
+Writing down your hypotheses, methods, and analysis plan before data collection forces a level of clarity that informal planning does not. It encourages a comprehensive overview of the study before you are committed to a path and helps you catch errors.</p></li>
+<li><p><strong>It enables early feedback when changes can still be made</strong><br>
+Sharing your study design or protocol before data collection opens it up to input from colleagues, collaborators, or the wider research community at a point when adjustments are still straightforward. Making your plans visible early turns design review from an exception into a normal part of the research process, and creates natural opportunities for collaboration with researchers working on related questions.</p></li>
+<li><p><strong>It protects you and your research from scooping and study cancellation</strong><br>
+Sharing your plans publicly creates a verifiable, timestamped record that you had an idea first. This discourages direct copying, provides evidence in priority disputes, and can prevent accidental overlap with other researchers working on similar questions. These researchers may actually choose to collaborate rather than compete once they find your shared plan.<br>
+If a study is cancelled for any reason, a shared plan also provides a record of the hypothesis, methodology, and reason for stopping, ensuring that your work is not simply lost if a project ends early or changes direction.</p></li>
+<li><p><strong>It limits questionable research practices (QRPs)</strong><br>
+Between outright fraud and perfectly clean research lies a large grey zone of practices that are common, often not considered unethical, but that cumulatively distort the literature, termed QRPs. Early planning and design transparency addresses many QRPs directly, as outlined in the table below.<br>
+However, transparency in planning and design does however not solve every QRP. It can for example not always prevent poor documentation of data handling or outright fabrication and falsification of data. QRPs that occur during manuscript writing (e.g.&nbsp;cherry-picking studies in literature reviews, salami slicing, and authorship disputes and conflicts of interest) can also not be prevented by transparency in planning and design.</p></li>
+</ul>
+<table class="table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 70%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>QRP</th>
+<th>How transparency in planning and design helps</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>HARKing</strong> (Hypothesising After Results are Known)</td>
+<td>Fixes hypotheses before data collection, so post hoc adjustments are visible as deviations</td>
+</tr>
+<tr class="even">
+<td><strong>Fishing / data dredging</strong></td>
+<td>Requires analyses to be specified in advance, reducing the temptation to test many hypotheses and report only significant ones</td>
+</tr>
+<tr class="odd">
+<td><strong>Overfitting</strong></td>
+<td>Hypotheses are set before the data is seen, preventing tailoring of hypotheses to fit a specific dataset</td>
+</tr>
+<tr class="even">
+<td><strong>Undisclosed multiple testing</strong></td>
+<td>All planned statistical tests must be specified upfront, preventing selective reporting of only significant tests</td>
+</tr>
+<tr class="odd">
+<td><strong>P-hacking</strong></td>
+<td>Pre-specified analyses make it detectable when extra tests are added after the fact to hunt for significance</td>
+</tr>
+<tr class="even">
+<td><strong>The garden of forking paths</strong></td>
+<td>A clear analysis plan reduces arbitrary decision-making during analysis that could lead to different conclusions</td>
+</tr>
+<tr class="odd">
+<td><strong>Optional stopping / data peeking</strong></td>
+<td>Pre-specified sample size prevents stopping data collection as soon as a significant result appears</td>
+</tr>
+<tr class="even">
+<td><strong>Post hoc variable creation</strong></td>
+<td>Variables must be defined in advance, preventing reclassification or redefinition of variables to produce desired results</td>
+</tr>
+<tr class="odd">
+<td><strong>Undisclosed use of covariates</strong></td>
+<td>Forces transparency about whether and which covariates will be included before analysis begins</td>
+</tr>
+<tr class="even">
+<td><strong>Spin and misrepresentation of results</strong></td>
+<td>Creates a public record of planned outcomes that readers can compare against what was actually reported</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="openness-in-your-own-projects-planning-and-design" class="level3">
+<h3 class="anchored" data-anchor-id="openness-in-your-own-projects-planning-and-design">Openness in your own project’s planning and design</h3>
+<p>The goal of transparency in planning and design is to make your reasoning visible before your results are known to clearly separate what you intended from what you found. As outlined above, there are real benefits to doing this. However, there is no one-size-fits-all approach. The right transparency practice depends on your research type and your specific project context. Before you can decide how open to be, you first need to answer these two questions:</p>
+<p><strong><em>1. Does your project have IP or patent potential?</em></strong><br>
+In biomedical and life sciences research, the following types of outputs are commonly patentable:</p>
+<ul>
+<li>Novel molecules, compounds, or drug candidates</li>
+<li>Diagnostic methods or biomarkers</li>
+<li>Therapeutic targets or treatment methods</li>
+<li>Novel laboratory methods, assays, or protocols</li>
+<li>Software or algorithms with a specific technical application</li>
+<li>Medical devices or instrumentation</li>
+</ul>
+<p>To be patentable, an invention must meet three core criteria: it must be <strong>novel</strong> (not previously disclosed anywhere in the world), <strong>inventive</strong> (not obvious to someone skilled in the field), and <strong>industrially applicable</strong> (capable of being used in practice).<br>
+The novelty requirement is where early sharing becomes critical: under European patent law, <em>any</em> public disclosure of an invention before a patent application is filed can invalidate the application entirely. This includes preprints, public OSF registrations, conference presentations, open lab notebook entries, and informal posts on research platforms.<br>
+This does not mean IP-sensitive research cannot be open: it means the timing and format of openness need to be planned carefully.</p>
+<p><strong><em>2. Is your research confirmatory or exploratory?</em></strong><br>
+Different types of research have different relationships with transparency in the planning and design stage. The nature of your research shapes which transparency practices are appropriate and how you apply them.<br>
+<strong>Confirmatory research</strong> (see table below) tests a predefined hypothesis with a structured plan. It is hypothesis-testing, results-independent, and based on strong prior theory. The study design, analyses, and predictions are planned before data collection begins, and the goal is to evaluate whether the data supports or refutes a specific prediction.<br>
+<strong>Exploratory research</strong> operates without clear hypotheses and aims to generate new ideas or identify patterns in data. It is hypothesis-generating, result-dependent, and typically based on weaker prior theory. The research questions and analytical approaches often emerge from the data itself, making it inherently less structured in advance.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="img/image_types_of_research.png" class="img-fluid figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+<p>Most PhD research involves elements of both. The key is to be explicit about which parts of your work are confirmatory and which are exploratory, and to choose your transparency practice accordingly.</p>
+</section>
+<section id="the-openness-constraint-spectrum" class="level3">
+<h3 class="anchored" data-anchor-id="the-openness-constraint-spectrum">The openness-constraint spectrum</h3>
+<p>Once you have determined if there is IP in your project and which elements in your project are confirmatory and explopratory, you can start implementing open practices in the planning and design of your project. There is no single right answer for how to make your planning and design transparent. Instead, there is a spectrum of practices that vary along two axes:</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="img/image_openness_constraint_matrix.png" class="img-fluid figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p><strong>Openness: how visible can your process be to others?</strong> From private and internal, through shared with collaborators and publicly archived, to fully public and citable.</p>
+<p><strong>Constraint: how much does the practice lock in your decisions before results are known?</strong> From no pre-specification, through documenting decisions as they are made, to pre-specifying your analytical approach, to pre-specifying your hypothesis and analysis plan, to a peer-reviewed commitment made before data collection begins.</p>
+<p>The right position on this spectrum depends on your IP situation, your research type, your field’s norms, and what is practically feasible at your career stage. For example, exploratory research without IP belongs in the high-openness, low-constraint quadrant, while confirmatory research without IP can aim for high openness and high constraint. Projects with IP by definition need to be in the low openness quadrants, but can still have varying levels of constraint.</p>
+<p><strong>To determine which transparency practices are right for you at the planning and design stage, work through the exercise below.</strong></p>
+</section>
+</section>
+<section id="transparency-practices-for-your-own-project" class="level2">
+<h2 class="anchored" data-anchor-id="transparency-practices-for-your-own-project">2.4 Transparency practices for your own project</h2>
+<div class="callout callout-style-default callout-note callout-titled" title="Assignment">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Assignment
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This exercise helps you identify which transparency practices are realistic and appropriate for your own project. Work through the three steps below and record your findings on the <strong><a href="img/file_session2_worksheet.docx">worksheet</a></strong>.</p>
+<ul>
+<li><p><strong>Step 1: Map your project</strong><br>
+Take a few minutes to answer the questions in the worksheet about your own PhD project. The goal of this is to determine which parts of your project involve potentially patentable or commercially sensitive material, and which do not; and which parts of your research are confirmatory and which are exploratory.</p></li>
+<li><p><strong>Step 2: Select one part to focus on</strong><br>
+Choose one part of your project to focus on (ideally one that is active or starting soon) and identify which of the research profiles below most closely describes it. Now read through the transparency practices available for that profile and on the worksheet, identify 2-3 practices that feel most relevant to you.</p></li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled" title="Profile 1: Confirmatory projects without IP">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Profile 1: Confirmatory projects without IP
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Your research tests a specific hypothesis with a structured design, and your outputs are not commercially sensitive. This is the profile where the full range of transparency practices is available to you, and where the evidence for the benefits of early sharing is strongest. You are encouraged to aim as high on the openness-constraint spectrum as your project allows.</p>
+<p>Practices available:</p>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 40%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Practice</th>
+<th>What it entails</th>
+<th>Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Hypothesis sharing</strong></td>
+<td>Publicly stating your research question or prediction before you have results, creating a verifiable timestamped record that separates what you expected from what you found</td>
+<td><a href="https://osf.io">OSF</a> — free open research platform · <a href="https://zenodo.org">Zenodo</a> — CERN-hosted repository, can be linked to SciLifeLab community · <a href="https://figshare.scilifelab.se">SciLifeLab Figshare</a> — SciLifeLab’s data repository · <a href="https://github.com">GitHub</a> — version-controlled code and document hosting</td>
+</tr>
+<tr class="even">
+<td><strong>Crowdsourcing feedback on study design</strong></td>
+<td>Opening your study design, hypothesis, or protocol to input from the wider research community before data collection begins</td>
+<td><a href="https://www.researchgate.net">ResearchGate</a> — academic social network · <a href="https://help.osf.io/article/353-welcome-to-projects">OSF public project page</a> — shareable project workspace · <a href="https://slack.com">Slack</a> / <a href="https://discord.com">Discord</a> — messaging platforms with discipline-specific research communities</td>
+</tr>
+<tr class="odd">
+<td><strong>Open lab notebook</strong></td>
+<td>A real-time, shareable record of your research process including hypotheses, decisions, dead ends, and changes of direction, made publicly available or archived with a verifiable timestamp</td>
+<td><a href="https://osf.io">OSF</a> — <a href="https://www.youtube.com/watch?v=2RUJLkQBDNw">video: how to use OSF as a lab journal</a> · <a href="https://www.elabftw.net">eLabFTW</a> — open-source electronic lab notebook · <a href="https://github.com">GitHub</a> — <a href="https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00032j">guide 1</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11828340/">guide 2</a> · <a href="https://jupyter.org">Jupyter Notebooks</a> — interactive code and narrative documents</td>
+</tr>
+<tr class="even">
+<td><strong>Pre-specified analysis script</strong></td>
+<td>Writing your full analysis code before running it on real data using simulated or pilot data to develop and test the pipeline, and archiving it publicly before the main analysis begins.</td>
+<td><a href="https://github.com">GitHub</a> — version-controlled code hosting · <a href="https://osf.io">OSF</a> — free open research platform · <a href="https://zenodo.org">Zenodo</a> — CERN-hosted repository</td>
+</tr>
+<tr class="odd">
+<td><strong>Pre-analysis plan</strong></td>
+<td>A document written before data analysis that specifies variables, statistical approaches, and how outliers and missing data will be handled, distinguishing pre-specified from exploratory analyses</td>
+<td><a href="https://osf.io">OSF</a> — free open research platform · <a href="https://zenodo.org">Zenodo</a> — CERN-hosted repository · <a href="https://github.com">GitHub</a> — version-controlled document hosting</td>
+</tr>
+<tr class="even">
+<td><strong>Protocol publication</strong></td>
+<td>A standalone peer-reviewed paper describing your study design, methods, and analysis plan in full, published before or alongside your study as a permanent citable record</td>
+<td><a href="https://www.protocols.io/">Protocols.io</a> — dedicated protocol sharing platform, can combine with <a href="https://journals.plos.org/plosone/s/what-we-publish">PLOS ONE Lab Protocols</a> · <a href="https://www.cell.com/star-protocols/home">STAR Protocols</a> — Cell Press methods journal · <a href="https://www.sciencedirect.com/journal/methodsx">MethodsX</a> — Elsevier methods journal</td>
+</tr>
+<tr class="odd">
+<td><strong>Public study preregistration</strong></td>
+<td>Publicly registering your hypothesis, design, sampling plan, and analysis approach on a timestamped platform before data collection begins, making deviations from the plan transparent</td>
+<td><a href="https://aspredicted.org/index.php">AsPredicted</a> — simple nine-question preregistration form · <a href="https://osf.io/zab38/wiki?wiki=dmbcy">OSF preregistration templates</a> — flexible templates for different study types · <a href="https://www.lakemedelsverket.se/en/permission-approval-and-control/clinical-trials/medicinal-products-for-human-use/clinical-trials-regulation-eu-536-2014/apply-for-clinical-trial-permit-according-to-regulation-536-2014#hmainbody1">Läkemedelsverket</a> — Swedish registry for clinical trials of medicinal products · <a href="https://www.crd.york.ac.uk/prospero/">PROSPERO</a> — international registry for systematic reviews</td>
+</tr>
+<tr class="even">
+<td><strong>Registered report</strong></td>
+<td>A journal submission format in which introduction and methods are peer-reviewed before data collection; if accepted in principle, the journal commits to publish regardless of results</td>
+<td>Check <a href="https://www.cos.io/initiatives/registered-reports">cos.io/rr</a> for a full list of participating journals across disciplines</td>
+</tr>
+</tbody>
+</table>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="img/image_registeredreport.png" class="img-fluid figure-img" style="width:40.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="Profile 2: Confirmatory projects with IP">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Profile 2: Confirmatory projects with IP
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Your research tests a specific hypothesis with a structured design, but some or all of your outputs may be commercially sensitive or patentable. The full range of transparency practices is available to you in principle, but timing is critical: public disclosure before a patent application is filed can compromise patentability.</p>
+<p><strong>Before doing anything else: contact your university’s technology transfer office (TTO) or innovation office (IO)!</strong> (e.g.&nbsp;<a href="https://www.su.se/english/education/careers/university-support-for-innovation-and-business-ideas">SU</a>, <a href="https://karolinskainnovations.ki.se">KI</a>, <a href="https://innovation.uni.mau.se/en/about-mau-innovation/#:~:text=Malmö%20University's%20Innovation%20Office%20was,utilisation%20of%20research%2Dbased%20knowledge.">MaU</a>, <a href="https://www.gu.se/en/collaboration-and-innovation/innovation">GU</a>). They can help you assess what is patentable, advise on what you can and cannot share at each stage of your project, and guide you through the patent application process. Do not assume something is or is not patentable without checking first, and do not make anything public before you have had that conversation.</p>
+<p>Once you have consulted your TTO/IO, prioritise practices that create a verifiable private record now, and plan for public sharing once IP protection is in place.</p>
+<p><strong>Practices available before patent filing:</strong></p>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 40%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Practice</th>
+<th>What it entails</th>
+<th>Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Private lab notebook</strong></td>
+<td>A dated, detailed record of your research decisions, methods, and observations kept for internal use only. For IP-sensitive projects this is also a legal document establishing inventorship and the timeline of your work</td>
+<td><a href="https://www.elabftw.net">eLabFTW</a> — open-source electronic lab notebook with closed sharing settings · <a href="https://documentation.researchspace.com/l/en/article/pfsj1e1u7j-getting-started">RSpace</a> — electronic lab notebook for research data management · paper notebook with dated, signed entries</td>
+</tr>
+<tr class="even">
+<td><strong>Informal hypothesis discussions within your research group</strong></td>
+<td>Talking through your predictions, research questions, and study design with your supervisor or immediate lab group before data collection. Not a public disclosure, but a useful way to get early input and establish a shared understanding of your intentions</td>
+<td>No specific platform required, follow up with a brief dated written summary shared by email or in a shared internal document to create a record</td>
+</tr>
+<tr class="odd">
+<td><strong>Private or embargoed pre-specified analysis script</strong></td>
+<td>Writing your analysis code before running it on real data using simulated or pilot data to develop and test the pipeline, and archiving that script privately or under embargo before the main analysis begins. Creates a personal record of your intended analysis without constituting a public disclosure</td>
+<td><a href="https://github.com">GitHub</a> (private repository) — version-controlled code hosting · <a href="https://help.osf.io/article/330-welcome-to-registrations">OSF</a> (embargoed component)* — timestamped private registration · <a href="https://zenodo.org">Zenodo</a> (restricted access)*</td>
+</tr>
+<tr class="even">
+<td><strong>Embargoed study preregistration</strong></td>
+<td>Preregistering your study on OSF with the registration set to private under a time-locked embargo of up to four years. Gives you the full benefit of preregistration while keeping the content private until IP is protected or you are ready to publish</td>
+<td><a href="https://help.osf.io/article/330-welcome-to-registrations">OSF embargoed registration</a>* — free, timestamped, private until embargo lifts</td>
+</tr>
+</tbody>
+</table>
+<p>*NOTE: <small>Zenodo and OSF store files unencrypted by default. While private projects and embargoed registrations are not publicly visible, platform staff can technically access them. This means they are suitable for timestamping your hypothesis and general study design, but <strong>sensitive technical details (such as novel sequences, compound structures, or unpublished methods) should not be uploaded to either platform.</strong> For this material, use your institution’s internal systems instead, where access controls are clearer and data does not leave your institution’s infrastructure. Many universities provide an institutional licence for <a href="https://github.com/enterprise">GitHub Enterprise</a>, which offers stronger access controls than the standard GitHub platform. Check with your TTO/IO or IT department what secure storage options are available to you.</small></p>
+<p><strong>Practices available after patent filing:</strong></p>
+<p>Once a patent application has been filed, the novelty requirement is satisfied and most transparency practices become available. In practice this means you can make public what you have already been documenting privately:</p>
+<ul>
+<li>hypotheses can be shared publicly<br>
+</li>
+<li>embargoed preregistration can be made public or the embargo lifted<br>
+</li>
+<li>private lab notebook entries covering non-sensitive aspects can be opened up<br>
+</li>
+<li>analysis scripts can be published on GitHub or Zenodo</li>
+</ul>
+<p>as you would for a non-IP project!<br>
+<strong>You do not need to wait for the patent to be granted, filing is sufficient in most cases.</strong> That said, if your project is ongoing and new potentially patentable findings are emerging, the same caution applies to those new outputs: check with your TTO/IO before sharing anything that was not covered by the original application.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="Profile 3: Exploratory projects without IP">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Profile 3: Exploratory projects without IP
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Your research is open-ended and hypothesis-generating, and your outputs are not commercially sensitive. There is a meaningful range of practices available to you that support transparency without constraining your exploration. The goal is not to lock in your approach but to document your reasoning as it develops and separate what you intended from what you discovered.</p>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 40%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Practice</th>
+<th>What it entails</th>
+<th>Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Open lab notebook</strong></td>
+<td>A real-time, shareable record of your research process including questions, decisions, dead ends, and changes of direction, made publicly available or archived with a verifiable timestamp. For exploratory research this is often the most natural starting point: rather than locking in a hypothesis, it creates a transparent record of how your thinking evolved</td>
+<td><a href="https://osf.io">OSF</a> — free open research platform, <a href="https://www.youtube.com/watch?v=2RUJLkQBDNw">video: how to use OSF as a lab journal</a> · <a href="https://www.elabftw.net">eLabFTW</a> — open-source electronic lab notebook · <a href="https://github.com">GitHub</a> — version-controlled document hosting, <a href="https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00032j">guide 1</a>, <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11828340/">guide 2</a> · <a href="https://jupyter.org">Jupyter Notebooks</a> — interactive code and narrative documents</td>
+</tr>
+<tr class="even">
+<td><strong>Hypothesis sharing</strong></td>
+<td>Publicly stating your research question or area of interest before you have results, creating a verifiable timestamped record. For exploratory research this does not require a specific prediction, sharing a broad research question or the dataset and variables you plan to examine is sufficient</td>
+<td><a href="https://osf.io">OSF</a> — free open research platform · <a href="https://zenodo.org">Zenodo</a> — CERN-hosted repository, can be linked to SciLifeLab community · <a href="https://figshare.scilifelab.se">SciLifeLab Figshare</a> — SciLifeLab’s data repository · <a href="https://github.com">GitHub</a> — version-controlled code and document hosting</td>
+</tr>
+<tr class="odd">
+<td><strong>Crowdsourcing feedback on study design</strong></td>
+<td>Opening your research questions, planned datasets, or analytical approach to input from the wider research community before analysis begins, to identify blind spots or alternative approaches while changes are still easy to make</td>
+<td><a href="https://www.researchgate.net">ResearchGate</a> — academic social network · <a href="https://help.osf.io/article/353-welcome-to-projects">OSF public project page</a> — shareable project workspace · <a href="https://slack.com">Slack</a> / <a href="https://discord.com">Discord</a> — messaging platforms with discipline-specific research communities</td>
+</tr>
+<tr class="even">
+<td><strong>Pre-analysis plan</strong></td>
+<td>A document written before you analyse your data that specifies which variables you will examine, which statistical approaches you will use, and how you will handle outliers and missing data. Designed specifically for exploratory research: it does not require a hypothesis, but it distinguishes what you planned to do from what you discovered along the way.</td>
+<td><a href="https://osf.io">OSF</a> — free open research platform · <a href="https://zenodo.org">Zenodo</a> — CERN-hosted repository · <a href="https://github.com">GitHub</a> — version-controlled document hosting</td>
+</tr>
+<tr class="odd">
+<td><strong>Pre-specified analysis script</strong></td>
+<td>Writing your full analysis code before running it on real data using simulated or pilot data to develop and test the pipeline, and archiving it publicly before the main analysis begins.</td>
+<td><a href="https://github.com">GitHub</a> — version-controlled code hosting · <a href="https://osf.io">OSF</a> — free open research platform · <a href="https://zenodo.org">Zenodo</a> — CERN-hosted repository</td>
+</tr>
+<tr class="even">
+<td><strong>Protocol publication</strong></td>
+<td>A standalone peer-reviewed paper describing your research approach, methods, and planned analyses in full, published before or alongside your study. For exploratory research, this is particularly valuable for large-scale or data-intensive projects where the methods are complex enough to warrant a dedicated publication</td>
+<td><a href="https://www.protocols.io/">Protocols.io</a> — dedicated protocol sharing platform, can combine with <a href="https://journals.plos.org/plosone/s/what-we-publish">PLOS ONE Lab Protocols</a> · <a href="https://www.cell.com/star-protocols/home">STAR Protocols</a> — Cell Press methods journal · <a href="https://www.sciencedirect.com/journal/methodsx">MethodsX</a> — Elsevier methods journal</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="Profile 4: Exploratory projects with IP">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Profile 4: Exploratory projects with IP
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Your research is open-ended and hypothesis-generating, and some or all of your outputs may be commercially sensitive or patentable. This is the profile where the tension between openness and IP protection is most acute: exploratory research is by nature less predictable, making it harder to know in advance which findings might have commercial value.</p>
+<p><strong>Before doing anything else: contact your university’s technology transfer office (TTO) or innovation office (IO)!</strong> (e.g.&nbsp;<a href="https://www.su.se/english/education/careers/university-support-for-innovation-and-business-ideas">SU</a>, <a href="https://karolinskainnovations.ki.se">KI</a>, <a href="https://innovation.uni.mau.se/en/about-mau-innovation/#:~:text=Malmö%20University's%20Innovation%20Office%20was,utilisation%20of%20research%2Dbased%20knowledge.">MaU</a>, <a href="https://www.gu.se/en/collaboration-and-innovation/innovation">GU</a>). They can help you assess what is patentable, advise on what you can and cannot share at each stage of your project, and guide you through the patent application process. Do not assume something is or is not patentable without checking first, and do not make anything public before you have had that conversation!</p>
+<p>The safest approach for the type of research is to maintain a detailed private record from the start, assess IP potential regularly with your TTO/IO as the project develops, and open up incrementally as outputs are cleared for disclosure.</p>
+<section id="practices-available-before-patent-filing" class="level4">
+<h4 class="anchored" data-anchor-id="practices-available-before-patent-filing">Practices available before patent filing</h4>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 40%">
+<col style="width: 40%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Practice</th>
+<th>What it entails</th>
+<th>Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Private lab notebook</strong></td>
+<td>A dated, detailed record of your research decisions, methods, and observations kept for internal use only. For exploratory IP-sensitive projects this is especially important: because your research direction may shift unexpectedly, a careful ongoing record establishes what you knew, when you knew it, and how your thinking developed, all of which matters for inventorship</td>
+<td><a href="https://www.elabftw.net">eLabFTW</a> — open-source electronic lab notebook with closed sharing settings · <a href="https://documentation.researchspace.com/l/en/article/pfsj1e1u7j-getting-started">RSpace</a> — electronic lab notebook for research data management · paper notebook with dated, signed entries</td>
+</tr>
+<tr class="even">
+<td><strong>Informal hypothesis discussions within your research group</strong></td>
+<td>Talking through your emerging research questions, observations, and ideas with your supervisor or immediate lab group. Not a public disclosure, but a useful way to get early input and create a shared internal record of your developing thinking</td>
+<td>No specific platform required, follow up with a brief dated written summary shared by email or in a shared internal document to create a record</td>
+</tr>
+<tr class="odd">
+<td><strong>Unregistered pilot studies (well documented)</strong></td>
+<td>Small-scale studies run to test feasibility or explore a dataset, kept internal but carefully documented. For exploratory IP-sensitive research, pilots are where unexpected patentable findings most often emerge. Thorough documentation of what you tried and what you found is therefore both scientifically and legally important</td>
+<td>Private lab notebook · <a href="https://www.elabftw.net">eLabFTW</a> · internal institutional storage</td>
+</tr>
+<tr class="even">
+<td><strong>Private or embargoed pre-specified analysis script</strong></td>
+<td>Writing your analysis code before running it on real data and archiving it privately or under embargo. For exploratory research, even a rough specification of which variables and approaches you plan to examine is valuable, it creates a record of your analytical intent before results are known, without constituting a public disclosure</td>
+<td><a href="https://github.com">GitHub</a> (private repository) — version-controlled code hosting · <a href="https://help.osf.io/article/330-welcome-to-registrations">OSF</a>* (embargoed component) — timestamped private registration · <a href="https://zenodo.org">Zenodo</a>* (restricted access)</td>
+</tr>
+<tr class="odd">
+<td><strong>Pre-analysis plan</strong></td>
+<td>A document specifying your planned analytical approach before you analyse your data. For exploratory IP-sensitive research, confirm with your TTO/IO first that the analytical approach itself is not the patentable element of your work before registering it anywhere, even under embargo</td>
+<td><a href="https://github.com">GitHub</a> (private repository) · institutional internal storage</td>
+</tr>
+</tbody>
+</table>
+<p>*NOTE: <small>Zenodo and OSF store files unencrypted by default. While private projects and embargoed registrations are not publicly visible, platform staff can technically access them. This means they are suitable for timestamping your hypothesis and general study design, but sensitive technical details (such as novel sequences, compound structures, or unpublished methods) should not be uploaded to either platform. For this material, use your institution’s internal systems instead, where access controls are clearer and data does not leave your institution’s infrastructure. Many universities provide an institutional licence for <a href="https://github.com/enterprise">GitHub Enterprise</a>, which offers stronger access controls than the standard GitHub platform. Check with your TTO/IO or IT department what secure storage options are available to you.</small></p>
+</section>
+<section id="practices-available-after-patent-filing" class="level4">
+<h4 class="anchored" data-anchor-id="practices-available-after-patent-filing">Practices available after patent filing</h4>
+<p>Once a patent application has been filed, the novelty requirement is satisfied and most transparency practices become available. For exploratory research this is particularly important to manage carefully: because your project may still be ongoing and generating new findings, not everything becomes shareable at once, only outputs covered by the filed application are cleared for disclosure. Open up incrementally and check with your TTO/IO before sharing each new element of your work.</p>
+<p>In practice, after filing you can:</p>
+<ul>
+<li>share your research questions and initial hypotheses publicly</li>
+<li>open up non-sensitive parts of your lab notebook</li>
+<li>publish your analysis script on GitHub or Zenodo</li>
+<li>share your pre-analysis plan publicly</li>
+<li>proceed with protocol publication for the methods covered by the application</li>
+</ul>
+<p><strong>You do not need to wait for the patent to be granted, filing is sufficient in most cases</strong>. As new potentially patentable findings emerge in your ongoing exploratory work, apply the same caution to those outputs and consult your TTO/IO before sharing anything not covered by the original application.</p>
+</section>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning callout-titled" title="For industry PhD students">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+For industry PhD students
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If you are doing an industry PhD or have a formal collaboration agreement with a company, your IP situation may be governed primarily by your company’s legal and IP policies rather than your university’s TTO. Read your collaboration agreement carefully, contact both your company’s IP department and your university TTO/IO before making any transparency decisions, and assume IP sensitivity for all company-related work unless you have explicit written confirmation otherwise.</p>
+</div>
+</div>
+<ul>
+<li><strong>Step 3: Choose one practice and plan it</strong><br>
+Select one practice that is relevant for your project and that you could realistically implement within the next three months. On the worksheet, write down, as concretely as possible, your action plan for implementation: which platform or tool you will use, what you will document or register, and by when.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="key-session-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-session-takeaways">2.5 Key session takeaways</h2>
+<ul>
+<li><p><strong>Open Science starts before data collecting and analysis</strong>. The decisions you make before data collection about how to document your intentions, structure your analysis, and share your plans, have more impact on the integrity of your research than almost anything you do afterwards. Transparency at this stage can drastically improve the quality of science.</p></li>
+<li><p><strong>There is no one-size-fits-all, but there is always something you can do</strong>. Exploratory and confirmatory research both deserve transparency, just different kinds. Whether you can preregister a hypothesis, write a pre-analysis plan, or simply keep a dated lab notebook, there is a meaningful practice available to every researcher at every stage. The goal is to find the right practice for your project.</p></li>
+<li><p><strong>IP comes first, before any transparency decision</strong>. Public disclosure before a patent application is filed can invalidate a patent under European law. If any part of your project involves potentially patentable outputs, speak to your university’s TTO/IO before making anything public. This applies equally to preregistrations, open lab notebooks, preprints, and conference presentations.</p></li>
+</ul>
+</section>
+<section id="references-and-further-reading" class="level2">
+<h2 class="anchored" data-anchor-id="references-and-further-reading">References and further reading</h2>
+<ol type="1">
+<li>Ingre M, Nilsonne G (2018) Estimating statistical power, posterior probability and publication bias of psychological research using the observed replication rate R. Soc. Open Sci. http://doi.org/10.1098/rsos.181190<br>
+</li>
+<li>Fanelli D (2010) “Positive” Results Increase Down the Hierarchy of the Sciences. PLOS ONE 5(4): e10068. https://doi.org/10.1371/journal.pone.0010068<br>
+</li>
+<li>van Zwet EW, Cator EA. (2021) The significance filter, the winner’s curse and the need to shrink. Statistica Neerlandica 75: 437–452. https://doi.org/10.1111/stan.12241<br>
+</li>
+<li>Baker, M. 1,500 scientists lift the lid on reproducibility. (2016) Nature 533, 452–454. https://doi.org/10.1038/533452a<br>
+</li>
+<li>Open Science Collaboration (2015) Science 349, aac4716. DOI: 10.1126/science.aac4716<br>
+</li>
+<li>Botvinik-Nezer, R., et al.&nbsp;(2020) Variability in the analysis of a single neuroimaging dataset by many teams. Nature 582, 84–88 https://doi.org/10.1038/s41586-020-2314-9<br>
+</li>
+<li>Kaplan RM, Irvin VL (2015) Likelihood of Null Effects of Large NHLBI Clinical Trials Has Increased over Time. PLOS ONE 10(8): e0132382.https://doi.org/10.1371/journal.pone.0132382<br>
+</li>
+<li>Warren M (2018) First Analysis of ‘Pre-Registered’ Studies Shows Sharp Rise in Null Findings. Nature News. https://www.nature.com/articles/d41586-018-07118-1<br>
+</li>
+<li>Scheel AM et al.&nbsp;(2021) An Excess of Positive Results: Comparing the Standard Psychology Literature With Registered Reports. Adv. Methods Pract. Psychol. Sci. 4(2). 10.1177/25152459211007467</li>
+</ol>
+</section>
+<section id="reuse" class="level2">
+<h2 class="anchored" data-anchor-id="reuse">Reuse</h2>
+<section id="contributors" class="level3">
+<h3 class="anchored" data-anchor-id="contributors">Contributors</h3>
+<ul>
+<li>Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"></a></li>
+</ul>
+</section>
+<section id="license" class="level3">
+<h3 class="anchored" data-anchor-id="license">License</h3>
+<p>All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"></a></p>
+</section>
+<section id="please-cite-material-as" class="level3">
+<h3 class="anchored" data-anchor-id="please-cite-material-as">Please cite material as:</h3>
+<blockquote class="blockquote">
+<p>Ineke Luijten (2026) <em>Open Science in the Swedish context, DDLS Research school. Session 2: OS in project planning &amp; design</em>. Retrieved from https://scilifelab-training.github.io/open-science/2603/Session2.html</p>
+</blockquote>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./Session1.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">1. Open Science in Sweden</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./Session3.html" class="pagination-link">
+        <span class="nav-page-text">3. OS in project sharing &amp; publishing</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">By SciLifeLab Training Hub. Licensed under CC BY 4.0. <br> Built with Quarto and hosted on GitHub Pages.</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/SciLifeLab-Training/open-science">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>
