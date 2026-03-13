@@ -25,8 +25,8 @@ title: "Schedule"
 | 12:30 - 13:30 | Lunch |
 | 13:30 - 15:00 | [3. OS in project sharing & publishing](Session3.qmd) |
 | 15:00 - 15:15 | Coffee break|
-| 15:15 - 17:00 | [4. OS in researcher evaluation](Session4.qmd) |
-| 17:00 - 17:15 | Wrap-up and handout post-course assignment |
+| 15:15 - 16:45 | [4. OS in researcher evaluation](Session4.qmd) |
+| 16:45 - 17:00 | Wrap-up and handout post-course assignment |
 : {tbl-colwidths="[25,75]"}  
 
 <br/>

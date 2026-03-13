@@ -14,7 +14,7 @@ Upon completion of this assignment, participants will be able to:
 - Identify realistic, actionable steps for implementing Open Science practices within the participants' own research project.
 
 **Duration:**   
-105min
+90min
 
 **To-do:**   
 Before this session, complete [assignment 1](Assignment1.qmd) and [group assignment 2](Assignment2.qmd) 
@@ -41,6 +41,7 @@ The session is structured as a workshop. After a short interactive introduction,
 
 ## 1.3 Open Science: from policy to practice
 
+::: {.callout-note title="Assignment"}
 Here, you will present your group work from [assignment 2](Assignment2.qmd) 
 
 Each group will:
@@ -55,14 +56,16 @@ Each group will:
 3. Pose their discussion question   
     We will discuss for 5–10 minutes before moving to the next group.
 
+:::
+
 ## 1.4 The Open Science workflow
 Throughout this course, we will use an Open Science workflow to map open practices onto the research lifecycle, outlined below: 
 
 ![](img/image_openscience_workflow.png){ fig-align="left"}
 
 The full workflow covers six stages, from planning and data collection through to communication and evaluation. In this course, we focus on four: Plan & Design, Publish & Spread, Communicate & Involve, Evaluate & Build. 
-The stages Collect & Analyse and Access & Reuse will be covered in detail in the course 
-[Introduction to Data Management Practices](https://nbis.se/training/introduction-to-data-management-practices). 
+The stages Collect & Analyse and Access & Reuse will be covered in detail in the DDLS Research School course 
+[Principles and tools for FAIR research practices](https://uppsala.instructure.com/courses/122228). 
 
 
 ## 1.5 Key session takeaways
