@@ -6,45 +6,45 @@ title: "4. OS in researcher evaluation"
 ::: {.callout-tip}
 ### About
 **Purpose:**   
-To help participants identify the transparency practices in the plan and design stage of research that are most appropriate for their own project, taking into account both intellectual property considerations and their research type.
+To develop an understanding of how research and researchers are evaluated in a changing academic landscape, and how Open Science practices like the publication of diverse research outputs and FAIR data increasingly shape recognition and career development.
 
 **Learning outcomes:**   
 Upon completion of this assignment, participants will be able to:
 
-- Evaluate intellectual property considerations in their projects
-- Distinguish between confirmatory and exploratory research approaches 
-- Select appropriate transparency practices and identify concrete actions they can take within their own project
+- Identify emerging researcher evaluation criteria and demonstrate an understanding of which research outputs can be published and credited
+- Understand the range of research contribution criteria used in modern research assessment
+- Be aware of the Coalition for Advancing Research Assessment (CoARA) and its implications for academic careers
+- Have a basic understanding of how to make research data FAIR and explain the 
+importance of metadata in making outputs findable and reusable
 
 **Duration:**   
-75min
+90min
 
 :::
 
 
-## 2.1 Presentation
+## 4.1 Presentation
 
 Here you can find the presentation for this session:
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0RxxU8lk7a09uLu_KbJrkpUQav-fe9Kp1kKYrlnS2IMoz6IR7TXAMiEQPT7fS3-tLtGcSvzdBDjn8/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSiOxwwLZVqFtXMhZfhhSfQtvQjuaQ6cpS5F-BINFxcpShEgtLu2lCStWrtMvKFg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
   <strong>Reuse:</strong> 
     <a href="https://docs.google.com/presentation/d/1hr-5zVQ2hGXQKFDwAHZmNQ1xUM9eka_PlIgQPkbPjy8/view" target="_blank">View in Google Slides</a> | 
     <a href="https://docs.google.com/presentation/d/1hr-5zVQ2hGXQKFDwAHZmNQ1xUM9eka_PlIgQPkbPjy8/copy" target="_blank">Make a Copy</a> 
 
 
-## 2.2 Introduction
+## 4.2 Introduction
 
-This session focuses on the first stage of the Open Science workflow: **plan and design**. Open Science in the planning and design stage is about making early decisions in your research transparent: **not to constrain your research, but to create an honest record of your intentions before results are known.**
-
-The session is structured as a guided workshop. Rather than presenting a single, one-size-fits-all solution, the session starts from where you actually are: you will evaluate your own Intellectual Property (IP) situation and research type. We will map the range of research approaches in the room, and will then explore why transparency in research design matters. A spectrum of open practices in research project planning & designing will be introduced, from open lab notebooks to registered reports. Based on your IP situation and research type, you will evaluate where your project sits on the openness-constraint matrix and leave with one specific action to take forward.
-
-![](img/image_openscience_workflow_plandesign.png){ fig-align="left"} 
+This session focuses on the final stage of the Open Science workflow: **Evaluate & build**. 
+  
+![](img/image_openscience_workflow_evaluatebuild.png){ fig-align="left" width="70%"} 
 
 ## Reuse
 ### Contributors
 
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+- Joanna Sendecka <a href="https://orcid.org/0009-0002-6665-2856" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
 ### License  
 
@@ -52,6 +52,6 @@ All materials from this session are available for re-use under <a href="https://
 
 ### Please cite material as:   
    
-> Ineke Luijten (2026) *Open Science in the Swedish context, DDLS Research school. Session 2: OS in project planning & design*. Retrieved from https://scilifelab-training.github.io/open-science/2603/Session2.html   
+> Joanna Sendecka (2026) *Open Science in the Swedish context, DDLS Research school. Session 4: OS in researcher evaluation*. Retrieved from https://scilifelab-training.github.io/open-science/2603/Session2.html   
 
 

@@ -119,7 +119,7 @@
     "href": "Session4.html",
     "title": "4. OS in researcher evaluation",
     "section": "",
-    "text": "Coming soon",
+    "text": "About\n\n\n\nPurpose:\nTo develop an understanding of how research and researchers are evaluated in a changing academic landscape, and how Open Science practices like the publication of diverse research outputs and FAIR data increasingly shape recognition and career development.\nLearning outcomes:\nUpon completion of this assignment, participants will be able to:\n\nIdentify emerging researcher evaluation criteria and demonstrate an understanding of which research outputs can be published and credited\nUnderstand the range of research contribution criteria used in modern research assessment\nBe aware of the Coalition for Advancing Research Assessment (CoARA) and its implications for academic careers\nHave a basic understanding of how to make research data FAIR and explain the importance of metadata in making outputs findable and reusable\n\nDuration:\n90min",
     "crumbs": [
       "Content",
       "4. OS in researcher evaluation"
@@ -163,7 +163,7 @@
     "href": "Session4.html#reuse",
     "title": "4. OS in researcher evaluation",
     "section": "Reuse",
-    "text": "Reuse\nAll materials from this session are available for re-use under \nPlease cite material as:\n\nIneke Luijten, David Rayner, Abeni Wickham (2024) Open Science in the Swedish context - Session 4: Open Science in the project lifecycle - share and disseminate. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session4.html",
+    "text": "Reuse\n\nContributors\n\nJoanna Sendecka \n\n\n\nLicense\nAll materials from this session are available for re-use under \n\n\nPlease cite material as:\n\nJoanna Sendecka (2026) Open Science in the Swedish context, DDLS Research school. Session 4: OS in researcher evaluation. Retrieved from https://scilifelab-training.github.io/open-science/2603/Session2.html",
     "crumbs": [
       "Content",
       "4. OS in researcher evaluation"
@@ -702,7 +702,7 @@
     "href": "Session2.html#key-session-takeaways",
     "title": "2. OS in project planning & design",
     "section": "2.5 Key session takeaways",
-    "text": "2.5 Key session takeaways\n\n‘As open as possible, as closed as necessary’ is the most important guiding principle in Open Science. Use it to make reasoned decisions, not to default to either extreme.\nThree Swedish legal principles — academic freedom, allmänna handlingar, and lärarundantaget — already embed openness into your research.\nOpen Science is not just open access. It touches every stage of the research lifecycle, from planning and data collection to publication, communication, and evaluation.\nYou are not responsible for everything. Funders, universities, and national agencies each carry part of the Open Science burden. Understanding who does what helps you focus your own effort where it actually matters.\nSupport exists. Your university library, your data steward, SND, and SciLifeLab’s data infrastructure are all there to help you. The most important Open Science skill is often simply knowing who to ask.",
+    "text": "2.5 Key session takeaways\n\nOpen Science starts before data collecting and analysis. The decisions you make before data collection about how to document your intentions, structure your analysis, and share your plans, have more impact on the integrity of your research than almost anything you do afterwards. Transparency at this stage can drastically improve the quality of science.\nThere is no one-size-fits-all, but there is always something you can do. Exploratory and confirmatory research both deserve transparency, just different kinds. Whether you can preregister a hypothesis, write a pre-analysis plan, or simply keep a dated lab notebook, there is a meaningful practice available to every researcher at every stage. The goal is to find the right practice for your project.\nIP comes first, before any transparency decision. Public disclosure before a patent application is filed can invalidate a patent under European law. If any part of your project involves potentially patentable outputs, speak to your university’s TTO/IO before making anything public. This applies equally to preregistrations, open lab notebooks, preprints, and conference presentations.",
     "crumbs": [
       "Content",
       "2. OS in project planning & design"
@@ -816,6 +816,28 @@
     "crumbs": [
       "Content",
       "3. OS in project sharing & publishing"
+    ]
+  },
+  {
+    "objectID": "Session4.html#presentation",
+    "href": "Session4.html#presentation",
+    "title": "4. OS in researcher evaluation",
+    "section": "4.1 Presentation",
+    "text": "4.1 Presentation\nHere you can find the presentation for this session:\n\n\nReuse: View in Google Slides | Make a Copy",
+    "crumbs": [
+      "Content",
+      "4. OS in researcher evaluation"
+    ]
+  },
+  {
+    "objectID": "Session4.html#introduction",
+    "href": "Session4.html#introduction",
+    "title": "4. OS in researcher evaluation",
+    "section": "4.2 Introduction",
+    "text": "4.2 Introduction\nThis session focuses on the final stage of the Open Science workflow: Evaluate & build.",
+    "crumbs": [
+      "Content",
+      "4. OS in researcher evaluation"
     ]
   }
 ]
