@@ -1,113 +1,57 @@
 ---
 title: "4. OS in researcher evaluation"
 ---
-Coming soon 
-<!-- 
+
+
 ::: {.callout-tip}
-### Learning Objectives
+### About
+**Purpose:**   
+To help participants identify the transparency practices in the plan and design stage of research that are most appropriate for their own project, taking into account both intellectual property considerations and their research type.
 
-By the end of this session, learners will be able to:
+**Learning outcomes:**   
+Upon completion of this assignment, participants will be able to:
 
-- Define the different types of Open Access publishing options and their benefits and 
-limitations  
-- Evaluate the sensitivity of research outputs and whether they can be made openly available,
-and describe available options to publish sensitive data  
+- Evaluate intellectual property considerations in their projects
+- Distinguish between confirmatory and exploratory research approaches 
+- Select appropriate transparency practices and identify concrete actions they can take within their own project
 
+**Duration:**   
+75min
 
 :::
 
-## Schedule  
-<style>
-  tr:hover {
-    background-color: #F6F8F9;
-  }
-</style>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="border-bottom: 0.5px solid #808080;">
-    <th style="width: 15%;">Time</th>
-    <th style="width: 60%;">Topic</th>
-    <th style="width: 25%;">Instructor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">09:00</td>  
-      <td style="padding: 10px 0;">Open Science in sharing knowledge</td>
-      <td style="padding: 10px 0;">Ineke Luijten</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">09:15</td>
-      <td style="padding: 10px 0;">Open Access publishing models</td>
-      <td style="padding: 10px 0;">Ineke Luijten</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">09:45</td>
-      <td style="padding: 10px 0;">Publishing sensitive data</td>
-      <td style="padding: 10px 0;">David Rayner</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">10:30</td>
-      <td style="padding: 10px 0;">Coffee break</td>
-      <td style="padding: 10px 0;"></td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">11:00</td>
-      <td style="padding: 10px 0;">The future of publishing: SciFree</td>
-      <td style="padding: 10px 0;">Abeni Wickham</td>
-    </tr>
-    <tr style="border-bottom: 0.5px solid #808080;">
-      <td style="padding: 10px 0;">12:00</td>
-      <td style="padding: 10px 0;">Lunch</td>
-      <td style="padding: 10px 0;"></td>
-    </tr>
-  </tbody>
-</table>
-  
+## 2.1 Presentation
+
+Here you can find the presentation for this session:
 
 
-## Materials  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0RxxU8lk7a09uLu_KbJrkpUQav-fe9Kp1kKYrlnS2IMoz6IR7TXAMiEQPT7fS3-tLtGcSvzdBDjn8/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Coming soon
-  
-<!-- 
-
-**Lecture videos**
-
-<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
-
-[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
+  <strong>Reuse:</strong> 
+    <a href="https://docs.google.com/presentation/d/1hr-5zVQ2hGXQKFDwAHZmNQ1xUM9eka_PlIgQPkbPjy8/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1hr-5zVQ2hGXQKFDwAHZmNQ1xUM9eka_PlIgQPkbPjy8/copy" target="_blank">Make a Copy</a> 
 
 
-**Lecture slides**  
+## 2.2 Introduction
 
-<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
+This session focuses on the first stage of the Open Science workflow: **plan and design**. Open Science in the planning and design stage is about making early decisions in your research transparent: **not to constrain your research, but to create an honest record of your intentions before results are known.**
 
+The session is structured as a guided workshop. Rather than presenting a single, one-size-fits-all solution, the session starts from where you actually are: you will evaluate your own Intellectual Property (IP) situation and research type. We will map the range of research approaches in the room, and will then explore why transparency in research design matters. A spectrum of open practices in research project planning & designing will be introduced, from open lab notebooks to registered reports. Based on your IP situation and research type, you will evaluate where your project sits on the openness-constraint matrix and leave with one specific action to take forward.
 
-<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
+![](img/image_openscience_workflow_plandesign.png){ fig-align="left"} 
 
-
-**Practical assignments**  
-
-Coming soon  
-  
- 
-<br>
-
-
-## Contributors
+## Reuse
+### Contributors
 
 - Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Abeni Wickham <a href="https://orcid.org/0000-0002-2106-0665" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
-## Reuse  
+### License  
 
 All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
-Please cite material as:  
+### Please cite material as:   
+   
+> Ineke Luijten (2026) *Open Science in the Swedish context, DDLS Research school. Session 2: OS in project planning & design*. Retrieved from https://scilifelab-training.github.io/open-science/2603/Session2.html   
 
->Ineke Luijten, David Rayner, Abeni Wickham (2024) *Open Science in the Swedish context - Session 4: Open Science in the project lifecycle - share and disseminate*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session4.html     
-
--->
 

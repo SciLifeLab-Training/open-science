@@ -2,106 +2,66 @@
 title: "3. OS in project sharing & publishing"
 ---
 
-Coming soon 
-<!-- 
+
 ::: {.callout-tip}
-### Learning Objectives
+### About
+**Purpose:**   
+To develop a critical understanding of Open Access publishing in the Swedish context, including the range of publishing models available, how to evaluate them, and the emerging practice of open peer review.
 
-By the end of this session, participants will be able to:
+**Learning outcomes:**   
+Upon completion of this assignment, participants will be able to:
 
-- Summarize the most important principles of working according to good research practice standards  
-- Find, access and evaluate the quality of data in domain-specific repositories   
-    
+- Evaluate different Open Access models, including their benefits,limitations, and ethical implications
+- Explain the principles of open peer review and reflect on its implications for research transparency and evaluation
+
+**Duration:**   
+90min
+
+**To-do:**   
+Before this session, complete [assignment 3](Assignment3.qmd)
+
 :::
 
-## Schedule  
-<style>
-  tr:hover {
-    background-color: #F6F8F9;
-  }
-</style>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="border-bottom: 0.5px solid #808080;">
-    <th style="width: 15%;">Time</th>
-    <th style="width: 60%;">Topic</th>
-    <th style="width: 25%;">Instructor</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">13:00</td>  
-      <td style="padding: 10px 0;">Open Science in data collection & analysis</td>
-      <td style="padding: 10px 0;">Ineke Luijten</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">13:15</td>
-      <td style="padding: 10px 0;">Good research practice</td>
-      <td style="padding: 10px 0;">Jonas Åkerman</td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">14:15</td>
-      <td style="padding: 10px 0;">Coffee break</td>
-      <td style="padding: 10px 0;"></td>
-    </tr>
-    <tr style="border-bottom: 0.4px solid #D3D3D3;">
-      <td style="padding: 10px 0;">14:45</td>
-      <td style="padding: 10px 0;">Data reuse</td>
-      <td style="padding: 10px 0;">David Rayner</td>
-    </tr>
-    <tr style="border-bottom: 0.5px solid #808080;">
-      <td style="padding: 10px 0;">16:30</td>
-      <td style="padding: 10px 0;">End of day</td>
-      <td style="padding: 10px 0;"></td>
-    </tr>
-  </tbody>
-</table>
-  
+## 3.1 Presentation
+
+Here you can find the presentation for this session:
 
 
-## Materials  
-  
-Coming soon
-  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwQdrizwVGpwKqMk7FMPBxXtR6zKqlREjxYlbmvxbHOyBaiyv46QNUbacWTXpytg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**Lecture videos**
-
-<iframe src="https://drive.google.com/file/d/10efsWi_hmApwZ9j79fmFt4JRxEogQ4y3/preview" width="640" height="480" allow="autoplay"></iframe>
-
-[The full transcript can be downloaded here](https://drive.google.com/file/d/1gBhJ3rPYa0pFCa67XO4rGs7DfmDzTF1T/view).
+  <strong>Reuse:</strong> 
+    <a href="https://docs.google.com/presentation/d/1gFvfrV_8_WA2qlf0tkFSUH7nVXPzga4z/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1gFvfrV_8_WA2qlf0tkFSUH7nVXPzga4z/copy" target="_blank">Make a Copy</a> 
 
 
-**Lecture slides**  
+## 3.2 Introduction
 
-<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/e/2PACX-1vSBZ-tu_mbITrPtmyg06sAx47DQFWJPlYcGpjJW0s4_WiChEXKCSrOmI_PMCGH_OwVsDZ1JN7lM2ntp/embed?start=false&loop=false&delayms=3000" width="500" height="300" data-mce-fragment="1"></iframe>
+This session focuses on the **Publish and spread** stage of the Open Science workflow, with a specific focus on Open Access publishing. **Open Access is about ensuring that the results of your research can be read, used, and built upon by anyone**, not just those with access to expensive journal subscriptions. The goal is not simply compliance with funder requirements, but making your work as discoverable and impactful as possible.
 
+The session is structured as a mix of discussion and group work. Rather than presenting Open Access as a single straightforward practice, the session explores the full complexity of the publishing landscape as it exists today: the different models available to you, how to evaluate them critically, and the trade-offs involved. By the end of the session, you will be better equipped to make informed publishing decisions for your own research.
 
-<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yjazFiQZFZclHkeI_8rW-JON35IiXqyk/export/pdf" target="_blank" rel="noopener">Introduction: Download PDF</a>
+![](img/image_openscience_workflow_publishspread.png){ fig-align="left" width="70%"} 
 
+## 3.3 Key session takeaways
 
-**Practical assignments**  
-
-Coming soon  
-  
- 
-<br>
-
-
-
-## Contributors
-
-- Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
-- Jonas Åkerman 
-- David Rayner <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+## References and further reading
+(1) Navigating the Research Data Landscape: Publication Practices at a Swedish University. Maria Almbro & Lisa Olsson. The Research Data Management Team, Stockholm University. Recorded lecture [available on YouTube](https://www.youtube.com/watch?v=VJ5AzujeN_I)  
+(2) Forskning och innovation för framtid, nyfikenhet och nytta. Prop. 2024/25:60. Accessed from [https://www.regeringen.se/rattsliga-dokument/proposition/2024/12/prop.-20242560](https://www.regeringen.se/rattsliga-dokument/proposition/2024/12/prop.-20242560)  
+(3) Open Peer Review case study: Rosie Berners-Lee, Eamonn Gilmore, Francisco Berkemeier, Michael A. Boemo. Regulation of replication timing in Saccharomyces cerevisiae. bioRxiv 2024.10.11.617780; doi: [https://doi.org/10.1101/2024.10.11.617780](https://doi.org/10.1101/2024.10.11.617780)   
+(4) Open Peer Review case study: Roager L, Kempen PJ, Bentzon-Tilia M, Sonnenschein EC, Gram L. 2024. Impact of host species on assembly, composition, and functional profiles of phycosphere microbiomes. mSystems9:e00583-24. [https://doi.org/10.1128/msystems.00583-24](https://doi.org/10.1128/msystems.00583-24)
 
 
-## Reuse  
+## Reuse
+### Contributors
+
+- Kristen Schroeder <a href="https://orcid.org/0000-0002-6271-4530" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
+### License  
 
 All materials from this session are available for re-use under <a href="https://creativecommons.org/licenses/by/4.0/" rel="orcid"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
-Please cite material as:  
+### Please cite material as:   
+   
+> Kristen Schroeder (2026) *Open Science in the Swedish context, DDLS Research school. Session 3: OS in project sharing & publishing*. Retrieved from https://scilifelab-training.github.io/open-science/2603/Session3.html   
 
->Ineke Luijten, Jonas Åkerman, David Rayner (2024) *Open Science in the Swedish context - Session 3: Open Science in the project lifecycle - collect & analyze*. Retrieved from https://scilifelab-training.github.io/open-science/2505/Session3.html     
-
-
--->
