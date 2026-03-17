@@ -29,6 +29,10 @@ To follow this course, learners should have basic knowledge of:<br>
 <p><span class="fa-solid fa-lock"></span> <strong>License:</strong>
 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
 
+::: {.callout-warning title="Course certificate"}
+To receive a course certificate, please complete all assignments, attend the in-person workshop, and email ineke.luijten@scilifelab.se
+
+:::
 </div>
 
 ## Course lead
