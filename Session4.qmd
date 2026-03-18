@@ -28,11 +28,11 @@ importance of metadata in making outputs findable and reusable
 Here you can find the presentation for this session:
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSiOxwwLZVqFtXMhZfhhSfQtvQjuaQ6cpS5F-BINFxcpShEgtLu2lCStWrtMvKFg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGPTC7Zki6ozFzX_bdQINm3a-7i1I0aCWpqFNs5vj3Zx9jhAzfhaTIhLLhFW6uEYPdQhd2os_lys8i/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
   <strong>Reuse:</strong> 
-    <a href="https://docs.google.com/presentation/d/1hr-5zVQ2hGXQKFDwAHZmNQ1xUM9eka_PlIgQPkbPjy8/view" target="_blank">View in Google Slides</a> | 
-    <a href="https://docs.google.com/presentation/d/1hr-5zVQ2hGXQKFDwAHZmNQ1xUM9eka_PlIgQPkbPjy8/copy" target="_blank">Make a Copy</a> 
+    <a href="https://docs.google.com/presentation/d/1mTjJWkWyg7qbLUBxmDISSOlqMptksIlcQZLSaHX61d0/view" target="_blank">View in Google Slides</a> | 
+    <a href="https://docs.google.com/presentation/d/1mTjJWkWyg7qbLUBxmDISSOlqMptksIlcQZLSaHX61d0/copy" target="_blank">Make a Copy</a> 
 
 
 ## 4.2 Introduction
