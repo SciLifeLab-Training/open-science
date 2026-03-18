@@ -1,0 +1,274 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Lora:wght@400;700&display=swap');
+
+
+/* ---------------- Navbar ---------------- */
+.navbar {
+    height: 100px;       /* sets the height of the navbar */
+}
+
+/* Set the logo size and override any default rules from the theme or browser.
+   This ensures the logo is the exact height you want and scales properly. */
+.navbar-brand img {
+    max-height: clamp(28px, 5vw, 50px);
+    height: auto;
+    width: auto;
+}
+
+
+
+/* ---------------- Sidebar ---------------- */
+
+/* Container for the sidebar menu items.
+   Adds padding inside and ensures text aligns to the left. */
+.sidebar-menu-container {
+    padding-left: 10px;      /* space inside on the left */
+    padding-right: 20px;     /* space inside on the right */
+    text-align: left;        /* align all text to left */
+}
+
+/* Special styling for the first item in the sidebar as a title. */
+.sidebar-item:first-child {
+    font-family: "Lato", sans-serif;     /* sets font */
+    font-weight: 600;                    /* bold text */
+    font-size: 15px;                     /* slightly bigger than normal items */
+    color: #8e8e8e;                    /* gray color */
+    padding-right: 20px;                 /* right padding */
+}
+/* Font and text styling for the sidebar items. */
+.sidebar-item a {
+    color: #000000;
+    font-family: "Lato", sans-serif;     /* sets font */
+    font-weight: 400;                    /* normal weight for items */
+    font-size: 14px;                     /* font size of text */
+    line-height: 1.5;                    /* vertical spacing between lines */
+}
+
+/* Link colors and hover effects */
+.sidebar .sidebar-item .active {
+    color: #2288cd;              /* active link color */
+}
+.sidebar .sidebar-item a:hover {
+    color: #de901b;              /* change color on hover for interactivity */
+}
+
+
+/* ---------------- Main Content ---------------- */
+
+/* General body text spacing to avoid overlapping with fixed navbar */
+main {
+    padding-top: 60px !important; /* Adds padding at the top equal to the navbar height.
+                                      !important ensures it overrides theme defaults so content starts below navbar. */
+}
+
+/* Base font styling for the entire document */
+body {
+    font-family: 'Lato', sans-serif;   /* sets the primary font for all text */
+    font-size: 14px;                   /* sets the default font size */
+    line-height: 1.6;                  /* sets spacing between lines for better readability */
+    color: #000;                     /* sets default text color to black */
+}
+
+/* Ensure all headings use the same font as the body */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;   /* Overrides theme defaults for headings */
+}
+
+/* Fine-tune individual heading levels for size, weight, and color */
+
+/* H1 styling: main titles */
+h1 {
+    font-size: 35px;            /* sets h1 font size*/
+    font-weight: 800;           /* makes h1 headings bold */
+    color: #8e8e8e;           /* sets h1 color */
+}
+
+/* H2 styling: section titles */
+h2 {
+    font-size: 25px;            /* sets h2 font size*/
+    font-weight: 300;           /* sets h2 font weight */
+    color: #000000;           /* sets h2 color */
+    border-bottom: none;        /* removes any default underline or bottom border */
+}
+
+/* H3 styling: sub-section headings */
+h3 {
+    font-size: 18px;            /* sets h3 font size*/
+    font-weight: 300;           /* sets h3 font weight */
+    color: #000000;           /* sets h3 color */
+}
+
+/* H4 styling: smaller headings */
+h4 {
+    font-size: 16px;            /* sets h4 font size*/
+    font-weight: 300;           /* sets h3 font weight */
+    text-indent: 25px;
+    color: #000000;           /* sets h4 color */
+}
+
+/* Links customization */
+a {
+    color: #007acc;           /* sets link color */
+    text-decoration: none;      /* removes default underline */
+}
+
+/* Ensure main content does not overlap sidebar */
+#quarto-content .content {
+    padding-left: 50px;         /* Adds spacing to the left so content starts after sidebar */
+}
+
+
+/* ---------------- Footer ---------------- */
+
+/* Make the footer text larger */
+.footer {
+    font-size: 16px;                 /* sets footer font size */
+    font-family: "Lato", sans-serif; /* sets footer font */
+    padding-top: 10px;               /* optional spacing */
+    padding-bottom: 10px;            /* optional spacing */
+}
+
+/* Make the footer GitHub icon bigger */
+.footer .bi {
+    font-size: 27px;                 /* controls footer icon size */
+    vertical-align: middle;          /* aligns footer icon with text */
+}
+
+
+/* ---------------- Course leader cards ---------------- */
+
+/* Container for all leader cards in a row */
+.leader-cards-container {
+    display: flex;
+    flex-wrap: wrap;       /* allows wrapping on smaller screens */
+    gap: 20px;             /* space between cards */
+    justify-content: left; /* spread cards evenly */
+}
+
+/* Each card */
+.leader-card {
+    display: flex;
+    flex-direction: column;     /* stack photo on top */
+    align-items: center;        /* center items horizontally */
+    width: 200px;               /* narrower width */
+    min-height: 300px;          /* taller height */
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    padding: 15px;
+    margin-bottom: 20px;
+    text-align: center;         /* center text inside card */
+}
+
+/* Image inside card */
+.leader-photo {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10%;
+    margin-bottom: 10px;
+}
+
+/* Name */
+.leader-name {
+    margin: 0 0 5px 0;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/* Icons row */
+.leader-icons {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+/* Job / role */
+.leader-role {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: #555;
+}
+
+/* Icons inside the row */
+.leader-icons img {
+    vertical-align: middle;
+}
+
+
+
+
+
+
+.lesson-overview {
+    border: 1px solid #000;
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.lesson-overview p {
+    margin: 0 0 16px 0;
+}
+
+.lesson-overview p:last-child {
+    margin-bottom: 0 !important; /* Remove gap at bottom */
+}
+
+.lesson-overview .fa-solid,
+.lesson-overview .fa-regular {
+    margin-right: 8px;
+    color: #333;
+}
+/* Grey header */
+.lesson-header {
+    background: #e5e5e5;
+    padding: 12px 15px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    border-radius: 5px 5px 0 0; /* round only top corners */
+}
+
+/* Date text under title */
+.lesson-header .lesson-date {
+    font-size: 15px;
+    font-weight: 400;
+    color: #555;
+}
+
+/* Body area */
+.lesson-body {
+    padding: 15px 20px;
+}
+
+/* Grid layout */
+.lesson-grid {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    row-gap: 10px;
+    column-gap: 15px;
+}
+
+/* Label column styling */
+.lesson-grid .label {
+    font-weight: 600;
+    color: #333;
+}
+
+@media (max-width: 480px) {
+    /* On small phones, stack labels and values */
+    .lesson-body {
+        display: block; /* switch from grid to vertical layout */
+    }
+    .lesson-body > strong,
+    .lesson-body > div {
+        display: block;
+        width: 100%;
+        margin-bottom: 6px; /* optional spacing between label/value pairs */
+    }
+}
