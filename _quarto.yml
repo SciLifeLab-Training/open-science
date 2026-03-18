@@ -7,7 +7,7 @@ branches:
 
 website:
   title: ""
-  favicon: "img/OSitSCfavicon.png"
+  favicon: "img/favicon-32x32.png"
   page-navigation: true
   search:
     location: navbar
