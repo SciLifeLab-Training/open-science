@@ -58,7 +58,7 @@ title: "Schedule 2026"
 
 | Time | Session | Research phase |
 |------|------|------|
-| 10:00 - 10:30 | **[Reusing research data](day4.qmd#reusing-research-data)** | Plan and Design | 
+| 09:00 - 10:30 | **[Reusing research data](day4.qmd#reusing-research-data)** | Plan and Design | 
 | 10:30 - 11:00 | <span style="color:#09375c;">Break</span> | |
 | 11:00 - 12:00 | **[Publishing sensitive data](day4.qmd#publishing-sensitive-data)** | Publish and Spread | 
 | 12:00 - 13:00 | <span style="color:#09375c;">Lunch</span> | |
