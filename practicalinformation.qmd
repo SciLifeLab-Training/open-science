@@ -20,16 +20,16 @@ title: "Enrollment & practicalities"
 <div>Wallenberg Conference Center, Gothenburg</div>
 
 <strong>Suggested credits:</strong>
-<div>2 hp. Students, please note that SND can only provide a suggested number of credits; you must apply to your university department to have the credits formally approved after completing the course.</div>
+<div>2 hp. Note: SND can only provide a suggested number of credits; you must apply to your university department to have the credits formally approved after completing the course.</div>
 
 <strong>Enrollment opens:</strong>
 <div>December 18th, 2025</div>
 
 <strong>Enrollment closes:</strong>
-<div>EXTENDED DEADLINE! Now March 13th, 2026</div>
+<div>March 16th, 2026</div>
 
 <strong>Confirmation to applicants:</strong>
-<div>March 6th, 2026</div>
+<div>March 23rd, 2026</div>
 
 <strong>Course fee:</strong>
 <div>2500 SEK</div>
@@ -37,11 +37,13 @@ title: "Enrollment & practicalities"
 <strong>Course contacts:</strong>
 <div>david.rayner@gu.se, ineke.luijten@scilifelab.se, elin.kronander@scilifelab.se</div>
 
+<!-- 
 <p style="margin-top:15px;">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScuRmt6-WSn4leop_oUpxYN1Ytn2hbj6a54IWLyiS-kUzSF9g/viewform?usp=dialog" class="btn btn-primary" style="padding:10px 20px; font-size:16px; border-radius:8px;">
 🔗 Enroll now
 </a>
 </p>
+-->
 
 </div>
 </div>

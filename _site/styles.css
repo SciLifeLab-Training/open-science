@@ -101,7 +101,9 @@ h3 {
 
 /* H4 styling: smaller headings */
 h4 {
-    font-size: 20px;            /* sets h4 font size*/
+    font-size: 16px;            /* sets h4 font size*/
+    font-weight: 300;           /* sets h3 font weight */
+    text-indent: 25px;
     color: #000000;           /* sets h4 color */
 }
 
