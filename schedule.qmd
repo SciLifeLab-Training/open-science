@@ -12,7 +12,7 @@ title: "Schedule 2026"
  
 <br/>
 
-## **[4 May 2026](day1.qmd)**
+## **[Monday 4 May 2026](day1.qmd)**
 
 | Time | Session |  
 |------|------| 
@@ -24,7 +24,7 @@ title: "Schedule 2026"
 
 <br/>
 
-## **[5 May 2026](day2.qmd)**  
+## **[Tuesday 5 May 2026](day2.qmd)**  
 
 | Time | Session | Research phase |
 |------|------|------|
@@ -39,7 +39,7 @@ title: "Schedule 2026"
 
 <br/>
      
-## **[6 May 2026](day3.qmd)**    
+## **[Wednesday 6 May 2026](day3.qmd)**    
 
 | Time | Session | Research phase |
 |------|------|------|
@@ -54,7 +54,7 @@ title: "Schedule 2026"
 
 <br/>
 
-## **[7 May 2026](day4.qmd)**   
+## **[Thursday 7 May 2026](day4.qmd)**   
 
 | Time | Session | Research phase |
 |------|------|------|

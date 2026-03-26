@@ -6,7 +6,7 @@ date: today
 <br/>
 
 #### Stefan Ekman <a href="https://snd.se/en"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0003-0902-5637" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/stefanuekman/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
-###### Training Coordinator, SND 
+###### Senior Advisor, SND 
 
 <table>
 <tr>
@@ -18,7 +18,7 @@ date: today
 <br/>
 
 #### Karin Engström <a href="https://portal.research.lu.se/en/persons/karin-engstr%C3%B6m/"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0002-9227-5188" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/karin-engstr%C3%B6m-031b669/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
-###### Professor, Researcher, Lund University
+###### Associate Professor, Researcher, Lund University
 
 <table>
 <tr>
