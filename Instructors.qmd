@@ -5,8 +5,8 @@ date: today
 
 <br/>
 
-#### Stefan Ekman <a href="https://snd.se/en"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0003-0902-5637" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/stefanuekman/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
-###### Senior Advisor, SND 
+## Stefan Ekman  <a href="https://snd.se/en"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0003-0902-5637" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/stefanuekman/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Senior Advisor, SND]{.instructor-role}
 
 <table>
 <tr>
@@ -15,10 +15,10 @@ date: today
 </tr>
 </table>
 
-<br/>
+<br/> 
 
-#### Karin Engström <a href="https://portal.research.lu.se/en/persons/karin-engstr%C3%B6m/"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0002-9227-5188" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/karin-engstr%C3%B6m-031b669/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
-###### Associate Professor, Researcher, Lund University
+## Karin Engström <a href="https://portal.research.lu.se/en/persons/karin-engstr%C3%B6m/"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0002-9227-5188" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/karin-engstr%C3%B6m-031b669/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Associate Professor, Researcher, Lund University]{.instructor-role}
 
 <table>
 <tr>
@@ -29,8 +29,8 @@ date: today
 
 <br/>
 
-#### Mattias von Feilitzen <a href="https://www.gu.se/en/about/find-staff/mattiasneht"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/mattias-von-feilitzen-5231a263/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
-###### Educational Developer, University of Gothenburg 
+## Mattias von Feilitzen <a href="https://www.gu.se/en/about/find-staff/mattiasneht"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/mattias-von-feilitzen-5231a263/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Educational Developer, University of Gothenburg]{.instructor-role} 
 
 <table>
 <tr>
@@ -42,8 +42,8 @@ date: today
 <br/>
 
 
-#### Helena Francke <a href="https://www.gu.se/en/about/find-staff/helenafrancke"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/helenafrancke/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
-###### Librarian, University of Gothenburg 
+## Helena Francke <a href="https://www.gu.se/en/about/find-staff/helenafrancke"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/helenafrancke/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Librarian, University of Gothenburg]{.instructor-role} 
 
 <table>
 <tr>
@@ -55,8 +55,8 @@ date: today
 <br/>
 
 
-#### Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
-###### Head of Training and Data Steward, NBIS  
+## Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Head of Training and Data Steward, NBIS]{.instructor-role} 
 
 <table>
 <tr>
@@ -68,8 +68,8 @@ date: today
 <br/> 
 
 
-#### Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
-###### Scientific Training Officer, SciLifeLab Training Hub  
+## Ineke Luijten <a href="https://orcid.org/0000-0001-5768-275X" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/inekeluijten/?originalSubdomain=se" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/InekeL" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a> {.instructor-name}  
+[Scientific Training Officer, SciLifeLab Training Hub]{.instructor-role}  
 
 <table>
 <tr>
@@ -80,8 +80,8 @@ date: today
 
 <br/> 
 
-#### Gustav Nilsonne <a href="https://nilsonne.net/"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="http://orcid.org/0000-0001-5273-0150" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://twitter.com/GustavNilsonne" rel="X"><img src="img/X.png" alt="" width="20" height="20"/></a> <a href="https://github.com/GNilsonne" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
-###### Associate Professor/Senior Advisor, Karolinska Institutet/SND
+## Gustav Nilsonne <a href="https://nilsonne.net/"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="http://orcid.org/0000-0001-5273-0150" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://twitter.com/GustavNilsonne" rel="X"><img src="img/X.png" alt="" width="20" height="20"/></a> <a href="https://github.com/GNilsonne" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a> {.instructor-name}  
+[Associate Professor/Senior Advisor, Karolinska Institutet/SND]{.instructor-role}
 
 <table>
 <tr>
@@ -92,8 +92,8 @@ date: today
 
 <br/>   
 
-#### Camilla Pettersson <a href="https://www.gu.se/en/about/find-staff/camillapettersson"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/camilla-pettersson-7821901a/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>
-###### Team Leader, Innovation Office, University of Gothenburg 
+## Camilla Pettersson <a href="https://www.gu.se/en/about/find-staff/camillapettersson"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/camilla-pettersson-7821901a/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Team Leader, Innovation Office, University of Gothenburg]{.instructor-role} 
 
 <table>
 <tr>
@@ -104,12 +104,10 @@ She holds a master's degree in molecular biology and a PhD in medicine, as well 
 </tr>
 </table>
 
- 
-
 <br/>
 
-#### David Rayner <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a>  <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://https://github.com/David-Rayner-GVC" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>
-###### Training Coordinator, SND
+## David Rayner <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a>  <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://https://github.com/David-Rayner-GVC" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Training Coordinator, SND]{.instructor-role}
 
 <table>
 <tr>
@@ -120,8 +118,8 @@ She holds a master's degree in molecular biology and a PhD in medicine, as well 
 
 <br/>
 
-#### Arin Tham <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a>
-###### Research data Advisor, SND 
+## Arin Tham <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Research data Advisor, SND]{.instructor-role} 
 
 <table>
 <tr>
@@ -132,8 +130,8 @@ She holds a master's degree in molecular biology and a PhD in medicine, as well 
 
 <br/>
 
-#### Karin Westin Tikkanen <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a> <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/karin-westin-tikkanen/"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a>  
-###### Journalist/Senior Advisor, SND/Gothenburg University
+## Karin Westin Tikkanen <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a> <a href="https://orcid.org/0000-0002-9101-0479" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/karin-westin-tikkanen/"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}  
+[Journalist/Senior Advisor, SND/Gothenburg University]{.instructor-role}
 
 <table>
 <tr>

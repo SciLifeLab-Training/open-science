@@ -199,9 +199,17 @@ a {
 }
 
 
+/* ---------------- Instructor headings ---------------- */
+.instructor-name {
+  margin-bottom: 0;
+}
 
-
-
+.instructor-role {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: #555;
+}
 
 .lesson-overview {
     border: 1px solid #000;
