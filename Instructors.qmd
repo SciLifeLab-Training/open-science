@@ -140,6 +140,19 @@ She holds a master's degree in molecular biology and a PhD in medicine, as well 
 </tr>
 </table>
 
+<br/>
+
+## Marcus Weissenbilder <a href="https://www.gu.se/en/about/find-staff/marcusweissenbilder" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/marcus-weissenbilder-020a081b5/"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}  
+[Survey Manager, the SOM Institute]{.instructor-role}
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/Marcus.jpg" alt="Marcus Weissenbilder " width="80"></td>
+    <td style="width: 80%;"> With a background in political science and public administration, Marcus is analyst and research lead at the SOM Institute. His specialities include survey design, data validation, and statistical analysis, and he works closely with government agencies and research groups. His research focuses on public trust in institutions, attitudes toward the EU, and perspectives on AI and the labor market. He regularly presents findings to policymakers, organizations, and in public forums, including SVT’s Agenda and at Almedalen. </td>
+</tr>
+</table>
+
+
 <!--
 <br/>
 
