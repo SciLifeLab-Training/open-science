@@ -54,6 +54,18 @@ date: today
 
 <br/>
 
+## Karl-Magnus Johansson <a href="https://orcid.org/0000-0002-4734-5060" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/company/national-archives-in-sweden-riksarkivet-/posts/?feedView=all" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://sv.wikipedia.org/wiki/Karl-Magnus_Johansson" rel="GitHub"><img src="img/Wikipedia's_W.svg.png" alt="" width="20" height="20"/></a> {.instructor-name}  
+[Senior Archivist at the Swedish National Archives / Honorary Doctor at the Faculty of Humanities at the University of Gothenburg.]{.instructor-role}  
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/Karl-Magnus_Johansson_2023.jpg" alt="Karl-Magnus Johansson" width="80"></td>
+    <td style="width: 80%;">Karl-Magnus is an archival researcher combining public engagement and cultural heritage.  His work explores archival theory and microhistory, ranging from records of the 1834 cholera outbreak in Gothenburg to forgotten speeches and everyday photographs. Through collaborations with artists, researchers, and the public, Karl-Magnus has made the archive come to life, making history accessible and relevant to broader audiences. </td>
+</tr>
+</table>
+
+<br/> 
+
 
 ## Elin Kronander <a href="https://orcid.org/0000-0003-0280-6318" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/elin-kronander/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/elinkronander" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a> {.instructor-name}
 [Head of Training and Data Steward, NBIS]{.instructor-role} 
@@ -106,7 +118,7 @@ She holds a master's degree in molecular biology and a PhD in medicine, as well 
 
 <br/>
 
-## David Rayner <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a>  <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://https://github.com/David-Rayner-GVC" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a> {.instructor-name}
+## David Rayner <a href="https://snd.se/en" rel="home"><img src="img/WWW.png" alt="" width="20" height="20"/></a>  <a href="https://orcid.org/0000-0003-0545-3634" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://github.com/David-Rayner-GVC" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a> {.instructor-name}
 [Training Coordinator, SND]{.instructor-role}
 
 <table>

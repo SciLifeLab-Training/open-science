@@ -60,7 +60,7 @@ title: "Schedule 2026"
 |------|------|------|
 | 09:00 - 10:30 | **[Reusing research data](day4.qmd#reusing-research-data)** | Plan and Design | 
 | 10:30 - 11:00 | <span style="color:#09375c;">Break</span> | |
-| 11:00 - 12:00 | **[Publishing sensitive data](day4.qmd#publishing-sensitive-data)** | Publish and Spread | 
+| 11:00 - 12:00 | **[Accessible archives with Citizen science](day4.qmd#accessible-archives-with-citizen-science)** | Communicate and Involve | 
 | 12:00 - 13:00 | <span style="color:#09375c;">Lunch</span> | |
 | 13:00 - 14:30 | **[Science Communication](day4.qmd#science-communication)**  | Communicate and Involve |
 | 14:30 - 15:00 | <span style="color:#09375c;">Break</span> | |

@@ -9,9 +9,9 @@ A workshop on data reuse that offers both theoretical and practical guidance on 
 
 ----
  
-### Publishing Sensitive Data
+### Accessible archives with Citizen science
 
-This session focuses on the principles and practical steps for publishing sensitive research data in repositories. The session focusses on how to apply the core principle, "as open as possible, as restricted as necessary".  It clarifies what can be shared openly – such as anonymized and aggregated data – and explains the concept of publishing data with access restrictions, especially datasets containing personal information. Attendees will gain practical guidance on reducing risk to participants, legal responsibilities, and best practices for ensuring data reusability and compliance. 
+Citizen science and AI-based handwritten text recognition (HTR) are working together to make large volumes of historical handwritten documents accessible and searchable. By combining people’s ability to interpret difficult-to-read handwriting with AI’s speed for large-scale processing, access to archival material is being revolutionized. Karl-Magnus Johansson takes us on a tour of the project and describes the challenges and benefits of the citizen science approach. 
 
 ----
 
