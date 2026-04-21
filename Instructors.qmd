@@ -104,6 +104,18 @@ date: today
 
 <br/>   
 
+## Stephan Nylinder <a href="https://nbis.se/staff/stephan-nylinder"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="http://orcid.org/0000-0001-5199-7128" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> {.instructor-name}  
+[Data Steward, NBIS]{.instructor-role}
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/StephanNylinder.png" alt="Stephan Nylinder" width="80"></td>
+    <td style="width: 80%;">Stephan is a Data Steward at the National Bioinformatics Infrastructure Sweden (NBIS) working towards FAIR and open science, and assisting Life Science researchers with data submissions of biological data to open repositories. He has a background as researcher in biodiversity and plant systematics.</td>
+</tr>
+</table>
+
+<br/>   
+
 ## Camilla Pettersson <a href="https://www.gu.se/en/about/find-staff/camillapettersson"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/camilla-pettersson-7821901a/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}
 [Team Leader, Innovation Office, University of Gothenburg]{.instructor-role} 
 

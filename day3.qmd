@@ -14,7 +14,7 @@ Participants will be introduced to key Open Access models (Green, Gold, Hybrid, 
 ### Parallel Session
 
 #### Open Access – Code and Models
-This hands-on session introduces the essentials of Open Access for code and models, focusing on practical skills. Participants will get started with code versioning using git, learn the basics of creating and sharing Docker container files, and explore how to document and share AI models. No prior experience is required!
+This hands-on session introduces the essentials of Open Access for code and models, focusing on practical skills. Participants will get started with code versioning using git, learn the basics of reusable data processing pipelines, and explore how to document and share models. No prior experience is required!
 
 **OR**
 
