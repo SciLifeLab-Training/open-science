@@ -5,18 +5,21 @@ format: html
 
 ### Quick Link: [Back to Course Overview](index.qmd)
 
-### What is Open Science?
+## What is Open Science? {.session-overview}  
+Instructor: [Ineke Luijten](Instructors.qmd#ineke-luijten)
 
 This opening session provides an overview of the principles and practices that define Open Science. It introduces the historical development of Open Science and discusses its potential benefits and challenges for researchers and society.
 
 ----
 
-### The State of Open Science in Sweden
+## The State of Open Science in Sweden {.session-overview} 
+Instructor: [Ineke Luijten](Instructors.qmd#ineke-luijten)
 
 This session explores the current landscape of Open Science in Sweden and Europe, both institutionally and at the grassroots level. It presents the six key areas for the development of Open Science in Sweden and highlights major actors such as VR, SUHF, KB, and SND. The session also examines SUHF’s national roadmap and its ten recommendations, and discusses how Swedish higher education institutions are implementing these goals.
 
 ----
 
-### The Ideology of Open Science
+## The Ideology of Open Science {.session-overview} 
+Instructor: [Stefan Ekman](Instructors.qmd#stefan-ekman)
 
 This session examines the ideas shaping Open Science. We explore competing visions, from technology-focused models to approaches that emphasize process, inclusion, and collaboration. Topics include commercialization, unequal access to power and resources, and the tension between standardization and diverse ways of knowing. Rather than viewing Open Science simply as sharing results, the session invites participants to view Open Science as a path to a more inclusive, fair, and collaborative research system. 

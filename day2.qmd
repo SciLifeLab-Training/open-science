@@ -3,31 +3,40 @@ title: "Tuesday 5 May 2026 – Planning and Sharing Research"
 format: html
 ---
 
-### Data Management Plans
+### Quick Link: [Back to Course Schedule](schedule.qmd)
+
+## Data Management Plans {.session-overview}  
+Instructors: [Elin Kronander](Instructors.qmd#elin-kronander) and [Stephan Nylinder](Instructors.qmd#stephan-nylinder)
 
 This session focuses on integrating Open Science practices early in the research process. Participants receive guidance on creating effective data management plans (DMPs), selecting open tools from the start, and understanding the key planning components of a DMP. The session also introduces related strategies such as preregistration and registered reports.
 
 ----
 
-### Parallel Session
+## Parallel Session
 
-#### Intellectual Property
+### Intellectual Property {.session-overview}  
+Instructor: [Camilla Pettersson](Instructors.qmd#camilla-pettersson)
+
 Discussion centering on knowledge assets, intellectual property (IP) and intellectual property rights (IPR) in research and innovation. Covers e.g. the Swedish “teacher’s exemption”, managing your knowledge assets and IPR:s in collaborations, patents,  what can and cannot be protected, and the three patentability criteria: novelty, inventive step, and industrial application.
 
 **OR**
 
-#### CARE Principles
+### CARE Principles {.session-overview}  
+Instructors: [David Rayner](Instructors.qmd#david-ryaner) and [Stefan Ekman](Instructors.qmd#stephan-ekman)
+
 Introduction to the CARE Principles for Indigenous Data Governance (Collective benefit, Authority to control, Responsibility, Ethics).  The session will explain how these principles differ from traditional approaches to data management, focusing on the ethical, culturally responsive stewardship of Indigenous data. The session will discuss practical strategies for integrating CARE principles into research projects, promoting respect, transparency, and equitable outcomes for Indigenous communities.
 
 ----
  
-### Repositories, Metadata, DOIs and Licensing
+## Repositories, Metadata, DOIs and Licensing {.session-overview}  
+Instructors: [Elin Kronander](Instructors.qmd#elin-kronander) and [Stephan Nylinder](Instructors.qmd#stephan-nylinder)
 
 This session focuses on how to maximize the visibility, accessibility, and reusability of research outputs after publication. It covers best practices for depositing outputs in open repositories, obtaining persistent identifiers, annotating using rich metadata, and applying appropriate open licenses. A practical exercise guides participants through uploading items to a repository (Zenodo), including adding metadata and selecting licenses.
 
 ----
 
-### Open Educational Resources
+## Open Educational Resources {.session-overview}  
+Instructor: [Mattias von Feilitzen](Instructors.qmd#mattias-von-feilitzen)
 
 This session introduces Open Educational Resources (OER) and their role in research and teaching. OER are digital materials that can be freely used, adapted, and shared, including study guides, slides, videos, podcasts, and full course packages. We will provide an overview of well-known platforms where educators can find and share open materials. 
 

@@ -2,8 +2,11 @@
 title: "Wednesday 6 May 2026 – Open Access and Responsible Research"
 format: html
 ---
- 
-### Open Access – Publishing Your Results
+
+### Quick Link: [Back to Course Schedule](schedule.qmd)
+
+## Open Access – Publishing Your Results {.session-overview}  
+Instructor: [Ineke Luijten](Instructors.qmd#ineke-luijten)
 
 This session both examines the development of academic publishing and provides information on how Open Access works in practice.   We briefly trace the history of scholarly journals and discuss the strengths and weaknesses of traditional publishing, including issues of quality control, cost, access, and commercialization, and describe the shift away from subscription-based models. 
 
@@ -11,30 +14,39 @@ Participants will be introduced to key Open Access models (Green, Gold, Hybrid, 
 
 ----
 
-### Parallel Session
+## Parallel Session {.session-overview}  
 
-#### Open Access – Code and Models
+### Open Access – Code and Models {.session-overview}  
+Instructor: [Karin Engström](Instructors.qmd#karin-engstr%C3%B6m)
+
 This hands-on session introduces the essentials of Open Access for code and models, focusing on practical skills. Participants will get started with code versioning using git, learn the basics of reusable data processing pipelines, and explore how to document and share models. No prior experience is required!
 
 **OR**
 
-#### Open Access Scholarly Books
+### Open Access Scholarly Books {.session-overview}  
+Instructor: [Helena Francke](Instructors.qmd#helena-francke)
+
 This discussion-oriented session explores the landscape of open access books. Participants will bring their own experiences and questions (or just a curious mind) to a conversation about publishing opportunities, practices, benefits, and challenges. Issues that can be addressed include platforms, publishers, licenses, self-archiving, and more, with regards to both longform publishing and book chapters.
 
 ----
 
-### The SOM survey and the Citizen Panel
+## The SOM survey and the Citizen Panel {.session-overview}  
+Instructor: [Marcus Weissenbilder](Instructors.qmd#marcus-weissenbilder)
 
 The presentation highlights key questions around data sharing related to the SOM survey and the Citizen Panel: what types of data can be made accessible, and which forms of data collection require greater caution, especially when dealing with sensitive personal data and the possibility of identifying individuals. We also discuss how these considerations can be integrated already at the planning stage of research projects, concerns particularly relevant for researchers and PhD students preparing to collect their own data.
 
 ----
  
-### Parallel Session
+## Parallel Session {.session-overview}  
 
-#### Research with Sensitive Qualitative Data
+### Research with Sensitive Qualitative Data {.session-overview}  
+Instructor: [Arin Tham](Instructors.qmd#arin-tham)
+
 There are many ways to pseudonymize qualitative data. In this workshop, we will discuss some general tips and commonly used techniques for pseudonymizing qualitative research data so you can determine which methods are most suitable for your research data
 
 **OR**
 
-#### Research with Sensitive Quantitative Data
+### Research with Sensitive Quantitative Data {.session-overview}  
+Instructor: [Gustav Nilsonne](Instructors.qmd#gustav-nilsonne)
+
 The most common way to pseudonymize quantitative data is by applying various statistical techniques. These approaches modify the dataset to make it difficult – or impossible – to identify individual research participants. This session gives a hands-on introduction to essential generalization and randomization methods, and also general tips for working with quantitative data
