@@ -24,7 +24,7 @@ website:
         class: "sidebar-title"
       - text: "Course Overview"
         href: index.qmd
-      - text: "Enrollment & practicalities"
+      - text: "Practicalities"
         href: practicalinformation.qmd
       - text: "Instructors"
         href: Instructors.qmd  
@@ -37,6 +37,10 @@ website:
           - file: day2.qmd
           - file: day3.qmd
           - file: day4.qmd
+      - section: "Preparation"
+        collapse: true
+        contents:
+          - file: data_management_plans.qmd
 
   navbar:
     background: "#111F36"

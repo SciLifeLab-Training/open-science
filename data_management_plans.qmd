@@ -1,0 +1,43 @@
+---
+title: "Data Management Plans"
+---
+
+### Quick Link: [Back to Course Overview](index.qmd)
+
+This session focuses on integrating Open Science practices early in the research process. Participants receive guidance on creating effective data management plans (DMPs), selecting open tools from the start, and understanding the key planning components of a DMP. The session also introduces related strategies such as preregistration and registered reports.
+
+# Preparations for the DMP module
+
+If you have any questions about this module, please contact Elin Kronander <elin.kronander@scilifelab.se> or Stephan Nylinder <stephan.nylinder@scilifelab.se>
+
+<div class="lesson-overview">
+## Create a Life Science ID account.
+
+The Life Science Login enables researchers to use their home organisation credentials or community or other identities (e.g. Google, Linkedin) to sign in and access data and services they need.
+
+ - Open the link https://signup.aai.lifescience-ri.eu/fed/registrar/?vo=lifescience
+ - Choose your home organization, or if you cannot find it on the list, pick one of the supported commercial/community services, and log in with your credentials.
+ - Fill in the registration form. Review and accept usage policy and click on `Submit`.
+ - You will receive an email with a verification link. 
+ - **!!** The verification email will probably go to your SPAM / Junk email folder! If so, fish it out!  
+ - Click the link in the email to verify your email address 😊
+
+(Optional) Learn more about Life Science login: https://lifescience-ri.eu/ls-login.html
+
+</div>
+
+<div class="lesson-overview">
+## Create a SciLifeLab DSW account account.
+
+SciLifeLab DSW is an online service for creating data management plans from questionnaires using the Data Stewardship Wizard (DSW) software tool.
+
+ - Go to https://dsw.scilifelab.se/ and log in using the "Life Science IR (university)" credentials you created above. 
+
+(Optional) Learn more about SciLifeLab: https://www.scilifelab.se/
+
+(Optional) Learn more about DSW: https://ds-wizard.org/
+
+</div>
+
+<!-- VERY IMPORTANT: blank line below -->
+
