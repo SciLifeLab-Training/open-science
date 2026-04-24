@@ -1,0 +1,66 @@
+---
+title: "Enrollment & practicalities"
+---
+
+<br> 
+
+### Quick Link: [Back to Course Overview](index.qmd)
+<br>
+
+<div class="lesson-overview" {=html}>
+
+<div class="lesson-header">
+    <strong>Open Science in the Swedish Context 2026</strong><br>
+    <span class="lesson-date">May 4–7, 2026</span>
+</div>
+
+<div class="lesson-body" style="display:grid; grid-template-columns: 180px auto; row-gap:8px; column-gap:10px;">
+
+<strong>Location:</strong>
+<div>Wallenberg Conference Center, Gothenburg</div>
+
+<strong>Suggested credits:</strong>
+<div>2 hp. Note: SND can only provide a suggested number of credits; you must apply to your university department to have the credits formally approved after completing the course.</div>
+
+<strong>Enrollment opens:</strong>
+<div>December 18th, 2025</div>
+
+<strong>Enrollment closes:</strong>
+<div>March 16th, 2026</div>
+
+<strong>Confirmation to applicants:</strong>
+<div>March 23rd, 2026</div>
+
+<strong>Course fee:</strong>
+<div>2500 SEK</div>
+
+<strong>Course contacts:</strong>
+<div>david.rayner@gu.se, ineke.luijten@scilifelab.se, elin.kronander@scilifelab.se</div>
+
+<!-- 
+<p style="margin-top:15px;">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScuRmt6-WSn4leop_oUpxYN1Ytn2hbj6a54IWLyiS-kUzSF9g/viewform?usp=dialog" class="btn btn-primary" style="padding:10px 20px; font-size:16px; border-radius:8px;">
+🔗 Enroll now
+</a>
+</p>
+-->
+
+</div>
+</div>
+
+<!-- VERY IMPORTANT: blank line below -->
+
+## Past course instances
+
+<div class="lesson-overview">
+<p>
+  <strong> Open Science in the Swedish Context</strong> <br>
+  May 5–9, 2025. SciLifeLab Solna 
+</p>
+<a href="https://scilifelab-training.github.io/open-science/2505/"> Course website</a>, <a href="https://figshare.scilifelab.se/collections/Open_Science_in_the_Swedish_Context/7890686"> Course material</a> 
+   
+"*I really enjoyed the course; every session provided me with new knowledge, and the atmosphere among the participants and speakers was excellent.*"  
+"*The topics are relevant and necessary in current times.*"  
+"*This was one of the best and most thoughtfully designed courses I’ve taken.*"      - Taken from participant feedback, 2025
+
+</div>

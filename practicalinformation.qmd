@@ -1,66 +1,35 @@
 ---
-title: "Enrollment & practicalities"
+title: "Practicalities"
 ---
 
-<br> 
-
 ### Quick Link: [Back to Course Overview](index.qmd)
-<br>
 
-<div class="lesson-overview" {=html}>
+### Note - enrollment has closed for the 2026 course! 
 
-<div class="lesson-header">
-    <strong>Open Science in the Swedish Context 2026</strong><br>
-    <span class="lesson-date">May 4–7, 2026</span>
-</div>
+<div class="lesson-overview">
+# Open Science in the Swedish Context 2026
 
-<div class="lesson-body" style="display:grid; grid-template-columns: 180px auto; row-gap:8px; column-gap:10px;">
+## The Venue
+The course will be held at Conference Center Wallenberg (link to information about the venue), located at Medicinaregatan 20 (link to google maps).
 
-<strong>Location:</strong>
-<div>Wallenberg Conference Center, Gothenburg</div>
+Our room is **Antarctis**. The room is on the ground floor, turn left after you enter through the main doors and look for the SND logo!
 
-<strong>Suggested credits:</strong>
-<div>2 hp. Note: SND can only provide a suggested number of credits; you must apply to your university department to have the credits formally approved after completing the course.</div>
+## Transport
+The nearest tram stop is Göteborg Medicinaregatan (link to Västtrafik). You can pay for public transport in Gothenburg city by tapping a credit card (link to Västtrafik). Otherwise, you can purchase tickets and plan travel with the Västtrafik To Go app (link to Västtrafik).
 
-<strong>Enrollment opens:</strong>
-<div>December 18th, 2025</div>
+There is ample parking very close to the venue, you pay with one of the generic commercial parking apps. 
+ 
+## Fika & lunch 
+The course fee includes afternoon coffee and light refreshments on 4 May, and lunch plus morning and afternoon coffee and refreshments on the remaining days (5–7 May). 
 
-<strong>Enrollment closes:</strong>
-<div>March 16th, 2026</div>
+## Suggested credits:
+**2 hp. Note: SND can only provide a suggested number of credits; you must apply to your university department to have the credits formally approved after completing the course.**
 
-<strong>Confirmation to applicants:</strong>
-<div>March 23rd, 2026</div>
+## Contact for questions about practicalities:
+david.rayner@snd.se
 
-<strong>Course fee:</strong>
-<div>2500 SEK</div>
 
-<strong>Course contacts:</strong>
-<div>david.rayner@gu.se, ineke.luijten@scilifelab.se, elin.kronander@scilifelab.se</div>
-
-<!-- 
-<p style="margin-top:15px;">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScuRmt6-WSn4leop_oUpxYN1Ytn2hbj6a54IWLyiS-kUzSF9g/viewform?usp=dialog" class="btn btn-primary" style="padding:10px 20px; font-size:16px; border-radius:8px;">
-🔗 Enroll now
-</a>
-</p>
--->
-
-</div>
 </div>
 
 <!-- VERY IMPORTANT: blank line below -->
 
-## Past course instances
-
-<div class="lesson-overview">
-<p>
-  <strong> Open Science in the Swedish Context</strong> <br>
-  May 5–9, 2025. SciLifeLab Solna 
-</p>
-<a href="https://scilifelab-training.github.io/open-science/2505/"> Course website</a>, <a href="https://figshare.scilifelab.se/collections/Open_Science_in_the_Swedish_Context/7890686"> Course material</a> 
-   
-"*I really enjoyed the course; every session provided me with new knowledge, and the atmosphere among the participants and speakers was excellent.*"  
-"*The topics are relevant and necessary in current times.*"  
-"*This was one of the best and most thoughtfully designed courses I’ve taken.*"      - Taken from participant feedback, 2025
-
-</div>
