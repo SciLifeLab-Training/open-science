@@ -40,7 +40,9 @@ website:
       - section: "Preparation"
         collapse: true
         contents:
+          - file: ideology_open_science.qmd
           - file: data_management_plans.qmd
+          - file: care_principles.qmd
 
   navbar:
     background: "#111F36"

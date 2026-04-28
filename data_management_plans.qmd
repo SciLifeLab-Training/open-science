@@ -2,11 +2,11 @@
 title: "Data Management Plans"
 ---
 
-### Quick Link: [Back to Course Overview](index.qmd)
+### Tuesday 5 May 2026, 9:00 
 
 This session focuses on integrating Open Science practices early in the research process. Participants receive guidance on creating effective data management plans (DMPs), selecting open tools from the start, and understanding the key planning components of a DMP. The session also introduces related strategies such as preregistration and registered reports.
 
-# Preparations for the DMP module
+## Preparations
 
 If you have any questions about this module, please contact Elin Kronander <elin.kronander@scilifelab.se> or Stephan Nylinder <stephan.nylinder@scilifelab.se>
 

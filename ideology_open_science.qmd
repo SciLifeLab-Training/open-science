@@ -1,0 +1,28 @@
+---
+title: "The Ideology of Open Science"
+---
+
+### Monday 4 May 2026, 15:00
+
+This session examines the ideas shaping Open Science. We explore competing visions, from technology-focused models to approaches that emphasize process, inclusion, and collaboration. Topics include commercialization, unequal access to power and resources, and the tension between standardization and diverse ways of knowing. Rather than viewing Open Science simply as sharing results, the session invites participants to view Open Science as a path to a more inclusive, fair, and collaborative research system.
+
+## Preparations
+
+If you have any questions about this module, please contact Stefan Ekman  <stefan.ekman@snd.se>.
+
+<div class="lesson-overview">
+For the session on The Ideology of Open Science, participants may want to read:
+
+ _Fecher, Benedikt, and Sascha Friesike. 2014. ‘Open Science: One Term, Five Schools of Thought’. In Opening Science, edited by Sönke Bartling and Sascha Friesike. Springer International Publishing. [https://doi.org/10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)._
+
+### Abstract
+
+> Open Science is an umbrella term encompassing a multitude of assumptions about the future of knowledge creation and dissemination. Based on a literature review, this chapter aims at structuring the overall discourse by proposing five Open Science schools of thought: The infrastructure school (which is concerned with the technological architecture), the public school (which is concerned with the accessibility of knowledge creation), the measurement school (which is concerned with alternative impact measurement), the democratic school (which is concerned with access to knowledge) and the pragmatic school (which is concerned with collaborative research).
+
+We will interrogate whether "open" in open science is an unqualified good, and ask whether particular interpretations of openness can in fact exclude particular researchers or be detrimental to some types of research.
+
+</div>
+
+
+<!-- VERY IMPORTANT: blank line below -->
+

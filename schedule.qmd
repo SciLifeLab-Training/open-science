@@ -9,6 +9,10 @@ title: "Schedule 2026"
 ::: {.callout-note}
 <span style="color:#E9967A;">Items highlighted in salmon indicate parallel sessions. Participants may choose one of the two options.</span> 
 :::
+
+::: {.callout-note}
+Items with a ![](img/prep.png "Preparation") link to a Preparation page with extra details.
+:::
  
 <br/>
 
@@ -19,8 +23,10 @@ title: "Schedule 2026"
 | 13:00 - 14:00 | **[What is Open Science?](day1.qmd#what-is-open-science)** |  
 | 14:00 - 14:30 | **[The state of Open Science in Sweden](day1.qmd#the-state-of-open-science-in-sweden)** |
 | 14:30 - 15:00 | <span style="color:#09375c;">Break</span> |  
-| 15:00 - 16:30 | **[The ideology of Open Science](day1.qmd#the-ideology-of-open-science)** | 
+| 15:00 - 16:30 | **[The ideology of Open Science](ideology_open_science.qmd) [![](img/prep.png "The ideology of Open Science")](ideology_open_science.qmd)** |
 : {tbl-colwidths="[25,75]"}  
+
+
 
 <br/>
 
@@ -28,9 +34,9 @@ title: "Schedule 2026"
 
 | Time | Session | Research phase |
 |------|------|------|
-| 09:00 - 10:30 | **[Data Management Plans](day2.qmd)**  | Plan and Design |
+| 09:00 - 10:30 | **[Data Management Plans](data_management_plans.qmd) [![](img/prep.png "Data Management Plans")](data_management_plans.qmd)**  | Plan and Design |
 | 10:30 - 11:00 | <span style="color:#09375c;">Break</span> | |
-| <span style="color:#E9967A;">11:00 - 12:00</span> | <span style="color:#E9967A;">**[Intellectual property](day2.qmd#intellectual-property)** - OR - **[CARE principles](day2.qmd#care-principles)**</span> | Plan and Design |
+| <span style="color:#E9967A;">11:00 - 12:00</span> | <span style="color:#E9967A;">**[Intellectual property](day2.qmd#intellectual-property)** - OR - **[CARE principles](care_principles.qmd) [![](img/prep.png "CARE principles")](care_principles.qmd)**</span> | Plan and Design |
 | 12:00 - 13:00 | <span style="color:#09375c;">Lunch</span> | |
 | 13:00 - 14:30 | **[Introduction to repositories, metadata, DOI and licensing](day2.qmd#repositories-metadata-dois-and-licensing)**   | Access and Reuse |
 | 14:30 - 15:00 | <span style="color:#09375c;">Break</span> | |
