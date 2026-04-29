@@ -43,6 +43,7 @@ website:
           - file: ideology_open_science.qmd
           - file: data_management_plans.qmd
           - file: care_principles.qmd
+          - file: open_access_code_and_models.qmd
 
   navbar:
     background: "#111F36"

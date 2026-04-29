@@ -1,0 +1,38 @@
+---
+title: "	Open Access - code and models"
+---
+
+### Wednesday 6 May 2026, 11:00
+
+This hands-on session introduces the essentials of Open Access for code and models, focusing on practical skills. Participants will get started with code versioning using git, learn the basics of reusable data processing pipelines, and explore how to document and share models. No prior experience is required!
+
+## Preparations
+
+If you have any questions about this module, please contact Karin Engström <karin.engstrom@med.lu.se>.
+
+<div class="lesson-overview">
+As part of the session Open Access - Code and Models, we will do a short practical exercise on Git and a brief exercise on writing a README file. No prior experience of Git or programming is required.
+
+ - Please bring a laptop.
+ - Before the session, please install Git
+ - It is also helpful, though not strictly required, to have a plain text editor or code editor installed, such as VS Code or Notepad++,  or another simple editor.
+
+#### Git Official download and installation page
+https://git-scm.com/install
+
+#### Helpful setup guidance:
+https://docs.github.com/articles/set-up-git
+
+#### Platform-specific installation pages:
+
+ - _Windows_: https://git-scm.com/download/win
+ - _macOS_: https://git-scm.com/download/mac
+ - _Linux_: https://git-scm.com/download/linux
+
+If you are not able to install Git before the session, you can still attend, follow the demonstration, or work together with another participant.
+
+</div>
+
+
+<!-- VERY IMPORTANT: blank line below -->
+
