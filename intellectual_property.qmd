@@ -6,6 +6,10 @@ title: "Intellectual Property"
 
 Discussion centering on knowledge assets, intellectual property (IP) and intellectual property rights (IPR) in research and innovation. Covers e.g. the Swedish “teacher’s exemption”, managing your knowledge assets and IPR:s in collaborations, patents, what can and cannot be protected, and the three patentability criteria: novelty, inventive step, and industrial application.
 
+## Camilla's Presentation
+
+[Intellectual_Property_Open_Science_Camilla_Pettersson.pptx](docs/Intellectual_Property_Open_Science_Camilla_Pettersson.pptx)
+
 ## Preparations
 
 Preparation is not necessary but will help you develop questions and ideas based on your own situation. 
@@ -25,6 +29,8 @@ Read the [IP Policy of the University of Gothenburg (in English)](docs/Universit
 This [short 6 minute video in Swedish](https://play.gu.se/media/0_9js65qob) explains basically what the IP Policy says.
 
 </div>
+
+
 
 <!-- VERY IMPORTANT: blank line below -->
 
