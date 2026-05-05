@@ -10,6 +10,8 @@ Instructors: [Elin Kronander](Instructors.qmd#elin-kronander) and [Stephan Nylin
 
 This session focuses on integrating Open Science practices early in the research process. Participants receive guidance on creating effective data management plans (DMPs), selecting open tools from the start, and understanding the key planning components of a DMP. The session also introduces related strategies such as preregistration and registered reports.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFq3a3wAKcdoI14lDdd847pdeb-lU98VgMaCFgYFrqfQQrshYBdnkJO3xfKO0Ie_CMdicX5fx0v9so/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ 
 ----
 
 ## Parallel Session
@@ -32,6 +34,11 @@ Introduction to the CARE Principles for Indigenous Data Governance (Collective b
 Instructors: [Elin Kronander](Instructors.qmd#elin-kronander) and [Stephan Nylinder](Instructors.qmd#stephan-nylinder)
 
 This session focuses on how to maximize the visibility, accessibility, and reusability of research outputs after publication. It covers best practices for depositing outputs in open repositories, obtaining persistent identifiers, annotating using rich metadata, and applying appropriate open licenses. A practical exercise guides participants through uploading items to a repository (Zenodo), including adding metadata and selecting licenses.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5Aipl3n9tl5UD_9J8gOI3DOC5Ph5i457WqgCxo7YxriS29SWpDnzT3rKcH4Ue0C3-hX9FolTy2_sC/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Zenodo exercise instructions: [https://go.nbis.se/OS26-Zenodo](https://go.nbis.se/OS26-Zenodo)
+
 
 ----
 
