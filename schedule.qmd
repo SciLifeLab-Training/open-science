@@ -53,7 +53,7 @@ Items with a ![](img/prep.png "Preparation") link to a Preparation page with ext
 | 10:30 - 11:00 | <span style="color:#09375c;">Break</span> | |
 | <span style="color:#E9967A;">11:00 - 12:00</span> | <span style="color:#E9967A;">**[Open Access - code and models](open_access_code_and_models.qmd) [![](img/prep.png "Open Access - code and models")](open_access_code_and_models.qmd) - OR - [Open Access scholarly books](day3.qmd#open-access-scholarly-books)** </span> | Publish and Spread   |
 | 12:00 - 13:00 | <span style="color:#09375c;">Lunch</span> | |
-| 13:00 - 14:30 | **[The SOM survey and the Citizen Panel.](day3.qmd#the-som-survey-and-the-citizen-panel)** | Collect and Analyze |
+| 13:00 - 14:30 | **[The SOM survey and the Citizen Panel](day3.qmd#the-som-survey-and-the-citizen-panel)** | Collect and Analyze |
 | 14:30 - 15:00 | <span style="color:#09375c;">Break</span> | |
 | <span style="color:#E9967A;">15:00 - 16:30</span> | <span style="color:#E9967A;">**[Research with sensitive qualitative data](day3.qmd#research-with-sensitive-qualitative-data) - OR - [Research with sensitive quantitative data](day3.qmd#research-with-sensitive-quantitative-data)**</span> |  Collect and Analyze   |
 : {tbl-colwidths="[25,50,25]"} 
