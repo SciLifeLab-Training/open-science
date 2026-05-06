@@ -23,7 +23,7 @@ Items with a ![](img/prep.png "Preparation") link to a Preparation page with ext
 | 13:00 - 14:00 | **[What is Open Science?](day1.qmd#what-is-open-science)** |  
 | 14:00 - 14:30 | **[The state of Open Science in Sweden](day1.qmd#the-state-of-open-science-in-sweden)** |
 | 14:30 - 15:00 | <span style="color:#09375c;">Break</span> |  
-| 15:00 - 16:30 | **[The ideology of Open Science](ideology_open_science.qmd) [![](img/prep.png "The ideology of Open Science")](ideology_open_science.qmd)** |
+| 15:00 - 16:30 | **[The ideology of Open Science](day1.qmd)** |
 : {tbl-colwidths="[25,75]"}  
 
 
