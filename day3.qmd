@@ -25,6 +25,11 @@ Instructor: [Karin Engström](Instructors.qmd#karin-engstr%C3%B6m)
 
 This hands-on session introduces the essentials of Open Access for code and models, focusing on practical skills. Participants will get started with code versioning using git, learn the basics of reusable data processing pipelines, and explore how to document and share models. No prior experience is required!
 
+<a href="docs/Hands_on_1_Git.pdf" target="_blank" download>Download Exercise 1: Hands-on Git (PDF)</a>  
+<a href="docs/Hands_on_2_README.pdf" target="_blank" download>Download Exercise 2: Hands-on README (PDF)</a>    
+<a href="docs/Hands_on_3_models.pdf" target="_blank" download>Download Exercise 3: Hands-on Models (PDF)</a>     
+
+
 **OR**
 
 ### Open Access Scholarly Books {.session-overview}  
