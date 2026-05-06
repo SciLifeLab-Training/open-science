@@ -12,6 +12,10 @@ This session both examines the development of academic publishing and provides i
 
 Participants will be introduced to key Open Access models (Green, Gold, Hybrid, Bronze, and Diamond) and major policy initiatives. The session also covers practical aspects of open publishing, including preprints, repositories, licensing, copyright, and elements of Open Science workflows such as collaborative writing and open peer review.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyQPQB4Vs6WOPWhHpZ0hFXz2YH4WpTK0X3G5wYieber1tW10sHGkCtSLJJ0tRnaKAHljbXqPStJ5_n/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
+  
+<a href="https://docs.google.com/presentation/d/1fw0WWZaFJv8a-tmJTOT4oxck3mzhVKMC1hrcVOQ2INE/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1fw0WWZaFJv8a-tmJTOT4oxck3mzhVKMC1hrcVOQ2INE/copy" target="_blank">Make a Copy</a>   
+
 ----
 
 ## Parallel Session {.session-overview}  
