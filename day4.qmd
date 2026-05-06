@@ -11,6 +11,7 @@ Instructor: [David Rayner](Instructors.qmd#david-ryaner)
 A workshop on data reuse that offers both theoretical and practical guidance on reusing data from research data repositories. Among other things, it covers how to find, access, and evaluate datasets for reuse in new research. The session builds on an authentic research question that participants will address during the workshop! 
 
 <a href="docs/Data Reuse Lecture - Presentation Notes.pdf" target="_blank" download>Download Data Reuse Lecture Presentation Notes.pdf (PDF)</a>  
+<a href="docs/Data Reuse Lecture - Presentation Notes.pdf" target="_blank" download>Download Data Reuse Lecture Presentation Notes.pdf (PDF)</a>  
 
 
 ----
