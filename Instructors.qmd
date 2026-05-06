@@ -17,6 +17,19 @@ date: today
 
 <br/> 
 
+## Tilda Ekström  <a href="https://www.gu.se/en/about/find-staff/tildaekstrom"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://www.linkedin.com/in/tilda-ekström-6a2197205/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}
+[Deputy Chief Analyst, the SOM Institute]{.instructor-role}
+
+<table>
+<tr>
+    <td style="width: 20%;"><img src="img/TildaEkstrom.png" alt="Tilda Ekström" width="80"></td>
+    <td style="width: 80%;"> Tilda has an academic background in political science. She currently serves as Deputy Chief Analyst at the SOM Institute at the University of Gothenburg, where she works with the Swedish Citizen Panel, a survey platform with around 70,000 active participants used by researchers across Sweden and internationally. Her work combines broad methodological expertise in survey design and data collection with a strong academic background in political science and public policy.    </td>
+</tr>
+</table>
+
+<br/> 
+
+
 ## Karin Engström <a href="https://portal.research.lu.se/en/persons/karin-engstr%C3%B6m/"><img src="img/WWW.png" alt="" width="20" height="20"></a> <a href="https://orcid.org/0000-0002-9227-5188" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>  <a href="https://www.linkedin.com/in/karin-engstr%C3%B6m-031b669/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> {.instructor-name}
 [Associate Professor, Researcher, Lund University]{.instructor-role}
 
