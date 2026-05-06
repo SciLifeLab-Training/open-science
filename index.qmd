@@ -4,9 +4,9 @@ author: "Ineke Luijten"
 date: today
 ---
 
-# Open Science in the Swedish context 2026 now open for registration!
+# Open Science in the Swedish context 2026:
 # --> [Course website](https://scilifelab-training.github.io/open-science/2605/)
-# --> [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScuRmt6-WSn4leop_oUpxYN1Ytn2hbj6a54IWLyiS-kUzSF9g/viewform)
+
 ::: {.callout-warning}
 
 ## Open Science in the Swedish context 2025: About
