@@ -4,11 +4,12 @@ title: "Practicalities"
 
 ### Quick Link: [Back to Course Overview](index.qmd)
 
-### Note - enrollment has closed for the 2026 course! 
 
 <div class="lesson-overview">
-# Open Science in the Swedish Context 2026
 
+## Course feedback form   
+Please help us improve the course and the materials we provide! Fill out the course feedback form [here](https://docs.google.com/forms/d/e/1FAIpQLSfah66t6TKM4tlYb7lG2mKUOvCjZTyFWsRBH3TMwgVy50AW6g/viewform?usp=dialog)
+  
 ## The Venue
 The course will be held at Conference Center Wallenberg (link to information about the venue), located at Medicinaregatan 20 (link to google maps).
 
