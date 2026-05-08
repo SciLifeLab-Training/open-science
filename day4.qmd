@@ -29,9 +29,14 @@ Instructor: [Karin Westin Tikkanen](Instructors.qmd#karin-westin-tikkanen)
 This session explores how researchers can broaden the impact and reach of their work through effective communication and public engagement. It provides an in-depth look at the seven principles of science communication and practical guidance on applying them. It includes strategies for summarizing research for policymakers and stakeholders to support evidence-based decision-making. 
 During this session, participants will work in groups to develop an “elevator pitch” for their research or role!
 
+<a href="docs/ScienceCommunication_KWT.pdf" target="_blank" download>Download Science Communication Lecture Presentation.pdf (PDF)</a>  
+
 ----
 
 ## Science Communication Grand Finale {.session-overview}  
 Instructor: [Karin Westin Tikkanen](Instructors.qmd#karin-westin-tikkanen)
 
 The course concludes with the Science Communication Grand Final, where participants deliver their elevator pitches to the class and participating teachers! 
+
+<a href="docs/Elevator Pitch.pdf" target="_blank" download>Download Grand Finale "Elevator Pitch" instructions (PDF)</a>  
+
