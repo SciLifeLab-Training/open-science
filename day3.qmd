@@ -55,11 +55,14 @@ The presentation highlights key questions around data sharing related to the SOM
 ### Research with Sensitive Qualitative Data {.session-overview}  
 Instructor: [Arin Tham](Instructors.qmd#arin-tham)
 
-There are many ways to pseudonymize qualitative data. In this workshop, we will discuss some general tips and commonly used techniques for pseudonymizing qualitative research data so you can determine which methods are most suitable for your research data
+There are many ways to pseudonymize qualitative data. In this workshop, we will discuss some general tips and commonly used techniques for pseudonymizing qualitative research data so you can determine which methods are most suitable for your research data.
 
 **OR**
 
 ### Research with Sensitive Quantitative Data {.session-overview}  
 Instructor: [Gustav Nilsonne](Instructors.qmd#gustav-nilsonne)
 
-The most common way to pseudonymize quantitative data is by applying various statistical techniques. These approaches modify the dataset to make it difficult – or impossible – to identify individual research participants. This session gives a hands-on introduction to essential generalization and randomization methods, and also general tips for working with quantitative data
+The most common way to pseudonymize quantitative data is by applying various statistical techniques. These approaches modify the dataset to make it difficult – or impossible – to identify individual research participants. This session gives a hands-on introduction to essential generalization and randomization methods, and also general tips for working with quantitative data.
+
+<a href="docs/2026-05-06 SND quantitative data.pptx" target="_blank" download>Download presentation: Research with sensitive quantitative data (pptx)</a>   
+
