@@ -57,3 +57,5 @@ Instructor: [Mattias von Feilitzen](Instructors.qmd#mattias-von-feilitzen)
 This session introduces Open Educational Resources (OER) and their role in research and teaching. OER are digital materials that can be freely used, adapted, and shared, including study guides, slides, videos, podcasts, and full course packages. We will provide an overview of well-known platforms where educators can find and share open materials. 
 
 The session will also address practical and legal considerations when reusing or adapting existing resources, including copyright, licensing choices, and publishing adapted materials. Participants will receive guidance on how to share their own teaching materials responsibly, how to select an appropriate license, and how to choose suitable platforms for dissemination.  
+
+<a href="docs/Workshop OER SND 260505.pptx" target="_blank" download>Download presentation: Open educational resources (pptx)</a>  
