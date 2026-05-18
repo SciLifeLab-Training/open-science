@@ -48,6 +48,15 @@ Instructors: [Marcus Weissenbilder](Instructors.qmd#marcus-weissenbilder) and [T
 
 The presentation highlights key questions around data sharing related to the SOM survey and the Citizen Panel: what types of data can be made accessible, and which forms of data collection require greater caution, especially when dealing with sensitive personal data and the possibility of identifying individuals. We also discuss how these considerations can be integrated already at the planning stage of research projects, concerns particularly relevant for researchers and PhD students preparing to collect their own data.
 
+<iframe
+  src="docs/SND 2026-05-06 Marcus Weissenbilder.pdf"
+  width="700"
+  height="420"
+  frameborder="0">
+</iframe>
+
+<a href="docs/SND 2026-05-06 Marcus Weissenbilder.pdf" target="_blank" download>Download presentation: The SOM Survey and the Citizen Panel (PDF)</a>  
+
 ----
  
 ## Parallel Session {.session-overview}  
