@@ -57,6 +57,8 @@ Instructor: [Arin Tham](Instructors.qmd#arin-tham)
 
 There are many ways to pseudonymize qualitative data. In this workshop, we will discuss some general tips and commonly used techniques for pseudonymizing qualitative research data so you can determine which methods are most suitable for your research data.
 
+<a href="docs/Qualitative_data_AT_260406.pptx" target="_blank" download>Download presentation: Sensitive qualitative data and pseudonymisation (pptx)</a>   
+
 **OR**
 
 ### Research with Sensitive Quantitative Data {.session-overview}  
