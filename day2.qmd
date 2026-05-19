@@ -23,7 +23,7 @@ Discussion centering on knowledge assets, intellectual property (IP) and intelle
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCut59jPO1BsTcoZQH8FWhmrERTQW2HflPbNN866kybHxrwVU6P94h6ScRPP2rJg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
   
-<a href="https://docs.google.com/presentation/d/1F-81vHZV-8JUXRYb03oAuCNM7QGxPXW0/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1F-81vHZV-8JUXRYb03oAuCNM7QGxPXW0/copy" target="_blank">Make a Copy</a>   
+<a href="https://docs.google.com/presentation/d/1F-81vHZV-8JUXRYb03oAuCNM7QGxPXW0/view" target="_blank">View in Google Slides</a> |  <a href="docs/Intellectual_Property_Open_Science_Camilla_Pettersson.pptx" target="_blank" download>Download presentation: Knowledge assets and intellectual property (pptx)</a>   
 
 Read the [IP Policy of the University of Gothenburg (in English)](docs/University_of_Gothenburg_IP_policy_in_English.pdf). This is quite similar to most other Swedish universities IP Policies, and contains short descriptions of core topics for the session.  
 This [short 6 minute video in Swedish](https://play.gu.se/media/0_9js65qob) explains basically what the IP Policy says.  
