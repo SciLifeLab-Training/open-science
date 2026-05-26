@@ -12,7 +12,8 @@ This opening session provides an overview of the principles and practices that d
     
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTNzqJALu_fdTNMJL1t3mpxLYI1wI6PZxf2OdBrXgvX4JtlR4oZiZHueUeWTGIFtQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
   
-<a href="https://docs.google.com/presentation/d/1GK9HhHQqISz05A3GFp8Nf0jK92pt2l0L/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1GK9HhHQqISz05A3GFp8Nf0jK92pt2l0L/copy" target="_blank">Make a Copy</a>   
+<a href="https://docs.google.com/presentation/d/1GK9HhHQqISz05A3GFp8Nf0jK92pt2l0L/view" target="_blank">View in Google Slides</a> |  <a href="docs/01_InekeLuijten_WhatIsOpenScience.pptx" download>
+   Download PowerPoint </a> 
     
 ----
 
@@ -23,7 +24,8 @@ This session explores the current landscape of Open Science in Sweden and Europe
     
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmDgtAGOnHxQoLiBqKTCT9B6tnz4hAFYhzH6yZbWYZA1uaGRdKg5W9e0Y42_u6SXaWjpn8QzBtevG3/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 
-<a href="https://docs.google.com/presentation/d/1kMu3SN0TcENi06P7RPWCjzuFIubGelk4BSnV87QnEyg/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1kMu3SN0TcENi06P7RPWCjzuFIubGelk4BSnV87QnEyg/copy" target="_blank">Make a Copy</a>   
+<a href="https://docs.google.com/presentation/d/1kMu3SN0TcENi06P7RPWCjzuFIubGelk4BSnV87QnEyg/view" target="_blank">View in Google Slides</a>  |  <a href="docs/02_InekeLuijten_TheStateOfOSInSweden.pptx" download>
+   Download PowerPoint </a> 
 
     
 ----
@@ -42,5 +44,3 @@ For this session, participants may want to read:
 > Open Science is an umbrella term encompassing a multitude of assumptions about the future of knowledge creation and dissemination. Based on a literature review, this chapter aims at structuring the overall discourse by proposing five Open Science schools of thought: The infrastructure school (which is concerned with the technological architecture), the public school (which is concerned with the accessibility of knowledge creation), the measurement school (which is concerned with alternative impact measurement), the democratic school (which is concerned with access to knowledge) and the pragmatic school (which is concerned with collaborative research).
   
 We will interrogate whether "open" in open science is an unqualified good, and ask whether particular interpretations of openness can in fact exclude particular researchers or be detrimental to some types of research.  
-    
-If you have any questions about this module, please contact Stefan Ekman  <stefan.ekman@snd.se>.

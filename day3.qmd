@@ -14,7 +14,9 @@ Participants will be introduced to key Open Access models (Green, Gold, Hybrid, 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyQPQB4Vs6WOPWhHpZ0hFXz2YH4WpTK0X3G5wYieber1tW10sHGkCtSLJJ0tRnaKAHljbXqPStJ5_n/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
   
-<a href="https://docs.google.com/presentation/d/1fw0WWZaFJv8a-tmJTOT4oxck3mzhVKMC1hrcVOQ2INE/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1fw0WWZaFJv8a-tmJTOT4oxck3mzhVKMC1hrcVOQ2INE/copy" target="_blank">Make a Copy</a>   
+<a href="https://docs.google.com/presentation/d/1fw0WWZaFJv8a-tmJTOT4oxck3mzhVKMC1hrcVOQ2INE/view" target="_blank">View in Google Slides</a> |  <a href="docs/08_InekeLuijten_OpenAccess.pptx" download>
+   Download PowerPoint </a>    
+
 
 ----
 
@@ -27,7 +29,9 @@ This hands-on session introduces the essentials of Open Access for code and mode
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxcLmsVIi6fOYRWmZR1m_KT5u7LvlGT60PezChEQspZw6mBGDd9k-JNuaw_8l2Dg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>    
 
-<a href="https://docs.google.com/presentation/d/1TL4UJ-s-OUx3Im6HTVZCGfHKCm4_vyK_/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1TL4UJ-s-OUx3Im6HTVZCGfHKCm4_vyK_/copy" target="_blank">Make a Copy</a>  
+<a href="https://docs.google.com/presentation/d/1TL4UJ-s-OUx3Im6HTVZCGfHKCm4_vyK_/view" target="_blank">View in Google Slides</a> |  <a href="docs/09_KarinEngstrom_OpenAccessCodeModels.pptx" download>
+   Download PowerPoint </a>  
+
 
 <a href="docs/Hands_on_1_Git.pdf" target="_blank" download>Download Exercise 1: Hands-on Git (PDF)</a>  
 <a href="docs/Hands_on_2_README.pdf" target="_blank" download>Download Exercise 2: Hands-on README (PDF)</a>    
@@ -50,7 +54,8 @@ The presentation highlights key questions around data sharing related to the SOM
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vREb--v5gUz7c_oCPZH00jBNjjyLnQzYpc4RjZ3EADuXBZDsXrMizyiUxfgReYRBA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 
-<a href="https://docs.google.com/presentation/d/15wYhf3L7UywLrAHGSYbljt5FtIDISfeK/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/15wYhf3L7UywLrAHGSYbljt5FtIDISfeK/copy" target="_blank">Make a Copy</a>  
+<a href="https://docs.google.com/presentation/d/15wYhf3L7UywLrAHGSYbljt5FtIDISfeK/view" target="_blank">View in Google Slides</a> |  <a href="docs/10_MarcusWeissenbilder_SOMSurvey.pptx" download>
+   Download PowerPoint </a>  
 
 ----
  
@@ -63,7 +68,8 @@ There are many ways to pseudonymize qualitative data. In this workshop, we will 
  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFqr3e6dJDF4pzz5LkiC9F09N07EKbfmEb0xK5Zn8qMV5_ZWq2lXVLNf2Np896mw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
-<a href="https://docs.google.com/presentation/d/16AaykWfe9cSyQzj8TFpLooJPvvbL3uGu/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/16AaykWfe9cSyQzj8TFpLooJPvvbL3uGu/copy" target="_blank">Make a Copy</a>   
+<a href="https://docs.google.com/presentation/d/16AaykWfe9cSyQzj8TFpLooJPvvbL3uGu/view" target="_blank">View in Google Slides</a> |  <a href="docs/11_ArinTham_SensitiveQualitativeData.pptx" download>
+   Download PowerPoint </a>  
 
 **OR**
 
@@ -74,5 +80,6 @@ The most common way to pseudonymize quantitative data is by applying various sta
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReZejGbQK1J8ytx0AHpOUSzzrkoujsILpBHgyrd4GDwoF2YKbfzud4c7yzptfIfQ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
-<a href="https://docs.google.com/presentation/d/1w1hcVzwC6tnTuxEeQuBn_vYsrnTbXyUe/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1w1hcVzwC6tnTuxEeQuBn_vYsrnTbXyUe/copy" target="_blank">Make a Copy</a>   
+<a href="https://docs.google.com/presentation/d/1w1hcVzwC6tnTuxEeQuBn_vYsrnTbXyUe/view" target="_blank">View in Google Slides</a> |  <a href="docs/11_GustavNilsonne_SensitiveQuantitativeData.pptx" download>
+   Download PowerPoint </a>  
 

@@ -12,7 +12,8 @@ This session focuses on integrating Open Science practices early in the research
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAuZsA62-ZAMV_utE4fWm1W2AS1blh8wQ5VUbz7R5-U2Avqn2OyJt-RLShgba5GdOUcrfJe_gHwkTx/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 
-<a href="https://docs.google.com/presentation/d/1_xoX5TCOn6Su_WhcVLcg5F1ahI-it-U_3F0nODUZ5es/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1_xoX5TCOn6Su_WhcVLcg5F1ahI-it-U_3F0nODUZ5es/copy" target="_blank">Make a Copy</a> 
+<a href="https://docs.google.com/presentation/d/1_xoX5TCOn6Su_WhcVLcg5F1ahI-it-U_3F0nODUZ5es/view" target="_blank">View in Google Slides</a> |  <a href="docs/04_StephanNylinder_DMPs.pptx" download>
+   Download PowerPoint </a> 
    
 ----
 
@@ -27,7 +28,8 @@ Discussion centering on knowledge assets, intellectual property (IP) and intelle
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCut59jPO1BsTcoZQH8FWhmrERTQW2HflPbNN866kybHxrwVU6P94h6ScRPP2rJg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 
-<a href="https://docs.google.com/presentation/d/1F-81vHZV-8JUXRYb03oAuCNM7QGxPXW0/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1F-81vHZV-8JUXRYb03oAuCNM7QGxPXW0/copy" target="_blank">Make a Copy</a>   
+<a href="https://docs.google.com/presentation/d/1F-81vHZV-8JUXRYb03oAuCNM7QGxPXW0/view" target="_blank">View in Google Slides</a> | <a href="docs/05_CamillaPettersson_IntellectualProperty.pptx" download>
+   Download PowerPoint </a> 
 
 Read the [IP Policy of the University of Gothenburg (in English)](docs/University_of_Gothenburg_IP_policy_in_English.pdf). This is quite similar to most other Swedish universities IP Policies, and contains short descriptions of core topics for the session.  
 This [short 6 minute video in Swedish](https://play.gu.se/media/0_9js65qob) explains basically what the IP Policy says.  
@@ -50,7 +52,8 @@ This session focuses on how to maximize the visibility, accessibility, and reusa
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZzZA2JdJDl2PvxaRd-skqjzlwtaCJKVe1du6sISvDx9zwTkKZqw6s74Phk_2dF5Td0q8gkTfHGFBe/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 
-<a href="https://docs.google.com/presentation/d/1mZ7LBqYMbyCalRt0xCBI04Lfa9MZ_pOBwP8fBIOQiLY/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1mZ7LBqYMbyCalRt0xCBI04Lfa9MZ_pOBwP8fBIOQiLY/copy" target="_blank">Make a Copy</a> 
+<a href="https://docs.google.com/presentation/d/1mZ7LBqYMbyCalRt0xCBI04Lfa9MZ_pOBwP8fBIOQiLY/view" target="_blank">View in Google Slides</a> |  <a href="docs/06_ElinKronander_RepositoriesMetadataDOIsLicensing.pptx" download>
+   Download PowerPoint </a> 
 
 Zenodo exercise instructions: [https://go.nbis.se/OS26-Zenodo](https://go.nbis.se/OS26-Zenodo)
 
@@ -65,6 +68,9 @@ The session will also address practical and legal considerations when reusing or
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzON4rF_s1F2nfgeRB50oQzwkrVtvn_lyArhxJpiempTehv1EwdxLTV9oK0zSPOg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 
-<a href="https://docs.google.com/presentation/d/1b0wJaQ8Nt4tC8t17-Ex708JDSfAABxUQ/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1b0wJaQ8Nt4tC8t17-Ex708JDSfAABxUQ/copy" target="_blank">Make a Copy</a>  
+<a href="https://docs.google.com/presentation/d/1b0wJaQ8Nt4tC8t17-Ex708JDSfAABxUQ/view" target="_blank">View in Google Slides</a> |  <a href="docs/07_MattiasVonFeilitzen_OER.pptx" download>
+   Download PowerPoint </a> 
+
+
 
 

@@ -23,7 +23,8 @@ Citizen science and AI-based handwritten text recognition (HTR) are working toge
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6c4opcU77ECUCKZpqSymGNmzQWTKS5cjMvFgitpuF1m5EL2ujt7tStPL9_CG3wA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
-<a href="https://docs.google.com/presentation/d/1XLMg8JReeW3PX2M8yrAG-MCL0X_ZNPnm/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1XLMg8JReeW3PX2M8yrAG-MCL0X_ZNPnm/copy" target="_blank">Make a Copy</a>  
+<a href="https://docs.google.com/presentation/d/1XLMg8JReeW3PX2M8yrAG-MCL0X_ZNPnm/view" target="_blank">View in Google Slides</a> |  <a href="docs/13_KarlMagnusJohansson_AccessibleArchives.pptx" download>
+   Download PowerPoint </a> 
 
 ----
 
@@ -35,7 +36,8 @@ During this session, participants will work in groups to develop an “elevator 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCJ0n1mQJgzlqK7pPo2GLSrundknVya1dgi_NePIgUW9b0HijdOT3sfC9ghcfiNw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
 
-<a href="https://docs.google.com/presentation/d/1PoCAqALrnRpeeyQNiHyUzLexjLWg4KkH/view" target="_blank">View in Google Slides</a> |  <a href="https://docs.google.com/presentation/d/1PoCAqALrnRpeeyQNiHyUzLexjLWg4KkH/copy" target="_blank">Make a Copy</a>    
+<a href="https://docs.google.com/presentation/d/1PoCAqALrnRpeeyQNiHyUzLexjLWg4KkH/view" target="_blank">View in Google Slides</a> |  <a href="docs/14_KarinWestinTikkanen_ScienceCommunication.pptx" download>
+   Download PowerPoint </a>
   
   
 ----
@@ -44,5 +46,5 @@ Instructor: [Karin Westin Tikkanen](Instructors.qmd#karin-westin-tikkanen)
 
 The course concludes with the Science Communication Grand Final, where participants deliver their elevator pitches to the class and participating teachers! 
 
-<a href="docs/Elevator Pitch.pdf" target="_blank" download>Download Grand Finale "Elevator Pitch" instructions (PDF)</a>  
+<a href="docs/14_KarinWestinTikkanen_ElevatorPitchInstructions.pdf" download>Download ´"Elevator Pitch" instructions (PDF)</a>  
 
