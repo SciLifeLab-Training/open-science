@@ -2,35 +2,28 @@
 title: "Practicalities"
 ---
 
-### Quick Link: [Back to Course Overview](index.qmd)
+<br>
 
+## Course feedback form
+Please help us improve the course and the materials we provide by completing the course feedback form **[here](https://docs.google.com/forms/d/e/1FAIpQLSfah66t6TKM4tlYb7lG2mKUOvCjZTyFWsRBH3TMwgVy50AW6g/viewform?usp=dialog)**.
 
-<div class="lesson-overview">
+## Location
+The course will take place at [Conference Center Wallenberg](https://motesservice.gu.se/en/conference-centre-wallenberg), located at [Medicinaregatan 20](https://share.google/XuKsbsGch6mOFpX6I).
 
-## Course feedback form   
-Please help us improve the course and the materials we provide! Fill out the course feedback form [here](https://docs.google.com/forms/d/e/1FAIpQLSfah66t6TKM4tlYb7lG2mKUOvCjZTyFWsRBH3TMwgVy50AW6g/viewform?usp=dialog)
-  
-## The Venue
-The course will be held at Conference Center Wallenberg (link to information about the venue), located at Medicinaregatan 20 (link to google maps).
-
-Our room is **Antarctis**. The room is on the ground floor, turn left after you enter through the main doors and look for the SND logo!
+Our room is **Antarctis**. The room is located on the ground floor — turn left after entering through the main entrance and look for the SND logo.
 
 ## Transport
-The nearest tram stop is Göteborg Medicinaregatan (link to Västtrafik). You can pay for public transport in Gothenburg city by tapping a credit card (link to Västtrafik). Otherwise, you can purchase tickets and plan travel with the Västtrafik To Go app (link to Västtrafik).
+The nearest tram stop is **Göteborg Medicinaregatan**. Public transport in Gothenburg can be paid for directly by tapping a credit card. Alternatively, you can purchase tickets and plan your journey using the [Västtrafik To Go app](https://www.vasttrafik.se/biljetter/mer-om-biljetter/vasttrafik-to-go/).
 
-There is ample parking very close to the venue, you pay with one of the generic commercial parking apps. 
- 
-## Fika & lunch 
-The course fee includes afternoon coffee and light refreshments on 4 May, and lunch plus morning and afternoon coffee and refreshments on the remaining days (5–7 May). 
+There is ample parking available close to the venue. Parking fees can be paid using standard commercial parking apps.
 
-## Suggested credits:
-**2 hp. Note: SND can only provide a suggested number of credits; you must apply to your university department to have the credits formally approved after completing the course.**
+## Fika & lunch
+The 2500 SEK course fee includes afternoon coffee and light refreshments on 4 May, and lunch together with morning and afternoon coffee and refreshments on the remaining days (5–7 May).
 
-## Contact for questions about practicalities:
+## Credits
+Suggested course credits: **2 hp**
+
+> **Note:** SND can only provide a suggested number of credits. After completing the course, you must apply to your university department for formal credit approval.
+
+## Contact for questions about practicalities
 david.rayner@snd.se
-
-
-</div>
-
-<!-- VERY IMPORTANT: blank line below -->
-

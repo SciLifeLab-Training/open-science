@@ -199,9 +199,26 @@ a {
 }
 
 
+/* ---------------- Instructor headings ---------------- */
+.instructor-name {
+  margin-bottom: 0;
+}
 
 
+.session-overview h2 {
+    margin-bottom: 0
+}
+.session-overview h3 {
+    margin-bottom: 0
+}
 
+
+.instructor-role {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: #555;
+}
 
 .lesson-overview {
     border: 1px solid #000;
@@ -210,6 +227,8 @@ a {
     border-radius: 5px;
     margin-bottom: 30px;
 }
+
+
 
 .lesson-overview p {
     margin: 0 0 16px 0;

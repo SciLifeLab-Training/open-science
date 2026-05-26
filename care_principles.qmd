@@ -2,18 +2,16 @@
 title: "CARE Principles"
 ---
 
-### Tuesday 5 May 2026, 11:00 (parallel)
-
-The CARE Principles for Indigenous Data Governance (Collective benefit, Authority to control, Responsibility, Ethics) focus on ethical and culturally responsive stewardship of Indigenous data. 
+This session - held on **Tuesday 5 May 2026 at 11:00** - focuses on the CARE Principles for Indigenous Data Governance (Collective benefit, Authority to control, Responsibility, Ethics) and the guidance they provide regarding ethical and culturally responsive stewardship of Indigenous data. 
 
 In the session we will discuss how adhering to these principles can differ from traditional approaches to data management, which aspects of the principles can have broader application than research involving indigenous data or knowledge, and practical strategies for integrating CARE principles into research projects.
 
-## Preparations for the "CARE Principles" session.
+## Preparations
 
-If you have any questions about this module, please contact David Rayner <david.rayner@snd.se> or Stefan Ekman <stefan.ekman@snd.se
+If you have any questions about this module, please contact David Rayner <david.rayner@snd.se> or Stefan Ekman <stefan.ekman@snd.se>
 
 <div class="lesson-overview">
-Prior to the session, please read the 5-page document:
+### Read the following document
 
 _Research Data Alliance International Indigenous Data Sovereignty Interest Group. (September 2019). [“CARE Principles for Indigenous Data Governance.”](https://www.rd-alliance.org/wp-content/uploads/2024/03/CARE20Principles20for20Indigenous20Data20Governance_OnePagers_FINAL20Sept2006202019.pdf). The Global Indigenous Data Alliance. _
 

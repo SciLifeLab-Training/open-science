@@ -4,27 +4,25 @@ title: "Open Science in the Swedish Context 2026"
 
 <br>
 
-## Quick Links
-### [Practicalities](practicalinformation.qmd)
-### [Course schedule](schedule.qmd)
-
 ## Course Overview
 
 <div class="lesson-overview">
 
 <p><span class="fa-regular fa-bookmark"></span> <strong>Description</strong><br>
-This course is designed to equip academics across all disciplines with a range of tools needed to implement Open Science practices into every step of their research project lifecycle. In this interactive, hands-on course, participants will learn about Open Science through interactive lectures, discussions with guest speakers, and practical sessions. <br></p>
-<p>Participants will gain knowledge and skills to enable them to implement Open Science practices for: <br></p>
+This interdisciplinary course is designed to equip academics with practical tools and strategies for integrating Open Science practices throughout the entire research lifecycle. Through interactive lectures, discussions with guest speakers, and hands-on activities, participants will explore key principles, methods, and applications of Open Science in research.<br></p>
+
+<p>Participants will develop knowledge and practical skills to support Open Science practices in:</p>
+
 <ul>
-  <li>Research planning and experiment design</li>
-  <li>Data collection and analysis</li>
-  <li>Publishing research results and education resources</li>
-  <li>Making research data and other outputs available for re-use</li>
-  <li>Communicating your research results to the public and other stakeholders</li>
+  <li>Research planning and study design</li>
+  <li>Data collection, management, and analysis</li>
+  <li>Publishing research findings and educational resources</li>
+  <li>Sharing research data and other outputs for reuse</li>
+  <li>Communicating research to the public and other stakeholders</li>
 </ul>
 
 <p><span class="fa-solid fa-arrow-left"></span> <strong>Prerequisites</strong><br>
-To follow this course, learners should have basic knowledge of:<br>
+To follow this course, participants should have basic knowledge of:<br>
 1. Principles of scientific research and methodology<br>
 2. How research outputs are typically disseminated, (e.g., journals, conferences etc.)<br>
 3. The structure of the Swedish research system, including universities and funding bodies. 
@@ -37,8 +35,8 @@ To follow this course, learners should have basic knowledge of:<br>
 
 <p><span class="fa-solid fa-users"></span> <strong>Target Audience:</strong> PhD students, postdocs, researchers, PIs and other employees at all Swedish universities</p>
 
-<p><span class="fa-solid fa-unlock"></span> <strong>License:</strong> All course material will be made available 
-<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> following the conclusion of the course.</p>
+<p><span class="fa-solid fa-unlock"></span> <strong>License:</strong> All course material will be made available under a 
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> license following the conclusion of the course.</p>
 
 </div>
 

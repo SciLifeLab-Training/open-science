@@ -2,16 +2,14 @@
 title: "Data Management Plans"
 ---
 
-### Tuesday 5 May 2026, 9:00 
-
-This session focuses on integrating Open Science practices early in the research process. Participants receive guidance on creating effective data management plans (DMPs), selecting open tools from the start, and understanding the key planning components of a DMP. The session also introduces related strategies such as preregistration and registered reports.
+This session - held on **Tuesday 5 May 2026 at 9:00** - focuses on integrating Open Science practices early in the research process. Participants receive guidance on creating effective data management plans (DMPs), selecting open tools from the start, and understanding the key planning components of a DMP. The session also introduces related strategies such as preregistration and registered reports.
 
 ## Preparations
 
 If you have any questions about this module, please contact Elin Kronander <elin.kronander@scilifelab.se> or Stephan Nylinder <stephan.nylinder@scilifelab.se>
 
 <div class="lesson-overview">
-## Create a Life Science ID account.
+### Create a Life Science ID account.
 
 The Life Science Login enables researchers to use their home organisation credentials or community or other identities (e.g. Google, Linkedin) to sign in and access data and services they need.
 
@@ -27,7 +25,7 @@ The Life Science Login enables researchers to use their home organisation creden
 </div>
 
 <div class="lesson-overview">
-## Create a SciLifeLab DSW account account.
+### Create a SciLifeLab DSW account account.
 
 SciLifeLab DSW is an online service for creating data management plans from questionnaires using the Data Stewardship Wizard (DSW) software tool.
 
