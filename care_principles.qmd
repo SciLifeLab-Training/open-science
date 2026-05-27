@@ -6,9 +6,10 @@ This session - held on **Tuesday 5 May 2026 at 11:00** - focuses on the CARE Pri
 
 In the session we will discuss how adhering to these principles can differ from traditional approaches to data management, which aspects of the principles can have broader application than research involving indigenous data or knowledge, and practical strategies for integrating CARE principles into research projects.
 
-## Preparations
-
 If you have any questions about this module, please contact David Rayner <david.rayner@snd.se> or Stefan Ekman <stefan.ekman@snd.se>
+
+
+## Preparations
 
 <div class="lesson-overview">
 ### Read the following document

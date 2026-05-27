@@ -6,9 +6,10 @@ title: "	Open Access - code and models"
 
 This session - held on **Wednesday 6 May 2026 at 11:00** introduces the essentials of Open Access for code and models, focusing on practical skills. Participants will get started with code versioning using git, learn the basics of reusable data processing pipelines, and explore how to document and share models. 
 
-## Preparations
-
 If you have any questions about this module, please contact Karin Engström <karin.engstrom@med.lu.se>.
+
+
+## Preparations
 
 <div class="lesson-overview">
 As part of the session Open Access - Code and Models, we will do a short practical exercise on Git and a brief exercise on writing a README file. No prior experience of Git or programming is required.

@@ -20,7 +20,7 @@ This opening session provides an overview of the principles and practices that d
 ## The State of Open Science in Sweden {.session-overview} 
 Instructor: [Ineke Luijten](Instructors.qmd#ineke-luijten)
 
-This session explores the current landscape of Open Science in Sweden and Europe, both institutionally and at the grassroots level. It presents the six key areas for the development of Open Science in Sweden and highlights major actors such as VR, SUHF, KB, and SND. The session also examines SUHF’s national roadmap and its ten recommendations, and discusses how Swedish higher education institutions are implementing these goals.
+This session explores the current landscape of Open Science in Sweden and Europe, both institutionally and at the grassroots level. It highlights major policy-making actors such as the Swedish government, VR, SUHF and KB. The session also examines the implementation of Open Science policies by higher education institutions, research infrastructures and individual researchers, and provides a framework for discussions about where responsibilities lie and where researchers can turn for help.  
     
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmDgtAGOnHxQoLiBqKTCT9B6tnz4hAFYhzH6yZbWYZA1uaGRdKg5W9e0Y42_u6SXaWjpn8QzBtevG3/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 

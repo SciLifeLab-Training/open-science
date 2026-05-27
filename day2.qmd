@@ -24,16 +24,17 @@ This session focuses on integrating Open Science practices early in the research
 ### Intellectual Property {.session-overview}  
 Instructor: [Camilla Pettersson](Instructors.qmd#camilla-pettersson)
 
-Discussion centering on knowledge assets, intellectual property (IP) and intellectual property rights (IPR) in research and innovation. Covers e.g. the Swedish “teacher’s exemption”, managing your knowledge assets and IPR:s in collaborations, patents,  what can and cannot be protected, and the three patentability criteria: novelty, inventive step, and industrial application.
+This session covers the Swedish “teacher’s exemption”, managing knowledge assets and intellectual property (IP) in collaborations, patents, what can and cannot be protected, and the three patentability criteria: novelty, inventive step, and industrial application. The session is framed as a discussion centering on knowledge assets, IP and intellectual property rights (IPR) in research and innovation.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCut59jPO1BsTcoZQH8FWhmrERTQW2HflPbNN866kybHxrwVU6P94h6ScRPP2rJg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 
 <a href="https://docs.google.com/presentation/d/1F-81vHZV-8JUXRYb03oAuCNM7QGxPXW0/view" target="_blank">View in Google Slides</a> | <a href="docs/05_CamillaPettersson_IntellectualProperty.pptx" download>
    Download PowerPoint </a> 
 
-Read the [IP Policy of the University of Gothenburg (in English)](docs/University_of_Gothenburg_IP_policy_in_English.pdf). This is quite similar to most other Swedish universities IP Policies, and contains short descriptions of core topics for the session.  
-This [short 6 minute video in Swedish](https://play.gu.se/media/0_9js65qob) explains basically what the IP Policy says.  
-If you have any questions about this module, please contact Camilla Pettersson <camilla.pettersson@gu.se>
+Supplementary material:  
+
+- The [IP Policy of the University of Gothenburg (in English)](docs/University_of_Gothenburg_IP_policy_in_English.pdf). This policy is quite similar to most other Swedish universities' IP Policies, and contains short descriptions of core topics for the session.  
+- A [short 6 minute video in Swedish](https://play.gu.se/media/0_9js65qob) that explains what the GU IP Policy says.  
 
 
 **OR**
@@ -41,7 +42,7 @@ If you have any questions about this module, please contact Camilla Pettersson <
 ### CARE Principles {.session-overview}  
 Instructors: [David Rayner](Instructors.qmd#david-ryaner) and [Stefan Ekman](Instructors.qmd#stephan-ekman)
 
-Introduction to the CARE Principles for Indigenous Data Governance (Collective benefit, Authority to control, Responsibility, Ethics).  The session will explain how these principles differ from traditional approaches to data management, focusing on the ethical, culturally responsive stewardship of Indigenous data. The session will discuss practical strategies for integrating CARE principles into research projects, promoting respect, transparency, and equitable outcomes for Indigenous communities.
+This session provides an introduction to the CARE Principles for Indigenous Data Governance (Collective benefit, Authority to control, Responsibility, Ethics). The session will explain how these principles differ from traditional approaches to data management, focusing on the ethical, culturally responsive stewardship of Indigenous data. Practical strategies for integrating CARE principles into research projects, promoting respect, transparency, and equitable outcomes for Indigenous communities will be discussed.
 
 ----
  
@@ -55,16 +56,16 @@ This session focuses on how to maximize the visibility, accessibility, and reusa
 <a href="https://docs.google.com/presentation/d/1mZ7LBqYMbyCalRt0xCBI04Lfa9MZ_pOBwP8fBIOQiLY/view" target="_blank">View in Google Slides</a> |  <a href="docs/06_ElinKronander_RepositoriesMetadataDOIsLicensing.pptx" download>
    Download PowerPoint </a> 
 
-Zenodo exercise instructions: [https://go.nbis.se/OS26-Zenodo](https://go.nbis.se/OS26-Zenodo)
+Supplementary material:  
+
+- [Zenodo exercise instructions:](https://go.nbis.se/OS26-Zenodo)
 
 ----
 
 ## Open Educational Resources {.session-overview}  
 Instructor: [Mattias von Feilitzen](Instructors.qmd#mattias-von-feilitzen)
 
-This session introduces Open Educational Resources (OER) and their role in research and teaching. OER are digital materials that can be freely used, adapted, and shared, including study guides, slides, videos, podcasts, and full course packages. We will provide an overview of well-known platforms where educators can find and share open materials. 
-
-The session will also address practical and legal considerations when reusing or adapting existing resources, including copyright, licensing choices, and publishing adapted materials. Participants will receive guidance on how to share their own teaching materials responsibly, how to select an appropriate license, and how to choose suitable platforms for dissemination.  
+This session introduces Open Educational Resources (OER) and their role in research and teaching. OER are digital materials that can be freely used, adapted, and shared, including study guides, slides, videos, podcasts, and full course packages. The session will provide an overview of well-known platforms where educators can find and share open materials, and address practical and legal considerations when reusing or adapting existing resources (e.g. copyright, licensing choices, and publishing adapted materials). Participants will receive guidance on how to share their own teaching materials responsibly, how to select an appropriate license, and how to choose suitable platforms for dissemination.  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzON4rF_s1F2nfgeRB50oQzwkrVtvn_lyArhxJpiempTehv1EwdxLTV9oK0zSPOg/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
 

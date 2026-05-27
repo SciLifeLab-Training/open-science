@@ -8,7 +8,7 @@ format: html
 ## Reusing Research Data {.session-overview}  
 Instructor: [David Rayner](Instructors.qmd#david-ryaner)
 
-A workshop on data reuse that offers both theoretical and practical guidance on reusing data from research data repositories. Among other things, it covers how to find, access, and evaluate datasets for reuse in new research. The session builds on an authentic research question that participants will address during the workshop! 
+This practical session offers both theoretical and practical guidance on reusing data from research data repositories. Among other things, it covers how to find, access, and evaluate datasets for reuse in new research. The session builds on an authentic research question that participants will address during the workshop! 
 
 <a href="docs/Data Reuse Lecture - Presentation Notes.pdf" target="_blank" download>Download presentation: Data Reuse Lecture with Notes (PDF)</a>  
 <a href="docs/data reuse reanalysis.xlsx" target="_blank" download>Download spreadsheet: Example showing reanalysis of the data reuse data! (xlsx)</a>  
@@ -44,7 +44,9 @@ During this session, participants will work in groups to develop an “elevator 
 ## Science Communication Grand Finale {.session-overview}  
 Instructor: [Karin Westin Tikkanen](Instructors.qmd#karin-westin-tikkanen)
 
-The course concludes with the Science Communication Grand Final, where participants deliver their elevator pitches to the class and participating teachers! 
+The course concludes with the Science Communication Grand Final, where participants deliver their elevator pitches to the class and participating teachers. 
 
-<a href="docs/14_KarinWestinTikkanen_ElevatorPitchInstructions.pdf" download>Download ´"Elevator Pitch" instructions (PDF)</a>  
+Supplementary material: 
+ 
+- <a href="docs/14_KarinWestinTikkanen_ElevatorPitchInstructions.pdf" download>"Elevator Pitch" instructions (PDF)</a>  
 
