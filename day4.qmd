@@ -16,7 +16,7 @@ We begin with an introduction to open access to research data, focussing on diff
 
 We continue with a practical session with both theoretical and practical guidance on reusing data from research data repositories. Among other things, it covers how to find, access, and evaluate datasets for reuse in new research. The session builds on an authentic research question that participants will address during the workshop! 
 
-<a href="docs/Data Reuse Lecture - Presentation Notes.pdf" target="_blank" download>Download presentation: Data Reuse Lecture with Notes (PDF)</a>  
+<a href="docs/12_DavidRayner_Data Reuse Lecture - Presentation Notes.pdf" target="_blank" download>Download presentation: Data Reuse Lecture with Notes (PDF)</a>  
 <a href="docs/12_DavidRayner_DataReuseReanalysis.xlsx" target="_blank" download>Download spreadsheet: Example showing reanalysis of the data reuse data! (xlsx)</a>  
 
 All material from this session - including PowerPoint slides - are available from <a href="https://doi.org/10.5281/zenodo.17294990">Zenodo</a>.
