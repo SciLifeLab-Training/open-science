@@ -10,13 +10,14 @@ Instructor: [David Rayner](Instructors.qmd#david-ryaner)
 
 We begin with an introduction to open access to research data, focussing on different levels of openness for data that require protection
 
-<a href="docs/12_DavidRayner_OpenAccessToResearchData.pptx" download>
-   Download PowerPoint </a>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRbvmQSQ7U92ZGxHwHoY3yH4rySsBeJEToKlJm1HPsI22__epXWWidtGKqOgV5k9w/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="420" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
+
+<a href="https://docs.google.com/presentation/d/1FTJtFwhEl5_2RSTlFjAALei0rM110ntF/view" target="_blank">View in Google Slides</a> | <a href="docs/12_DavidRayner_OpenAccessToResearchData.pptx" download>  Download PowerPoint </a>
 
 We continue with a practical session with both theoretical and practical guidance on reusing data from research data repositories. Among other things, it covers how to find, access, and evaluate datasets for reuse in new research. The session builds on an authentic research question that participants will address during the workshop! 
 
 <a href="docs/Data Reuse Lecture - Presentation Notes.pdf" target="_blank" download>Download presentation: Data Reuse Lecture with Notes (PDF)</a>  
-<a href="docs/12_DavidRayner_data reuse reanalysis.xlsx" target="_blank" download>Download spreadsheet: Example showing reanalysis of the data reuse data! (xlsx)</a>  
+<a href="docs/12_DavidRayner_DataReuseReanalysis.xlsx" target="_blank" download>Download spreadsheet: Example showing reanalysis of the data reuse data! (xlsx)</a>  
 
 All material from this session - including PowerPoint slides - are available from <a href="https://doi.org/10.5281/zenodo.17294990">Zenodo</a>.
 
